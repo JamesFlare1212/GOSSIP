@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Docker - Tag - JamesFlare</title>
+    <link>https://www.jamesflare.com/tags/docker/</link>
+    <description>Docker - Tag - JamesFlare</description>
+    <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 13 Jan 2023 15:54:36 &#43;0800</lastBuildDate><atom:link href="https://www.jamesflare.com/tags/docker/" rel="self" type="application/rss+xml" /><item>
+  <title>Excalidraw 全功能自部署</title>
+  <link>https://www.jamesflare.com/posts/excalidraw-full-stack-docker/</link>
+  <pubDate>Fri, 13 Jan 2023 15:54:36 &#43;0800</pubDate>
+  <author>James</author>
+  <guid>https://www.jamesflare.com/posts/excalidraw-full-stack-docker/</guid>
+  <description><![CDATA[这可能是中文互联网上唯一一篇讲如何全栈部署 Excalidraw 的，绝大多数只是部署了一个残血的前端。但是有没有发现，分享链接和在线协作有问题，用不了？甚至 Libraries 还有点问题？本人试图在本地私有化部署 Excalidraw，操作是很简单。]]></description>
+</item>
+</channel>
+</rss>

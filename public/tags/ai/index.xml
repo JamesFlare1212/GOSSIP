@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>AI - Tag - JamesFlare</title>
+    <link>https://www.jamesflare.com/tags/ai/</link>
+    <description>AI - Tag - JamesFlare</description>
+    <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 13 Jan 2023 13:44:52 &#43;0800</lastBuildDate><atom:link href="https://www.jamesflare.com/tags/ai/" rel="self" type="application/rss+xml" /><item>
+  <title>真假李宜婷 FALDetector 的应用与教程</title>
+  <link>https://www.jamesflare.com/posts/faldetector-vivian-li/</link>
+  <pubDate>Fri, 13 Jan 2023 13:44:52 &#43;0800</pubDate>
+  <author>James</author>
+  <guid>https://www.jamesflare.com/posts/faldetector-vivian-li/</guid>
+  <description><![CDATA[本文是基于论文 Detecting Photoshopped Faces by Scripting Photoshop 的复现与使用，原始团队在 GitHub 上公布了代码，我们可以非常简单的在本地部署。你好奇你的小伙伴们有没有 PS 自己的照片吗？]]></description>
+</item>
+</channel>
+</rss>
