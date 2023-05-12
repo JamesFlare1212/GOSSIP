@@ -90,7 +90,7 @@ C因为担心孩子的安全想要回家查看孩子的情况，但是颜女士�
 
 颜女士只想通过孩子和C复合，谎称自己不会再吸毒，但是却对孩子生而不养。对一个刚刚来到这个世界上的鲜活生命，颜女士如此不怜悯、不尊重、不珍惜，只是想通过孩子勒索C，从而获取钱财，以此来掩盖自己丧尽天良的行为。
 
-{{< admonition type=quote title="iMessage 聊天内容1" open=false >}}
+{{< admonition type=quote title="iMessage 聊天内容1" open=true >}}
 C：打字说吧
 
 ***
@@ -136,7 +136,7 @@ C：我好好的和你谈
 C在3月23日和3月24日凌晨时给孩子洗澡、更换尿布并喂奶。为了孩子的健康和安全，C建议将孩子带走并独自抚养。但是，颜女士突然发疯，拿起一把菜刀威胁C的人身安全，造成C被迫离开的局面。
 {{< /admonition >}}
 
-{{< admonition type=quote title="iMessage 聊天内容2" open=false >}}
+{{< admonition type=quote title="iMessage 聊天内容2" open=true >}}
 颜宇琪：
 
 {{< image src="fig-6.avif" width="240px" caption="海胆" >}}
@@ -170,7 +170,7 @@ C：不是前天去的吗
 据报道，颜女士在孩子去世的前一天半，曾经把孩子独自留在家中，然后去和别人约会，并发照片刺激C。
 {{< /admonition >}}
 
-{{< admonition type=quote title="iMessage 聊天内容3" open=false >}}
+{{< admonition type=quote title="iMessage 聊天内容3" open=true >}}
 C：咋回事
 
 ***
@@ -214,7 +214,7 @@ C：现在咋样了
 
 在此期间，C心系孩子的安危，多次在白天的时候前去看望，但颜女士却将门反锁起来。4月2日晚上，C得知颜女士要出门约会去米其林餐厅吃海胆。因为担忧孩子的安全，C于4月3日中午的午休时间又回到颜女士的家 ，想查看孩子的情况。C在门口听到了孩子的哭声，想进门查看，但是门被颜女士反锁。C只好通过短信询问颜女士孩子的情况，并询问孩子是否健康安全，如果有任何问题，请立即去医院。颜女士并没有直接回答，之后的对话中也没有提及孩子，只是反复强调自己的需求。
 
-{{< admonition type=quote title="iMessage 聊天内容4" open=false >}}
+{{< admonition type=quote title="iMessage 聊天内容4" open=true >}}
 颜宇琪：你晚上帮我买个小儿感冒药行不行
 
 颜宇琪：查尔斯感冒越来越严重了
@@ -282,7 +282,8 @@ C：送医院 孩子还有呼吸吗
 
 他本质上是一个不负责任，倒打一棒，自私自利，斤斤计较，偷别人家照片P图伪造，还患有STD的人。在这种不负责任的情况下，他仍然装扮成完美无瑕的样子并且提出保护令的申请，这真让人yue。
 
-{{< admonition type=quote title="片段1" open=false >}}
+{{< admonition type=quote title="片段1" open=true
+ >}}
 身上名牌女友买的法拉利，贷款买的。车贷每月要还两千，没有医疗保险。女友怀孕期间提出做DNA检测，但在孕期的八个月内，男方却对独居女友的生命安全置之不理。生子后，男方表示自己养不起孩子，要将孩子送给别人，但女方并不同意。于是，男方就把孩子丢给独居女友，自己则消失不见，只表示愿意给补偿4万人民币。
 
 月子期间，女友身体虚弱生病，孩子的病情也很严重，最终不治身亡。孩子生前，男方一直在外面喝酒，称是在做生意，但是一直拖欠经济支持，没有照顾过女友和孩子。事后，男方说女友养死了他的孩子，并试图指控女友过失杀人。女友由于个人安全考虑和受打击原因，决定离开该国回国。
@@ -290,7 +291,8 @@ C：送医院 孩子还有呼吸吗
 而男方为了继续装B，继续找倒贴女，在外颠倒黑白、落井下石，还宣称女友正在潜逃。他承诺帮女友处理好事后，但实际上他只处理了共同名下的事情，而女方的个人行李甚至都没有寄回。男方还撒谎称女友已经潜逃回国，甚至在Covid报告中将阳性结果瞒掉，还谎称女友患有STD。
 {{< /admonition >}}
 
-{{< admonition type=quote title="聊天记录1" open=false >}}
+{{< admonition type=quote title="聊天记录1" open=true
+ >}}
 颜宇琪：还在这血口喷人
 
 ***
@@ -314,7 +316,8 @@ Other：你这牛，提前回国
 颜宇琪：有点常识 别血口喷人了ok？
 {{< /admonition >}}
 
-{{< admonition type=quote title="聊天记录2" open=false >}}
+{{< admonition type=quote title="聊天记录2" open=true
+ >}}
 颜宇琪：因为他的漠视啊
 
 颜宇琪：我早就告诉他孩子和我生病了
@@ -338,7 +341,8 @@ Other：你这牛，提前回国
 颜宇琪：怀了就找各种理由倒打一耙
 {{< /admonition >}}
 
-{{< admonition type=quote title="聊天记录3" open=false >}}
+{{< admonition type=quote title="聊天记录3" open=true
+ >}}
 C：己一跑了之还说我不负责任？你房子也还没退要处理医院也没联系孩子要安葬警察到时候又要因为你的事来问我
 
 ***
@@ -370,7 +374,8 @@ C：……现在是你在要钱吧 说我看钱重
 C：等房子退完了 医院联系好就可以给你 转了你要是心急就赶紧联系完小区和医院房子处理好了再帮你把箱子寄回来不好吗？
 {{< /admonition >}}
 
-{{< admonition type=quote title="聊天记录4" open=false >}}
+{{< admonition type=quote title="聊天记录4" open=true
+ >}}
 颜宇琪：md生前没管过孩子 死了还要拿孩子说事
 
 ***
