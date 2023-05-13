@@ -297,8 +297,7 @@ C：送医院 孩子还有呼吸吗
 而男方为了继续装B，继续找倒贴女，在外颠倒黑白、落井下石，还宣称女友正在潜逃。他承诺帮女友处理好事后，但实际上他只处理了共同名下的事情，而女方的个人行李甚至都没有寄回。男方还撒谎称女友已经潜逃回国，甚至在Covid报告中将阳性结果瞒掉，还谎称女友患有STD。
 {{< /admonition >}}
 
-{{< admonition type=quote title="聊天记录1" open=true
- >}}
+{{< admonition type=quote title="聊天记录1" open=true >}}
 颜宇琪：还在这血口喷人
 
 ***
@@ -347,8 +346,7 @@ Other：你这牛，提前回国
 颜宇琪：怀了就找各种理由倒打一耙
 {{< /admonition >}}
 
-{{< admonition type=quote title="聊天记录3" open=true
- >}}
+{{< admonition type=quote title="聊天记录3" open=true >}}
 C：己一跑了之还说我不负责任？你房子也还没退要处理医院也没联系孩子要安葬警察到时候又要因为你的事来问我
 
 ***
@@ -380,8 +378,7 @@ C：……现在是你在要钱吧 说我看钱重
 C：等房子退完了 医院联系好就可以给你 转了你要是心急就赶紧联系完小区和医院房子处理好了再帮你把箱子寄回来不好吗？
 {{< /admonition >}}
 
-{{< admonition type=quote title="聊天记录4" open=true
- >}}
+{{< admonition type=quote title="聊天记录4" open=true >}}
 颜宇琪：md生前没管过孩子 死了还要拿孩子说事
 
 ***
