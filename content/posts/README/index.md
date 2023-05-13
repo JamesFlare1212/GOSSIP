@@ -3,7 +3,7 @@ slug: readme
 title: README 读前必看
 subtitle:
 date: 2023-05-13T13:01:14+08:00
-draft: true
+draft: false
 author:
   name: James
   link:

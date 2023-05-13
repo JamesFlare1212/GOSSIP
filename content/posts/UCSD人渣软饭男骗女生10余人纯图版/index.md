@@ -3,7 +3,7 @@ slug: uscd-david
 title: UCSD - 罗骏哲 多次违法行为曝光
 subtitle: 偷盗、虐猫、嫖娼、打游戏开挂，罗骏哲涉及多项违法、恶劣行为被曝光
 date: 2023-05-12T20:11:06+08:00
-draft: true
+draft: false
 author:
   name: James
   link:
