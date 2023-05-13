@@ -48,20 +48,20 @@ repost:
   - [x] ~~ucsd瓜.pdf~~
   - [x] Create Tags
   - [x] [Pull Request #6](https://github.com/JamesFlare1212/GOSSIP/pull/6)
-- [ ] [UCSD - 罗骏哲 多次违法行为曝光](/posts/uscd-david/)
-  - [x] UCSD人渣软饭男，骗女生10余人，出轨pc偷钱偷包偷衣服虐猫蹭吃蹭住勾搭友妻刷室友信用卡借钱不还_纯图版.pdf
+- [x] [UCSD - 罗骏哲 多次违法行为曝光](/posts/uscd-david/)
+  - [x] ~~UCSD人渣软饭男，骗女生10余人，出轨pc偷钱偷包偷衣服虐猫蹭吃蹭住勾搭友妻刷室友信用卡借钱不还_纯图版.pdf~~
   - [x] Create Tags
-  - [ ] [Pull Request #7](https://github.com/JamesFlare1212/GOSSIP/pull/7)
-- [ ] NYU - 赵昱丞
-  - [ ] 纽约大学渣男赵昱丞六宗罪.pdf
-  - [ ] Create Tags
-  - [ ] [Pull Request #8](https://github.com/JamesFlare1212/GOSSIP/pull/8)
+  - [x] [Pull Request #7](https://github.com/JamesFlare1212/GOSSIP/pull/7)
+- [x] [NYU - 赵昱丞 六项不良行为曝光](/posts/nyu-andrew-zhao/)
+  - [x] ~~纽约大学渣男赵昱丞六宗罪.pdf~~
+  - [x] Create Tags
+  - [x] [Pull Request #8](https://github.com/JamesFlare1212/GOSSIP/pull/8)
 
 ### 待确认
 
 - [x] ~~ucsd瓜.pdf~~
-- [x] UCSD人渣软饭男，骗女生10余人，出轨pc偷钱偷包偷衣服虐猫蹭吃蹭住勾搭友妻刷室友信用卡借钱不还_纯图版.pdf
-- [x] 纽约大学渣男赵昱丞六宗罪.pdf
+- [x] ~~UCSD人渣软饭男，骗女生10余人，出轨pc偷钱偷包偷衣服虐猫蹭吃蹭住勾搭友妻刷室友信用卡借钱不还_纯图版.pdf~~
+- [x] ~~纽约大学渣男赵昱丞六宗罪.pdf~~
 - [ ] 重生之我在悉尼大学立白富美人设当老赖.pdf
 - [ ] 约克大学22管理系Riz陈俞健Npd人格家暴+伪富二代+PUA+精神控制 1.pdf
 - [ ] 英区新瓜：英国渣男陈邦瑞骗我感情的半年.pdf
