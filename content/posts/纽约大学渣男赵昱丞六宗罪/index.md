@@ -12,7 +12,7 @@ author:
 description: 此文曝光了赵昱丞（Andrew）的罪恶行径，包括在纽约大学偷拍并传播女生照片，恶意造谣并对女友实施暴力等等。他的道德底线极低，不尊重女性，将女性视为物品。因此，广大留学生需要提高警惕，谨慎交友，保护自己的隐私和人身安全。
 keywords:
 license:
-comment: false
+comment: true
 weight: 0
 tags:
   - NYU
