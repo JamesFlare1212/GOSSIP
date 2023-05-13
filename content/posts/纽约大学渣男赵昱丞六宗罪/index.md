@@ -15,7 +15,7 @@ license:
 comment: false
 weight: 0
 tags:
-  - NUY
+  - NYU
   - Boy
   - US
   - Fraud
