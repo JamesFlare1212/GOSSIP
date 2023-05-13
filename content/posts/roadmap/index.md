@@ -48,7 +48,7 @@ repost:
   - [x] ~~ucsd瓜.pdf~~
   - [x] Create Tags
   - [x] [Pull Request #6](https://github.com/JamesFlare1212/GOSSIP/pull/6)
-- [ ] [UCSD - 罗骏哲的不良行为 欺骗 10 + 名女生、出轨等](/posts/uscd-david/)
+- [ ] [UCSD - 罗骏哲 多次违法行为曝光](/posts/uscd-david/)
   - [x] UCSD人渣软饭男，骗女生10余人，出轨pc偷钱偷包偷衣服虐猫蹭吃蹭住勾搭友妻刷室友信用卡借钱不还_纯图版.pdf
   - [x] Create Tags
   - [ ] [Pull Request #7](https://github.com/JamesFlare1212/GOSSIP/pull/7)
