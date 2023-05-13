@@ -3,7 +3,7 @@ slug: nyu-andrew-zhao
 title: NYU - 赵昱丞 六项不良行为曝光
 subtitle: 恶意造谣、偷拍并传播女生照片，恶意造谣对女友实施暴力，道德败坏、人品极差
 date: 2023-05-12T20:10:45+08:00
-draft: true
+draft: false
 author:
   name: James
   link:
