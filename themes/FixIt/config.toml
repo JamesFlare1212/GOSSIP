@@ -143,7 +143,7 @@
       # URL of the LOGO
       logo = ""
       # title name
-      name = "GOSSIP Field"
+      name = "瓜田 Neo"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
@@ -236,13 +236,13 @@
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "/site-logo.webp"
+      avatarURL = "/site-logo.avif"
       # FixIt 0.2.17 | NEW identifier of avatar menu link
       avatarMenu = ""
       # FixIt 0.2.7 | CHANGED title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page
-      subtitle = "吃瓜是人类共同的兴趣。"
+      subtitle = "瓜田2.0 - 一站式吃瓜体验"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
@@ -253,7 +253,7 @@
     [params.home.posts]
       enable = true
       # special amount of posts in each home posts page
-      paginate = 10
+      paginate = 12
 
   # FixIt 0.2.16 | CHANGED Social config about the author
   [params.social]
