@@ -20,6 +20,8 @@ tags:
   - Violence
   - Infidelity
   - NPD
+  - Boy
+  - CA
 categories:
   - GOSSIP
 hiddenFromHomePage: false
@@ -27,9 +29,9 @@ hiddenFromSearch: false
 summary: 这篇文章揭露了一个以虚假承诺为代价的现代爱情悲剧。这位女孩被一个已婚男人欺骗进入了虎穴。她所描述的故事充满了痛苦和心碎，她一直对他宽容，但他却只在乎自己的感受。一个已婚男人的行为，让她经历了家暴，受到了精神和情感的伤害。这个故事令人唏嘘，因为许多人在现实生活中都有类似的经历。本文提供了一个反思的思考，揭示了现代男女关系中的不平等性和错综复杂的情感网。
 resources:
   - name: featured-image
-    src: featured-image.jpg
+    src: featured-image.avif
   - name: featured-image-preview
-    src: featured-image-preview.jpg
+    src: featured-image-preview.avif
 toc: true
 math: false
 lightgallery: true
@@ -58,7 +60,7 @@ repost:
 先看⼀遍家暴，再慢慢往下看吧
 
 {{< admonition type=quote title="两次家暴图片 中度不适 PG16" open=false >}}
-{{< image src="fig-1.jpg" width="320px" caption="两次家暴图片" >}}
+{{< image src="fig-1.avif" width="320px" caption="两次家暴图片" >}}
 {{< /admonition >}}
 
 ### 出国前
@@ -122,15 +124,15 @@ repost:
 整天当着面看抖音小红书擦边女点赞，在我面前高谈阔论，手机里各种所谓的女性朋友聊骚，当着我的面和女生打视频假装是朋友，还说我小题大做责备我。在我等他来英国之前，他和数不清的女生暧昧语音视频，并且出轨行为频繁。以下是我们的聊天记录：
 
 {{< admonition type=quote title="聊天记录" open=false >}}
-{{< image src="fig-2.jpg" width="480px" caption="聊天记录1" >}}
-{{< image src="fig-3.jpg" width="480px" caption="聊天记录2" >}}
-{{< image src="fig-4.jpg" width="480px" caption="聊天记录3" >}}
-{{< image src="fig-5.jpg" width="480px" caption="聊天记录4" >}}
-{{< image src="fig-6.jpg" width="480px" caption="聊天记录5" >}}
-{{< image src="fig-7.jpg" width="480px" caption="聊天记录6" >}}
-{{< image src="fig-8.jpg" width="480px" caption="聊天记录7" >}}
-{{< image src="fig-9.jpg" width="480px" caption="聊天记录8" >}}
-{{< image src="fig-10.jpg" width="480px" caption="聊天记录9" >}}
+{{< image src="fig-2.avif" width="480px" caption="聊天记录1" >}}
+{{< image src="fig-3.avif" width="480px" caption="聊天记录2" >}}
+{{< image src="fig-4.avif" width="480px" caption="聊天记录3" >}}
+{{< image src="fig-5.avif" width="480px" caption="聊天记录4" >}}
+{{< image src="fig-6.avif" width="480px" caption="聊天记录5" >}}
+{{< image src="fig-7.avif" width="480px" caption="聊天记录6" >}}
+{{< image src="fig-8.avif" width="480px" caption="聊天记录7" >}}
+{{< image src="fig-9.avif" width="480px" caption="聊天记录8" >}}
+{{< image src="fig-10.avif" width="480px" caption="聊天记录9" >}}
 {{< /admonition >}}
 
 ### 在英国PUA我
@@ -156,7 +158,7 @@ repost:
 之后，他又把一杯水泼在我的头上，问我是不是冷静了。他还问我有什么方法能够让我原谅他，并想要怎样赎罪。我说还没有想好，想好了再和他说。之后这个赎罪就没有下文了。我没有看到任何诚意的道歉，心里空空的。第二天，我戴上口罩强忍着疼痛，他看到我眼睛上淤血的很严重，就让我去买创可贴贴一下。我们之后就去吃饭了，但我踏进餐厅时就感觉非常尴尬，生怕别人看到我脸上的伤痕。坐下后我也不说话，他的两个朋友也不敢出声，吃饭的时候我不得不摘下口罩。大家都看到了我的伤口，而我吃东西时脸都感觉到疼痛，但还是强忍完了这顿饭。
 
 {{< admonition type=quote title="两次家暴图片 中度不适 PG16" open=false >}}
-{{< image src="fig-1.jpg" width="320px" caption="两次家暴图片" >}}
+{{< image src="fig-1.avif" width="320px" caption="两次家暴图片" >}}
 {{< /admonition >}}
 
 ### 埃及记录
@@ -178,13 +180,13 @@ repost:
 我的心受到了伤害，第二天他突然告诉我，再也不想和我说话了，也不打算赶我走（似乎假惺惺的，但是又不确定要干什么）。他甚至和那个女性朋友关系导致我寒心。
 
 {{< admonition type=quote title="情人节活动" open=false >}}
-{{< image src="fig-11.jpg" width="480px" caption="情人节蛋糕" >}}
-{{< image src="fig-12.jpg" width="320px" caption="蛋糕碎片" >}}
+{{< image src="fig-11.avif" width="480px" caption="情人节蛋糕" >}}
+{{< image src="fig-12.avif" width="320px" caption="蛋糕碎片" >}}
 {{< /admonition >}}
 
 {{< admonition type=quote title="女性朋友截图" open=false >}}
-{{< image src="fig-13.jpg" width="480px" caption="女性朋友截图1" >}}
-{{< image src="fig-14.jpg" width="480px" caption="女性朋友截图2" >}}
+{{< image src="fig-13.avif" width="480px" caption="女性朋友截图1" >}}
+{{< image src="fig-14.avif" width="480px" caption="女性朋友截图2" >}}
 {{< /admonition >}}
 
 ### 逼我回国
@@ -202,8 +204,8 @@ repost:
 我决定不再沉浸在恋爱幻想中。我对他始终真诚，经常去他家看望他的父母，从不空手而来，还给他养的小猫带好吃的。无论在国内还是国外，我总会在节日送他礼物，甚至我的母亲也经常问候他的母亲，但我换来的只是一个关于“农夫与蛇”的故事。
 
 {{< admonition type=quote title="女性朋友截图" open=false >}}
-{{< image src="fig-15.jpg" width="320px" caption="女性朋友截图1" >}}
-{{< image src="fig-16.jpg" width="320px" caption="女性朋友截图2" >}}
+{{< image src="fig-15.avif" width="320px" caption="女性朋友截图1" >}}
+{{< image src="fig-16.avif" width="320px" caption="女性朋友截图2" >}}
 {{< /admonition >}}
 
 回国时，我的家人在机场接我，看到我的样子消瘦了一圈，脸上也没有开心的表情。我告诉家人了他对我实施家暴和其他事情的真相，家人很痛心，对他非常失望。他的妈妈感到非常愧疚，我们找了她，希望她能对家暴事件做出真心诚意的道歉或公开承认自己已婚。如果她不考虑这个问题，那么我的家人也不会心软，我曾经给他多次机会，他的妈妈也向我们传达过他的原话，他说我是自己打自己，我们不能证明是他的错。在他家里，他曾经连自己的父亲都不尊重，他的妈妈亲口承认，现在轮到我和我的母亲了。他的妈妈溺爱他，愿意为他花大量的钱，但他从来没有给我买一件漂亮的衣服或者鞋子。有时候，我会建议我们不买那么贵的东西，他会说，“你管我？”他只在乎自己的开心。我以为他会诚意地向我道歉，但事实并非如此。我所描述的不仅是这些，还有很多，他的行为比我说的更加恶劣。我对他的付出毫无所得，他还侮辱和贬低我的人格。我对他宽容，他却污蔑和诋毁我。我感到非常痛心和窒息，现在他甚至已经将我在全网黑掉，他是一个自恋、品行败坏、没有良心、空虚的人。
