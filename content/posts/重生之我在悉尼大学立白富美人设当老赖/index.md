@@ -3,7 +3,7 @@ slug: usyd-zhen-taiwang
 title: USYD - 王正太 租房、拍照欠款风波引发争议
 subtitle: 留学生“王正太”欠房租、修片费用等行为引发社交媒体争议
 date: 2023-05-14T16:40:06+08:00
-draft: true
+draft: false
 author:
   name: James
   link:
