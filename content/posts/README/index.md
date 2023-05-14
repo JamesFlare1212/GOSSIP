@@ -115,14 +115,22 @@ repost:
   - [x] ~~纽约大学渣男赵昱丞六宗罪.pdf~~
   - [x] Create Tags
   - [x] [Pull Request #8](https://github.com/JamesFlare1212/GOSSIP/pull/8)
+- [x] [USYD - 王正太 租房、拍照欠款风波引发争议](/posts/usyd-zhen-taiwang/)
+  - [x] ~~重生之我在悉尼大学立白富美人设当老赖.pdf~~
+  - [x] Create Tags
+  - [x] [Pull Request #14](https://github.com/JamesFlare1212/GOSSIP/pull/14)
+- [x] [YU - 陈俞健（家暴、虚伪、PUA）](/posts/usyd-zhen-taiwang/)
+  - [x] ~~约克大学22管理系Riz陈俞健Npd人格家暴+伪富二代+PUA+精神控制 1.pdf~~
+  - [x] Create Tags
+  - [x] [Pull Request #15](https://github.com/JamesFlare1212/GOSSIP/pull/15)
 
 #### 待确认
 
 - [x] ~~ucsd瓜.pdf~~
 - [x] ~~UCSD人渣软饭男，骗女生10余人，出轨pc偷钱偷包偷衣服虐猫蹭吃蹭住勾搭友妻刷室友信用卡借钱不还_纯图版.pdf~~
 - [x] ~~纽约大学渣男赵昱丞六宗罪.pdf~~
-- [ ] 重生之我在悉尼大学立白富美人设当老赖.pdf
-- [ ] 约克大学22管理系Riz陈俞健Npd人格家暴+伪富二代+PUA+精神控制 1.pdf
+- [x] ~~重生之我在悉尼大学立白富美人设当老赖.pdf~~
+- [x] ~~约克大学22管理系Riz陈俞健Npd人格家暴+伪富二代+PUA+精神控制 1.pdf~~
 - [ ] 英区新瓜：英国渣男陈邦瑞骗我感情的半年.pdf
 - [ ] 英区大瓜：重生之我在格拉斯哥当公交.pdf
 - [ ] 谢菲SB男，KK聊骚，欠钱，分手诋毁.pdf
