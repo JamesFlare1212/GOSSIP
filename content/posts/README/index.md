@@ -130,7 +130,7 @@ repost:
 - [x] [UK - 佚名 多次骗人、出轨不断](/posts/uk-wzj/)
   - [x] ~~英区大瓜：重生之我在格拉斯哥当公交.pdf~~
   - [x] Create Tags
-  - [x] [Pull Request #19](https://github.com/JamesFlare1212/GOSSIP/pull/19)
+  - [x] [Pull Request #18](https://github.com/JamesFlare1212/GOSSIP/pull/18)
 
 
 #### 待确认
