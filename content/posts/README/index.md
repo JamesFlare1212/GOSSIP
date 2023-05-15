@@ -123,6 +123,15 @@ repost:
   - [x] ~~约克大学22管理系Riz陈俞健Npd人格家暴+伪富二代+PUA+精神控制 1.pdf~~
   - [x] Create Tags
   - [x] [Pull Request #15](https://github.com/JamesFlare1212/GOSSIP/pull/15)
+- [x] [UK - 陈邦瑞 时间管理能力超群](/posts/uk-chen-bangrui/)
+  - [x] ~~英区新瓜：英国渣男陈邦瑞骗我感情的半年.pdf~~
+  - [x] Create Tags
+  - [x] [Pull Request #17](https://github.com/JamesFlare1212/GOSSIP/pull/17)
+- [x] [UK - 佚名 多次骗人、出轨不断](/posts/uk-wzj/)
+  - [x] ~~英区大瓜：重生之我在格拉斯哥当公交.pdf~~
+  - [x] Create Tags
+  - [x] [Pull Request #18](https://github.com/JamesFlare1212/GOSSIP/pull/18)
+
 
 #### 待确认
 
@@ -131,8 +140,8 @@ repost:
 - [x] ~~纽约大学渣男赵昱丞六宗罪.pdf~~
 - [x] ~~重生之我在悉尼大学立白富美人设当老赖.pdf~~
 - [x] ~~约克大学22管理系Riz陈俞健Npd人格家暴+伪富二代+PUA+精神控制 1.pdf~~
-- [ ] 英区新瓜：英国渣男陈邦瑞骗我感情的半年.pdf
-- [ ] 英区大瓜：重生之我在格拉斯哥当公交.pdf
+- [x] ~~英区新瓜：英国渣男陈邦瑞骗我感情的半年.pdf~~
+- [x] ~~英区大瓜：重生之我在格拉斯哥当公交.pdf~~
 - [ ] 谢菲SB男，KK聊骚，欠钱，分手诋毁.pdf
 - [ ] 悉尼牛子战神传.pdf
 - [ ] 诺丁汉谢俊事件详细记录.pdf
