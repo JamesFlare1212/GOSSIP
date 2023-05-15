@@ -143,6 +143,10 @@ repost:
   - [x] ~~诺丁汉谢俊事件详细记录.pdf~~
   - [x] Create Tags
   - [x] [Pull Request #21](https://github.com/JamesFlare1212/GOSSIP/pull/21)
+- [ ] [Soton - 孙*浩 英区没有爱情](/posts/soton-sun-mo-hao/)
+  - [x] 南安普顿新瓜1.0版本.pdf
+  - [ ] Create Tags
+  - [ ] [Pull Request #](https://github.com/JamesFlare1212/GOSSIP/pull/)
 
 #### 待确认
 
@@ -156,7 +160,7 @@ repost:
 - [x] ~~谢菲SB男，KK聊骚，欠钱，分手诋毁.pdf~~
 - [x] ~~悉尼牛子战神传.pdf~~
 - [x] ~~诺丁汉谢俊事件详细记录.pdf~~
-- [ ] 南安普顿新瓜1.0版本.pdf
+- [x] 南安普顿新瓜1.0版本.pdf
 - [ ] 墨尔本DJ（mc）鸭子软饭硬吃三份pdf合订本.pdf
 - [ ] 伦敦徐州Lex张天瑜 欠债反叫债主穷酸”.pdf
 - [ ] 伦敦曼城：我可以你们不可以.pdf
