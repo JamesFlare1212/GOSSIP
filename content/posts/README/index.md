@@ -135,10 +135,14 @@ repost:
   - [x] ~~谢菲SB男，KK聊骚，欠钱，分手诋毁.pdf~~
   - [x] Create Tags
   - [x] [Pull Request #19](https://github.com/JamesFlare1212/GOSSIP/pull/18)
-- [x] [Sydney - 牛子战神 半夜牛牛攻击](/posts/usyd-genitalia-er/)
+- [x] [USYD - 牛子战神 半夜牛牛攻击](/posts/usyd-genitalia-er/)
   - [x] ~~悉尼牛子战神传.pdf~~
   - [x] Create Tags
   - [x] [Pull Request #20](https://github.com/JamesFlare1212/GOSSIP/pull/20)
+- [x] [UoN - 谢俊 爱情经历与“明暗”情节](/posts/uon-xie-jun/)
+  - [x] ~~诺丁汉谢俊事件详细记录.pdf~~
+  - [x] Create Tags
+  - [x] [Pull Request #21](https://github.com/JamesFlare1212/GOSSIP/pull/21)
 
 #### 待确认
 
@@ -151,7 +155,7 @@ repost:
 - [x] ~~英区大瓜：重生之我在格拉斯哥当公交.pdf~~
 - [x] ~~谢菲SB男，KK聊骚，欠钱，分手诋毁.pdf~~
 - [x] ~~悉尼牛子战神传.pdf~~
-- [ ] 诺丁汉谢俊事件详细记录.pdf
+- [x] ~~诺丁汉谢俊事件详细记录.pdf~~
 - [ ] 南安普顿新瓜1.0版本.pdf
 - [ ] 墨尔本DJ（mc）鸭子软饭硬吃三份pdf合订本.pdf
 - [ ] 伦敦徐州Lex张天瑜 欠债反叫债主穷酸”.pdf
