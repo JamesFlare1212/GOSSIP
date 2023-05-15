@@ -131,7 +131,7 @@ repost:
   - [x] ~~英区大瓜：重生之我在格拉斯哥当公交.pdf~~
   - [x] Create Tags
   - [x] [Pull Request #18](https://github.com/JamesFlare1212/GOSSIP/pull/18)
-- [x] [TUoS - 阚博文 聊骚、欠钱、分手诋毁](/posts/uk-wzj/)
+- [x] [TUoS - 阚博文 聊骚、欠钱、分手诋毁](/posts/tuos-kan-bowen/)
   - [x] ~~谢菲SB男，KK聊骚，欠钱，分手诋毁.pdf~~
   - [x] Create Tags
   - [x] [Pull Request #19](https://github.com/JamesFlare1212/GOSSIP/pull/18)
