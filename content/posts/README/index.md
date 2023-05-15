@@ -131,7 +131,10 @@ repost:
   - [x] ~~英区大瓜：重生之我在格拉斯哥当公交.pdf~~
   - [x] Create Tags
   - [x] [Pull Request #18](https://github.com/JamesFlare1212/GOSSIP/pull/18)
-
+- [x] [TUoS - 阚博文 聊骚、欠钱、分手诋毁](/posts/uk-wzj/)
+  - [x] ~~谢菲SB男，KK聊骚，欠钱，分手诋毁.pdf~~
+  - [x] Create Tags
+  - [x] [Pull Request #19](https://github.com/JamesFlare1212/GOSSIP/pull/18)
 
 #### 待确认
 
@@ -142,7 +145,7 @@ repost:
 - [x] ~~约克大学22管理系Riz陈俞健Npd人格家暴+伪富二代+PUA+精神控制 1.pdf~~
 - [x] ~~英区新瓜：英国渣男陈邦瑞骗我感情的半年.pdf~~
 - [x] ~~英区大瓜：重生之我在格拉斯哥当公交.pdf~~
-- [ ] 谢菲SB男，KK聊骚，欠钱，分手诋毁.pdf
+- [x] ~~谢菲SB男，KK聊骚，欠钱，分手诋毁.pdf~~
 - [ ] 悉尼牛子战神传.pdf
 - [ ] 诺丁汉谢俊事件详细记录.pdf
 - [ ] 南安普顿新瓜1.0版本.pdf
