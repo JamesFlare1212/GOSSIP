@@ -42,9 +42,43 @@ repost:
 
 ## 前言
 
-本集是 [**​留学生瓜田**](https://www.lxsguatian.net/) 的分支版本。更轻量化，快速，简洁。
+<u>瓜田Neo</u> 和 <u>瓜田 Turbo</u> 有何不同？原来的 <u>​留学生瓜田</u>  呢？
 
-不过相应的，与用户的交流功能，内容数量就受限了。
+```mermaid
+---
+title: ​留学生瓜田 关系图
+---
+flowchart TB
+    A("留学生瓜田（弃用）") ==>|社区论坛| C(("瓜田 Turbo (我是老大)"))
+    A -.->|快照存档| D("瓜田 Legacy")
+    C -->|选取素材| B("瓜田 Neo")
+    D -->|选取素材| B
+```
+
+### 瓜田 Neo
+
+[**瓜田 Neo**](https://neo.lxsguatian.com/) 是 ​留学生瓜田 的分支版本。更轻量简洁，同时开放所有源代码和工程文件。我们重写了，或正在重写投稿内容，以此达到更好的阅读效果。
+
+{{< admonition type=success title="Alpha" open=true >}}
+目前，[**瓜田 Neo**](https://neo.lxsguatian.com/) 正在进行灰度测试，收集反馈。
+{{< /admonition >}}
+
+
+### 瓜田 Turbo
+
+[**瓜田 Turbo**](https://turbo.lxsguatian.net/) 是我们的主营业务，是一个论坛应用。任何用户都可以发布自己的内容，充分体现内容多样性。同时，瓜友之间也可以交流吃瓜感想，这一点是Neo欠缺的。
+
+{{< admonition type=warning title="Developing" open=true >}}
+目前，[**瓜田 Turbo**](https://turbo.lxsguatian.net/)正在积极开发中。
+{{< /admonition >}}
+
+### 瓜田 Legacy
+
+[**瓜田 Legacy**](https://legacy.lxsguatian.com/)是最初 ​留学生瓜田 的快照。已经停止维护，仅仅作为纪念。
+
+{{< admonition type=failure title="Planned" open=true >}}
+目前，[**瓜田 Legacy**](https://legacy.lxsguatian.net/)还在等待。
+{{< /admonition >}}
 
 ## 愿景
 
@@ -57,11 +91,11 @@ repost:
 
 ## 改进
 
-我们重写了[​留学生瓜田](https://www.lxsguatian.net/)中的大部分精选内容，做出了改进，优化了观感。同时把截屏内的内容以字符的形式重新展现，这样使得有了通用性。
+我们重写了 <u>[瓜田 Turbo](https://www.lxsguatian.net/)的精选内容</u> 和 <u>[瓜田 Legacy](https://legacy.lxsguatian.com/) 中的大部分内容</u>，做出了改进，优化了观感。同时把截屏内的内容以字符的形式重新展现，这样使得有了通用性。
 
-对于图像，我们使用了AI来提升画质，观感。
+对于部分图像，我们使用了AI来提升观感。
 
-对于文本，我们使用AI润色，重写，分段了原有的内容。
+对于文本，我们使用AI润色，重写，分段了原有的内容，包括由于复制导致的格式错误。
 
 对于内容，我们开源了全部代码和文档，如有兴趣，你甚至可以在本地部署一个自己的克隆，详情见文尾。
 
