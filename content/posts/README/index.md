@@ -44,41 +44,58 @@ repost:
 
 <u>瓜田Neo</u> 和 <u>瓜田 Turbo</u> 有何不同？原来的 <u>​留学生瓜田</u>  呢？
 
+​留学生瓜田 的站主决定退出了，这是他的声明：
+
+> ### 没走错，我烦了，不做了。
+> 
+> 在我做这个站的时候我一篇pdf都还没看过，纯粹只是看好多人在要想图个乐子给身边的朋友做个站玩一下。
+> 
+> 一周不到超过一百万的访问量让整件事情变了味。
+> 
+> 过去的几天简单的概括其实是各种事情推着我走，想一起开发网站的朋友，找我做推广的，帮助我想办法运营的，想要投稿的，想投资的，也碰到了很热心想要帮我出主意的人，以至于没有时间停下来真正去思考一下这个站到底做了些啥。
+> 
+> 这个站点从一开始的性质意味着在野蛮生长的过程当中，所谓“瓜”们的真实性得不到任何的保障，巨大的流量对于被爆料者，爆料者也不可避免的会带来完全没有必要的伤害。截至现在，已经有超过十人因为站点带来的困扰而想要将pdf下架。
+> 
+> 即便真的这个站能够在未来成长成为一个流量不错的稳定的论坛，这个运用窥私欲，爆料大尺度八卦事件的增长切入点也实在没法让我很好的接受。整个站点在流量的加持下逐渐开始大幅度地偏离我自己的价值观。
+> 
+> 所以在站点二次重构基本完成，评论点赞功能添置完成可以上线的情况下，我依然决定将留学生瓜田这个站点永久关闭，建立的超过两千人的社群也会在今晚解散，网站唯一打的广告的收益也已经悉数退还，我向所有可能伤害到的人说抱歉。
+
+重构网站是我在操作，于是我上线了当初的分支。
+
+### 瓜田 Neo
+
+[**瓜田 Neo**](https://neo.schoolmelon.com/) 是 ​留学生瓜田 的分支版本。更轻量简洁，同时开放所有源代码和工程文件。我们重写了，或正在重写投稿内容，以此达到更好的阅读效果。
+
+{{< admonition type=success title="Alpha" open=true >}}
+目前，[**瓜田 Neo**](https://neo.schoolmelon.com/) 正在进行灰度测试，收集反馈。
+{{< /admonition >}}
+
+
+### 瓜田 Turbo
+
+[**瓜田 Turbo**](https://turbo.schoolmelon.net/) 是我们的主营业务，是一个论坛应用。任何用户都可以发布自己的内容，充分体现内容多样性。同时，瓜友之间也可以交流吃瓜感想，这一点是Neo欠缺的。
+
+{{< admonition type=warning title="Developing" open=true >}}
+目前，[**瓜田 Turbo**](https://turbo.schoolmelon.net/)正在积极开发中。
+{{< /admonition >}}
+
+### 瓜田 Legacy
+
+[**瓜田 Legacy**](https://legacy.schoolmelon.com/)是最初 ​留学生瓜田 的快照。已经停止维护，仅仅作为纪念。
+
+{{< admonition type=failure title="Planned" open=true >}}
+目前，[**瓜田 Legacy**](https://legacy.schoolmelon.net/)还在等待。
+{{< /admonition >}}
+
+## 关系图
+
 ```mermaid
----
-title: ​留学生瓜田 关系图
----
 flowchart TB
     A("留学生瓜田（弃用）") ==>|社区论坛| C(("瓜田 Turbo (我是老大)"))
     A -.->|快照存档| D("瓜田 Legacy")
     C -->|选取素材| B("瓜田 Neo")
     D -->|选取素材| B
 ```
-
-### 瓜田 Neo
-
-[**瓜田 Neo**](https://neo.lxsguatian.com/) 是 ​留学生瓜田 的分支版本。更轻量简洁，同时开放所有源代码和工程文件。我们重写了，或正在重写投稿内容，以此达到更好的阅读效果。
-
-{{< admonition type=success title="Alpha" open=true >}}
-目前，[**瓜田 Neo**](https://neo.lxsguatian.com/) 正在进行灰度测试，收集反馈。
-{{< /admonition >}}
-
-
-### 瓜田 Turbo
-
-[**瓜田 Turbo**](https://turbo.lxsguatian.net/) 是我们的主营业务，是一个论坛应用。任何用户都可以发布自己的内容，充分体现内容多样性。同时，瓜友之间也可以交流吃瓜感想，这一点是Neo欠缺的。
-
-{{< admonition type=warning title="Developing" open=true >}}
-目前，[**瓜田 Turbo**](https://turbo.lxsguatian.net/)正在积极开发中。
-{{< /admonition >}}
-
-### 瓜田 Legacy
-
-[**瓜田 Legacy**](https://legacy.lxsguatian.com/)是最初 ​留学生瓜田 的快照。已经停止维护，仅仅作为纪念。
-
-{{< admonition type=failure title="Planned" open=true >}}
-目前，[**瓜田 Legacy**](https://legacy.lxsguatian.net/)还在等待。
-{{< /admonition >}}
 
 ## 愿景
 
@@ -91,7 +108,7 @@ flowchart TB
 
 ## 改进
 
-我们重写了 <u>[瓜田 Turbo](https://www.lxsguatian.net/)的精选内容</u> 和 <u>[瓜田 Legacy](https://legacy.lxsguatian.com/) 中的大部分内容</u>，做出了改进，优化了观感。同时把截屏内的内容以字符的形式重新展现，这样使得有了通用性。
+我们重写了 <u>[瓜田 Turbo](https://www.schoolmelon.net/)的精选内容</u> 和 <u>[瓜田 Legacy](https://legacy.schoolmelon.com/) 中的大部分内容</u>，做出了改进，优化了观感。同时把截屏内的内容以字符的形式重新展现，这样使得有了通用性。
 
 对于部分图像，我们使用了AI来提升观感。
 
@@ -124,6 +141,8 @@ flowchart TB
 如需修正错误，你需要在本项目的仓库提出[Issue](https://github.com/JamesFlare1212/GOSSIP/issues)。
 
 在提交 **PR**（[**P**ull **R**equest](https://github.com/JamesFlare1212/GOSSIP/pulls)）之前，我希望你充分在[Issue](https://github.com/JamesFlare1212/GOSSIP/issues)中讨论。
+
+假设你受到了别入的造谣诋毁，不用担心。我们不会容忍此行为，而且我们也有义务和责任移除平台上的虚假信息。
 
 ### 完善内容
 
