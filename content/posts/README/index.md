@@ -57,27 +57,27 @@ flowchart TB
 
 ### 瓜田 Neo
 
-[**瓜田 Neo**](https://neo.lxsguatian.com/) 是 ​留学生瓜田 的分支版本。更轻量简洁，同时开放所有源代码和工程文件。我们重写了，或正在重写投稿内容，以此达到更好的阅读效果。
+[**瓜田 Neo**](https://neo.schoolmelon.com/) 是 ​留学生瓜田 的分支版本。更轻量简洁，同时开放所有源代码和工程文件。我们重写了，或正在重写投稿内容，以此达到更好的阅读效果。
 
 {{< admonition type=success title="Alpha" open=true >}}
-目前，[**瓜田 Neo**](https://neo.lxsguatian.com/) 正在进行灰度测试，收集反馈。
+目前，[**瓜田 Neo**](https://neo.schoolmelon.com/) 正在进行灰度测试，收集反馈。
 {{< /admonition >}}
 
 
 ### 瓜田 Turbo
 
-[**瓜田 Turbo**](https://turbo.lxsguatian.net/) 是我们的主营业务，是一个论坛应用。任何用户都可以发布自己的内容，充分体现内容多样性。同时，瓜友之间也可以交流吃瓜感想，这一点是Neo欠缺的。
+[**瓜田 Turbo**](https://turbo.schoolmelon.net/) 是我们的主营业务，是一个论坛应用。任何用户都可以发布自己的内容，充分体现内容多样性。同时，瓜友之间也可以交流吃瓜感想，这一点是Neo欠缺的。
 
 {{< admonition type=warning title="Developing" open=true >}}
-目前，[**瓜田 Turbo**](https://turbo.lxsguatian.net/)正在积极开发中。
+目前，[**瓜田 Turbo**](https://turbo.schoolmelon.net/)正在积极开发中。
 {{< /admonition >}}
 
 ### 瓜田 Legacy
 
-[**瓜田 Legacy**](https://legacy.lxsguatian.com/)是最初 ​留学生瓜田 的快照。已经停止维护，仅仅作为纪念。
+[**瓜田 Legacy**](https://legacy.schoolmelon.com/)是最初 ​留学生瓜田 的快照。已经停止维护，仅仅作为纪念。
 
 {{< admonition type=failure title="Planned" open=true >}}
-目前，[**瓜田 Legacy**](https://legacy.lxsguatian.net/)还在等待。
+目前，[**瓜田 Legacy**](https://legacy.schoolmelon.net/)还在等待。
 {{< /admonition >}}
 
 ## 愿景
@@ -91,7 +91,7 @@ flowchart TB
 
 ## 改进
 
-我们重写了 <u>[瓜田 Turbo](https://www.lxsguatian.net/)的精选内容</u> 和 <u>[瓜田 Legacy](https://legacy.lxsguatian.com/) 中的大部分内容</u>，做出了改进，优化了观感。同时把截屏内的内容以字符的形式重新展现，这样使得有了通用性。
+我们重写了 <u>[瓜田 Turbo](https://www.schoolmelon.net/)的精选内容</u> 和 <u>[瓜田 Legacy](https://legacy.schoolmelon.com/) 中的大部分内容</u>，做出了改进，优化了观感。同时把截屏内的内容以字符的形式重新展现，这样使得有了通用性。
 
 对于部分图像，我们使用了AI来提升观感。
 
