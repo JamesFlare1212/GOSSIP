@@ -65,4 +65,4 @@ repost:
 
 接下来的图文，各位阅读原文吧。
 
-源文件地址：[南安普顿新瓜1.0版本.pdf](https://oss.lxsguatian.net/source/soton-sun-mo-hao.pdf)
+源文件地址：[南安普顿新瓜1.0版本.pdf](https://oss.schoolmelon.com/source/soton-sun-mo-hao.pdf)

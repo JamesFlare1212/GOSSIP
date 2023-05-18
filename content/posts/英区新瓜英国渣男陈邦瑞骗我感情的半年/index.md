@@ -43,7 +43,7 @@ repost:
 <!--more-->
 
 {{< admonition type=info title="来源" open=true >}}
-源文件地址：[英区新瓜：英国渣男陈邦瑞骗我感情的半年.pdf](https://oss.lxsguatian.net/source/uk-chen-bangrui.pdf)  
+源文件地址：[英区新瓜：英国渣男陈邦瑞骗我感情的半年.pdf](https://oss.schoolmelon.com/source/uk-chen-bangrui.pdf)  
 本文进行了重制以适合移动设备以及赋予通用性。
 {{< /admonition >}}
 

@@ -48,7 +48,7 @@ repost:
 <!--more-->
 
 {{< admonition type=info title="来源" open=true >}}
-源文件地址：[uscd瓜](https://www.lxsguatian.com/_files/ugd/90b324_a5fcad11c28442ef9677dc9a803f364f.pdf)  
+源文件地址：[uscd瓜](https://oss.schoolmelon.com/source/uscd-yuqiyann.pdf)  
 本文进行了重制以适合移动设备以及赋予通用性。
 {{< /admonition >}}
 

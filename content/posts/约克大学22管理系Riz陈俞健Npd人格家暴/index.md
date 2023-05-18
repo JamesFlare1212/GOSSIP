@@ -47,7 +47,7 @@ repost:
 <!--more-->
 
 {{< admonition type=info title="来源" open=true >}}
-源文件地址：[约克大学22管理系Riz陈俞健Npd人格家暴+伪富二代+PUA+精神控制 1.pdf](https://oss.lxsguatian.net/source/yu-chen-yujian.pdf)  
+源文件地址：[约克大学22管理系Riz陈俞健Npd人格家暴+伪富二代+PUA+精神控制 1.pdf](https://oss.schoolmelon.com/source/yu-chen-yujian.pdf)  
 本文进行了重制以适合移动设备以及赋予通用性。
 {{< /admonition >}}
 

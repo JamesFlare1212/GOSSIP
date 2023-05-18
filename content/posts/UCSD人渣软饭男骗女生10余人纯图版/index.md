@@ -51,7 +51,7 @@ repost:
 
 {{< admonition type=info title="来源" open=true >}}
 源文件地址：[
-UCSD人渣软饭男，骗女生10余人，纯图版](https://www.lxsguatian.com/_files/ugd/90b324_64eff07ee92e4093a3b342593254ed3d.pdf)  
+UCSD人渣软饭男，骗女生10余人，纯图版](https://oss.schoolmelon.com/source/uscd-david.pdf)  
 本文进行了重制以适合移动设备以及赋予通用性。
 {{< /admonition >}}
 

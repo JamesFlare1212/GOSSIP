@@ -44,7 +44,7 @@ repost:
 <!--more-->
 
 {{< admonition type=info title="来源" open=true >}}
-源文件地址：[英区大瓜：重生之我在格拉斯哥当公交.pdf](https://oss.lxsguatian.net/source/uk-wzj.pdf)  
+源文件地址：[英区大瓜：重生之我在格拉斯哥当公交.pdf](https://oss.schoolmelon.com/source/uk-wzj.pdf)  
 本文进行了重制以适合移动设备以及赋予通用性。
 {{< /admonition >}}
 
