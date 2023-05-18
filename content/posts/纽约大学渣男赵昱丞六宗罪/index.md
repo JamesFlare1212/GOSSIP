@@ -47,7 +47,7 @@ repost:
 <!--more-->
 
 {{< admonition type=info title="来源" open=true >}}
-源文件地址：[纽约大学渣男赵昱丞六宗罪](https://www.lxsguatian.com/_files/ugd/90b324_2be1e201c7b54cd8b16c0c5e31406709.pdf)  
+源文件地址：[纽约大学渣男赵昱丞六宗罪](https://oss.schoolmelon.com/source/nyu-andrew-zhao.pdf)  
 本文进行了重制以适合移动设备以及赋予通用性。
 {{< /admonition >}}
 

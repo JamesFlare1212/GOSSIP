@@ -44,7 +44,7 @@ repost:
 <!--more-->
 
 {{< admonition type=info title="来源" open=true >}}
-源文件地址：[重生之我在悉尼大学立白富美人设当老赖.pdf](https://oss.lxsguatian.net/source/usyd-zhen-taiwang.pdf)  
+源文件地址：[重生之我在悉尼大学立白富美人设当老赖.pdf](https://oss.schoolmelon.com/source/usyd-zhen-taiwang.pdf)  
 本文进行了重制以适合移动设备以及赋予通用性。
 {{< /admonition >}}
 

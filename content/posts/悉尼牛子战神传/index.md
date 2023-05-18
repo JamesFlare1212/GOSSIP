@@ -47,7 +47,7 @@ repost:
 <!--more-->
 
 {{< admonition type=info title="来源" open=true >}}
-源文件地址：[悉尼牛子战神传.pdf](https://oss.lxsguatian.net/source/usyd-genitalia-er.pdf)  
+源文件地址：[悉尼牛子战神传.pdf](https://oss.schoolmelon.com/source/usyd-genitalia-er.pdf)  
 本文进行了重制以适合移动设备以及赋予通用性。
 {{< /admonition >}}
 

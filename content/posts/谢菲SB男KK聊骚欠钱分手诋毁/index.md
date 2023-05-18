@@ -48,7 +48,7 @@ repost:
 <!--more-->
 
 {{< admonition type=info title="来源" open=true >}}
-源文件地址：[谢菲SB男，KK聊骚，欠钱，分手诋毁.pdf](https://oss.lxsguatian.net/source/tuos-kan-bowen.pdf)  
+源文件地址：[谢菲SB男，KK聊骚，欠钱，分手诋毁.pdf](https://oss.schoolmelon.com/source/tuos-kan-bowen.pdf)  
 本文进行了重制以适合移动设备以及赋予通用性。
 {{< /admonition >}}
 
