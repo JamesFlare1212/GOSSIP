@@ -201,11 +201,11 @@
     # date format (month and day)
     dateFormat = "01-02"
     # amount of RSS pages
-    rss = 10
+    rss = 50
     # FixIt 0.2.13 | NEW recently updated posts settings
     [params.section.recentlyUpdated]
       enable = false
-      rss = false
+      rss = true
       days = 30
       maxCount = 10
 
@@ -216,7 +216,7 @@
     # date format (month and day)
     dateFormat = "01-02"
     # amount of RSS pages
-    rss = 10
+    rss = 50
 
   # FixIt 0.2.17 | NEW TagCloud config for tags page
   [params.tagcloud]
@@ -229,7 +229,7 @@
   # Home page config
   [params.home]
     # FixIt 0.2.0 | NEW amount of RSS pages
-    rss = 10
+    rss = 50
     # Home page profile
     [params.home.profile]
       enable = true
@@ -368,7 +368,7 @@
     # whether to show link to Raw Markdown content of the content
     linkToMarkdown = true
     # FixIt 0.2.4 | NEW whether to show the full text content in RSS
-    rssFullText = false
+    rssFullText = true
     # FixIt 0.2.13 | NEW Page style ["narrow", "normal", "wide", ...]
     pageStyle = "normal"
     # FixIt 0.2.17 | CHANGED Auto Bookmark Support
