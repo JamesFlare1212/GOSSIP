@@ -162,48 +162,30 @@ flowchart TB
 
 - [x] [USCD - 颜宇琪（毒品、虐童、勒索）](/posts/uscd-yuqiyann/)
   - [x] ~~ucsd瓜.pdf~~
-  - [x] Create Tags
-  - [x] [Pull Request #6](https://github.com/JamesFlare1212/GOSSIP/pull/6)
 - [x] [UCSD - 罗骏哲 多次违法行为曝光](/posts/uscd-david/)
   - [x] ~~UCSD人渣软饭男，骗女生10余人，出轨pc偷钱偷包偷衣服虐猫蹭吃蹭住勾搭友妻刷室友信用卡借钱不还_纯图版.pdf~~
-  - [x] Create Tags
-  - [x] [Pull Request #7](https://github.com/JamesFlare1212/GOSSIP/pull/7)
 - [x] [NYU - 赵昱丞 六项不良行为曝光](/posts/nyu-andrew-zhao/)
   - [x] ~~纽约大学渣男赵昱丞六宗罪.pdf~~
-  - [x] Create Tags
-  - [x] [Pull Request #8](https://github.com/JamesFlare1212/GOSSIP/pull/8)
 - [x] [USYD - 王正太 租房、拍照欠款风波引发争议](/posts/usyd-zhen-taiwang/)
   - [x] ~~重生之我在悉尼大学立白富美人设当老赖.pdf~~
-  - [x] Create Tags
-  - [x] [Pull Request #14](https://github.com/JamesFlare1212/GOSSIP/pull/14)
 - [x] [YU - 陈俞健（家暴、虚伪、PUA）](/posts/usyd-zhen-taiwang/)
   - [x] ~~约克大学22管理系Riz陈俞健Npd人格家暴+伪富二代+PUA+精神控制 1.pdf~~
-  - [x] Create Tags
-  - [x] [Pull Request #15](https://github.com/JamesFlare1212/GOSSIP/pull/15)
 - [x] [UK - 陈邦瑞 时间管理能力超群](/posts/uk-chen-bangrui/)
   - [x] ~~英区新瓜：英国渣男陈邦瑞骗我感情的半年.pdf~~
-  - [x] Create Tags
-  - [x] [Pull Request #17](https://github.com/JamesFlare1212/GOSSIP/pull/17)
 - [x] [UK - 佚名 多次骗人、出轨不断](/posts/uk-wzj/)
   - [x] ~~英区大瓜：重生之我在格拉斯哥当公交.pdf~~
-  - [x] Create Tags
-  - [x] [Pull Request #18](https://github.com/JamesFlare1212/GOSSIP/pull/18)
 - [x] [TUoS - 阚博文 聊骚、欠钱、分手诋毁](/posts/tuos-kan-bowen/)
   - [x] ~~谢菲SB男，KK聊骚，欠钱，分手诋毁.pdf~~
-  - [x] Create Tags
-  - [x] [Pull Request #19](https://github.com/JamesFlare1212/GOSSIP/pull/18)
 - [x] [USYD - 牛子战神 半夜牛牛攻击](/posts/usyd-genitalia-er/)
   - [x] ~~悉尼牛子战神传.pdf~~
-  - [x] Create Tags
-  - [x] [Pull Request #20](https://github.com/JamesFlare1212/GOSSIP/pull/20)
 - [x] [UoN - 谢俊 爱情经历与“明暗”情节](/posts/uon-xie-jun/)
   - [x] ~~诺丁汉谢俊事件详细记录.pdf~~
-  - [x] Create Tags
-  - [x] [Pull Request #21](https://github.com/JamesFlare1212/GOSSIP/pull/21)
 - [ ] [Soton - 孙*浩 英区没有爱情](/posts/soton-sun-mo-hao/)
   - [x] 南安普顿新瓜1.0版本.pdf
-  - [ ] Create Tags
-  - [ ] [Pull Request #](https://github.com/JamesFlare1212/GOSSIP/pull/)
+- [x] [KCL - 邢乐聪 涉嫌性骚扰 欺骗女性](/posts/kcl-xing-lecong/)
+  - [x] ~~kcl骗炮渣男避雷.pdf~~
+- [ ] [NYU - 王子聪 多项指控（骗取、虐待、欺骗）](/posts/nyu-wang-zicong/)
+  - [x] nyu渣男王子聪.pdf
 
 #### 待确认
 
@@ -219,8 +201,8 @@ flowchart TB
 - [x] ~~诺丁汉谢俊事件详细记录.pdf~~
 - [x] 南安普顿新瓜1.0版本.pdf
 - [x] 【悉尼er清算系列】网红预科泰勒出圈13秒视频，Waterfall高端公寓变身女子ufc决赛现场，背后真相突出一个离谱.pdf
-- [ ] kcl骗炮渣男避雷.pdf
-- [ ] nyu渣男王子聪.pdf
+- [x] ~~kcl骗炮渣男避雷.pdf~~
+- [x] nyu渣男王子聪.pdf
 - [ ] UCSD绿帽奴合集.pdf
 - [ ] 埃克塞特_陈邦瑞.pdf
 - [ ] 爱丁堡下头装b男
