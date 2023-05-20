@@ -9,7 +9,7 @@ author:
   link:
   email:
   avatar:
-description: 本集收其它网站启发，同时做出了一些改进和重写。完全开源，欢迎各位提交改进。
+description: 本页面介绍了项目由来，如何投稿，合作联系方式，当前项目进度。
 keywords:
 license:
 comment: true
@@ -128,7 +128,11 @@ flowchart TB
 
 ## 加入我们
 
-你有两种贡献的方式，修正错误，以及完善内容。
+你有几种贡献的方式，修正错误，以及完善内容。
+
+### 提交改进
+
+我们的代码托管在GitHub，
 
 <a href="https://github.com/JamesFlare1212/GOSSIP/">
   <img src="https://github-readme-stats.jamesflare.com/api/pin/?username=JamesFlare1212&repo=GOSSIP&theme=github_dark_dimmed&show_owner=true" alt="GOSSIP Git Card">
@@ -154,11 +158,23 @@ flowchart TB
 
 如果你没有能力或者没有时间像这样直接重写一篇瓜，只有类似的PDF文件，或者相关链接。不过你仍旧希望分析和投稿，那么也是可以的，前往 [瓜田 Turbo](https://www.schoolmelon.net/)对应的分区发一个帖子即可，可以的话@James，效果更好。
 
+你还可以可以加入[Telegram群组](https://t.me/schoolmelon)投稿。
+
+### Form
+
+如果你只是有一些想法，而不希望深入讨论，可以直接通过此表反馈，
+
+<iframe width="100%" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__jtRrTNUQURPOUpVMUFNRjhTUVRGRTVPNFBEVElBWi4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+
+## 合作
+
+你可以通过 jamesflare@schoolmelon.com 和我们联系。说明合作内容，最好简要地介绍一下项目。
+
+亦可以通过Telegram（[@JamesFlareV2](https://t.me/JamesFlareV2)）和我们联系。
+
 ## Roadmap
 
-### 内容
-
-#### 已确认
+### 已确认
 
 - [x] [USCD - 颜宇琪（毒品、虐童、勒索）](/posts/uscd-yuqiyann/)
   - [x] ~~ucsd瓜.pdf~~
@@ -187,7 +203,7 @@ flowchart TB
 - [ ] [NYU - 王子聪 多项指控（骗取、虐待、欺骗）](/posts/nyu-wang-zicong/)
   - [x] nyu渣男王子聪.pdf
 
-#### 待确认
+### 待确认
 
 - [x] ~~ucsd瓜.pdf~~
 - [x] ~~UCSD人渣软饭男，骗女生10余人，出轨pc偷钱偷包偷衣服虐猫蹭吃蹭住勾搭友妻刷室友信用卡借钱不还_纯图版.pdf~~
@@ -225,16 +241,3 @@ flowchart TB
 - [ ] 墨尔本DJ鸭子软饭硬吃pdf(1).pdf
 - [ ] 女同快逃！避雷南安LES渣女-边PUA女友边出轨撩骚-.pdf
 - [ ] 王婆刀鱼面 盗图行为恶劣.pdf
-
-#### 已归档
-
-等待中
-
-### 特性
-
-- [x] Tag分类
-- [x] 中文模糊搜索
-
-### Bug
-
-- [ ] 等待中
