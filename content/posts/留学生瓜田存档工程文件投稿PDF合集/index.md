@@ -2,7 +2,7 @@
 slug: lxsguatian-pdf
 title: 留学生瓜田存档 工程文件 投稿PDF合集
 subtitle:
-date: 2023-05-19T12:18:01+08:00
+date: 2023-05-21T12:18:01+08:00
 draft: false
 author:
   name: James
@@ -64,6 +64,10 @@ repost:
 - [悉尼牛子战神传.pdf](https://oss.schoolmelon.com/source/usyd-genitalia-er.pdf)
 - [诺丁汉谢俊事件详细记录.pdf](https://oss.schoolmelon.com/source/uon-xie-jun.pdf)
 - [南安普顿新瓜1.0版本.pdf](https://oss.schoolmelon.com/source/soton-sun-mo-hao.pdf)
+- [kcl 骗炮渣男避雷.pdf](https://oss.schoolmelon.com/source/kcl-xing-lecong.pdf)
+- [nyu 渣男王子聪.pdf](https://oss.schoolmelon.com/source/nyu-wang-zicong.pdf)
+- [UCSD 绿帽奴合集.pdf](https://oss.schoolmelon.com/source/uscd-oh-my-gosh.pdf)
+- [埃克塞特_陈邦瑞.pdf](https://oss.schoolmelon.com/source/uk-chen-bangrui-b.pdf)
 
 ### 其余 PDF 合集
 
@@ -72,12 +76,8 @@ repost:
 {{< /admonition >}}
 
 - 【悉尼er清算系列】网红预科泰勒出圈13秒视频，Waterfall高端公寓变身女子ufc决赛现场，背后真相突出一个离谱.pdf
-- kcl骗炮渣男避雷.pdf
-- nyu渣男王子聪.pdf
-- UCSD绿帽奴合集.pdf
-- 埃克塞特_陈邦瑞.pdf
-- 爱丁堡下头装b男
-- 澳洲大瓜：布里斯班UQ04渣女在线教学如何成为时间管理大师
+- 爱丁堡下头装b男.pdf
+- 澳洲大瓜：布里斯班UQ04渣女在线教学如何成为时间管理大师.pdf
 - 贝法王子录（七夕专供）.pdf
 - 伯明翰造谣王田歌.pdf
 - 布里斯班大瓜：uq泰迪自称纯情男高，风骚半生归来仍是处男.pdf

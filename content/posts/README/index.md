@@ -188,6 +188,7 @@ flowchart TB
   - [x] ~~约克大学22管理系Riz陈俞健Npd人格家暴+伪富二代+PUA+精神控制 1.pdf~~
 - [x] [UK - 陈邦瑞 时间管理能力超群](/posts/uk-chen-bangrui/)
   - [x] ~~英区新瓜：英国渣男陈邦瑞骗我感情的半年.pdf~~
+  - [x] ~~埃克塞特_陈邦瑞.pdf~~
 - [x] [UK - 佚名 多次骗人、出轨不断](/posts/uk-wzj/)
   - [x] ~~英区大瓜：重生之我在格拉斯哥当公交.pdf~~
 - [x] [TUoS - 阚博文 聊骚、欠钱、分手诋毁](/posts/tuos-kan-bowen/)
@@ -200,8 +201,10 @@ flowchart TB
   - [x] 南安普顿新瓜1.0版本.pdf
 - [x] [KCL - 邢乐聪 涉嫌性骚扰 欺骗女性](/posts/kcl-xing-lecong/)
   - [x] ~~kcl骗炮渣男避雷.pdf~~
-- [ ] [NYU - 王子聪 多项指控（骗取、虐待、欺骗）](/posts/nyu-wang-zicong/)
-  - [x] nyu渣男王子聪.pdf
+- [x] [NYU - 王子聪 多项指控（骗取、虐待、欺骗）](/posts/nyu-wang-zicong/)
+  - [x] ~~nyu渣男王子聪.pdf~~
+- [x] [UCSD 绿帽哥 引发校园内部罗生门](/posts/uscd-oh-my-gosh/)
+  - [x] ~~UCSD绿帽奴合集.pdf~~
 
 ### 待确认
 
@@ -219,8 +222,8 @@ flowchart TB
 - [x] 【悉尼er清算系列】网红预科泰勒出圈13秒视频，Waterfall高端公寓变身女子ufc决赛现场，背后真相突出一个离谱.pdf
 - [x] ~~kcl骗炮渣男避雷.pdf~~
 - [x] nyu渣男王子聪.pdf
-- [ ] UCSD绿帽奴合集.pdf
-- [ ] 埃克塞特_陈邦瑞.pdf
+- [x] ~~UCSD绿帽奴合集.pdf~~
+- [x] ~~埃克塞特_陈邦瑞.pdf~~
 - [ ] 爱丁堡下头装b男
 - [ ] 澳洲大瓜：布里斯班UQ04渣女在线教学如何成为时间管理大师
 - [ ] 贝法王子录（七夕专供）.pdf
