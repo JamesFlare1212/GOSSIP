@@ -253,7 +253,7 @@
     [params.home.posts]
       enable = true
       # special amount of posts in each home posts page
-      paginate = 12
+      paginate = 15
 
   # FixIt 0.2.16 | CHANGED Social config about the author
   [params.social]
