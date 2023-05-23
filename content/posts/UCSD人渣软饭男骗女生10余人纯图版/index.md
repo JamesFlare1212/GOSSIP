@@ -15,7 +15,7 @@ license:
 comment: true
 weight: 0
 tags:
-  - USCD
+  - UCSD
   - Boy
   - Criminal
   - US
