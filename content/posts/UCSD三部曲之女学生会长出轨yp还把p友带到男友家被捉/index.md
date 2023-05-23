@@ -2,7 +2,7 @@
 slug: ucsd-li-zhuofan
 title: UCSD - 李卓凡 中国学生会主席 多项渣女行为
 subtitle: 在男友家出轨，和兄弟聊骚，花10万美刀，女留学生还想送他进局子
-date: 2023-05-23T17:55:22+08:00
+date: 2023-05-23T17:55:23+08:00
 draft: false
 author:
   name: James
