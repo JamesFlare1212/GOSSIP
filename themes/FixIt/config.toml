@@ -760,7 +760,7 @@
     # FixIt 0.2.18 | NEW Depends on the author's email, if the author's email is not set, the local avatar will be used
     enable = false
     # Gravatar host, default: "www.gravatar.com"
-    host = "" # ["cn.gravatar.com", "gravatar.loli.net", ...]
+    host = "https://gravatar.jamesflare.com/avatar" # ["cn.gravatar.com", "gravatar.loli.net", ...]
     style = "" # ["", "mp", "identicon", "monsterid", "wavatar", "retro", "blank", "robohash"]
 
   # FixIt 0.2.16 | NEW Back to top
