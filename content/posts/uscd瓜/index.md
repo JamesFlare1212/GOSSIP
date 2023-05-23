@@ -1,6 +1,6 @@
 ---
 slug: uscd-yuqiyann
-title: USCD - 颜宇琪（毒品、虐童、勒索）
+title: UCSD - 颜宇琪（毒品、虐童、勒索）
 subtitle: 毒品、虐童、勒索：曝光留学生颜Yu琪在美大行其道的罪恶行径
 date: 2023-05-12T17:50:24+08:00
 draft: false
@@ -15,7 +15,7 @@ license:
 comment: true
 weight: 0
 tags:
-  - USCD
+  - UCSD
   - Girl
   - Shanghai
   - Drug
