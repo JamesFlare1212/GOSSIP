@@ -758,9 +758,9 @@
   # FixIt 0.2.14 | NEW Gravatar config
   [params.gravatar]
     # FixIt 0.2.18 | NEW Depends on the author's email, if the author's email is not set, the local avatar will be used
-    enable = true
+    enable = false
     # Gravatar host, default: "www.gravatar.com"
-    host = "gravatar.jamesflare.com" # ["cn.gravatar.com", "gravatar.loli.net", ...]
+    host = "" # ["cn.gravatar.com", "gravatar.loli.net", ...]
     style = "" # ["", "mp", "identicon", "monsterid", "wavatar", "retro", "blank", "robohash"]
 
   # FixIt 0.2.16 | NEW Back to top
