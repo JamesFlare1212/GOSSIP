@@ -1,7 +1,7 @@
 title = "瓜田 Neo"
 baseURL = "https://neo.schoolmelon.com"
 # determines default content language ["en", "zh-cn", "fr", "pl", ...]
-defaultContentLanguage = "en"
+defaultContentLanguage = "zh-cn"
 # language code ["en", "zh-CN", "fr", "pl", ...]
 languageCode = ["en", "zh-CN"]
 hasCJKLanguage = true
@@ -63,6 +63,17 @@ theme = ["hugo-video", "FixIt"]
     weight = 4
     [menu.main.params]
       icon = "fa-solid fa-users fa-fw fa-sm"
+
+[languages]
+    [languages.zh-cn]
+    languageName = '中文'
+    contentDir = 'content'
+    weight = 1
+
+    [languages.en]
+    languageName = 'English'
+    contentDir = 'content.en'
+    weight = 2
 
 # Markup related configuration in Hugo
 [markup]
