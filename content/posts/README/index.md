@@ -176,7 +176,7 @@ flowchart TB
 
 ### 已确认
 
-- [x] [USCD - 颜宇琪（毒品、虐童、勒索）](/posts/uscd-yuqiyann/)
+- [x] [UCSD - 颜宇琪（毒品、虐童、勒索）](/posts/uscd-yuqiyann/)
   - [x] ~~ucsd瓜.pdf~~
 - [x] [UCSD - 罗骏哲 多次违法行为曝光](/posts/uscd-david/)
   - [x] ~~UCSD人渣软饭男，骗女生10余人，出轨pc偷钱偷包偷衣服虐猫蹭吃蹭住勾搭友妻刷室友信用卡借钱不还_纯图版.pdf~~
