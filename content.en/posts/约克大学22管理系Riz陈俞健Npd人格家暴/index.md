@@ -1,7 +1,7 @@
 ---
 slug: yu-chen-yujian
-title: YU - 陈俞健（家暴、虚伪、PUA）
-subtitle: 一个女孩的爱情悲剧：曝光现实中的男女关系不平等
+title: YU - Chen Yu Jian (Domestic Violence, Hypocrisy, PUA)
+subtitle: "A girl's love tragedy: Exposing the unequal male-female relationship in reality"
 date: 2023-05-14T22:07:11+08:00
 draft: false
 author:
@@ -9,7 +9,7 @@ author:
   link:
   email:
   avatar:
-description: 这篇文章揭露了一个以虚假承诺为代价的现代爱情悲剧。这位女孩被一个已婚男人欺骗进入了虎穴。她所描述的故事充满了痛苦和心碎，她一直对他宽容，但他却只在乎自己的感受。一个已婚男人的行为，让她经历了家暴，受到了精神和情感的伤害。这个故事令人唏嘘，因为许多人在现实生活中都有类似的经历。本文提供了一个反思的思考，揭示了现代男女关系中的不平等性和错综复杂的情感网。
+description: This article exposes a modern love tragedy that comes at the cost of false promises. The girl was deceived into a trap by a married man. The story she describes is full of pain and heartbreak, as she has been forgiving of him but he only cares about his own feelings. The behavior of a married man has caused her to experience domestic violence and emotional harm. This story is poignant because many people have similar experiences in real life. This article provides a reflective thinking, revealing the inequality and intricate emotional web in modern male-female relationships.
 keywords:
 license:
 comment: true
@@ -26,7 +26,7 @@ categories:
   - GOSSIP
 hiddenFromHomePage: false
 hiddenFromSearch: false
-summary: 这篇文章揭露了一个以虚假承诺为代价的现代爱情悲剧。这位女孩被一个已婚男人欺骗进入了虎穴。她所描述的故事充满了痛苦和心碎，她一直对他宽容，但他却只在乎自己的感受。一个已婚男人的行为，让她经历了家暴，受到了精神和情感的伤害。这个故事令人唏嘘，因为许多人在现实生活中都有类似的经历。本文提供了一个反思的思考，揭示了现代男女关系中的不平等性和错综复杂的情感网。
+summary: This article exposes a modern love tragedy that comes at the cost of false promises. The girl was deceived into a trap by a married man. The story she describes is full of pain and heartbreak, as she has been forgiving of him but he only cares about his own feelings. The behavior of a married man has caused her to experience domestic violence and emotional harm. This story is poignant because many people have similar experiences in real life. This article provides a reflective thinking, revealing the inequality and intricate emotional web in modern male-female relationships.
 resources:
   - name: featured-image
     src: featured-image.avif
@@ -46,178 +46,179 @@ repost:
 
 <!--more-->
 
-{{< admonition type=info title="来源" open=true >}}
-源文件地址：[约克大学22管理系Riz陈俞健Npd人格家暴+伪富二代+PUA+精神控制 1.pdf](https://oss.schoolmelon.com/source/yu-chen-yujian.pdf)  
-本文进行了重制以适合移动设备以及赋予通用性。
+{{< admonition type=info title="Source" open=true >}}
+Source file address: [约克大学22管理系Riz陈俞健Npd人格家暴+伪富二代+PUA+精神控制 1.pdf](https://oss.schoolmelon.com/source/yu-chen-yujian.pdf)
+
+This article has been re-designed to suit mobile devices and to be more universal.
 {{< /admonition >}}
 
-## 指控
+## Accusation
 
-### 隐瞒婚姻事实
+### Concealing Marriage
 
-他从国内到国外一直隐瞒着婚姻状况，让我答应他不告诉任何人，包括我的父母。他的妈妈早已知道他的婚姻状况。从我们认识开始，他就是一个很爱玩的男生，我们经常开着位置共享，所以我时常查看他做什么，去哪里。我观察到他几乎每周都在外面和朋友玩，甚至多次半夜还在外面玩剧本杀或者在酒吧，一直到第二天早上才回家。当时，我没有质问或者怀疑过他，只是认为他和朋友们去玩而已。其实，他在和我相处期间，和多位女孩搞不清楚状况，私下聊天或者一起出去，但我一直选择相信他。后来，他开始频繁和我见面，我们几乎每天都见面，一个月里也几乎天天相处，让我认为他已经改变了。
+He concealed his marital status from me from the time he came from China to Canada, and made me promise not to tell anyone, including my parents. His mother had already known about his marital status. From the beginning of our acquaintance, he was a playful boy, and we often shared locations, so I often checked what he was doing and where he was going. I noticed that he was almost always out with his friends every week, even playing murder mystery games or drinking at bars until the early morning hours before coming home. At that time, I never questioned or doubted him, I just thought he was out with his friends. In fact, during the time we were together, he was unclear about his situation with several girls, chatting with them privately or going out with them, but I always chose to believe him. Later, he began to meet me frequently, and we almost met every day, and we spent almost every day together in a month, which made me think he had changed.
 
-先看⼀遍家暴，再慢慢往下看吧
+Let's take a look at the domestic violence first, and then slowly scroll down.
 
-{{< admonition type=quote title="两次家暴图片 中度不适 PG16" open=false >}}
-{{< image src="fig-1.avif" width="320px" caption="两次家暴图片" >}}
+{{< admonition type=quote title="Two domestic violence pictures, moderately uncomfortable, PG16" open=false >}}
+{{< image src="fig-1.avif" width="320px" caption="Two domestic violence pictures" >}}
 {{< /admonition >}}
 
-### 出国前
+### Before Going Abroad
 
-在国内的时候，他对我还是很好的。虽然我们有吵架的时候，但在开心的时候，我们也会很开心。起初，他对我和我的家人很好，就像一家人一样。我妈妈特别喜欢他，总是夸他懂事。我掉进了他的甜言蜜语中，刚认识就对我各种关心问询，对我示好。他对我的好其实都是他一贯对待女生的套路，他早就习惯了。经常给我点外卖、带我出去玩、给我送花，一直来找我。现在才醒悟，其实这种男生的意图太明显了，没有人会无缘无故对你好。以及不要被突如其来的物质迷惑，他会突然对你这么好也会对别人好。那时候我领证完，我们也约定好互相保密。他那天回家很开心，他妈妈其实在打扫卫生时候抽屉里就看到了。他说今天做了一件很重大的事，他妈妈问他，会后悔吗？他信誓旦旦说绝对不会。他也和我承诺他准备好了一切再向我妈妈提亲，我说好，我等他。
+When he was still in China, he was very good to me. Although we had arguments sometimes, we also had happy times. At first, he treated me and my family well, like a family. My mom really liked him and always praised him for being sensible. I fell into his sweet words and caring inquiries from the beginning. He was good at treating girls, and he was used to it. He often ordered takeout for me, took me out to play, gave me flowers, and always came to see me. Now I realize that his intention was too obvious. No one will be nice to you for no reason. Also, don't be confused by sudden material things. He will suddenly be nice to you and to others. When I got my marriage certificate, we agreed to keep it a secret. He went home very happily that day, but his mom actually saw it in the drawer while cleaning. He said he did something very important that day, and his mom asked if he would regret it. He said confidently that he would not. He also promised me that he had prepared everything and would propose to my mom. I said okay, I would wait for him.
 
-在22年四月出国前几个月，因为疫情我一直封在他家里，每天和他朝夕相处。他的爸爸妈妈都是很好的人，对我也很好。我总是观察他喜欢吃什么，想买什么。以前我和他约会，我有个笔记本，会记录每次约会的心情，记录我们一起去了哪发生什么开心还是不开心，他喜欢吃什么喜欢什么。直到写完我就没再记录了。出国前他很想买的东西，我偷偷给他买了。他还特意发了个朋友圈，我当时真的很开心。以前他都是主动发朋友圈，问我为什么还不发。这出了国就是万象更新了。
+In the months before going abroad in April 2022, I was always locked up in his house because of the pandemic, and we were together day and night. His parents were very nice to me too. I always observed what he liked to eat and what he wanted to buy. Before, when we went on a date, I had a notebook to record my feelings, what happened when we went out, whether it was happy or not, what he liked to eat and what he liked. After I finished writing, I stopped recording. I secretly bought him something he really wanted before going abroad. He even posted a WeChat Moment about it, and I was really happy at that time. He used to post WeChat Moments actively and asked me why I didn't post. Everything changed after going abroad.
 
-第一次送机的飞机取消了，本来那天我也打车准备回家，他和我说取消了我们一起回家吧，我一下子在车上哭了出来，立马返回和他一起回家，想着又能在一起多几天。第二次帮他一起收拾了行李送他去机场，我对他是真的不舍和想念。他在走之前把手机壁纸换成了我的照片，说最后让你开心几天。我还没意识到我的噩梦即将开始，只有对他的不舍。现在的他早已不再是以前的他，出了国之后完全变了一个人，变得极其自私，只想自己开心。
+The first time the flight he booked for me was cancelled, and I was originally planning to take a taxi home that day. He suggested that we go home together since the flight was cancelled. I burst into tears in the car and immediately turned back to go home with him, thinking that we could be together for a few more days. The second time, I helped him pack his luggage and sent him to the airport. I really missed him. Before he left, he changed his phone wallpaper to my photo and said, "I want you to be happy for a few more days." I didn't realize that my nightmare was about to begin, I only felt sad about his departure. He has changed completely after going abroad, becoming extremely selfish and only wanting to make himself happy.
 
-### 喜欢撒谎立人设
+### Likes to Lie and Create a False Persona
 
-我最讨厌的是他对我一直说谎，从一开始就一直撒谎，建立了虚假的人设，后来我了解到实情后，他对我说什么男孩子吹吹牛逼很正常。从小到大，所有大大小小的事都是撒谎，像他妈妈开911，他爸爸开AMG（但事实上他妈妈根本不会开车，他爸爸是开网约车的）。他喜欢在同学面前炫富，非常在乎自己的面子，虚荣心很强，要把自己塑造成“富二代”。
+What I dislike the most about him is that he has been lying to me from the beginning, creating a false persona. Later, when I found out the truth, he told me that it's normal for boys to brag. From childhood to adulthood, everything he said was a lie, like his mother driving a Porsche 911 and his father driving an AMG (but in reality, his mother doesn't even know how to drive, and his father is a ride-hailing driver). He likes to show off his wealth in front of classmates, cares a lot about his reputation, and has a strong sense of vanity, wanting to portray himself as a "rich second generation."
 
-我从来不在乎他是否真的拥有这些物质上的东西，只是希望和他过简单而快乐的生活。我希望他能够跟我说实话。从我认识他的时候，他的名字和年龄都是假的。我和我的妈妈喊了几个月的他的假名字。因为我当时百依百顺地听从他，他说什么我就信什么。他觉得我很听话，不忍心欺骗我，就告诉了我实情，但要我不要告诉我的妈妈。我答应了他。然而，我私下里告诉了我的妈妈，有一天她喊他的名字喊漏嘴，喊出了他的真名。他私下里对我很生气地说，并说我违背了自己的诺言，转身告诉了我的妈妈。
+I never cared whether he really had these material things or not, I just wanted to live a simple and happy life with him. I hoped he could tell me the truth. When I first met him, his name and age were both fake. My mom and I called him by his fake name for months. Because I was obedient and believed everything he said. He thought I was obedient and didn't want to deceive me, so he told me the truth but asked me not to tell my mom. I promised him, but I secretly told my mom, and one day she accidentally called him by his real name. He was angry with me for breaking my promise and told my mom.
 
-我陪他过了两年生日，我对他的用心大家都看在眼里，我的眼神里充满了对他的爱，但他对我只是越来越视而不见。
+I spent two birthdays with him, and everyone could see how much effort I put into it and how much love was in my eyes, but he only became more and more distant towards me.
 
-### NPD 自恋型人格
+### NPD Narcissistic Personality Disorder
 
-无意间看到一篇关于NPD人格障碍的内容，发现他的行为符合这种自恋型的人格障碍。
+I accidentally came across an article about NPD personality disorder and found that the behavior of the person in question matches this type of narcissistic personality disorder.
 
-{{< admonition type=quote title="判断一个人是否NPD的一些特征" open=false >}}
-以下列举的每一点都需要你的自我盘识与自我反省。因为如果你想发现具有“毒型人格”的人，就不能把所有关注都只放在他们的行为本身。你也将学会注意自己心中升起的预警信号。
+{{< admonition type=quote title="Some characteristics to judge whether a person has NPD" open=false >}}
+Each of the following points requires self-reflection and introspection. If you want to identify someone with a "toxic personality," you cannot focus solely on their behavior. You will also learn to pay attention to the warning signals that arise in your own mind.
 
-- 他们会无限放大你的缺点，并让你看起来像不正常的那个。
-- 他们不会考虑任何人的立场思考。
-- 他们都是些彻头彻尾的伪君子。
-- 他们会不受控制地撒谎和给自己找借口。只关注你的错误，忽略他们自己的。
-- 你会发现自己不得不对一个健全的成年男（女）人解释人与人之间最基本的尊重。
-- 他们通常都极其自私，并且对他人的关注有看热闹的渴求。
-- 他们会激起你的极端情绪，然后反过来指责你。
-- 你会逐渐发现自己恋爱谈得像侦探破案一样。
-- 你会是唯一见识到他们真面目的人。
-- 你会开始担心你们的任何一次争执都可能变成最后一次。
-- 他们会缓慢而毒辣地逐渐侵犯你的底线与边界。
-- 他们永远不会给你足够的关注，并慢慢地瓦解你的自尊心。
-- 他们不主动和你沟通，反而期待你能读心一样准确地猜出他们在想什么。
-- 在这样一个人身边，你总是会感到紧张、不安，但是你依然希望他们能喜欢你。
-- 你会发现他们过去遇到的所谓“神经病”多得让你不太正常。
-- 他们会一边装无所谓，一边伤害你的嫉妒心和故意。
-- 他们会在一开始把你捧上天，用爱塞满你，把你理想化到极致。
-- 他们会拿你和他们生活中的所有人进行对比。
-- 你身上那些他们曾经说喜欢的品质，过了一段时间就变成了不容忍的缺陷。
-- 你会观察到他们那张完美的面具上偶然出现的裂缝。
-- 他们很容易感到厌倦，做事情都是三分钟热度。
-- 存在三角关系或多地关系。
-- 在亲密关系中，他们会展现出隐藏的虐待行为，而在外人面前则表现出完全不同的一套。
-- 他们会通过悲惨的故事换取同情，并把它化为己用。
-- 他们会加大棒的无限循环，即不断赞扬和贬低、打压。
-- 这个人会成为你生活的全部，你会慢慢变得没有朋友，没有爱好。
-- 他们极其傲慢，有特权感。
-- 喜欢讨论说人坏话，具体的内容一会儿一变。
-- 最重要的信号，是你的内心感受。
+- They will magnify your flaws infinitely and make you look abnormal.
+- They do not consider anyone else's perspective.
+- They are all complete hypocrites.
+- They will lie and make excuses uncontrollably, only focusing on your mistakes while ignoring their own.
+- You will find yourself having to explain the most basic form of respect between people to a healthy adult.
+- They are usually extremely selfish and have a desire to watch others suffer.
+- They will evoke extreme emotions from you and then turn around and blame you for it.
+- You will gradually find yourself investigating a relationship like a detective.
+- You will be the only one who sees their true face.
+- You will start to worry that any argument you have could be the last one.
+- They will slowly and maliciously invade your boundaries and limits.
+- They will never give you enough attention and slowly chip away at your self-esteem.
+- They do not communicate proactively and instead expect you to read their minds accurately.
+- Around this person, you will always feel nervous and uneasy, but you still hope they will like you.
+- You will find that they have encountered many so-called "psychos" in the past.
+- They will pretend not to care while intentionally hurting your jealous feelings.
+- They will put you on a pedestal, shower you with love, and idealize you to the extreme at the beginning.
+- They will compare you to everyone else in their life.
+- The qualities they once said they liked about you will eventually turn into intolerable flaws.
+- You will observe occasional cracks in their perfect mask.
+- They easily get bored and have a short attention span.
+- There are triangular relationships or multiple relationships.
+- In intimate relationships, they will exhibit hidden abusive behavior, while showing a completely different set of behaviors in front of others.
+- They will trade tragic stories for sympathy and use it for their own benefit.
+- They will increase the cycle of praise and criticism, constantly suppressing you.
+- This person will become your entire life, and you will gradually lose your friends and hobbies.
+- They are extremely arrogant and have a sense of entitlement.
+- They like to talk about others behind their backs, and the specific content changes constantly.
+- The most important signal is your inner feeling.
 {{< /admonition >}}
 
-### 屏蔽朋友圈
+### Blocking Moments
 
-在2022年四月他出国后，他的妈妈说他一直叮嘱要给我做好吃的。实际情况是他到英国没多久就认识了小C，然后他屏蔽了我的朋友圈，装成单身，一边在他妈妈面前装着对我好，一边和小C出去玩，每天都跑去小C的宿舍给人做饭洗碗，并且频繁地找我吵架。还会给我发送和小C一起吃饭、游玩的照片，刺激我。在国内的半年时间里，我备受折磨。小C回国后被揭发，和我说处理完了，实际上他是删掉了小C。这一次，我原谅了他。同学们看着他在国内和国外两个人玩弄，却没有揭穿他已婚的事实。
+After he went abroad in April 2022, his mother told me that he always reminded her to cook something delicious for me. The reality was that he met Xiaoc while he was in the UK, and then he blocked my Moments, pretending to be single. On one hand, he pretended to be good to me in front of his mother, and on the other hand, he went out with Xiaoc every day, going to her dormitory to cook and wash dishes for her, and frequently picking fights with me. He even sent me photos of him eating and playing with Xiaoc, which was very hurtful. I was tortured for half a year while he was still in China. Xiaoc was exposed after she returned to China and told me that it was dealt with, but he actually just deleted Xiaoc. This time, I forgave him. Our classmates watched him play with two girls in China and abroad, but did not expose the fact that he was married.
 
-整天当着面看抖音小红书擦边女点赞，在我面前高谈阔论，手机里各种所谓的女性朋友聊骚，当着我的面和女生打视频假装是朋友，还说我小题大做责备我。在我等他来英国之前，他和数不清的女生暧昧语音视频，并且出轨行为频繁。以下是我们的聊天记录：
+He watched Douyin and Xiaohongshu all day long, liked posts from other girls in front of me, talked big in front of me, chatted with so-called female friends on his phone, pretended to be friends with girls on video calls in front of me, and even scolded me for making a fuss. Before he came to the UK to meet me, he had flirted with countless girls through voice and video calls, and had frequent affairs. Here are our chat records:
 
-{{< admonition type=quote title="聊天记录" open=false >}}
-{{< image src="fig-2.avif" width="480px" caption="聊天记录1" >}}
-{{< image src="fig-3.avif" width="480px" caption="聊天记录2" >}}
-{{< image src="fig-4.avif" width="480px" caption="聊天记录3" >}}
-{{< image src="fig-5.avif" width="480px" caption="聊天记录4" >}}
-{{< image src="fig-6.avif" width="480px" caption="聊天记录5" >}}
-{{< image src="fig-7.avif" width="480px" caption="聊天记录6" >}}
-{{< image src="fig-8.avif" width="480px" caption="聊天记录7" >}}
-{{< image src="fig-9.avif" width="480px" caption="聊天记录8" >}}
-{{< image src="fig-10.avif" width="480px" caption="聊天记录9" >}}
+{{< admonition type=quote title="Chat Records" open=false >}}
+{{< image src="fig-2.avif" width="480px" caption="Chat Record 1" >}}
+{{< image src="fig-3.avif" width="480px" caption="Chat Record 2" >}}
+{{< image src="fig-4.avif" width="480px" caption="Chat Record 3" >}}
+{{< image src="fig-5.avif" width="480px" caption="Chat Record 4" >}}
+{{< image src="fig-6.avif" width="480px" caption="Chat Record 5" >}}
+{{< image src="fig-7.avif" width="480px" caption="Chat Record 6" >}}
+{{< image src="fig-8.avif" width="480px" caption="Chat Record 7" >}}
+{{< image src="fig-9.avif" width="480px" caption="Chat Record 8" >}}
+{{< image src="fig-10.avif" width="480px" caption="Chat Record 9" >}}
 {{< /admonition >}}
 
-### 在英国PUA我
+### PUAing me in the UK
 
-我曾经到英国，他整天讨价还价，强制我AA。后来我申请了陪读签证去英国找他，可他却说没有人想要你来，签证和机票费用都要我自己承担。在我到达后，他在同学面前说我坏话，每个人都能看得出他敷衍我的态度。在宿舍里他整天压榨我，不管是在技能还是性格方面，都说我哪里都不好，什么都不会。他甚至说我影响了他的学习。在旅游方面，他让我AA，说他身边的同学都是这样做的。
+I went to the UK once, and he was always bargaining and forcing me to go Dutch. Later, I applied for a dependent visa to go to the UK to see him, but he said that no one wanted me to come and that I had to pay for my own visa and airfare. After I arrived, he bad-mouthed me in front of his classmates, and everyone could see his perfunctory attitude towards me. In the dormitory, he squeezed me all the time, saying that I was not good at anything, neither in skills nor in personality. He even said that I was affecting his studies. In terms of travel, he made me go Dutch, saying that all his classmates did the same.
 
-他跟我说，天天在做饭并照顾男友是真的好，然后他就不断用这些来刺激我，虽然我承认我不怎么会做饭，但我也帮忙洗碗和清理垃圾。我觉得，既然是夫妻，这些都是相互的，没有必要嫉妒别人。他知道我性格内向，不爱说话，但他总是在各种场合和我吵架，说我为什么不说话，一直逼迫我说话，甚至要我哄他开心，而我不愉快了，他还会责怪我乏力。他不让我在任何平台上发布我们的合影或视频，因为他想装成单身，不想让别的女生知道他已经有了女朋友，他说即使有女生主动向他示好，他也不必告诉我，这让我觉得很离谱。
+He told me that it was really good to cook and take care of your boyfriend every day, and then he kept using these things to stimulate me. Although I admit that I am not good at cooking, I also help with washing dishes and cleaning up garbage. I think that since we are a couple, these are mutual things, and there is no need to be jealous of others. He knew that I was introverted and didn't like to talk, but he always argued with me in various situations, asking me why I didn't speak, and even forced me to make him happy. When I was unhappy, he would blame me for being weak. He didn't allow me to post our photos or videos on any platform because he wanted to pretend to be single and didn't want other girls to know that he already had a girlfriend. He even said that even if other girls actively approached him, he didn't have to tell me, which I found very unreasonable.
 
-### 在火车上生气
+### Getting Angry on the Train
 
-有一次我们去达西玩，他答应和我拍照。到了那里，当我提出要求拍照时，他却拒绝了。我对他说：“你之前答应我，现在又不想拍照了。”他看到我失望的样子，我忍不住想哭。他一次次拒绝我，让我很难过。一路上，他也一直不开心，让我说些什么让他开心的话，逼迫我说话。
+Once, we went to Daxi for fun, and he promised to take pictures with me. When we got there and I asked to take pictures, he refused. I said to him, "You promised me before, and now you don't want to take pictures?" Seeing my disappointed look, I couldn't help but want to cry. He repeatedly refused me, making me very sad. On the way, he was also unhappy and forced me to say things that would make him happy.
 
-我说：“我知道不该逼你，如果不想拍就算了吧。”我哭着推着他，告诉他别再生气了，但他还是生气。他要我说话，逼我说出一些有用的话来，让他高兴。但我说不出来，他表情狰狞，还是不开心。旁边一位老奶奶看到这一幕后，向警察举报了我们，车停下后，我、他和他的两个同学被警察盘问。
+I said, "I know I shouldn't force you. If you don't want to take pictures, forget it." I pushed him while crying, telling him not to be angry anymore, but he was still angry. He wanted me to talk and forced me to say something useful to make him happy. But I couldn't, and his expression was grim, and he still wasn't happy. An old lady next to us saw this scene and reported us to the police. After the train stopped, me, him, and his two classmates were questioned by the police.
 
-警察看到我哭了，问我是否受到了人身伤害。作为我的男友，我可以很清楚地说出来如果他对我不好，我会受到伤害。但我为了保护他，向警察说只是情侣间的小吵小闹，我太敏感了，所以哭了。警察问了我们一段时间，后来离开了。但是在回家的路上，他在同学面前大声喊叫，让我滚开。我告诉他的朋友这是小事，我们可以好好沟通，等待他的安慰。他的态度也慢慢好了起来，等他的同学离开后，他打了我一拳，说我让他掉了颜面。
+The police saw me crying and asked if I had been physically harmed. As his girlfriend, I could clearly say that I would be hurt if he treated me badly. But to protect him, I told the police that it was just a minor quarrel between lovers, and I was too sensitive, so I cried. The police questioned us for a while and then left. But on the way back home, he shouted loudly in front of his classmates, telling me to get out. I told his friends that it was a small matter, and we could communicate well and wait for his comfort. His attitude gradually improved, and after his classmates left, he punched me and said that I had embarrassed him.
 
-我一直在道歉，说我知道自己错了，不会这样做了。他每次情绪好的时候，我们之间都相处得很好。但是每次吵架，他就会变得情绪激动，说难听的话，指责我做他不喜欢的事。
+I kept apologizing, saying that I knew I was wrong and would not do it again. Every time he was in a good mood, we got along well. But every time we quarreled, he became emotionally excited, said hurtful things, and accused me of doing things he didn't like.
 
-### 第二次家暴
+### Second Domestic Violence Incident
 
-第二个故事发生于伦敦的一个酒店，具体时间是12月6日。我发现他把我屏蔽在了他的朋友圈里。这种情况之前他也干过，我很不满意，就问他为什么这么做。他说不喜欢我看他的朋友圈，就给我关掉了。我哭着对他说，你请把朋友圈还给我看，他不依不饶，并实施了家暴行为。把我闷在被子里掐打，让我闭嘴。我差点窒息，要他松手。他看到我的脸上都是伤口，才松手。这个晚上的伤痛是我一辈子都忘不掉的，因为我爸妈从来没有打过我。
+The second incident occurred in a hotel in London on December 6th. I found out that he had blocked me from seeing his WeChat Moment. He had done this before, and I was unhappy about it, so I asked him why he did it. He said he didn't like me looking at his WeChat Moment, so he turned it off for me. I cried and told him to give me back the ability to see his WeChat Moment. He refused and then proceeded to commit an act of domestic violence against me. He covered me with a blanket and choked me, telling me to shut up. I almost suffocated and begged him to let go. He finally let go when he saw the bruises on my face. The pain of that night is something I will never forget because my parents had never hit me before.
 
-之后，他又把一杯水泼在我的头上，问我是不是冷静了。他还问我有什么方法能够让我原谅他，并想要怎样赎罪。我说还没有想好，想好了再和他说。之后这个赎罪就没有下文了。我没有看到任何诚意的道歉，心里空空的。第二天，我戴上口罩强忍着疼痛，他看到我眼睛上淤血的很严重，就让我去买创可贴贴一下。我们之后就去吃饭了，但我踏进餐厅时就感觉非常尴尬，生怕别人看到我脸上的伤痕。坐下后我也不说话，他的两个朋友也不敢出声，吃饭的时候我不得不摘下口罩。大家都看到了我的伤口，而我吃东西时脸都感觉到疼痛，但还是强忍完了这顿饭。
+Afterwards, he poured a glass of water on my head and asked me if I had calmed down. He also asked me how he could make it up to me and what he could do to redeem himself. I said I hadn't thought about it yet and would let him know when I did. However, there was no follow-up on this redemption. I didn't see any sincere apologies, and my heart felt empty. The next day, I wore a mask and endured the pain. When he saw the severe bruising around my eyes, he asked me to buy some band-aids to put on them. We went out to eat afterwards, but I felt very uncomfortable when we entered the restaurant, afraid that people would see the bruises on my face. I didn't speak during the meal, and his two friends didn't dare to say anything either. When I took off my mask to eat, everyone saw the bruises on my face. Even though my face was in pain while I was eating, I endured it and finished the meal. 
 
-{{< admonition type=quote title="两次家暴图片 中度不适 PG16" open=false >}}
-{{< image src="fig-1.avif" width="320px" caption="两次家暴图片" >}}
+{{< admonition type=quote title="Two Images of Domestic Violence, Moderately Disturbing, PG16" open=false >}}
+{{< image src="fig-1.avif" width="320px" caption="Two Images of Domestic Violence" >}}
 {{< /admonition >}}
 
-### 埃及记录
+### Record in Egypt
 
-时间是12.11-19，我们去埃及旅游。在机场，他的同学看到我的眼睛和嘴唇都肿了，还戴着口罩。他的同学问他是否家暴了我，帮我说话，但是他马上否认了，我低着头没敢说话，然后一直维护他。
+From November 12th to 19th, we went to Egypt for a trip. At the airport, his classmate saw that my eyes and lips were swollen and I was wearing a mask. His classmate asked him if he had abused me and spoke up for me, but he immediately denied it, and I lowered my head and didn't dare to speak, and then he kept defending himself.
 
-在埃及，每天要坐很久的车，走很多路，我一直在不停地咳嗽，大部分时间都在车上睡觉，身体也不舒服。他责备我总是睡觉，甚至还嫌我一个人睡觉。
+In Egypt, we had to sit on the bus for a long time every day and walk a lot. I kept coughing and sleeping most of the time on the bus, and my body was uncomfortable. He blamed me for sleeping all the time and even complained that I slept alone.
 
-晚上我还在一直咳嗽，时不时发生剧烈咳嗽发作。导游看到我这么难受，偷偷去买了瓶止咳水给我。因为第一天我们就丢失了行李箱，买了新的换洗衣物。我身体要好多了，每天都要去卫生间手洗我们的随身衣物，然后让他穿上新换的衣服，但始终没有听到一个谢谢的话。
+At night, I was still coughing, and sometimes had severe coughing fits. The tour guide saw me suffering so much and secretly bought a bottle of cough syrup for me. Because we lost our luggage on the first day, we had to buy new clothes. My health improved a lot, and every day I had to wash our personal clothes in the bathroom and let him wear the newly changed clothes, but I never heard a thank you from him.
 
-### 找女性朋友聊骚
+### Chatting with Female Friends
 
-他刚过完生日，情人节和周年纪念日（2月14日和2月15日），我提议我们一起去吃饭庆祝，但他都不愿意。即使他每天都在身边，半夜还在私信所谓关系好的女性朋友。
+He had just celebrated his birthday, Valentine's Day, and our anniversary (February 14th and 15th), and I suggested that we go out to dinner to celebrate, but he was not willing to. Even though he was with me every day, he would still privately message female friends in the middle of the night.
 
-于是我联系了这位女生，她明确告诉我，是我的男友主动跟她联系，而且说话内容十分恶心。他和我说，他们之间的好朋友都是这样交流的。
+So I contacted this girl, and she clearly told me that my boyfriend had contacted her first and that the content of the conversation was disgusting. He told me that this was how good friends talked to each other.
 
-我们还吵过一次架，他想赶我回国，撕开了我送给他的礼物、贺卡和结婚证书把它们扔在地上。我坐在地上哭到崩溃，一点点捡起来并试图把它们拼好。但他却让我别哭了，真是烦人。稍微好受一些后，他告诉我，他会给我重新办理证书，并把它们粘回去。最后，是我回国把这一袋子碎片带回来把它们拼好了。
+We also had a fight once, and he wanted to send me back to my home country. He tore up the gifts, cards, and marriage certificate I had given him and threw them on the ground. I sat on the ground crying until I broke down, picking up the pieces and trying to put them back together. But he told me to stop crying, which was really annoying. After I felt a little better, he told me that he would reissue the certificate for me and stick them back together. In the end, it was me who brought the bag of broken pieces back to my home country and put them back together.
 
-我的心受到了伤害，第二天他突然告诉我，再也不想和我说话了，也不打算赶我走（似乎假惺惺的，但是又不确定要干什么）。他甚至和那个女性朋友关系导致我寒心。
+My heart was hurt, and the next day he suddenly told me that he didn't want to talk to me anymore and didn't plan to send me away (seems hypocritical, but not sure what he was going to do). His relationship with that female friend even caused me to feel cold-hearted.
 
-{{< admonition type=quote title="情人节活动" open=false >}}
-{{< image src="fig-11.avif" width="480px" caption="情人节蛋糕" >}}
-{{< image src="fig-12.avif" width="320px" caption="蛋糕碎片" >}}
+{{< admonition type=quote title="Valentine's Day Activity" open=false >}}
+{{< image src="fig-11.avif" width="480px" caption="Valentine's Day Cake" >}}
+{{< image src="fig-12.avif" width="320px" caption="Cake Fragments" >}}
 {{< /admonition >}}
 
-{{< admonition type=quote title="女性朋友截图" open=false >}}
-{{< image src="fig-13.avif" width="480px" caption="女性朋友截图1" >}}
-{{< image src="fig-14.avif" width="480px" caption="女性朋友截图2" >}}
+{{< admonition type=quote title="Female Friend Screenshots" open=false >}}
+{{< image src="fig-13.avif" width="480px" caption="Female Friend Screenshot 1" >}}
+{{< image src="fig-14.avif" width="480px" caption="Female Friend Screenshot 2" >}}
 {{< /admonition >}}
 
-### 逼我回国
+### Forcing Me to Return Home
 
-在旅行期间，我们再次吵架，他逼我回国。在三四月期间，我们旅游行程满满的，在比利时14号至17号期间，他因为我不言语而与我发生争吵，我哭着求助于我母亲。他告诉我母亲让我回国，否则会影响他的学习和心情。他再次将朋友圈的内容锁定。之后，他对我进行PUA，要我服从一次，每次吵架都是我道歉，他说他不需要道歉，只要做些实实在在让他开心的事情。那天一直纠缠到早上五点多，他说法国和瑞士都不用去了，全都是我的错。我只能低头承认我不对，我会乖，我不应该这样让他不开心。然后他就不再和我发脾气了。他的母亲也一直追问他我什么时候回国，我们早已计划好旅行的所有行程。我说我会在4月初前往法国和瑞士旅行，然后回国。我们预订了法国和瑞士的酒店、机票和门票，我们已经支付了这些费用。我们订了三个酒店，只有一个酒店可以申请退款，我就申请了退款。我母亲私下里告诉他，这次旅行我没有去，就浪费了很多钱。退款的那个酒店的钱就给我，你可以给我一点补偿。他同意了，并表示不问我就不会知道这个事情。他问我让他最后两天在哪里住。我就把退回的一部分钱给了他。
+During our trip, we had another argument and he forced me to return home. In March and April, our travel schedule was full. On the 14th to 17th of April, we had a fight because I didn't speak up, and I cried and sought help from my mother. He told my mother that I should return home, or it would affect his studies and mood. He locked down his WeChat Moment again. After that, he used PUA on me, asking me to obey him once. Every time we argued, I would apologize, and he said he didn't need to apologize as long as I did something that made him happy. We argued until after five o'clock in the morning, and he said we didn't need to go to France and Switzerland anymore, and it was all my fault. I had to admit that I was wrong, and promised to be good and not make him unhappy. After that, he stopped getting angry with me. His mother kept asking him when I would return home, and we had already planned all our travel arrangements. I said I would travel to France and Switzerland in early April and then return home. We had booked hotels, plane tickets, and tickets for France and Switzerland, and we had already paid for them. We had booked three hotels, and only one could be refunded, so I applied for a refund. My mother told him privately that I didn't go on the trip, and it wasted a lot of money. He agreed to compensate me and said he wouldn't know if I didn't tell him. He asked me where he could stay for the last two days. I gave him the refunded money.
 
-我母亲几天来一直被我们的争吵所困扰，引发了心脏早搏。我听从了她的话，买了回来的机票。在我要离开前，他告诉我他想一起去，我们可以一起旅游。我说机票很贵，我没有多余的钱了，我不想浪费那么多钱。他说他会在回到宿舍后出去买菜，下次旅行他会和同学去，自己旅游。
+My mother had been troubled by our quarrels for several days, which caused her to have premature ventricular contractions. I listened to her and bought a return ticket. Before I left, he told me he wanted to go with me, and we could travel together. I said the plane ticket was expensive, and I didn't have any extra money. I didn't want to waste so much money. He said he would go out to buy groceries after returning to the dormitory and travel with his classmates the next time, and travel alone.
 
-### 态度冷漠
+### Indifferent Attitude
 
-在我回国后，他对我的态度十分冷漠。我问他一句话，他回复两个字，而且每次回复要几个小时。我实在忍无可忍，他这样不尊重自己的妻子，不把我放在眼里。
+After I returned to China, he became very indifferent to me. Whenever I asked him a question, he would reply with just two words, and it would take him several hours to reply. I couldn't take it anymore. He didn't respect his wife and didn't value me.
 
-我告诉了妈妈我受到家暴的事情，还向那位女性朋友透露，我们已经领了结婚证了。她听了非常震惊。在他去瑞士旅游的时候，他的爷爷生病了。他打电话给那个女孩宝宝，但她没有怀念他。那女孩很生气，在社交网络上回复评论来抵制社会渣滓。他非常气愤，来轰炸我，说我找人家的目的是什么，害她被朋友骂而关系破裂。他一直喋喋不休地抱怨我回国就要找事，我被逼得只能提前结束旅程。我一直在忍受他的压迫，多次提醒他要有边界感，但我一回国就开始和别人聊天，永远不改变。
+I told my mother about the domestic violence I experienced and also told the female friend that we had already obtained our marriage certificate. She was shocked to hear this. When he went to Switzerland for a vacation, his grandfather fell ill. He called the girl he called "Baby," but she didn't miss him. The girl was very angry and replied to his comments on social media to resist social scum. He was very angry and attacked me, asking me what my purpose was in contacting her, causing her to be scolded by her friends and our relationship to break. He kept complaining that I was looking for trouble as soon as I returned to China, and I was forced to end my trip early. I have been enduring his oppression, reminding him to have boundaries, but he started chatting with other people as soon as I returned to China and never changed.
 
-我决定不再沉浸在恋爱幻想中。我对他始终真诚，经常去他家看望他的父母，从不空手而来，还给他养的小猫带好吃的。无论在国内还是国外，我总会在节日送他礼物，甚至我的母亲也经常问候他的母亲，但我换来的只是一个关于“农夫与蛇”的故事。
+I decided not to indulge in romantic fantasies anymore. I was always sincere to him, often visiting his parents' home, never empty-handed, and even bringing food for the cat he raised. Whether in China or abroad, I always gave him gifts on holidays, and even my mother often greeted his mother, but all I got was a story about "The Farmer and the Snake."
 
-{{< admonition type=quote title="女性朋友截图" open=false >}}
-{{< image src="fig-15.avif" width="320px" caption="女性朋友截图1" >}}
-{{< image src="fig-16.avif" width="320px" caption="女性朋友截图2" >}}
+{{< admonition type=quote title="Screenshots from Female Friend" open=false >}}
+{{< image src="fig-15.avif" width="320px" caption="Screenshot from female friend 1" >}}
+{{< image src="fig-16.avif" width="320px" caption="Screenshot from female friend 2" >}}
 {{< /admonition >}}
 
-回国时，我的家人在机场接我，看到我的样子消瘦了一圈，脸上也没有开心的表情。我告诉家人了他对我实施家暴和其他事情的真相，家人很痛心，对他非常失望。他的妈妈感到非常愧疚，我们找了她，希望她能对家暴事件做出真心诚意的道歉或公开承认自己已婚。如果她不考虑这个问题，那么我的家人也不会心软，我曾经给他多次机会，他的妈妈也向我们传达过他的原话，他说我是自己打自己，我们不能证明是他的错。在他家里，他曾经连自己的父亲都不尊重，他的妈妈亲口承认，现在轮到我和我的母亲了。他的妈妈溺爱他，愿意为他花大量的钱，但他从来没有给我买一件漂亮的衣服或者鞋子。有时候，我会建议我们不买那么贵的东西，他会说，“你管我？”他只在乎自己的开心。我以为他会诚意地向我道歉，但事实并非如此。我所描述的不仅是这些，还有很多，他的行为比我说的更加恶劣。我对他的付出毫无所得，他还侮辱和贬低我的人格。我对他宽容，他却污蔑和诋毁我。我感到非常痛心和窒息，现在他甚至已经将我在全网黑掉，他是一个自恋、品行败坏、没有良心、空虚的人。
+When I returned home, my family picked me up at the airport and saw how much weight I had lost and how unhappy I looked. I told them the truth about the domestic violence and other things he had done to me, and my family was very heartbroken and disappointed in him. His mother felt very guilty, and we contacted her in the hope that she would sincerely apologize for the domestic violence or publicly admit that he was already married. If she doesn't consider this issue, then my family won't be soft-hearted. I had given him many chances, and his mother had conveyed his words to us, saying that I was hitting myself and we couldn't prove it was his fault. In his home, he had even disrespected his own father, as his mother admitted, and now it was my turn and my mother's turn. His mother doted on him and was willing to spend a lot of money on him, but he never bought me a nice piece of clothing or shoes. Sometimes, I would suggest that we not buy such expensive things, and he would say, "What do you care?" He only cared about his own happiness. I thought he would sincerely apologize to me, but that was not the case. What I have described is not just this, there is much more, and his behavior is even worse than what I have said. I have gained nothing from my efforts for him, and he has insulted and belittled my character. I was tolerant of him, but he slandered and defamed me. I feel very heartbroken and suffocated, and now he has even blacklisted me on the entire internet. He is a narcissistic, morally corrupt, heartless, and empty person.
 
-## 评论
+## Comment
 
-> James，你怎么看？
+> James, what do you think?
 
-这是一个典型的精神控制，PUA，家暴案例。虽然我对当事人表示同情，但是相关问题的解决依旧是难题。无论是法理还是学界，希望各位在关系中识别人格缺陷，避免受伤害。
+This is a typical case of mental control, PUA, and domestic violence. Although I sympathize with the parties involved, the resolution of the relevant issues is still a challenge. Whether in terms of legal principles or academic research, I hope everyone can identify personality defects in relationships and avoid being harmed.
 
-> GPT，评价一下陈俞健。
+> GPT, evaluate Chen Yu Jian.
 
 {{< typeit >}}
-陈俞健的行为严重违背了夫妻之间的信任和尊重，对配偶实施家暴是绝对不能被容忍的。他既不忠于婚姻，又没有对自己的行为负责，表现出了非常自私和冷血的一面。这种人品缺陷和行为举止应该受到谴责和惩罚。
+Chen Yu Jian's behavior seriously violates the trust and respect between spouses, and domestic violence against a spouse is absolutely intolerable. He is not loyal to his marriage and is not responsible for his behavior, demonstrating a very selfish and callous side. Such personality defects and behaviors should be condemned and punished.
 {{< /typeit >}}

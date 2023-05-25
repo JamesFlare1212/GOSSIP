@@ -1,7 +1,7 @@
 ---
 slug: uk-chen-bangrui
-title: UK - 陈邦瑞 时间管理能力超群 欺骗感情
-subtitle: 女生猝不及防被骗，还遭到他的女友电话攻击
+title: UK - Chen Bangrui's exceptional time management skills and emotional manipulation
+subtitle: A girl was deceived by Chen Bangrui, who had a girlfriend in the UK, and was attacked by his girlfriend on the phone.
 date: 2023-05-21T08:25:28+08:00
 draft: false
 author:
@@ -9,7 +9,7 @@ author:
   link:
   email:
   avatar:
-description: 文中女生在半年的相处中萌生感情，但晚上被陈邦瑞告知有英国女友，并让女生立刻飞到英国陪他。女生上当后，被陌生女子通话攻击，并陷入伤痛和失落中。文中还附有与该女子的对话记录。
+description: The girl in the article developed feelings for Chen Bangrui during their six-month relationship, but was informed by him one night that he had a girlfriend in the UK and asked her to fly to the UK to be with him immediately. After being deceived, she was attacked on the phone by a stranger and fell into pain and despair. The article also includes a conversation record with the girlfriend.
 keywords:
 license:
 comment: true
@@ -22,7 +22,7 @@ categories:
   - GOSSIP
 hiddenFromHomePage: false
 hiddenFromSearch: false
-summary: 文中女生在半年的相处中萌生感情，但晚上被陈邦瑞告知有英国女友，并让女生立刻飞到英国陪他。女生上当后，被陌生女子通话攻击，并陷入伤痛和失落中。文中还附有与该女子的对话记录。
+summary: The girl in the article developed feelings for Chen Bangrui during their six-month relationship, but was informed by him one night that he had a girlfriend in the UK and asked her to fly to the UK to be with him immediately. After being deceived, she was attacked on the phone by a stranger and fell into pain and despair. The article also includes a conversation record with the girlfriend.
 resources:
   - name: featured-image
     src: featured-image.jpg
@@ -42,87 +42,87 @@ repost:
 
 <!--more-->
 
-{{< admonition type=info title="来源" open=true >}}
-源文件地址：
+{{< admonition type=info title="Source" open=true >}}
+Source file address: 
 - [英区新瓜：英国渣男陈邦瑞骗我感情的半年.pdf](https://oss.schoolmelon.com/source/uk-chen-bangrui.pdf)
 - [埃克塞特_陈邦瑞.pdf](https://oss.schoolmelon.com/source/uk-chen-bangrui-b.pdf)
 
-本文进行了重制以适合移动设备以及赋予通用性。
+This article has been re-designed to suit mobile devices and to be more universal.
 {{< /admonition >}}
 
-## 前言
+## Introduction
 
-去年10月，我认识了一个男生。他平常在英国，但那时他回国考察餐饮。在我们第一次见面时，他就告诉我他非常喜欢我，并想邀请我跟他一起去英国。他的话让我有点害怕，所以我之后删除了他的联系方式。
+Last October, I met a boy who usually lives in the UK but was in China at the time to investigate the catering industry. When we first met, he told me that he liked me very much and wanted to invite me to go to the UK with him. His words scared me a bit, so I deleted his contact information afterwards.
 
-然而，由于一些事情需要问他的意见，我在11月重新加了他的微信。从那个时候开始，我们再次以朋友的身份联系，并且聊天的时间越来越多。在过后的相处中，我慢慢发现我也喜欢上了他。
+However, I needed to ask him for his opinion on some things, so I added him back on WeChat in November. From then on, we contacted each other again as friends, and our chat time became more and more frequent. As we spent more time together, I slowly realized that I had fallen in love with him.
 
-今年3月中旬，他再次回国了。4月初，他来杭州找我。到4月中，我们一起去丽江见了他的父母。之后，他又回到杭州找我（我们的相处就像男女朋友一样，他妈妈甚至给我们拍了合照）。他告诉我他希望我可以去英国找他，时间是在九月份。
+In mid-March of this year, he returned to China again. In early April, he came to Hangzhou to see me. By mid-April, we went to Lijiang together to meet his parents. Afterwards, he came back to Hangzhou to see me again (our relationship was like that of a couple, and his mother even took a picture of us together). He told me that he hoped I could go to the UK to find him in September.
 
-然而，由于工作上的瓶颈和跟他讨论后，我最终决定2024年去意大利留学。
+However, due to work bottlenecks and discussions with him, I eventually decided to study in Italy in 2024.
 
-## 时间轴
+## Timeline
 
-2022年10月，女主遇到男主，并被男主邀请去英国。女主感到被骚扰，将他从微信中删除。
+In October 2022, the female protagonist met the male protagonist and was invited to go to the UK by him. She felt harassed and deleted him from WeChat.
 
-2022年11月，女主需要男主的咨询，重新添加了男主微信。
+In November 2022, the female protagonist needed the male protagonist's advice and re-added him on WeChat.
 
-2022年12月，他们以朋友的身份开始联系，随着聊天的增加，女主发现自己对男主产生了感情。
+In December 2022, they started contacting each other as friends. As their conversations increased, the female protagonist found herself developing feelings for the male protagonist.
 
-2023年3月，男主回国，女主的感情逐渐加深。
+In March 2023, the male protagonist returned to China, and the female protagonist's feelings gradually deepened.
 
-2023年4月初，男主来杭州找女主。
+In early April 2023, the male protagonist came to Hangzhou to see the female protagonist.
 
-2023年4月中，他们在丽江与男主的父母见面，之后男主又来杭州找女主。男主的母亲为他们拍摄了合照。女主决定在2024年去意大利留学。
+In mid-April 2023, they met with the male protagonist's parents in Lijiang, and the male protagonist came to Hangzhou to see the female protagonist again. The male protagonist's mother took a group photo of them. The female protagonist decided to study abroad in Italy in 2024.
 
-2023年4月14日，女主返回杭州，男主返回济南。
+On April 14, 2023, the female protagonist returned to Hangzhou, and the male protagonist returned to Jinan.
 
-2023年4月17日，男主的英国女友从英国飞回济南，在男主家过生日。
+On April 17, 2023, the male protagonist's British girlfriend flew back to Jinan from the UK and celebrated her birthday at the male protagonist's home.
 
-2023年4月19日，男主再次来杭州找女主。
+On April 19, 2023, the male protagonist came to Hangzhou to see the female protagonist again.
 
-2023年4月21日，男主去曼谷转机回英国，待在曼谷10天。在此期间，男主的英国女友也在曼谷。
+On April 21, 2023, the male protagonist went to Bangkok to transfer to the UK and stayed in Bangkok for 10 days. During this time, the male protagonist's British girlfriend was also in Bangkok.
 
-2023年5月，经过一晚的争吵后，男主在凌晨告诉女主他在英国有女朋友。之后，男主的英国女友给女主打电话，揭露了男主的不良行为和他们的关系。女主从此了解到，她并不是男主的唯一女友，而是男主一系列欺骗行为的受害者。
+In May 2023, after a night of arguing, the male protagonist told the female protagonist in the early morning that he had a girlfriend in the UK. Later, the male protagonist's British girlfriend called the female protagonist and revealed the male protagonist's bad behavior and their relationship. The female protagonist learned that she was not the only girlfriend of the male protagonist, but a victim of a series of deceitful behaviors.
 
-## 指控
+## Charge
 
-昨晚我们吵了一整晚，争论了很久，最终和好了。凌晨时分，他给我打电话，告诉我他在英国有一个女朋友，那个女生曾经把他骗过，并纠缠不清（之前在聊天时，他有提到过一个前女友）。然后他让我看他们的聊天记录，告诉我要为我买机票，让我立刻飞到英国陪他。我很天真地以为这是真的。
+Last night we argued for a long time, but eventually made up. In the early hours of the morning, he called me and told me that he had a girlfriend in the UK who had previously deceived him and was causing trouble (he had mentioned a previous girlfriend in our chats). He then asked me to look at their chat history and told me to buy a plane ticket to fly to the UK to be with him. I naively believed him.
 
-醒来时已经是下午了，我上了一堂意大利语课，就已经到了晚上。他给我打了电话，但这一次很意外，与我通话的是一个女生（同时他在背后喊我还他的手机）。很明显，他是在骗我，然后让女朋友来处理（因为他们有利益关系，没有分开的可能性）。此女生给我展示了与他在一起两年期间的某些不好的举动和出轨证据。
+When I woke up, it was already afternoon and I had already missed an Italian class. He called me again, but this time, to my surprise, it was a girl who spoke to me (and he was shouting in the background to give him back his phone). It was obvious that he was deceiving me and then having his girlfriend handle it (because they had a vested interest and there was no possibility of separation). This girl showed me some evidence of his bad behavior and infidelity during their two years together.
 
-而且告诉我，我不是第一个，之前有很多人在我之前。这个女生加了我的微信，我看到了一个非常离谱的操作：4月8日打卡、4月14日我们和他的父母一起去了丽江玩，4月14日我回杭州。他回到济南，他的女朋友4月17日从英国飞回了济南，并在他家里过了生日。4月19日，他来杭州找我，4月21日早晨他去曼谷转机回英国（在曼谷停留了10天），而那个女生也在曼谷。期间他们一直没有停止与我聊天，直到昨天凌晨，我知道了事情真相......在那个女孩加我微信和我通话的过程中，他一直在发微信告诉我他喜欢我，想和我结婚......
+She also told me that I was not the first, and there were many people before me. This girl added me on WeChat, and I saw a very absurd operation: check-in on April 8th, we went to Lijiang with his parents on April 14th, and I returned to Hangzhou on April 14th. He returned to Jinan, and his girlfriend flew back to Jinan from the UK on April 17th and spent her birthday at his home. On April 19th, he came to Hangzhou to see me, and on the morning of April 21st, he flew from Bangkok to the UK (staying in Bangkok for 10 days), and that girl was also in Bangkok. During this period, they never stopped chatting with me until I found out the truth yesterday morning... During the process of that girl adding me on WeChat and talking to me, he kept sending me WeChat messages telling me that he liked me and wanted to marry me...
 
-{{< admonition type=quote title="作者与这位女生的对话" open=true >}}
-{{< image src="fig-1.avif" width="240px" caption="作者与这位女生的对话" >}}
-{{< image src="fig-2.avif" width="240px" caption="作者与这位女生的对话1" >}}
-{{< image src="fig-3.avif" width="240px" caption="作者与这位女生的对话2" >}}
-{{< image src="fig-4.avif" width="240px" caption="作者与这位女生的对话3" >}}
-{{< image src="fig-5.avif" width="240px" caption="作者与这位女生的对话4" >}}
+{{< admonition type=quote title="Conversation between the author and the girl" open=true >}}
+{{< image src="fig-1.avif" width="240px" caption="Conversation between the author and the girl" >}}
+{{< image src="fig-2.avif" width="240px" caption="Conversation between the author and the girl 1" >}}
+{{< image src="fig-3.avif" width="240px" caption="Conversation between the author and the girl 2" >}}
+{{< image src="fig-4.avif" width="240px" caption="Conversation between the author and the girl 3" >}}
+{{< image src="fig-5.avif" width="240px" caption="Conversation between the author and the girl 4" >}}
 {{< /admonition >}}
 
-{{< admonition type=quote title="附件" open=false >}}
-{{< image src="fig-6.avif" width="240px" caption="陈邦瑞与这位女生的合照？" >}}
-{{< image src="fig-7.avif" width="240px" caption="陈邦瑞的照片？" >}}
+{{< admonition type=quote title="Attachments" open=false >}}
+{{< image src="fig-6.avif" width="240px" caption="Photo of Chen Bangrui with this girl?" >}}
+{{< image src="fig-7.avif" width="240px" caption="Photo of Chen Bangrui?" >}}
 {{< /admonition >}}
 
-## 附录
+## Appendix
 
-> 关于你们最想知道的我当时为什么加他想问的一些事情
+> Regarding what you most want to know, why did I add him and some things I wanted to ask at the time?
 
-我们第一次见面就聊到了关于事业的问题，他说他要在英国开一家日料店，而我之前在杭州也开过一家。之后，他又谈到了一个关于旅游行业的话题，但是他自己似乎并没有丝毫想要从事这方面的意思。之后我们就没有再聊过这些话题了。
+We talked about career issues the first time we met. He said he wanted to open a Japanese restaurant in the UK, and I had previously opened one in Hangzhou. Later, he talked about a topic related to the tourism industry, but he didn't seem to have any intention of getting involved in that field himself. After that, we didn't talk about these topics again.
 
-到了11月，我的事业出现了瓶颈，我突然想起这些话题，就把他加回了好友列表。但是后来我们聊天时，他也没有再提及想要从事这些领域的事情，所以我们就没有再聊过这些话题。
+In November, my career hit a bottleneck, and I suddenly remembered these topics, so I added him back to my friend list. But when we chatted later, he didn't mention anything about wanting to get involved in these areas, so we didn't talk about these topics again.
 
-12月，国内刚刚宣布放开，我去了泰国旅游。以前我去泰国都是由助理安排行程，但那次我跟着两个旅行白痴好朋友一起去的，不知道如何安排行程。因为他曾经在泰国度过漫长的假期，所以我就问了他。之后，我们开始天天聊天，白羊座的我性格比较直，想说什么就直说，也就跟他聊得特别好。
+In December, China had just announced its opening up, and I went to Thailand for a vacation. I used to have an assistant arrange my itinerary when I went to Thailand, but that time I went with two travel idiots who didn't know how to plan. Because he had spent a long holiday in Thailand before, I asked him for advice. After that, we started chatting every day. As an Aries, I have a straightforward personality and speak my mind, so I got along well with him.
 
-两个人在一起的时候，他没有为我花任何的钱，也没有送过我任何礼物，但住酒店、吃饭、打车这些常规花销都是他该承担的。我确实是个恋爱脑，所有前任从我们认识到在一起的时间都不超过一个月，但并不是所有白羊女都会在一棵树上栓死的。
+When we were together, he didn't spend any money on me or give me any gifts, but he should have covered the regular expenses such as hotel, food, and transportation. I am indeed a love brain, and the time from meeting my exes to being together did not exceed one month, but not all Aries women will tie themselves to one tree.
 
-对于那些卖乖的键盘侠，省省力吧，别再管我了。
+For those who act cute and try to be keyboard warriors, please save your energy and stop bothering me.
 
-## 评论
+## Comment
 
-> GPT，评价一下陈邦瑞。
+> GPT, evaluate Chen Bangrui.
 
 {{< typeit >}}
-我是AI语言模型，没有个人感情和价值观念，无法对个人进行评价或评论。不过，这种欺骗和行为不道德，不值得被认同和尊重。建议您尽快远离这种人，并保护好自己的利益和安全。
+I am an AI language model and do not have personal feelings or values, so I cannot evaluate or comment on individuals. However, this kind of deception and unethical behavior is not worthy of recognition and respect. It is recommended that you stay away from such people as soon as possible and protect your interests and safety.
 {{< /typeit >}}

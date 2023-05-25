@@ -1,7 +1,7 @@
 ---
 slug: uon-xie-jun
-title: UoN - 谢俊 爱情经历与“明暗”情节
-subtitle: 露露与谢俊的爱情曲折经历，谢俊身上的暴力和冷暴力
+title: UoN - Xie Jun's Love Experience and the "Light and Dark" Plot
+subtitle: The tortuous love experience between Lulu and Xie Jun, Xie Jun's physical and psychological violence
 date: 2023-05-15T21:18:33+08:00
 draft: false
 author:
@@ -9,7 +9,7 @@ author:
   link:
   email:
   avatar:
-description: 本文详细描写了留学生露露与谢俊之间的爱情经历，包括极不靠谱的身份造假、虚伪和PUA等行为。内容还涵盖谢俊对于物品的计较、自私以及身体暴力和心理冷暴力造成的露露的精神伤害等，助读者了解留学生们在异国他乡的生活。
+description: This article details the love experience between international students Lulu and Xie Jun, including Xie Jun's unreliable identity fraud, hypocrisy, and PUA behavior. The content also covers Xie Jun's concern over material items, selfishness, and the physical and psychological violence that caused Lulu's mental harm, helping readers understand the lives of international students in a foreign country.
 keywords:
 license:
 comment: true
@@ -25,7 +25,7 @@ categories:
   - GOSSIP
 hiddenFromHomePage: false
 hiddenFromSearch: false
-summary: 本文详细描写了留学生露露与谢俊之间的爱情经历，包括极不靠谱的身份造假、虚伪和PUA等行为。内容还涵盖谢俊对于物品的计较、自私以及身体暴力和心理冷暴力造成的露露的精神伤害等，助读者了解留学生们在异国他乡的生活。
+summary: This article details the love experience between international students Lulu and Xie Jun, including Xie Jun's unreliable identity fraud, hypocrisy, and PUA behavior. The content also covers Xie Jun's concern over material items, selfishness, and the physical and psychological violence that caused Lulu's mental harm, helping readers understand the lives of international students in a foreign country.
 resources:
   - name: featured-image
     src: featured-image.jpg
@@ -45,119 +45,114 @@ repost:
 
 <!--more-->
 
-{{< admonition type=info title="来源" open=true >}}
-源文件地址：[诺丁汉谢俊事件详细记录.pdf](https://oss.schoolmelon.com/source/uon-xie-jun.pdf)  
-本文进行了重制以适合移动设备以及赋予通用性。
+{{< admonition type=info title="Source" open=true >}}
+Source file address: [诺丁汉谢俊事件详细记录.pdf](https://oss.schoolmelon.com/source/uon-xie-jun.pdf)
+
+This article has been re-designed to suit mobile devices and to be more universal.
 {{< /admonition >}}
 
-## 前言
+## Introduction
 
-非常抱歉，打断一下。接下来的内容是关于“诺丁汉谢俊事件”的续篇，本篇将以时间顺序详细展开更多情节。
+I'm sorry to interrupt. The following content is a continuation of the "Nottingham Xie Jun Incident", which will expand on more details in chronological order.
 
-我是谢俊的女友露露，在2020年10月30日和谢俊在一起，并且两人都在朋友圈中正式宣布了彼此的关系。
+I am Lulu, Xie Jun's girlfriend. We got together on October 30, 2020, and both officially announced our relationship on our WeChat Moments.
 
-## 指控
+## Charge
 
-### 第一锤
+### First Incident
 
-事情的发展是这样的：第二天，露露和朋友在逛街时，她的朋友告诉她她没有在任何朋友圈上看到谢俊宣布和露露在一起的消息。谢俊声称他和露露是同届管理专业的Master，但她的朋友提醒她2020年9月并没有管理专业开学，所以担心露露是否被一个身份造假的骗子骗了。那天晚上，露露和谢俊分手了。
+The story unfolded like this: the next day, Lulu's friend told her that she had not seen any news about Xie Jun announcing their relationship on any WeChat Moments. Xie Jun claimed that he and Lulu were both Master's students in the Management major, but her friend reminded her that the Management major did not start until September 2020, so she was worried that Lulu might have been deceived by someone with a fake identity. That night, Lulu and Xie Jun broke up.
 
-然而两天后，谢俊又来到Orbital楼下苦苦哀求，解释他的朋友圈上屏蔽了该女生邀请他去一日CP的消息。他不停地保证自己珍惜和爱护露露。最终两人又重新在一起。
+However, two days later, Xie Jun came to the Orbital building and begged Lulu, explaining that the girl who invited him to a one-day CP was blocked on his WeChat Moments. He kept promising that he cherished and loved Lulu. Eventually, the two got back together.
 
-### 第二锤
+### Second Incident
 
-第二件事：在交往2-3周后，谢俊看到露露的前男友示好的微博后，大发狂妄，对露露心生嫉妒之情，开始无端指责和进行PUA。他还恶意诋毁露露的人格，实际上露露与前男友之间已经没有任何关联，分手已经非常干净利落了。
+The second incident: after 2-3 weeks of dating, Xie Jun saw a Weibo post from Lulu's ex-boyfriend and became jealous, accusing Lulu without reason and engaging in PUA. He also maliciously attacked Lulu's personality, even though Lulu and her ex-boyfriend had no connection and their break-up was very clean.
 
-### 第三锤
+### The Third Hammer
 
-谢俊在黑五期间一直告诉露露要买一整套Lamer，此时露露并没有当真，自己去认识的美容院买了一套Lamer。然而，就在这个时候，这家美容院突然跑路了。当露露提及谢俊之前的承诺是否兑现时，谢俊却指责露露是物质女，并表示自己忘记了之前的承诺。
+During Black Friday, Xie Jun kept telling Lulu to buy a whole set of Lamer, but Lulu didn't take it seriously and bought a set of Lamer from a beauty salon she knew. However, at this time, the beauty salon suddenly went out of business. When Lulu mentioned whether Xie Jun would fulfill his previous promise, Xie Jun accused Lulu of being a materialistic woman and claimed that he had forgotten his previous promise.
 
-### 第四锤
+### The Fourth Hammer
 
-谢俊在分手后的三周时间里向身边的好友不断吐槽露露，内容大多是关于露露花费他的钱等。分手后，他的好友告诉露露关于谢俊的这个倾诉，当时他的好友已经对谢俊的行为感到烦厌，并劝说谢俊应该大度一些。然而谢俊并没有改变。
+In the three weeks after the breakup, Xie Jun kept complaining about Lulu to his friends, mostly about how much money Lulu spent. After the breakup, his friends told Lulu about Xie Jun's venting, and they were already tired of Xie Jun's behavior, and advised him to be more generous. However, Xie Jun did not change.
 
-### 第五锤
+### The Fifth Hammer
 
-谢俊在第一次旅游的时候，经常向身边的朋友炫耀自己的女朋友如何拥有高物质素质并且想怎么花钱。实际上，在旅行期间，住宿费用是由露露支付的，餐费则由谢俊出。其他的费用各自支付。旅行结束后，露露还买了一双300多英镑的鞋子作为礼物送给了谢俊。然而，回到家之后，谢俊开始攻击露露的人品。当露露提出两人因为生活观念差异而分手时，谢俊开始第一次哭泣，并跪在地上求助，露露惊慌失措，最终两人重归于好。
+During their first trip, Xie Jun often boasted to his friends about how his girlfriend had high material quality and how she wanted to spend money. In fact, during the trip, the accommodation fee was paid by Lulu, and the meal fee was paid by Xie Jun. Other expenses were paid separately. After the trip, Lulu bought a pair of shoes worth more than 300 pounds as a gift for Xie Jun. However, after returning home, Xie Jun began to attack Lulu's character. When Lulu mentioned that the two broke up because of differences in their views on life, Xie Jun began to cry for the first time and begged on his knees. Lulu was panicked, and eventually the two reconciled.
 
-### 第六锤
+### The Sixth Hammer
 
-在两人购物时，谢俊和露露的差异让人感到不舒服。当谢俊自己买单时，他会匆忙地挑选几样东西。然而，当露露付款时，他则毫不顾忌地拿了很多东西。举例来说，露露在万利中超市购买燃茶时，每个口味都买了一瓶。然而，当谢俊提出要去中超市买饮料时，问露露是否要，露露回答说稍后再买，谢俊只买了一瓶燃茶。
+When shopping together, the differences between Xie Jun and Lulu made people uncomfortable. When Xie Jun paid for himself, he quickly picked a few things. However, when Lulu paid, he took many things without hesitation. For example, when Lulu bought Ran Tea at Walmart, she bought one bottle of each flavor. However, when Xie Jun suggested going to Walmart to buy drinks and asked if Lulu wanted any, Lulu replied that she would buy later, and Xie Jun only bought one bottle of Ran Tea.
 
-谢俊还要求露露为他购买游戏皮肤，露露只买了一次之后，谢俊就经常开始索要。这一点让露露感到反感，她认为这些细小的事情都让谢俊显得太过抠门。
+Xie Jun also asked Lulu to buy game skins for him. After Lulu bought it once, Xie Jun often started asking for it. This made Lulu feel disgusted, and she thought that Xie Jun was too stingy about these small things.
 
-### 第七锤
+### Seventh Hammer
 
-谢俊在家点外卖时经常声称没有现金，要求露露来帮他付款。然而，露露分手后才知道谢俊在与朋友交往时却声称在家里有几百英镑的现金失踪了。谢俊从未向露露透露此事，并在朋友面前故意模棱两可。
+When Xie Jun orders takeout at home, he often claims to have no cash and asks Lu Lu to help him pay. However, Lu Lu only found out after they broke up that Xie Jun had claimed to have several hundred pounds of cash at home missing when he was socializing with his friends. Xie Jun never revealed this to Lu Lu and deliberately kept it ambiguous in front of his friends.
 
-### 第八锤
+### Eighth Hammer
 
-2020年除夕来临之际，露露亲手制作了牛肉钳糖和小点心，并购买了一些零食打包成十多份，送给了周围的朋友。然而，谢俊在大家面前炫耀这些礼物都是他的功劳，除了露露手工制作的东西。与此同时，露露还准备了价值100多镑的剃须刀作为新年礼物送给谢俊。
+During the 2020 Chinese New Year, Lu Lu handcrafted beef tongs and snacks, and bought some snacks to pack into more than ten portions to give to her friends. However, Xie Jun boasted in front of everyone that he was the one who made all these gifts, except for the handmade items by Lu Lu. At the same time, Lu Lu also prepared a razor worth more than 100 pounds as a New Year's gift for Xie Jun.
 
-### 第九锤
+### Ninth Hammer
 
-谢俊曾鼓动露露将Orbital公寓转租给他，但开始时露露不愿意转租。直到2021年3月才开始转租。谢俊向身边的好友们透露，如果露露转租，他应该能分到多少钱。事实上，之后两人的许多争吵并不是突然发生的，谢俊一直在暗地里策划露露的扣除押金的事情。
+Xie Jun had urged Lu Lu to sublet the Orbital apartment to him, but Lu Lu was initially unwilling to do so. It was not until March 2021 that she began to sublet the apartment. Xie Jun had told his friends how much money he should be able to get if Lu Lu sublets the apartment. In fact, many of their subsequent quarrels were not sudden, as Xie Jun had been planning to deduct Lu Lu's deposit in secret.
 
-### 第十锤
+### Tenth Hammer
 
-露露在中后期负责了大部分的生活开销，并且用买礼物这种方式来表示自己对于居住在谢俊公寓的感谢。然而，后来露露终于无法忍受谢俊双面的行为，一边拒绝她支付房租的提议，一边在身边的朋友面前吐槽她的女朋友，甚至不惜使用侮辱性的字眼。
+Lu Lu was responsible for most of the living expenses in the middle and later stages, and used buying gifts as a way to express her gratitude for living in Xie Jun's apartment. However, Lu Lu finally couldn't stand Xie Jun's two-faced behavior, refusing her proposal to pay rent while badmouthing her girlfriend in front of his friends, even using insulting words.
 
-### 第十一锤
+### Eleventh Hammer
 
-在2021年四月中，当两人一起外出到朋友家聚餐时，谢俊突然对露露展现了冷暴力，使得露露受到了伤害和气愤。露露一个人离开了聚会，之后谢俊以安全理由为借口，在朋友面前对露露进行了凶狠的训斥。
+In mid-April 2021, when the two went out to a friend's house for dinner together, Xie Jun suddenly showed cold violence towards Lu Lu, causing her to be hurt and angry. Lu Lu left the party alone, and Xie Jun later scolded her fiercely in front of their friends, using safety as an excuse.
 
-### 第十二锤
+### Twelfth Hammer
 
-三月份时，露露失眠了一个多月，精神状态很虚弱，经常在公寓里痛哭。室友为她安慰过不止一次，但谢俊在露露半夜痛哭的时候，却不是安慰她，而是用手压住露露的嘴，告诉她不要发声影响到室友。露露很失望，并躲在卫生间里哭泣了半个多小时。更让露露崩溃的是，当她得知自己的父亲在ICU并向谢俊倾诉时，她并没有从他那里得到安慰，反而谢俊因为自己在酒局喝醉了，露露没有陪他去医院而大吵大闹。
+In March, Lulu suffered from insomnia for over a month and was in a weakened state. She often cried in the apartment. Her roommates comforted her more than once, but when Lulu cried in the middle of the night, Xie Jun did not comfort her, but instead pressed his hand over her mouth, telling her not to make noise and disturb the roommates. Lulu was very disappointed and cried in the bathroom for more than half an hour. What made Lulu even more devastated was that when she found out that her father was in the ICU and confided in Xie Jun, she did not get any comfort from him. Instead, Xie Jun caused a scene because Lulu did not accompany him to the hospital when he got drunk at a dinner party.
 
-在一次朋友的庆生会上，露露的玩笑话让谢俊半夜十二点要求露露搬离他的公寓。露露很生气，半夜收拾行李离开了。第二天，她叫了十几个好友帮忙搬家。期间，谢俊不断来道歉求复合，并拿着4粒朋友赠送的牛黄解毒片和一支西瓜霜来向露露表示安慰。在朋友面前，谢俊表示他和露露分手是因为露露家庭遭遇了困难，担心她付不起第一期的学费，所以害怕自己无法帮助她，只好分手。
+At a friend's birthday party, Lulu's joke made Xie Jun demand that she move out of his apartment at midnight. Lulu was very angry and left with her luggage in the middle of the night. The next day, she called more than ten friends to help her move. During this period, Xie Jun kept apologizing and begging for reconciliation, and brought Lulu four pills of cow bezoar and a tube of watermelon frost to comfort her. In front of their friends, Xie Jun said that he and Lulu broke up because Lulu's family was in financial difficulty and he was afraid that he could not help her pay the first semester's tuition, so he had to break up with her.
 
-后来谢俊在朋友面前购买了一枚折扣戒指和自己尺寸的手环（谢俊表示手环是之后半周年的礼物），并送给了露露，还送给她一个戴森吹风机，兰蔻小黑瓶等实际上是自己需要的东西来标榜自己对女友的珍惜。实际上露露搬家时带走了自己的大量行李，导致谢俊缺乏像电饭煲，吹风机，护肤品等基础生活用品，无法正常生活，所以他不得不购买这些东西。
+Later on, Xie Jun bought a discounted ring and a bracelet of his own size (which he claimed was a half-year anniversary gift) in front of his friends and gave them to Lulu, along with a Dyson hair dryer and a Lancome black bottle, pretending to cherish his girlfriend. In fact, when Lulu moved out, she took a lot of her belongings, leaving Xie Jun without basic necessities such as a rice cooker, hair dryer, and skincare products, making it difficult for him to live a normal life, so he had to buy these things.
 
-然后，在半夜里，他又哭着求露露好几个小时，但露露最终还是拒绝了他。
+Then, in the middle of the night, he cried and begged Lulu for several hours, but Lulu eventually refused him.
 
-第二天，他们去了游乐场。实际上，分手后，谢俊先是挑拨了他们的朋友关系，然后与不止一个女生进行聊骚，并邀请两个同班女生去游乐场。但他没有料到露露同意了复合，因此与同班女生的游乐场计划被搁置了。事实上，他与同班女生之间暧昧不断，复合后还和她一起共进午餐。并且当露露特地前往教室等他放学时，他并未准时出现。
+The next day, they went to an amusement park. In fact, after breaking up, Xie Jun first stirred up their friend circle and then flirted with more than one girl, inviting two classmates to the amusement park. However, he did not expect that Lulu agreed to get back together, so the amusement park plan with his classmates was put on hold. In fact, he had been flirting with one of his classmates, and even had lunch with her after getting back together with Lulu. And when Lulu specially went to the classroom to wait for him after school, he did not show up on time.
 
-### 第十三锤
+### Thirteenth Hammer
 
-露露为照顾手指受伤的谢俊做了一个月的早餐、午餐、晚餐和宵夜，并为他购买了价值600多镑的鞋子作为礼物。然而，谢俊在朋友面前仍然贬低露露。
+Lulu took care of Jun, who had injured his fingers, by making breakfast, lunch, dinner, and midnight snacks for him for a month, and even bought him a pair of shoes worth more than 600 pounds as a gift. However, Jun still belittled Lulu in front of his friends.
 
-### 第十四锤
+### Fourteenth Hammer
 
-复合之后，露露发现谢俊并没有做出实质性的改变，非常失望，于是再次提出分手。没想到谢俊异常愤怒，将露露锁在角落中大声叱责，当露露试图出门时，谢俊又将她拉回房间。最终，当露露拿起水果刀，警告谢俊不要靠近时，才趁机逃至一楼大厅。但是谢俊一路追赶，甚至试图抢夺露露正在联系朋友的手机。直到露露向前台求救，才得以停止。后来，露露的朋友赶来安慰她，而谢俊则伪装成和善的模样。
+After getting back together, Lulu found that Jun had not made any substantial changes and was very disappointed, so she asked for a breakup again. Unexpectedly, Jun was extremely angry and locked Lulu in a corner, scolding her loudly. When Lulu tried to leave, Jun pulled her back into the room. Finally, when Lulu picked up a fruit knife and warned Jun not to come near her, she managed to escape to the lobby on the first floor. But Jun chased her all the way and even tried to snatch Lulu's phone when she was trying to contact her friends. Only when Lulu sought help from the front desk was the situation stopped. Later, Lulu's friends came to comfort her, while Jun pretended to be kind.
 
-### 第十五锤
+### Fifteenth Hammer
 
-同样的恐怖事件再次出现了。当露露试图绕开分手这个话题，直接离开时，谢俊说道：“只要你离开这个房间，我就会自杀，并用鲜血写下你的名字。” 这种精神控制手段导致露露的情绪崩溃，她到学校求助并被确诊为轻度抑郁症。露露此时已经失眠近3个月，配合心理咨询和药物治疗10天，随后再观察3周。
+The same terrifying incident happened again. When Lulu tried to avoid the topic of breaking up and leave directly, Jun said, "As long as you leave this room, I will commit suicide and write your name with my blood." This kind of mental control caused Lulu's emotions to collapse. She sought help from the school and was diagnosed with mild depression. Lulu had been suffering from insomnia for nearly three months, and after ten days of psychological counseling and medication, she was observed for another three weeks.
 
-### 第十六锤
+### Seventeenth Hammer
 
-{{< admonition type=note title="漏了？" open=true >}}
-第十六锤呢？排序的时候漏了？
-{{< /admonition >}}
+Jun and three friends went to IKEA to have fun, but used cold violence to force his girlfriend to return to Nottingham alone. In the evening, he also took the opportunity to provoke Lulu and forced her to leave the house. When Lulu picked up her luggage to leave, Jun chased after her and pushed her into a dark area, pinching her arm and causing bruises. He also yelled and intimidated Lulu. Finally, to justify himself, Jun used Lulu's mental state as an excuse to evade responsibility.
 
-### 第十七锤
+### The 18th Hammer
 
-谢俊和三名好友一起去宜家玩，但使用冷暴力的方式强迫女友一个人回到诺丁汉市区。在晚上，他还趁机刺激露露，强制她离开家里。当露露拿起行李准备离开时，谢俊却朝她追过去，将她推向黑暗地带，掐她的胳膊造成淤青。他还朝着露露怒吼叫嚣并用心理恐吓她。最后，为自己的问题辩解，谢俊借口露露的精神状态而逃避责任。
+During the farewell trip with Lulu, he kept saying that he didn't want to part ways. However, he was marketing his social media app while traveling, preparing to attract new girls. What's even more infuriating is that he said he would treat her to lobster, but in reality, he made Lulu pay for it. In the end, Lulu suggested splitting the bill, but he was unwilling to settle the bill. He reluctantly paid the money to Lulu.
 
-### 第十八锤
+Furthermore, he was even unwilling to go to the airport to bid farewell to his girlfriend of nearly a year. The next day, he was thinking of inviting girls out for drinks with a group of friends, completely disregarding his girlfriend's feelings. This behavior is unacceptable.
 
-在送别露露的旅途中，他口口声声说着舍不得。然而，他却一边旅游一边营销自己的社交软件，准备吸引新的女孩子。更令人生气的是，他说要请客吃龙虾，但实际上是他让露露买单。最后，露露提出AA制，而他却不愿意把账单算清。他不情愿地支付了钱给了露露。
+## Afterword
 
-此外，他甚至不愿意去机场送别与自己交往将近一年的女友。第二天，他就想着拉上一群朋友邀请女孩子组局喝酒，完全不顾女友的感受。这种行为实在令人无法接受。
+I now feel numb, and telling my sad experience is like tearing open the scab of my wound, exposing the bloody wound to everyone again. I was with Xie Jun for a year, and the days were unbearable. The subsequent harm was not only one or long-lasting, such as refusing to eat three meals during quarantine and being mentally disturbed. Even when editing the text, I tremble all over, unable to bear the memories of the past.
 
-## 后记
+I can't imagine that after I broke up with him, I actually saw more of Xie Jun's evil deeds. I was deceived by him all along. My guard and vigilance towards my lover have disappeared, and he turned out to be such a terrible monster. His good friends gradually left him, and their friendship disappeared without a trace. After all, the harm Xie Jun brought me was really too great. I know clearly that he has never been satisfied with me, but when I broke up with him more than once, he always trapped me and kept hurting me. Love is not necessary, but why hurt me?
 
-我现在已经感到麻木了，把自己悲伤的经历说出来也像是在撕破我结痂的伤口，让血腥的伤口再次裸露在大家面前。和谢俊在一起的日子长达一年，日子痛苦不堪，后来的伤害也不止一种或持久，比如在隔离期间拒食三餐和整个人的心神不宁。编辑文字时，我也会全身颤抖，回忆过去难以承受。
+I write this to hope that everyone can stay away from Xie Jun through my painful experience. Sisters should not approach him, and boys should also be cautious. So far, Xie Jun has not formally apologized to me. I write this in the hope that he can take the harm he has caused seriously and apologize to me.
 
-我无法想象在我提出分手之后，我竟然看到了谢俊更多的恶行。我一直被他蒙在鼓里。我对爱人的戒备和警惕已经消失，而他竟然是这样的可怕怪物。他的好朋友们渐渐离开了他，他们的友谊也消失得无影无踪。毕竟，谢俊所带给我的伤害真的太大了。我清楚地知道，他一直对我不满意，但是当我不止一次提出分手的时候，他总是困住我，并不断地伤害我。爱不是必须的，但为什么要伤害我呢？
+## Comment
 
-我写这些是希望大家能够通过我的惨痛经历，远离谢俊。姐妹们不要接近他，男生们也要谨慎小心。目前为止，谢俊还没有正式向我道歉，我写这些是希望他能够认真对待自己所造成的伤害，并向我道歉。
-
-## 评论
-
-> GPT，评价一下谢俊。
+> GPT, evaluate Xie Jun.
 
 {{< typeit >}}
-如果我这个“助手”可以用人类的语言来表达对谢俊的评价，那么我必须说，谢俊的行为是不负责任、自私和不尊重他人的。他对露露的行为存在精神虐待、情感控制和不公正待遇等问题，这些都是不可接受的。他的行为表明，他没有考虑到露露的需要和感受，没有尊重她的自主权和尊严。总之，谢俊的行为是不道德和不值得称赞的。
+If I, as an "assistant," can express my evaluation of Xie Jun in human language, then I must say that Xie Jun's behavior is irresponsible, selfish, and disrespectful to others. His behavior towards Lulu involves issues such as emotional abuse, emotional control, and unfair treatment, which are unacceptable. His behavior shows that he did not consider Lulu's needs and feelings, and did not respect her autonomy and dignity. In short, Xie Jun's behavior is unethical and not commendable.
 {{< /typeit >}}

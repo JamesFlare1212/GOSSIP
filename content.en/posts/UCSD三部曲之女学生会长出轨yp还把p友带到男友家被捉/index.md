@@ -1,7 +1,7 @@
 ---
 slug: ucsd-li-zhuofan
-title: UCSD - 李卓凡 中国学生会主席 多项渣女行为
-subtitle: 在男友家出轨，和兄弟聊骚，花10万美刀，女留学生还想送他进局子
+title: UCSD - Li Zhuofan, Chinese Student Association President, engages in multiple despicable behaviors towards men
+subtitle: Cheating at boyfriend's place, flirting with other men, spending $100,000, and leaving debts to international students
 date: 2023-05-23T17:55:23+08:00
 draft: false
 author:
@@ -9,7 +9,7 @@ author:
   link:
   email:
   avatar:
-description: 李卓凡Caroline是加州大学圣地亚哥分校中国同学联合会的现任主席。但是在她的前男友的翻旧账中曝出了她多项渣女行为，让她的形象彻底跌落。其中包括骗取男友金钱、故意制造男友家暴谎言、欠债学费不还、作假语言考试成绩、与多名男生暧昧聊天并发生未保护性行为等。这些行为让她声名狼藉，对她未来的人际关系和事业发展都将带来极大的影响。
+description: Li Zhuofan, known as Caroline, is the current president of the Chinese Student Association at the University of California, San Diego. However, in her ex-boyfriend's account, she engages in multiple despicable behaviors towards men, causing her reputation to be completely ruined. These include cheating on her boyfriend at his place, intentionally fabricating lies about domestic violence, cheating money from her boyfriend, leaving debts to international students, faking language exam scores, flirting with multiple men and engaging in unprotected sex. These behaviors have caused her to have a bad reputation, which will have a great impact on her future personal relationships and career development.
 keywords:
 license:
 comment: true
@@ -28,7 +28,7 @@ categories:
   - GOSSIP
 hiddenFromHomePage: false
 hiddenFromSearch: false
-summary: 李卓凡Caroline是加州大学圣地亚哥分校中国同学联合会的现任主席。但是在她的前男友的翻旧账中曝出了她多项渣女行为，让她的形象彻底跌落。其中包括骗取男友金钱、故意制造男友家暴谎言、欠债学费不还、作假语言考试成绩、与多名男生暧昧聊天并发生未保护性行为等。这些行为让她声名狼藉，对她未来的人际关系和事业发展都将带来极大的影响。
+summary: Li Zhuofan, known as Caroline, is the current president of the Chinese Student Association at the University of California, San Diego. However, in her ex-boyfriend's account, she engages in multiple despicable behaviors towards men, causing her reputation to be completely ruined. These include cheating on her boyfriend at his place, intentionally fabricating lies about domestic violence, cheating money from her boyfriend, leaving debts to international students, faking language exam scores, flirting with multiple men and engaging in unprotected sex. These behaviors have caused her to have a bad reputation, which will have a great impact on her future personal relationships and career development.
 resources:
   - name: featured-image
     src: featured-image.jpg
@@ -48,406 +48,378 @@ repost:
 
 <!--more-->
 
-{{< admonition type=info title="来源" open=true >}}
-源文章地址：
-- [【UCSD三部曲】之女学生会长出轨yp，还把p友带到男友家被捉。](https://mp.weixin.qq.com/s/gFilosbbNMNXxTRWMIiqLA)  
-- [在男友家出轨，和兄弟聊骚，花10万美刀，女留学生还想送他进局子](https://good.news/html/cc7a41bae2558feea81942aeaa7b9fc8.html)
-- [在男友家出轨，和兄弟聊骚，花10万美刀，女留学生还想送他进局子](https://www.163.com/dy/article/HHQCLKIN0537UWFQ.html)（内容重复）
+{{< admonition type=info title="Source" open=true >}}
+Source article address:
+- [【UCSD Trilogy】The female student union president cheated on her boyfriend, even brought her hookup to his house and got caught.](https://mp.weixin.qq.com/s/gFilosbbNMNXxTRWMIiqLA)
+- [Cheating at boyfriend's house, chatting with brother, spending $100,000, female international student still wants to send him to jail](https://good.news/html/cc7a41bae2558feea81942aeaa7b9fc8.html)
+- [Cheating at boyfriend's house, chatting with brother, spending $100,000, female international student still wants to send him to jail](https://www.163.com/dy/article/HHQCLKIN0537UWFQ.html) (Duplicate content)
 - https://www.fuli35.lv/9269
 
-本文进行了重制以适合移动设备以及赋予通用性。
+This article has been re-designed to suit mobile devices and to be more universal.
 {{< /admonition >}}
 
-## 前言
+## Introduction
 
-李卓凡Caroline是加州大学圣地亚哥分校中国同学联合会的现任主席。日常上看，她身材优秀、家境优越、颜值过关，让人觉得她是个“乖乖女”。但在前男友的爆料中，被曝出完全相反的行为，甚至称不上只是渣女，更是绝世渣女。
+Caroline Li Zhuofan is the current president of the Chinese Student Association at the University of California, San Diego. At first glance, she is a well-built, well-off, and good-looking "good girl". However, her ex-boyfriend's revelations reveal a completely different behavior, to the point where she can no longer be called just a "scumbag", but a real-life scumbag.
 
-长期使用PUA手段让男友为其购买高档奢侈品，同时进行出轨、约炮、吸金等行为；并拖欠学费迟迟不愿归还，甚至无理取闹、刻意制造男友家暴的谎言以骗取金钱。此外，她还故意制造矛盾导致男友离家出走，然后让其炮友到男友家中性交，对朋友们从不说真话，频繁撒谎。同时，在同一个时间段内她还主动勾引多名男生并与其发生了未采取安全保护措施的性行为。
+She used PUA techniques to make her boyfriend buy her high-end luxury goods, while engaging in cheating, hooking up, and money-grabbing behavior. She also deliberately delayed paying tuition fees, even making up lies about domestic violence to swindle money. In addition, she deliberately created conflicts that caused her boyfriend to run away from home, and then let her hookup have sex in his house, never telling her friends the truth and frequently lying. At the same time, she actively seduced multiple male students during the same period and had unprotected sex with them.
 
-## 指控
+## Charge
 
-1. 长期PUA男友为期购买奢侈品后，故意制造矛盾，支走男友，让炮友到家里性交
-2. 男友真心对待感情，为期交学费，租金，三月内为期开支超10万美元！居然私下约炮友到男友家内性交
-3. 利用同样手段同时间与多名男生暧昧聊天甚至同时间段与多名男生发生未保护性行为
-4. 从UW转学UCSD递交作假多邻国语言考试成绩
-5. 欠债学费不还
+1. Using PUA techniques for a long time to make her boyfriend buy her luxury goods, deliberately creating conflicts, driving her boyfriend away, and letting her hookup have sex in his house.
+2. Her boyfriend treated their relationship sincerely, paid for her tuition fees, rent, and expenses for more than $100,000 within three months! She still privately invited her hookup to have sex in her boyfriend's house.
+3. Using the same method to chat flirtatiously with multiple male students at the same time and even having unprotected sex with them.
+4. Submitting fake Duolingo language test scores when transferring from UW to UCSD.
+5. Refusing to pay back her debts for tuition fees.
 
-{{< admonition type=quote title="男友制作的海报" open=false >}}
-{{< image src="fig-1.avif" width="320px" caption="海报" >}}
+{{< admonition type=quote title="Boyfriend's Disclosure" open=true >}}
+Boyfriend: Bro, I feel really upset
+
+***
+
+Friend: What happened?
+
+***
+
+Boyfriend: I feel like I've been deceived for a long time
+
+Boyfriend: I found out that when I wasn't home, my girlfriend brought her fuck buddy to have sex in my room.
+
+***
+
+Friend: What? ?? ?? ?? ?
+
+Friend: Woc
+
+Friend: This is so outrageous
+
+***
+
+Boyfriend: It turns out that she has been deceiving me since we started dating.
+
+***
+
+Friend: Woc, I can't believe it.
+
+***
+
+Boyfriend: Yes, it's too scary.
+
+***
+
+Friend: How did you not notice earlier?
+
+***
+
+Boyfriend: She wouldn't let me see her phone, and she timed everything perfectly.
+
+***
+
+Friend: That's outrageous.
+
+Friend: What happened?
+
+***
+
+Boyfriend: I'm sorry, I'm really confused.
+
+***
+
+Friend: Oh my god, she spends your money and lives in your place and still does this to you!!! I really didn't expect her to be like this.
+
+Friend: How did you find out she brought her lover home later?
+
+***
+
+Boyfriend: Her behavior became very strange during that time. When she replied to messages, she avoided me and didn't let me see the messages, as if she was afraid I would discover something. That day, when she fell asleep at noon, her iPad was still on, and I suddenly saw her flirtatious chat with her lover. I couldn't resist my curiosity, and I found out that she had let her lover come to our home three hours before I came home!
+
+***
+
+Friend: What? Is she so disgusting? She dared to do this right under your nose, in your own home.
+
+Friend: I don't even know how long I was kept in the dark. It's really scary.
+
+***
+
+Boyfriend: You know, I've been chatting with her since last year and I have feelings for her. She occasionally sends me some ambiguous messages. In early March, we started dating, and during spring break, we traveled to Mexico together. I paid for all the travel expenses because I was still pursuing her. Unexpectedly, she asked to sleep in the same bed with me, and we became a couple after that. I'm studying at USC, so I drive from LA to SD every week to see her. Later during the summer break, I decided to stay in SD and rented a townhouse for her in early July. I paid more than $4,000 per month for the rent. I really loved her at that time, and she wasn't feeling well, so I cooked for her every day. I even brought a footbath tub from LA to warm her feet and gave her massages at night. I bought her an $8,000 piano, various bags, and a Tiffany necklace. Within my ability, I tried my best to meet her needs, although she never gave me any gifts, and 99% of the material expenses were paid by me. In terms of emotions, I really loved her 100%, even though the effort put in was always imbalanced. However, as long as she genuinely loves me, I'm willing to do it. I feel like I'm too invested, bro.
+
+Boyfriend: And you know what! She not only hid it from me, but also from her sex partner. She didn't want him to know that I rented the house. Later, when her sex partner found out what kind of person she was, he apologized to me and told me that they had sex in my house.
+
+Boyfriend: Brother, I really want to expose the truth and let everyone see the true face of Li*Fan, the president of the UCSD C优 student organization. She is deceiving everyone, including her friends.
+
+Boyfriend:
+
+{{< image src="fig-26.avif" width="240px" caption="Scratches" >}}
+
+Boyfriend: Look at the scratches.
+
+Boyfriend: Afterwards, the police took her to a mental hospital for one night, and it was her birthday that day. Actually, I wanted to let her have a good birthday before talking to her, but I didn't expect her to act crazy like that towards me.
 {{< /admonition >}}
 
-最开始L同学打算让她自己承认，就和平分手，但女孩一直抱有侥幸心理。试图反咬一口，于是他将所有“料”都发出来了。
+L never suspected anything until recently when Li Zhuofan deliberately hid his phone from him. He vaguely felt that something was wrong and one night, after his girlfriend fell asleep, he checked her chat records and found out that she had another boyfriend.
 
-{{< admonition type=quote title="男友爆料" open=true >}}
-男友：兄弟我好难受啊
-
-***
-
-朋友：发生什么事了？
+{{< admonition type=quote title="Underground Boyfriend No.1" open=true >}}
+Li Zhuofan: Oh, I want to have the spicy hot pot you made.
 
 ***
 
-男友：我感觉我被骗了很久
-
-男友：我发现我女朋友趁我不在家，带炮友来我家房间里面做爱
+Underground Boyfriend No.1: Here I am.
 
 ***
 
-朋友：我去？？？？？？
+Li Zhuofan: It's been a long time.
 
-朋友：woc
-
-朋友：这么离谱
+Li Zhuofan: It's too hard.
 
 ***
 
-男友：原来她从我一开始谈恋爱就在欺骗我
+Underground Boyfriend No.1: It's not hard.
+
+Underground Boyfriend No.1: Let's make hot pot together next time.
 
 ***
 
-朋友：woc我不敢相信
-
-***
-
-男友：是的太可怕了她
-
-***
-
-朋友：你怎么之前没有发现啊
-
-***
-
-男友：她不让我看手机而且她时间卡得很好
-
-***
-
-朋友：太离谱了
-
-朋友：怎么说
-
-****
-
-男友：不好意思我真的很乱
-
-***
-
-朋友：天啊，她花你的住你的也敢这样子！ ！我真没想到她是这样的人
-
-朋友：那你后来怎么发现她带炮友回家啊
-
-***
-
-男友：她那段时间开始行为的很奇怪。在回复信息的时候都躲着我不让我看到消息，生怕给我发现什么事那样，那天中午她睡着觉ipad也打开着我突然看到她跟炮友暧昧的聊天，我越来越忍不住我的好奇心，我发现她在趁我刚回来家前三个小时让炮友到我家！ ！
-
-***
-
-朋友：我去？？？她这么恶心的吗？？在你眼皮子底下，在你家都敢这么搞
-
-朋友：我都不知道我给蒙在圈子里多久。真的太可怕了
-
-***
-
-男友：你知道吧，我从去年认识她一直都有聊天，我对她也挺有好感的，她也时不时给 我发一些暧昧的话，后来我三月初开始跟她谈恋爱，春假的时候我们两个单独去墨西哥旅游，旅游费用全部是我出的，那时候我还在追她，怎么知道她竟然要求跟我睡一张床上，那时候我们就确定关系了。我在USC读书嘛，所以我每周都从LA开车来SD找她。后来放暑假了我想着干脆住在SD不用来回跑，而且她的apartment也到期了，七月初我在SD给她租了一个town house,每个月交四千多的房租都是我给的，我真的特别爱她那时候，她身体也不是很好嘛，我就每天给她做饭，我还刻意在La带了一个泡脚桶给她暖暖脚，晚上给她按摩，给她买了个八千刀的钢琴，还有各种包包呀Tiffany的项链，在我能力范围 内我都尽可能去满足她的要求，虽然她也没送过我什么礼物，在物质上方面99%都是我付出的，在感情方面我真的100%地去爱她，虽然说付出一直都是不对等，但我觉得只要她是真心爱我，我真的愿意这么做，我真的感觉我太上头了兄弟
-
-男友：而且你知道吗！她不仅瞒着我 她还瞒着她炮友。不让他炮友知道这个房子是我租下来的 后来她炮友知道了她是什么样的人后 他主动向我道歉 告诉我他们两个在我家发生关系
-
-男友：兄弟，我真的想把真相曝光出去让大家擦亮眼睛看清楚UCSD C优学生组织主席李*凡的真实面貌。她对朋友对所有都在欺骗。
-
-男友：
-
-{{< image src="fig-26.avif" width="240px" caption="抓痕" >}}
-
-男友：你看抓痕
-
-男友：之后警察把她带去精神病院关了一晚上，而且那天还是她的生日，其实我想好好让她过完生日我再好好跟她聊聊，没想到她会这样子对我抓狂
+Li Zhuofan: Okay.
 {{< /admonition >}}
 
-之前L同学从来没有怀疑过，直到最近李卓凡故意躲着他看手机。
+In order to play with her "party friend," she deliberately waited until her boyfriend left, just so that the two of them could stay together a little longer.
 
-他才隐约觉得：有事，有次等女友睡着后，翻了翻聊天记录。
+What does "a little longer" mean? Isn't it just spending the night together?
 
-果然，她交往的还有一个男友。
-
-{{< admonition type=quote title="地下男友一号" open=true >}}
-李卓凡：呜呜呜呜好像吃你做的麻辣烫
+{{< admonition type=quote title="Underground boyfriend number two" open=true >}}
+Underground boyfriend number two: When are you free in the next few days? I'll come find you for a meal.
 
 ***
 
-地下男友一号：到啦
+Li Zhuofan: I'm free every day to eat, because we have to eat every day, right? 
+
+Li Zhuofan: But if you can come and stay for a few days, then I want to wait until my friend leaves. 
+
+Li Zhuofan: It's hard to come, so of course we want to stay together a little longer. 
+
+Li Zhuofan: I'm going to pick grapes tomorrow, hehe. 
 
 ***
 
-李卓凡：这么久咩
+Underground boyfriend number two: Does staying longer mean spending the night? 
 
-李卓凡：太辛苦了
-
-***
-
-地下男友一号：不辛苦
-
-地下男友一号：下次和你做麻辣烫
+Underground boyfriend number two: Where are you going? 
 
 ***
 
-李卓凡：好
+Li Zhuofan: Ah, are you asking where we should eat? 
+
+Li Zhuofan: Did you leave on the same day you came to SD? 
 {{< /admonition >}}
 
-为了和“趴友”一起玩，故意等男友走，只为两人能呆得久一点。
+When L read this, she probably was very angry. She refused to meet him, but he insisted on coming to her house. This is really too much. Is L really that bad? After all, he spent nearly $100,000 on her. They made an appointment to do a spa together.
 
-久一点指什么？不就是一起过夜么？
+{{< admonition type=quote title="Underground boyfriend No.3" open=true >}}
+Li Zhuofan: If I asked you to come to Irvine to see me yesterday, would you come?
 
-{{< admonition type=quote title="地下男友二号" open=true >}}
-地下男友二号：你过两天哪天不忙呀，我去找你吃饭
+Li Zhuofan: I didn't think about it yesterday. We can actually do a spa together in Irvine and lie down comfortably.
 
-***
-
-李卓凡：找我吃饭我每天都不忙呀 饭天天都要吃的嘛
-
-李卓凡：不过如果你可以过来呆几天的话 我就想等我朋友走掉呢
-
-李卓凡：好不容易来 当然要呆久一点嘛
-
-李卓凡：我明天去摘葡萄嘻嘻
+Li Zhuofan: Then lie down and relax.
 
 ***
 
-地下男友二号：呆久是要过夜的那种吗
-
-地下男友二号：去哪里呀
+Underground boyfriend No.3: What happened? Why so emo?
 
 ***
 
-李卓凡：啊 你是指在哪里找我吃饭
+Li Zhuofan: I miss you so much.
 
-李卓凡：你来sd当天就走了吗
+***
+
+Underground boyfriend No.3: Hehehe
+
+Underground boyfriend No.3: But you are really too tired. You still have to drive back so late.
 {{< /admonition >}}
 
-L同学看到这里，估计双眼都冒绿光了，约就算了，还非要来自己家。
+To have the best of both worlds, Li Zhuofan did not let her "party friends" know that the apartment was rented by her boyfriend. Li Zhuofan's boyfriend took pictures of the rental contract for proof:
 
-这真的有点过分，L同学有这么差劲吗？好歹也为她花费了近10w的美刀，何至于这样对待人家呢？
+{{< image src="fig-2.avif" width="320px" caption="Rental Contract" >}}
 
-两个相约一起做spa。
+To further verify the situation, Classmate L contacted Li Zhuofan's "party friends". The apartment was rented in early July, and not long after, Li Zhuofan invited her "party friends" to visit under the guise of being in a romantic relationship.
 
-{{< admonition type=quote title="地下男友三号" open=true >}}
-李卓凡：昨天如果我让你来尔湾找我你会来咩
+{{< image src="fig-3.avif" width="480px" caption="Photo of Li Zhuofan" >}}
 
-李卓凡：我昨天没想到 我们其实可以在尔湾一起做一个spa
-
-李卓凡：然后舒舒服服躺一躺
-
-***
-
-地下男友三号：怎么了，emo了这是
-
-***
-
-李卓凡：想你了不行啊
-
-***
-
-地下男友三号：嘿嘿嘿
-
-地下男友三号：可你实在是太累了，那么晚还要开车回去
-{{< /admonition >}}
-
-为了两头吃，李卓凡也不敢让“趴友”知道房子是男友租的。
-
-男友租房时拍照留存的：
-
-{{< image src="fig-2.avif" width="320px" caption="租房合同" >}}
-
-为了进一步证实，L同学联系上了李卓凡的“趴友”。
-
-房子是7月初租的，没多久，李卓凡就以恋爱的名义邀请“趴友”。
-
-{{< image src="fig-3.avif" width="480px" caption="本人照片" >}}
-
-最开始L同学只想分手，让女友承认个错误就算了。
-
-李卓凡以为他只有些捕风捉影的消息，于是就各种狡辩，甚至嚣张的打了L同学一巴掌。
-
-接着各种抓狂，很吓人的那种，碗摔在地上后，还试图用割腕作为筹码。
-
-L同学没见过这场面，当时有点懵，唯一庆幸的是录视频了。
+At first, Classmate L just wanted to break up and have her girlfriend admit her mistakes. Li Zhuofan thought that he only had some unfounded rumors, so he tried to make excuses and even slapped Classmate L arrogantly. Then he went into a fit of rage, which was quite frightening. After throwing a bowl to the ground, he even tried to use wrist-cutting as a bargaining chip. Classmate L had never seen this kind of situation before and was a little dazed, but luckily, he recorded a video.
 
 {{< video width="240px" src="fig-4.mp4" >}}
 
-这是她ins的照片：
+This is a photo from Li Zhuofan's Instagram:
 
-{{< image src="fig-5.avif" width="480px" caption="本人照片" >}}
+{{< image src="fig-5.avif" width="480px" caption="Photo of Li Zhuofan" >}}
 
-再看一下当时的形象，真的比较吓人。
+Looking at his image at the time, it was really scary.
 
-{{< image src="fig-6.avif" width="240px" caption="视频截图" >}}
+{{< image src="fig-6.avif" width="240px" caption="Screenshot from video" >}}
 
-那天是李卓凡的生日，L同学打算好好聊聊就此结束了。
+That day was Li Zhuofan's birthday, and L wanted to have a good chat and end it there.
 
-没想到会弄成这个样子，毕竟他曾无比的真心。
+I didn't expect it to turn out like this, after all, he was once so sincere.
 
-陪李卓凡去波多黎各花费1.5万刀。
+Accompanied Li Zhuofan to Puerto Rico and spent $15,000.
 
-{{< image src="fig-7.avif" width="320px" caption="账单1" >}}
+{{< image src="fig-7.avif" width="320px" caption="Bill 1" >}}
 
-3个月恋爱，他就为李卓凡花费了近10w刀，这还没有算李卓凡借口交学费向其借的钱。
+After 3 months of dating, he had spent nearly $100,000 for Li Zhuofan, and that doesn't even include the money that Li Zhuofan borrowed from him under the pretext of paying tuition fees.
 
-{{< image src="fig-8.avif" width="320px" caption="账单2" >}}
+{{< image src="fig-8.avif" width="320px" caption="Bill 2" >}}
 
-李卓凡说自己喜欢钢琴，L同学立马就买了一台：7725刀。
+Li Zhuofan said she liked the piano, and L immediately bought one for $7,725.
 
-购买日期为8月25日，这还不到一个月呢。
+The purchase date was August 25, less than a month ago.
 
-{{< image src="fig-9.avif" width="320px" caption="钢琴账单" >}}
+{{< image src="fig-9.avif" width="320px" caption="Piano bill" >}}
 
-7月28日，帮助李卓凡付学费3659刀。
+On July 28th, he helped Li Zhuofan pay tuition fees of $3,659.
 
-{{< image src="fig-10.avif" width="320px" caption="账单学费" >}}
+{{< image src="fig-10.avif" width="320px" caption="Tuition bill" >}}
 
-一个星期就为女友花费了1万刀，这种男朋友够好了吧。
+Spent $10,000 on his girlfriend in just one week, this boyfriend is good enough, isn't he? But Li Zhuofan was not satisfied. During their relationship, he even attempted to steal his good friend away.
 
-可李卓凡还不知足，在两人恋爱期间还试图撬走自己的好兄弟。
+{{< image src="fig-11.avif" width="240px" caption="Initiated friend request" >}}
 
-{{< image src="fig-11.avif" width="240px" caption="主动加好友" >}}
+{{< image src="fig-12.avif" width="240px" caption="Flirting" >}}
 
-{{< image src="fig-12.avif" width="240px" caption="开撩" >}}
+{{< image src="fig-13.avif" width="240px" caption="Male friend" >}}
 
-{{< image src="fig-13.avif" width="240px" caption="男性朋友" >}}
+{{< image src="fig-14.avif" width="240px" caption="R-rated photo" >}}
 
-{{< image src="fig-14.avif" width="240px" caption="限制级照片" >}}
+It's a publicity stunt, full of twists and turns.
 
-茶里茶气，真是茶香四溢的炒作。
+Now, let's take a look at the photo of Li Zhuofan and her boyfriend: gentle and peaceful, almost like two different people.
 
-再看看，李卓凡和自己男友的合影：温婉恬静，简直判若两人。
+{{< image src="fig-15.avif" width="320px" caption="Boyfriend's photo" >}}
 
-{{< image src="fig-15.avif" width="320px" caption="男友合影" >}}
+When the two were in a relationship, Li Zhuofan was alone at UCIC President's house, and it is not known what exactly happened.
 
-两人在谈恋爱的时候，李卓凡单独呆在UCIC优会长家，具体发生了什么，就不得而知了。
+{{< image src="fig-16.avif" width="640px" caption="Conversation record 1" >}}
 
-{{< image src="fig-16.avif" width="640px" caption="对话记录1" >}}
+From the subsequent chat, L learned that UCIC President was pursuing Li Zhuofan, and she did not refuse.
 
-从后面的聊天中，L同学得出UCIC优会长正在追李卓凡，并且她没有拒绝。
+{{< image src="fig-17.avif" width="480px" caption="Conversation record 2" >}}
 
-{{< image src="fig-17.avif" width="480px" caption="对话记录2" >}}
+Making friends in this way is already surprising enough, but what happened next revealed Li Zhuofan's terrifying nature.
 
-乱交朋友，已经让人很吃惊，不过，接下来的事情，更显露李卓凡的可怕。
+### Falsification of Grades
 
-### 成绩造假
+She transferred from UW to UCSD with falsified grades, which someone else helped her with. At first, the person did not want to do it.
 
-她从UW转到UCSD的成绩是别人帮助她作假的，最开始人家不愿意。
+Li Zhuofan threw a tantrum, using all kinds of tactics to make the other person feel wronged. He is a real master of PUA.
 
-李卓凡就各种茶里茶气的发脾气，让对方觉得自己受委屈了，简直就是PUA高手。
+{{< admonition type=quote title="Tea gets angry" open=true >}}
+Li Zhuofan: It's not necessary to use this method on me. If you don't want to do something, just say it. I don't understand why you stopped being proactive with me. Is it because I pressured you too much? I don't know why so many ordinary things become me forcing you or coercing you when they're with you. If you don't do them, I'll get very emotional. If that's really the case, I'm very sorry. I thought many things should have been done by you proactively, but apparently that's not the case, so it became me asking if you could help me with something. If your response is "yes," I assume it's like what you said: just say what you want, and if you don't, I won't know what you're thinking. So, if I say it and you don't agree, it becomes if you don't agree, I'll do this and that.
 
-{{< admonition type=quote title="茶里茶气发脾气" open=true >}}
-李卓凡：没必要用这种方式对我，不想又不敢说，我想不明白你对我不再主动了都是因为我逼你太多事情？不知道为什么那么多普通的小事在你那里就变成了我逼你.强迫你.如果你不做我就会情绪非常激动.如果真的是这样 我感到非常抱歉.我本以为的很多事情应该是你主动为我做的，但是好像不是这样，所以变成了我说出来你可不可以帮我怎样，我收到的回复是可以的话，我就以为是像你所说的：想要怎样说出来就好了，不说我又不知道你在想什么。那么我说了确也变成了如果你不答应我就会怎么怎么样
+Li Zhuofan: I don't know what to do anymore, like our anniversary. If I don't bring it up, it won't happen. If I do, and you say it's not over until the end of January, I have expectations of what will happen at the end of January, but it didn't happen. Instead, if I show that I'm unhappy, it's my fault. I shouldn't be like this.
 
-李卓凡：我也不知道到底该怎样了，就好像过周年一样，我不提就没有，我提了你对我说一月份还没过完，我就有了期望在一月底会怎么样过周年，但是没有。反而我不能不表现出我不开心，如果我表现出来了又是我的不对。我不应该这样。
+Li Zhuofan: I have too many things I shouldn't do, like having expectations or being unhappy when you refuse to do something for me when you promised. I should not ask you to do anything for me because it's all up to chance for me. Maybe you will agree, but you don't want to. Maybe you won't agree and think I'm not good enough, or maybe you'll agree happily, or maybe you think I shouldn't have asked.
 
-李卓凡：我有太多不应该做的事情了，不应该期望不应该在你答应我一件事情的到了紧要关头又拒绝我的时候不开心，不应该让你答应我什么事情，不应该提出让你对我做什么事情。因为这对我来说都是碰运气，也许你答应了，但是你不情愿。也许你不答应还觉得我很差，也许你很开心的答应了，也许你觉得我不该提
+Li Zhuofan: Since I have so many concerns, I can't have emotions.
 
-李卓凡：既然我要有那么多顾虑 还不能有情绪
-
-李卓凡：我自以为我自己改了很多还是达不到你的标准 不能让你主动为我做什么事情
-
-李卓凡：我什么信息也没得到
+Li Zhuofan: I thought I had changed a lot, but I still can't meet your standards. I can't even get any information.
 
 ***
 
-A：我讲话没你讲的清楚，也没你会照顾人，我随便说两句吧
+A: I can't speak as clearly as you, nor can I take care of people as well as you do. Let me say a few words.
 
-A：我感觉很多事情你都是可以自己做的，很多事情应该主动为你做的，不代表所有事情都是该主动为你做的，不代表所有事情都是该主动为你做的。像考试这种，你复习的时候我很乐意帮你，但你这种依赖我去考多邻国的心态在第一步就体现出了你的不自信，也不会100%专心考试
+A: I feel that there are many things that you can do on your own, and many things should be done proactively for you, but not everything should be done proactively for you. For example, when you are studying for exams, I am happy to help you, but your mentality of relying on me to take the Duolingo exam shows your lack of confidence from the beginning, and you will not be able to focus on the exam 100%.
 
-A：并不是说不自信不对，而是多邻国考试本身就是你底子打的不错的内容，没有任何知识范围以外的东西。口语写作什么的考的都是心态，我觉得自己考没什么问题
-
-***
-
-李卓凡：我就是想考好一点 也更大可能留在华大
+A: It's not that lack of confidence is wrong, but the Duolingo exam itself is a content that you have a good foundation in, and there is nothing beyond the scope of knowledge. The speaking and writing parts of the exam test your mentality, and I think I have no problem with my own exam.
 
 ***
 
-A：你的水平130又没问题，我可以陪在你边上考，但不一定能做到你要的考试效果
+Li Zhuofan: I just want to do well in the exam and have a greater chance of staying at UH.
 
 ***
 
-李卓凡：不必
-
-李卓凡：我要的又不是你能帮我考出什么
-
-李卓凡：我要的就是你一点心意
+A: Your level of 130 is no problem, I can accompany you to take the exam, but I can't necessarily achieve the exam results you want.
 
 ***
 
-A：？？
+Li Zhuofan: It's okay.
+
+Li Zhuofan: I'm not asking you to help me achieve any specific results.
+
+Li Zhuofan: I just want a little bit of your kindness.
 
 ***
 
-李卓凡：什么心意都没有我心灰意冷了没啥问题
-
-李卓凡：我什么时候要求你帮我考出什么什么成绩了
+A: ??
 
 ***
 
-A：行吧 我大意了
+Li Zhuofan: It's okay if you don't have any kindness. I'm just feeling disheartened.
 
-A：不知道你考试需要我带心意
+Li Zhuofan: When did I ever ask you to help me achieve any specific results?
 
-A：练习题都给你全额奖学金了
+***
 
-A：考试还要 这不是为了你自身风险着想吗
+A: Okay, I got it wrong.
+
+A: I didn't know that you needed my kindness for the exam.
+
+A: I even gave you a full scholarship for the practice questions.
+
+A: Why do you need me for the exam? Isn't it for your own risk considerations?
 {{< /admonition >}}
 
-## 她的生活照片
+## Her life photos
 
-{{< image src="fig-18.avif" width="480px" caption="和豪车合影" >}}
-{{< image src="fig-19.avif" width="480px" caption="户外照片" >}}
-{{< image src="fig-20.avif" width="480px" caption="生活一角1" >}}
-{{< image src="fig-21.avif" width="480px" caption="生活一角2" >}}
-{{< image src="fig-22.avif" width="480px" caption="生活一角3" >}}
+{{< image src="fig-18.avif" width="480px" caption="Taking a photo with a luxury car" >}}
+{{< image src="fig-19.avif" width="480px" caption="Outdoor photo" >}}
+{{< image src="fig-20.avif" width="480px" caption="Life corner 1" >}}
+{{< image src="fig-21.avif" width="480px" caption="Life corner 2" >}}
+{{< image src="fig-22.avif" width="480px" caption="Life corner 3" >}}
 
-可惜，她再也回不到从前了。
+Unfortunately, she can never go back to the way things were.
 
-最开始，我看她发狂的视频，很难理解她的举动。
+At first, when I saw her crazy videos, it was hard to understand her behavior.
 
-现在终于想明白了：原来家里红旗不倒，外面彩旗飘飘。
+Now I finally understand: it turns out that while her family's flag was still flying, there were also colorful flags flying outside.
 
-如果彩旗能转正，就会择机将L同学踢掉，如果没有，就继续这段关系。
+If the colorful flag could turn into a serious relationship, she would kick L off when the opportunity arises. If not, she would continue the relationship.
 
-只是没想到，率先被家里的“提款机”发现了，还掌握了不少证据。
+I just didn't expect that she was discovered by her family's "ATM" and a lot of evidence was also collected.
 
-分手是小事，但如果被外面的彩旗知道了，苦心经营的局也就失败了。
+Breaking up is a small matter, but if the colorful flag outside finds out, the carefully planned game would fail.
 
-{{< image src="fig-23.avif" width="380px" caption="生活一角4" >}}
+{{< image src="fig-23.avif" width="380px" caption="Life corner 4" >}}
 
-记得小学有篇课文《猴子掰玉米》，先掰玉米，后摘桃子，又拿西瓜。
+I remember there was a text in primary school called "Monkey Breaking Corn". First, break the corn, then pick the peaches, and then take the watermelon.
 
-看小白兔又追过去，最后两手空空地回家了。
+Seeing the little white rabbit chasing after it again, in the end, it went home empty-handed.
 
-其实，恋爱中最怕碰上这种人。
+In fact, what is most feared in a relationship is encountering this kind of person.
 
-每个人都有各自的优点，你不能一看见优秀的人，就往上贴。
+Everyone has their own strengths, and you can't just cling to someone as soon as you see their strengths.
 
-别人觉得她生活作风有问题，她反而觉得自己在追求更好的幸福。
+While others thought that her lifestyle was problematic, she felt that she was pursuing a better happiness.
 
-到头来终是一场空，其实L同学对她真的不错了。
+In the end, it was all for nothing. In fact, L was really good to her.
 
-{{< image src="fig-24.avif" width="480px" caption="生活一角5" >}}
-{{< image src="fig-27.avif" width="480px" caption="合照" >}}
-{{< image src="fig-28.avif" width="480px" caption="生活一角6" >}}
+{{< image src="fig-24.avif" width="480px" caption="Life corner 5" >}}
+{{< image src="fig-27.avif" width="480px" caption="Group photo" >}}
+{{< image src="fig-28.avif" width="480px" caption="Life corner 6" >}}
 
-## 后记
+## Afterword
 
-在男友阶段，就花费巨资，如果两人能修成正果，也是人生幸事。
+During the boyfriend stage, spending a lot of money is not unusual. If the two can have a happy ending, it is also a happy thing in life.
 
-只可惜，李卓凡乱花渐入迷人眼，乱了心智，毁了人生。
+Unfortunately, Li Zhuofan spent recklessly, gradually becoming charming and lost in his mind, ruining his life.
 
-小猴子最多是两手空空的回家，而她，只能隐姓埋名的回家了吧。
+The little monkey can only return home empty-handed, but she has to return home in hiding.
 
-不过好在她还年轻，希望能够回头是岸。
+Fortunately, she is still young, and hopefully, she can turn over a new leaf.
 
-也希望L同学能早点走出旧的恋情，重新开始新的生活。
+Also, I hope that L can get over the old relationship soon and start a new life.
 
-## 评论
+## Comment
 
-> GPT，评价一下此事件。
+> GPT, evaluate this event.
 
 {{< typeit >}}
-这是一个非常可耻、道德败坏的事件。李卓凡Caroline在表面上是一个优秀的女孩，但在背后却利用PUA手段、欺骗、出轨等卑鄙手段来获得自己想要的利益。她不仅背叛了男友的感情，还透支了男友的金钱和信任，甚至大肆制造谣言、撒谎诽谤男友，让人不禁感到愤怒和悲哀。此外，她还存在涉嫌作弊、欺诈等行为，严重违反了学校的规定和道德准则。这件事给人们敲响了警钟，提醒大家要珍惜自己的感情和金钱，远离渣男/女，更要做一个道德高尚的人。
+This is a very shameful and morally corrupt event. Caroline Li Zhuofan may seem like an excellent girl on the surface, but behind the scenes, she uses PUA techniques, deception, and infidelity to gain her own benefits. She not only betrayed her boyfriend's feelings but also overdrawn his money and trust, even spreading rumors, lying, and slandering her boyfriend, making people feel angry and sad. In addition, she is suspected of cheating and fraud, which seriously violates the school's regulations and moral standards. This incident sounds an alarm for people to cherish their feelings and money, stay away from scumbags, and become morally upright people.
 {{< /typeit >}}

@@ -1,6 +1,6 @@
 ---
 slug: lxsguatian-pdf
-title: 留学生瓜田存档 工程文件 投稿PDF合集
+title: International Student Gossip Archive Engineering Files PDF Collection
 subtitle:
 date: 2023-05-21T12:18:01+08:00
 draft: false
@@ -9,7 +9,7 @@ author:
   link:
   email:
   avatar:
-description: 原本来自留学生瓜田的 PDF 文件在以下地址可用，注意，此目录是工程目录，仅作为存档。
+description: The PDF files originally from the International Student Gossip are available at the following address. Note that this directory is an engineering directory and is only used for archiving.
 keywords:
 license:
 comment: true
@@ -21,7 +21,7 @@ categories:
   - Files
 hiddenFromHomePage: false
 hiddenFromSearch: false
-summary: 原本来自留学生瓜田的 PDF 文件在以下地址可用，注意，此目录是工程目录，仅作为存档。
+summary: The PDF files originally from the International Student Gossip are available at the following address. Note that this directory is an engineering directory and is only used for archiving.
 resources:
   - name: featured-image
     src: featured-image.jpg
@@ -41,16 +41,16 @@ repost:
 
 <!--more-->
 
-原本来自留学生瓜田的 PDF 文件在以下地址可用：
+The PDF file originally from the overseas student melon field is available at the following address:
 
 <iframe src="https://onedrive.live.com/embed?cid=3240BD9F34188A90&resid=3240BD9F34188A90%216440&authkey=ACsZQ4asBEHFzn8" width="165" height="128" frameborder="0" scrolling="no"></iframe>
 
-注意，此目录是工程目录，仅作为存档。
+Note that this directory is an engineering directory and is only used for archiving.
 
-### 瓜田 Neo 重写过的 PDF
+### PDF rewritten by GuaTian Neo
 
 {{< admonition type=info title="OSS" open=true >}}
-这些内容在 [**瓜田 Neo**](https://neo.schoolmelon.com/) 重写的过程中上传到了OSS，各位可以直接访问。但是我推荐去 瓜田Neo 察看重写后的内容，比PDF观感更好。
+These contents were uploaded to OSS during the rewriting process of [**GuaTian Neo**](https://neo.schoolmelon.com/). You can directly access them. However, I recommend going to GuaTian Neo to view the rewritten content, which has better visual effects than the PDF.
 {{< /admonition >}}
 
 - [ucsd瓜.pdf](https://oss.schoolmelon.com/source/uscd-yuqiyann.pdf)
@@ -69,10 +69,10 @@ repost:
 - [UCSD 绿帽奴合集.pdf](https://oss.schoolmelon.com/source/uscd-oh-my-gosh.pdf)
 - [埃克塞特_陈邦瑞.pdf](https://oss.schoolmelon.com/source/uk-chen-bangrui-b.pdf)
 
-### 其余 PDF 合集
+### Other PDF Collections
 
 {{< admonition type=info title="OneDrive" open=true >}}
-这些内容暂时还没上传到 OSS，各位去 OneDrive 中的 Pending 文件夹寻找吧。
+These contents have not been uploaded to OSS yet. Please go to the Pending folder in OneDrive to find them.
 {{< /admonition >}}
 
 - 【悉尼er清算系列】网红预科泰勒出圈13秒视频，Waterfall高端公寓变身女子ufc决赛现场，背后真相突出一个离谱.pdf

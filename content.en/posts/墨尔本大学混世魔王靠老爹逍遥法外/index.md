@@ -1,7 +1,7 @@
 ---
 slug: um-demon-king
-title: UM - 混世魔王 受害人众多 指控存疑
-subtitle: 魔王被指责多次违规行为，但指控存疑，包含很多虚假的描述。
+title: UM - Demon King accused of misconduct, but allegations are questionable
+subtitle: Demon King has been accused of multiple violations, including physical assault and traffic violations. However, the allegations are questionable, and some descriptions are false.
 date: 2023-05-20T16:04:10+08:00
 draft: false
 author:
@@ -9,7 +9,7 @@ author:
   link:
   email:
   avatar:
-description: 该文章描述了一名墨尔本大学学生混世魔王，被指责多次违规行为，包括打人，造成人身伤害、违反交通规则等。然而该指控存在一定的存疑，部分描述为虚假描述。文章的来历和真实性备受质疑，引发了大量争议。
+description: This article describes a Melbourne University student, Demon King, who has been accused of multiple violations, including physical assault and traffic violations. However, the allegations are questionable, and some descriptions are false. The origin and authenticity of the article have been questioned, causing a lot of controversy.
 keywords:
 license:
 comment: true
@@ -29,7 +29,7 @@ categories:
   - GOSSIP
 hiddenFromHomePage: false
 hiddenFromSearch: false
-summary: 该文章描述了一名墨尔本大学学生混世魔王，被指责多次违规行为，包括打人，造成人身伤害、违反交通规则等。然而该指控存在一定的存疑，部分描述为虚假描述。文章的来历和真实性备受质疑，引发了大量争议。
+summary: This article describes a Melbourne University student, Demon King, who has been accused of multiple violations, including physical assault and traffic violations. However, the allegations are questionable, and some descriptions are false. The origin and authenticity of the article have been questioned, causing a lot of controversy.
 resources:
   - name: featured-image
     src: featured-image.jpg
@@ -49,127 +49,125 @@ repost:
 
 <!--more-->
 
-{{< admonition type=info title="来源" open=true >}}
-源文地址：
+{{< admonition type=info title="Source" open=true >}}
+Source file address: 
 - [澳洲牛马：墨尔本大学混世魔王靠老爹逍遥法外，受害人众多（爹宝男？）](https://mp.weixin.qq.com/s/Xj3PI0z0EV7dPGvr5MuB2A)
 - [反转！《墨大混世魔王...》投稿人澄清](https://mp.weixin.qq.com/s/YIv1q5zFRwC2GIg8T2tXeg)
 
-本文进行了重制以适合移动设备以及赋予通用性。
+This article has been re-designed to suit mobile devices and to be more universal.
 {{< /admonition >}}
 
-## 前言
+## Introduction
 
-请各位男女同胞擦亮眼睛，远离渣男！墨尔本地区渣男提醒：
+Fellow men and women, please keep your eyes open and stay away from scumbags! A reminder to those in the Melbourne area:
 
-此人曾就读于北京十二中，任流行音乐社社长。现为墨尔本大学第二学期Data Science专业本科生，在学习期间多次抄袭他人作业。
+This person attended Beijing No. 12 High School and was the president of the popular music club. He is currently a second-semester undergraduate student majoring in Data Science at the University of Melbourne, and has plagiarized other people's assignments multiple times during his studies.
 
-## 指控
+## Charges
 
-以下是修正后的文本：
+Here is the revised text:
 
-经典语录一：我是PR，有绿卡，如果在国内遇到麻烦，那就来澳洲呗。
+Classic quote 1: "I am a PR, I have a green card. If you encounter any trouble in China, just come to Australia."
 
-经典语录二：我的父亲是某代表和某公司的创始人。他现在致力于水利工程。
+Classic quote 2: "My father is a representative of a certain company and its founder. He is now dedicated to water conservancy projects."
 
-接下来是关于他的事情：
+Here are some things about him:
 
-### 学校打人
+### School Violence
 
-曾经在高中打过其他同学，并被学校处理。
+He had been involved in school violence in high school and was dealt with by the school.
 
-### 致人受伤
+### Causing Injury
 
-一次在酒吧砸了别人的头并导致受伤，最终通过他父亲的关系和支付一定的赔偿金来解决此事。
+Once in a bar, he smashed someone's head and caused injury, which was ultimately resolved through his father's connections and payment of compensation.
 
-### 不参加考试
+### Skipping Exams
 
-在高中期间，他基本上不参加考试，最终得到了GPA3.8左右的成绩（满分为5分），这都是靠付出一定的代价才得到的。
+During high school, he basically did not take exams and eventually got a GPA of around 3.8 (out of 5), which was achieved at a certain cost.
 
-### 违反交通规则
+### Violating Traffic Rules
 
-他曾多次无证驾驶并违反交通规则。
+He had driven without a license and violated traffic rules multiple times.
 
-### 骚扰女生
+### Harassing Girls
 
-在喝醉后，他曾骚扰过大学女生，并使她陷于困境和抑郁。他还多次骚扰其他女生，包括他的女友和其他朋友的女友。
+After getting drunk, he harassed a college girl and caused her to be trapped and depressed. He also harassed other girls multiple times, including his girlfriend and other friends' girlfriends.
 
-### 欺骗女生
+### Deceiving Girls
 
-他曾和女生发生关系，但之后不负责任，无视之前对女生的承诺。他骗女方离开家后不告诉别人。三天后，他失踪了。女方的朋友告诉他要向女生道歉，但他死不承认自己的错误，并曲解了事情的真相。他还试图诬陷女生未经同意拿了他家的钥匙进入他家中。但其实女生已经告诉过他，并且他同意女生拿钥匙进入他家。
+He had sexual relations with girls but was irresponsible afterward, ignoring his promises to them. He tricked the girl into leaving her home without telling anyone. Three days later, he disappeared. The girl's friend told him to apologize to the girl, but he refused to admit his mistake and distorted the truth. He also tried to accuse the girl of taking his house key without his consent, but the girl had already told him and he agreed to let her have the key to enter his house.
 
-{{< admonition type=quote title="混世魔王和作者的对话" open=true >}}
-混世魔王：所以我只是说maybe然后 你作为他朋友也就是旁观者的角度来想评价我的行为 没问题 想怎么评论我和我没关系。但还是要让你知道 站在我的角度我没任何理由也不需要 不会 给任何人道歉所以你想谈论这件事ok但你没资格也没能力让我道歉
-
-***
-
-作者：行
+{{< admonition type=quote title="Conversation between the author and the scammer" open=true >}}
+Scammer: So I just said maybe, and you as his friend, as an onlooker, can evaluate my behavior from your perspective. It's okay if you want to comment on me, but it has nothing to do with me. But I still want you to know that from my perspective, I have no reason, and I don't need to, and won't apologize to anyone. So it's okay if you want to talk about this, but you don't have the qualifications or ability to make me apologize.
 
 ***
 
-作者：只是作为女生，感到共情想强调仪式感和责任感对女生的重要性
-
-作者：只是我比较刻薄，比较看重这种事。当然你也没说错，我有言论权，但决定权在你
+Author: Understood.
 
 ***
 
-混世魔王：这些事情我说的都很清楚了 我到现在还是不明白之前你为什么要 在我不同意的情况下 一而再再而三的让别人在未经我同意的情况下进到我家 甚至在提醒你很多次了的情况下依旧把钥匙给到非租客的手里
+Author: As a woman, I just feel empathy and want to emphasize the importance of ritual and responsibility to women.
+
+Author: I'm just a bit harsh and value this kind of thing. Of course, you're not wrong. I have the right to speak, but the decision is up to you.
+
+***
+
+Scammer: I have made it clear about these things. I still don't understand why you kept letting others into my house without my consent, even when I disagreed, and even gave the key to non-tenants despite reminding you many times.
 {{< /admonition >}}
 
-事实却是：他亲自下楼接的女生
+The fact is: He personally went downstairs to meet the girl.
 
-### 阻止转租
+### Preventing Subletting
 
-在女室友知道这种事情后，他堵截女室友离开房子，并拒绝让她转租。
+When his female roommate found out about this, he blocked her from leaving the house and refused to let her sublet.
 
-他多次提出无厘头的理由来拒绝女室友寻找新的室友，并含蓄地表示希望女室友与某个女生做室友，女室友基于该女生的安全和租金问题而拒绝了她的请求，而这个女生没有责怪女室友。
+He repeatedly gave nonsensical reasons to reject the female roommate's search for a new roommate, and subtly hinted that he hoped the female roommate would live with a certain girl. The female roommate refused her request based on the safety and rent issues of that girl, and the girl did not blame the female roommate.
 
-他多次使用这个借口去pua女室友。
+He repeatedly used this excuse to hit on the female roommate.
 
-女室友后来找了其他男生来做室友，但这个男生也遭到了拒绝。
+The female roommate later found other male roommates, but this male roommate was also rejected.
 
-（甚至在答应见面后，租房人从国内飞往澳洲，他无理由地拒绝了，导致租房人不得不改签机票。）
+(Even after agreeing to meet, the landlord flew from China to Australia, but he unreasonably refused, causing the landlord to have to change his flight.)
 
-{{< admonition type=quote title="未知对话" open=false >}}
-A：我打算让给他了，来墨尔本旅游
+{{< admonition type=quote title="Unknown Conversation" open=false >}}
+A: I plan to give it to him and come to Melbourne for a trip.
 
-A：实在不好意思
+A: I'm really sorry.
 
 ***
 
-B：没事嗷我再看看其他的
+B: It's okay, I'll look at other options.
 {{< /admonition >}}
 
-{{< admonition type=quote title="作者和室友的对话" open=true >}}
-作者：对啊，可是本来就是找两个月的来租。当时没和她仔细确认时间。要说先来后到的话，也是当天另外一个女生先来的。
+{{< admonition type=quote title="Conversation between the Author and Roommate" open=true >}}
+Author: Yeah, but we were looking for someone to rent for two months. I didn't confirm the dates with her. If we're talking about who came first, it was another girl who came that day.
 
-作者：那不改了。就这个男生
-
-***
-
-女室友：[语音消息]
+Author: Let's not change it. It's this guy.
 
 ***
 
-作者：你觉得ok就行。不行我就继续交房租
+Female roommate: [Voice message]
+
+***
+
+Author: If you think it's okay, then it's okay. If not, I'll just keep paying the rent.
 {{< /admonition >}}
 
-{{< admonition type=quote title="作者和租客的对话" open=true >}}
-作者：她没问题
+{{< admonition type=quote title="Conversation between the Author and Tenant" open=true >}}
+Author: She has no problem.
 
-作者：我先赶due了
+Author: I have to go now.
 
-作者：浪费你时间
-
-作者：真的抱歉
+Author: Sorry for wasting your time.
 
 ***
 
-租客：[语音消息]
+Tenant: [Voice message]
 {{< /admonition >}}
 
-此外，他在女室友不在家的期间，未经同意多次带不明身份的人进家中抽烟、喝酒和打牌。
+In addition, he brought unidentified people into the house without permission during the period when the female roommate was not at home, smoking, drinking, and playing cards.
 
-他占据着住房区，侵占着室友的居住权，对其多次造成口头人身攻击和威胁，并且还在推卸他自己的责任。
+He occupied the living area, encroached on the roommate's right to live, verbally attacked and threatened her multiple times, and even tried to shift the blame onto her.
 
 ### 卫生问题
 
@@ -199,82 +197,82 @@ B：没事嗷我再看看其他的
 作者：咱特地赶回来告诉他内裤没洗
 {{< /admonition >}}
 
-## 辩护
+## Defense
 
-{{< admonition type=note title="反转？" open=true >}}
-后来作者说她是杜撰的，但是吧，也没解释清楚怎么捏造的，哪些是捏造的，个人认为存疑，不排除作者受到胁迫。
+{{< admonition type=note title="Reversal?" open=true >}}
+Later, the author said that she made up the story, but she did not explain clearly how she fabricated it or which parts were fabricated. It is still questionable, and it cannot be ruled out that the author was coerced.
 
-不过之前的指控确实有很多没有具体的证据，但是有证据，有记录的那些，还是希望解释一下。
+However, there were indeed many accusations without specific evidence before, but for those with evidence and records, an explanation is still needed.
 {{< /admonition >}}
 
-大家好，我是昨天《墨大混世魔王……》一文中的女方当事人。我想澄清一些事情：
+Hello everyone, I am the female party involved in the article "墨大混世魔王……" that was published yesterday. I would like to clarify some things:
 
-1. 该文章不是我本人投稿的，我也没有任何想攻击男方的想法。由于我们之前的事情没有及时沟通，所以产生了误会。当时我的朋友为了帮我出气，策划了这一吐槽事件。
+1. The article was not submitted by me, and I had no intention of attacking the male party. Due to the lack of timely communication between us, there was a misunderstanding. At that time, my friend planned this venting event to help me release my anger.
 
-2. 文章的内容是我朋友在一时冲动的情况下编造的，其中90%的内容都是虚构的。这些话是根据在墨尔本听到的各种奇葩人和事所扣在他身上的。作为女方当事人，我希望大家不要再以讹传讹，也不要影响男方的生活。
+2. The content of the article was fabricated by my friend in a moment of impulse, and 90% of it is fictitious. These words were attributed to him based on various bizarre people and events heard in Melbourne. As the female party involved, I hope that everyone will not spread rumors and affect the male party's life.
 
-3. 整个事件的起因完全是一场误会，已经得到了很好的解决，不应该再有其他人参与进来。男方也不需要再解释什么了。
+3. The whole incident was caused by a misunderstanding, and it has been resolved well. There should be no further involvement from others, and the male party does not need to explain anything further.
 
-{{< admonition type=quote title="未知对话" open=true >}}
-A：[墨尔本大学混世魔王靠老爹逍遥法外，受害人众多](https://mp.weixin.qq.com/s/Xj3PI0z0EV7dPGvr5MuB2A)
+{{< admonition type=quote title="Unknown Conversation" open=true >}}
+A: Melbourne University's demon king gets away with it thanks to his father, and there are many victims.
 
-A：你发的？
+A: Did you post this?
 
 ***
 
-作者：我靠
+Author: Damn it.
 
-作者：这个不是我发的大哥
+Author: This is not something I posted, bro.
 
-作者：她自己遍的
+Author: She did it herself.
 
-作者：之前那个事情咱不是有误会 我去找她抱怨 我也不知道她在搞啥来编这些东西
+Author: We had a misunderstanding before. I went to complain to her. I don't know what she's doing to make up these things.
 
-作者：我去找那个公众号说了 但这个东西真不是我发的
+Author: I went to the public account and told them, but this thing really wasn't posted by me.
 
-作者：现在也一直联系不上她，我昨天下午看到这个帖子就给她发消息让她删，一整天都没回我消息
-
-***
-
-A：你现在没意见然后你朋友自己在那义愤填膺？编的这些东西她自己不觉得恶心？一条证据都没有靠一张聊天记录加几段编来的小作文你们自己信吗
+Author: I still can't contact her now. I saw this post yesterday afternoon and messaged her to delete it, but she hasn't replied all day.
 
 ***
 
-作者：我知道这个东西对任何人伤害都很大，我现在真的想解决这件事我联系了公众号去下架这个帖子 我帮你澄清好嘛
+A: So now you have no problem with it, and your friend is indignant about it? Doesn't she feel disgusted by making up these things with no evidence other than a chat record and some made-up essays? Do you guys believe it yourselves?
 
-作者：我没有任何对你人身攻击的想法我也可以帮你证明发的这些东西都是当时我去找我朋友说的时候她太生气了 想搞你一下 去编造的这些事情，我不知道事情会发展成这样
+***
+
+Author: I know this thing is very harmful to anyone. I really want to resolve this issue now. I contacted the public account to take down this post. Can I help you clarify it?
+
+Author: I have no intention of attacking you personally. I can also help you prove that these things were made up by my friend when I went to talk to her and she was too angry and wanted to mess with you. I didn't know the situation would develop into this.
 {{< /admonition >}}
 
-{{< admonition type=quote title="朋友和公众号的对话" open=true >}}
-作者：不知道咋讲了
+{{< admonition type=quote title="Friend and Public Account Conversation" open=true >}}
+Author: I don't know what to say.
 
-作者：[语音消息]
+Author: [voice message]
 
-作者：
+Author:
 
-> [被移除]：他只会觉得你这个人很好搞定
+> [Removed]: He only thinks you're easy to deal with.
 
-[被移除]
+[Removed]
 
-作者：[被移除]
+Author: [Removed]
 
-作者：[被移除]
+Author: [Removed]
 
-作者：然后我的朋友也 [被移除]
+Author: Then my friend also [Removed]
 
-作者：那个女生没问题，我就没啥问题了
+Author: That girl is fine, so I don't have any problems.
 
-作者：主要确实有点冲动了
+Author: Mainly, I was a little impulsive.
 {{< /admonition >}}
 
-## 评论
+## Comment
 
-> James，你怎么看。
+> James, what do you think?
 
-作为吃瓜群众，我也不知道事情是真是假了，但是不管是真的还是假的，那都是一个乐子，乐子加倍。
+As a bystander, I don't know if the story is true or false, but regardless of whether it's true or false, it's all just entertainment, double the fun.
 
-> GPT，评价一下此事件。
+> GPT, evaluate this event.
 
 {{< typeit >}}
-这个事件充分证明，如果要发布一篇文章指控某人，必须严谨、准确地查证，不应该随意编造信息，否则会给他人带来不必要的伤害。另外，无论扮演何种角色，都应该对自己的行为有所负责并对他人的合法权益尊重。
+This event fully demonstrates that if you want to accuse someone in an article, you must verify the information rigorously and accurately. You should not fabricate information at will, otherwise, it will cause unnecessary harm to others. In addition, no matter what role you play, you should be responsible for your own behavior and respect the legitimate rights of others.
 {{< /typeit >}}

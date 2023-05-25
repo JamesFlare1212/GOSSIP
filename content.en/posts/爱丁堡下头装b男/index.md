@@ -1,7 +1,7 @@
 ---
 slug: uoe-vincent
-title: UoE - 张启航 不为人知的真相
-subtitle: 前女友揭露：恋爱期间有多处不当行为，分手后反叛行径惊人
+title: UoE - The unknown truth about Zhang Qihang
+subtitle: Ex-girlfriend reveals inappropriate behavior during the relationship, shocking rebellious actions after the breakup
 date: 2023-05-21T16:59:16+08:00
 draft: false
 author:
@@ -9,7 +9,7 @@ author:
   link:
   email:
   avatar:
-description: 一位前女友在社交媒体上曝光了留学生张启航恋爱期间及分手后的行为。被曝光的不当行为包括言语上的不尊重、贪图女友钱财、对礼物的不认真态度等。文章也讲述了成功主义的张启航为报复前女友而进行的反叛行径，引起了社会'stay tuned'的关注和讨论。
+description: An ex-girlfriend exposed the behavior of international student Zhang Qihang during and after their relationship on social media. The inappropriate behavior exposed includes disrespectful language, greed for the girlfriend's money, and a lack of seriousness towards gifts. The article also describes the rebellious actions of success-oriented Zhang Qihang in retaliation against his ex-girlfriend, causing attention and discussion in society. 
 keywords:
 license:
 comment: true
@@ -23,7 +23,7 @@ categories:
   - GOSSIP
 hiddenFromHomePage: false
 hiddenFromSearch: false
-summary: 一位前女友在社交媒体上曝光了留学生张启航恋爱期间及分手后的行为。被曝光的不当行为包括言语上的不尊重、贪图女友钱财、对礼物的不认真态度等。文章也讲述了成功主义的张启航为报复前女友而进行的反叛行径，引起了社会'stay tuned'的关注和讨论。
+summary: An ex-girlfriend exposed the behavior of international student Zhang Qihang during and after their relationship on social media. The inappropriate behavior exposed includes disrespectful language, greed for the girlfriend's money, and a lack of seriousness towards gifts. The article also describes the rebellious actions of success-oriented Zhang Qihang in retaliation against his ex-girlfriend, causing attention and discussion in society.
 resources:
   - name: featured-image
     src: featured-image.jpg
@@ -43,206 +43,207 @@ repost:
 
 <!--more-->
 
-{{< admonition type=info title="来源" open=true >}}
-源文件地址：[爱丁堡下头装b男.pdf](https://oss.schoolmelon.com/source/uoe-vincent.pdf)  
-本文进行了重制以适合移动设备以及赋予通用性。
+{{< admonition type=info title="Source" open=true >}}
+Source file address: [爱丁堡下头装b男.pdf](https://oss.schoolmelon.com/source/uoe-vincent.pdf)
+
+This article has been re-designed to suit mobile devices and to be more universal.
 {{< /admonition >}}
 
-## 前言
+## Introduction
 
-本来一直不想写PDF讲我跟张启航Vincent的事情，因为我觉得对我来说，分手之后写前任的PDF有些不太得体。但是现在我觉得，得体是留给正常人的。
+I didn't want to write a PDF about my relationship with Zhang Qihang Vincent, because I thought it was inappropriate for me to write about my ex after the breakup. But now I think that being appropriate is for normal people.
 
-很多人都以为，我跟Vincent是和平分手。以为他在恋爱期间对我很好，以为我们互相送礼物，以为他对我无微不至。
+Many people thought that Vincent and I broke up peacefully. They thought he was very good to me during our relationship, thought we gave each other gifts, and thought he was attentive to me.
 
-事实并非如此，以下是全部真相：
+But that's not the truth. Here is the whole truth:
 
-我03年生，他98年，但他从来没有认为自己比我大五岁，至少在相处中我没看到他具有作为一个大我五岁的男人所应该拥有的成熟和担当。然而，他却对朋友们说因为年龄差距大而分手，请问他追我时不知道我比他小五岁吗？
+I was born in 2003 and he was born in 1998, but he never thought he was five years older than me. At least, I did not see him exhibit the maturity and responsibility that a man five years older than me should possess. However, he told his friends that we broke up because of the large age difference. Didn't he know that I was five years younger than him when he pursued me?
 
-{{< image src="fig-1.avif" width="320px" caption="张启航 Vincent" >}}
+{{< image src="fig-1.avif" width="320px" caption="Zhang Qihang Vincent" >}}
 
-## 指控
+## Charge
 
-### 要求别人买单
+### Asking others to pay for meals
 
-在两个月期间，和Vincent吃饭时他会不时地说“富婆买单”，意思就是我付账。我觉得买单没有什么，哪怕他不说我也会时不时地主动付钱。虽然之前谈恋爱吃饭男生买单是很常见的，但我确实会时不时地主动买单，甚至送些礼物。但我真的不喜欢男友用“富婆买单”的方式，感觉很别扭。
+During the two months we dated, when Vincent and I went out to eat, he would occasionally say "let the rich lady pay", meaning that I should pay the bill. I didn't mind paying the bill, even if he didn't say anything, I would still occasionally pay for it. Although it was common for guys to pay for meals when dating, I would also occasionally pay for meals and even give gifts. But I really didn't like the way he asked me to pay as a "rich lady", it felt weird.
 
-我忘了一件事，就是在我们开始约会之前，我们一起去Costco。我们买了六百多英镑的东西，他说让“富婆”买单，6，并且我最后付了账单。在我看来，这个行为很奇怪。他对他的朋友说他的银行卡消磁了，只能一次性用100以下的刷卡支付账单，然后我就说我买单了。所以他就心安理得地接受了我的付款。当他请他的朋友吃饭时，我为他刷卡付钱。虽然当时我想，如果你真的不想自己请客让女朋友买单的话，你可以分两到三次以100的刷卡支付。我的关注点根本不是那几百英镑，而是这个行为。
+I forgot one thing, which was that before we started dating, we went to Costco together. We bought over 600 pounds worth of things, and he said let the "rich lady" pay, 6, and I ended up paying the bill. To me, this behavior was strange. He told his friends that his bank card was demagnetized and could only be used to pay bills below 100 at a time, and then I said I would pay. So he accepted my payment without any guilt. When he invited his friends to dinner, I paid for it with my card. Although at the time I thought, if you really don't want to treat your girlfriend and let her pay the bill, you can split it into two or three payments of 100. My concern was not about a few hundred pounds, but about this behavior.
 
-在我们在一起期间，他跟我说他在大四那一年英镑银行卡一年流水为190k英镑，所以卡被冻住了。（一年190k英镑花销一大些吗？那为什么不能申办一个新的呢？）他还总是跟我说他准备买迈凯轮、法拉利、阿斯顿•马丁之类的车，甚至还让我帮他看看哪个好看。然而，我们在一起两个月却只送了一个£40的拍立得。
+During the time we were together, he told me that he had a bank card with a flow of 190k pounds in his senior year, so the card was frozen. (Is spending 190k pounds a year a lot? Why can't he apply for a new one?) He also always told me that he was planning to buy a McLaren, Ferrari, Aston Martin and other cars, and even asked me to help him see which one looked good. However, we were only together for two months and only gave each other a £40 Polaroid camera.
 
-### 不对等互送关系
+### Unequal Gift Exchange
 
-在我们的恋情中，我发现Vincent从未像我一样在礼物的交换方面关注到对等的原则（之前我们已经确认，按照我的恋爱习惯，每个月和纪念日都会过，为了尊重我的仪式感）。因此，这种情况并不是由于我的个人或习惯原因，我单方面主动送礼物的结果。我没有对他进行道德绑架。
+In our relationship, I found that Vincent had never paid attention to the principle of reciprocity in gift exchange like I did (we had previously confirmed that, based on my love habits, we would celebrate every month and anniversary to respect my sense of ritual). Therefore, this situation was not the result of my personal or habitual reasons, and I did not morally blackmail him into giving me gifts.
 
-我们在一起两个月，他只送了我一个拍立得相机，而且只在我们两个月的纪念日送过礼物。在我们开始谈恋爱之前，他只送了我一个LV小丝巾、一小零钱包当作圣诞和新年礼物，还有一瓶香水。
+We had been together for two months, and he only gave me a Polaroid camera and only gave me a gift on our two-month anniversary. Before we started dating, he only gave me an LV scarf, a small coin purse as a Christmas and New Year's gift, and a bottle of perfume.
 
-在我们开始恋爱以后，他只送了我永生花，其余的节日和纪念日从未收到任何礼物。相反，我每个节日和记念日都会给他不同的礼物，而他却总是和我画饼。最后，他又说是因为我们年龄相差太大，礼物本来应该是从我那里分离出去的？
+After we started dating, he only gave me eternal flowers, and I never received any gifts for other holidays or anniversaries. On the contrary, I gave him different gifts for every holiday and anniversary, but he always made empty promises. Finally, he said it was because we had a big age difference, and the gifts should have been separated from me?
 
-另一方面，我陆续送给他 Givenchy 卡包、Dior 领带、Fendi 帽子、Fendi 服装、Dior 香水、Alyx项链，甚至连浴袍、牙膏刷、牙杯、淋浴花洒照相拼图等小巧的礼物都送了。因为他头发少，我买了他生发软糖、钙片，他的家里有两只猫，但只有一个喝水碗，当我一个人闲逛的时候，我还会给他的猫猫买喝水的碗，以防止猫猫抢碗喝水。
+On the other hand, I gave him Givenchy cardholders, Dior ties, Fendi hats, Fendi clothes, Dior perfume, Alyx necklaces, and even small gifts such as bathrobes, toothbrushes, tooth cups, showerheads, and photo collages. Because he had less hair, I bought him hair growth gummies and calcium tablets. He had two cats at home, but only one drinking bowl, so when I was wandering alone, I bought a drinking bowl for his cats to prevent them from fighting.
 
-其实，我刻意控制了自己送给他的礼物，因为我不想太给他压力，而且我从未收到过太昂贵的礼物，否则我可能会送他更贵重的礼物。
+In fact, I deliberately controlled the gifts I gave him because I didn't want to put too much pressure on him, and I had never received too expensive gifts. Otherwise, I might give him more expensive gifts.
 
-{{< image src="fig-2.avif" width="640px" caption="作者赠送的礼物" >}}
+{{< image src="fig-2.avif" width="640px" caption="Gifts given by the author" >}}
 
-在恋爱时期，从来没有想过让他提供任何东西，每一次都是他主动提出来，但最后都没有下文。再说逛街时，从来没有让他为我买单，甚至化妆品和沐浴露都是我自己刷卡。相反，有时候我还要帮他付一些东西的钱。这里我不详细展开，只是讲一个大概。
+During our dating period, I never thought of asking him for anything. Every time he offered, but nothing ever came of it. Also, when we went shopping, I never let him pay for me, even for cosmetics and shower gel, I always paid for them myself. On the contrary, sometimes I even paid for some of his things. I won't go into details here, but just give a general idea.
 
-在这种情况下，我们出去旅游时，他突然问我：“你家有多少东西是我送的？”我当时震惊了，感到非常意外。不是一直都是我在送礼物吗？于是我回答三个礼物，丝巾、零钱包和香薰。我真的很想问他：“你家里有多少东西是我送给你的呢？”
+In this situation, when we went on a trip, he suddenly asked me, "How many things in your house did I give you?" I was shocked and very surprised. Wasn't it always me who gave gifts? So I answered three gifts, a scarf, a coin purse, and an aromatherapy. I really wanted to ask him, "How many things in your house did I give you?"
 
-### 土（存疑）
+### Conclusion (doubtful)
 
-我知道他曾经跟我说过他的前女友很浅薄，只谈了一个月，并没有认真对待这段感情。他甚至扔掉了她的鞋，并给她买了一双Gucci等品牌的鞋子。不知道他会怎样形容我，但是我认为，上面的文字已经足够明确了。
+I know he once told me that his ex-girlfriend was shallow and they only dated for a month, and he didn't take the relationship seriously. He even threw away her shoes and bought her a pair of Gucci shoes. I don't know how he would describe me, but I think the above text is clear enough.
 
-### 阴阳怪气
+### Insinuations
 
-分手的爆发点是3月2日，当天他和另一个朋友一起庆祝他的生日。当天下午我对他有短暂的两小时比较冷淡的态度，因为好朋友们知道了两个月礼物只是一份随便的拍立得，而且他安慰我或者为我不平。当时他告诉我，原本他们两个月的礼物是想送我ccd的，但没有找到色彩比较好的替代。我当时相信了，后来才知道这只是个借口，其实只是一份空洞的礼物。
+The breaking point of our relationship was on March 2nd, the day he celebrated his birthday with another friend. That afternoon, I was a bit distant towards him for a short two hours because my good friends found out that the two-month anniversary gift he gave me was just a casual Polaroid and he didn't comfort me or make it up to me. At that time, he told me that their original two-month gift was supposed to be a CCD camera for me, but they couldn't find a better alternative with better color. I believed him at the time, but later found out that it was just an excuse, and the gift was just an empty one.
 
-尽管我当时很高兴得到他送的礼物，拍立得，因为我很简单，认为收到男朋友送的小礼物是开心的，还发了ins story，说很高兴是男朋友带来的旅游礼物（是旅游时顺便带回来的，刚好是两个月纪念日当天）。
+Although I was happy to receive the gift he gave me, the Polaroid, because I am a simple person and thought that receiving a small gift from a boyfriend was a happy thing, I posted an Instagram story saying that I was happy to receive a travel gift from my boyfriend (which was brought back during the trip, and it happened to be our two-month anniversary that day).
 
-下午我就正常跟他聊天了，晚上去了健身房然后去了一个朋友的生日派对。在派对上，Vincent不停地问我下午为什么对他那么冷漠，我一直说没什么，我不想让他难过，想过几天如果我还不舒服再去沟通这个问题。后来他不断追问，我就说，我觉得你不是很在意我们的纪念日和节日。
+In the afternoon, I chatted with him normally, and then went to the gym and a friend's birthday party at night. At the party, Vincent kept asking me why I was so cold to him in the afternoon, and I kept saying it was nothing. I didn't want to make him sad and wanted to communicate this issue with him in a few days if I still felt uncomfortable. Later, he kept asking, so I said, "I feel like you don't care about our anniversary and holidays."
 
-然后他就问道：
+Then he asked:
 
-> “你是觉得纪念日一定要去吃很fancy的餐厅吗？”
+>"Do you think we have to go to a fancy restaurant for our anniversary?"
 >
-> “那你是觉得拍立得不够好吗？”
+>"Do you think the Polaroid isn't good enough?"
 
-首先，当我收到拍立得时，我很开心，没有考虑过它的价值问题，也没有认为吃哪种餐厅代表着什么。不知为何第一时间就要用这种言辞阴阳怪气，我们在一起那天和一个月内吃了米其林，我觉得这很正常，我自己平时也会时不时和朋友去米其林或者特殊场合的餐厅。这些都是很正常的。但是我也没有说一定要吃米其林，我那天刚好想吃烧烤，就提议去吃烧烤了。我没有觉得纪念日一定要吃什么餐厅，但是对于对方这样的质问态度，我感到有些失望。
+At first, when I received the Polaroid camera, I was happy and didn't consider its value or what it represented to eat in a certain restaurant. I don't know why he used such sarcastic words. On the day we were together and within a month, we went to Michelin-starred restaurants. I think it's normal, and I also go to Michelin-starred restaurants or special occasion restaurants with my friends from time to time. These are all normal things. But I didn't say we had to go to a Michelin-starred restaurant. I just happened to want barbecue that day, so I suggested going to a barbecue place. I didn't think that we had to eat at a certain restaurant on our anniversary, but I was disappointed with his questioning attitude.
 
-他用这样的态度质问我，我当时就离开了。我向他的朋友说了抱歉，然后就离开了，因为实在难以忍受。我觉得这太委屈了，明明我没有做错什么，却要怪到我头上。我从来没有被这样对待过，这真的让我感到无比委屈。
+He questioned me with this attitude, and I left. I apologized to his friends and left because it was unbearable. I felt very wronged because I didn't do anything wrong, but he blamed me for it. I have never been treated like this before, and it really made me feel very wronged.
 
-### 生病吵架
+### Getting Sick and Fighting
 
-除此之外，我在恋爱期间也没有开始规律健身，所以非常容易生小病，比如有时候种睫毛胶水会过敏，有时候嗓子会发炎之类的。有时候跟他吵架后，我的胸口会感到疼痛。我看了多次医生（五次以上），但他从来没有陪我去过一次，每次都是我一个人。他总有各种各样的理由不能陪我去，比如没有睡醒或者在办签证等等。因为这个原因，我们吵架了许多次。除了签证那次，我觉得是客观因素，他并没有做错什么。
+In addition, during our relationship, I did not start exercising regularly, so I was very prone to minor illnesses, such as allergies to eyelash glue or throat inflammation. Sometimes, after arguing with him, I would feel pain in my chest. I saw the doctor many times (more than five times), but he never accompanied me once, and I always went alone. He always had various excuses for not going with me, such as not getting enough sleep or applying for a visa, etc. Because of this, we had many fights. Except for the visa incident, I think it was an objective factor, and he did nothing wrong.
 
-但更过分的是，在我生病期间，我的眼睛过敏导致整个脸都过敏了，非常疼痛，但他还是来我的家里和我吵架，并且摔门走了。
+But what was even more outrageous was that during my illness, my eyes were allergic, causing my whole face to be allergic and very painful, but he still came to my house and argued with me, and even slammed the door and left.
 
-以下是证据截屏。我想问你，一个患病的人开心地笑是有病吗？
+The following are screenshots of evidence. I want to ask you, is it sick for a sick person to smile happily?
 
-{{< admonition type=quote title="作者与张启航的对话" open=true >}}
-作者：我不懂为什么我疼成这样了你还能跟我吵起来
-
-***
-
-张启航：我不懂我刚起床看到你不舒服，赶快洗漱穿衣服过来，然后从进门就看你给我摆脸色，然后还要说我这不是那不是，我是为了啥？
+{{< admonition type=quote title="Conversation between the author and Zhang Qihang" open=true >}}
+Author: I don't understand why I'm in so much pain and you still argue with me.
 
 ***
 
-作者：那你回去吧对不起
+Zhang Qihang: I don't understand. I just got up and saw that you were uncomfortable, so I quickly washed up and dressed and came over. But when I walked in, I saw you giving me a bad look, and then you say this and that. What am I doing wrong?
 
 ***
 
-张启航：是不是你觉得你说这些很好?
+Author: Then you can go back, I'm sorry.
 
 ***
 
-作者：什么意思
-
-作者：我只是觉得没有必要 什么都没有必要了
+Zhang Qihang: Do you think what you're saying is good?
 
 ***
 
-张启航：
+Author: What do you mean?
 
-> 我只是觉得没有必要 什么都没有必要了
-
-想好了说的？
+Author: I just think it's unnecessary. There's no need for anything.
 
 ***
 
-作者：我想好的不止这一句
+Zhang Qihang:
 
-作者：我要的是天上的月亮吗 我只是想你陪我一起看病买药 我没想到我病成这样你还要跟我吵架一点都不让着我 我不知道是谁给谁脸色看 谈不了就分
+> I just think it's unnecessary. There's no need for anything.
+
+Did you think carefully before saying that?
+
+***
+
+Author: I've thought about more than just that sentence.
+
+Author: Did I ask for the moon? I just wanted you to accompany me to see the doctor and buy medicine. I didn't expect that when I was so sick, you would still argue with me and not let me have my way. I don't know who is giving whom a bad look. If we can't talk it out, then let's break up.
 {{< /admonition >}}
 
-如果当初直接分手就好了，那就不会有这么多麻烦了。当我所有的好朋友都在帮我送药的时候，他却跟我吵架。
+If we had just broken up earlier, we wouldn't have so many troubles now. When all of my good friends were helping me deliver medicine, he was arguing with me.
 
-### 分手
+### Breakup
 
-因为第一次被分手，没有理由和预兆的分手，加上情绪化的状态（刚刚陪他度过25岁生日七天，下个月就是我20岁生日），我一个人在家里喝了很多纯威士忌和伏特加，导致直接进入失神状态，给好朋友们都发了哭的语音。然后我不小心把家里的落地镜弄碎了，所以家里地上很多地方都有碎片，但实际上我只是在走的时候脚底被划破了几个口子，流了些血，绝对是意外，我从来没有想要伤害自己的意思。而且当天晚上我的两个朋友很及时地到我家照顾我，不像外面传言的说我想要自杀之类的，那些都是纯属的无稽之谈。认识我的人都知道我很爱护自己，所以那之后我家里有段时间都不敢放酒，现在我明白如果不开心就不该去碰酒精。
+Because it was my first breakup and it happened without any reason or warning, combined with my emotional state (I had just spent seven days celebrating his 25th birthday, and my 20th birthday was coming up next month), I drank a lot of pure whiskey and vodka at home alone, which led to me entering a state of unconsciousness and sending crying voice messages to my close friends. Then I accidentally broke the floor mirror in my house, so there were broken pieces all over the floor, but in reality, I just had a few cuts on the soles of my feet when I was walking, and there was some bleeding. It was definitely an accident, and I never intended to harm myself. That night, my two friends came to my house promptly to take care of me, and it was nothing like the rumors outside saying that I wanted to commit suicide. Those were all pure nonsense. People who know me know that I take good care of myself, so for a while after that, my house didn't dare to have alcohol, and now I understand that I shouldn't touch alcohol if I am not happy.
 
-### 厚颜无耻
+### Shamelessness
 
-当时我和他分手，因为我没有完全走出来，不能冷静地看待这些事情，所以我们约定他会来参加我的生日聚会。如果说在我的生日之前我还有一些对于他的美化想法，那么关于我的生日聚会之后，我彻底认清了这个人的真面目。
+At that time, we broke up because I hadn't completely moved on and couldn't look at things objectively. We agreed that he would come to my birthday party. If I still had some idealized thoughts about him before my birthday, then after my birthday party, I completely saw through his true face.
 
-首先，在3月15日，我告诉了他时间和地点，并在3月28日告诉了他dress code。我很认真地准备我的20岁生日，将它提前到4月3日举行，并为此做了很多准备，包括预订了私人包房、摄影师以及场地等等。
+First of all, on March 15th, I told him the time and place, and on March 28th, I told him the dress code. I was very serious about preparing for my 20th birthday, which I moved up to April 3rd and did a lot of preparation for, including booking a private room, photographer, and venue, etc.
 
-我的最大问题是不应该邀请他参加我的生日聚会。在我的生日前几天，我就不想邀请他了，但是因为已经拉了群以及餐厅订制了名牌和安排的事情，我想着这样就这样算了。但是我高估了有些人的脸皮厚度，他居然还来参加我的生日聚会。
+My biggest mistake was inviting him to my birthday party. A few days before my birthday, I didn't want to invite him anymore, but because I had already created a group and the restaurant had made name cards and arrangements, I thought it was too late to change anything. But I overestimated some people's shamelessness, and he actually came to my birthday party.
 
-以下是相关证据的截图：
+Here are screenshots of the relevant evidence:
 
-{{< image src="fig-5.avif" width="240px" caption="聊天记录" >}}
+{{< image src="fig-5.avif" width="240px" caption="Chat record" >}}
 
-在我表达出对他当天生日聚会不遵守dress code的举止感到不舒服后:
+After I expressed my discomfort with his behavior of not following the dress code:
 
-{{< image src="fig-6.avif" width="240px" caption="聊天记录1" >}}
-{{< image src="fig-7.avif" width="240px" caption="聊天记录2" >}}
+{{< image src="fig-6.avif" width="240px" caption="Chat record 1" >}}
+{{< image src="fig-7.avif" width="240px" caption="Chat record 2" >}}
 
-最好问问你的内心，但我们确实不该谈这个。
+It's best to ask your heart, but we really shouldn't talk about this.
 
-补充一下，他生日当天我们正在旅游，等他睡着后我在凌晨三点去找酒店前台，让他们准备一个小蛋糕和香槟送到他的房间（如下图）。第二天早上，我还去前台确认了送达时间并且把小费记到总账上了。当时，我以为我做得够好了，我希望给他一个惊喜。但是他看到后不仅没有说谢谢，还问我为什么不是更好的Dom之类的酒？我又怎么知道黑山还有Dom呢？这是什么意思呢？是不是我什么都不应该做？
+To add on, it was his birthday and we were on a trip. After he fell asleep, I went to the hotel front desk at 3:00 am and arranged for them to prepare a small cake and champagne to be sent to his room (as shown in the picture below). The next morning, I went to the front desk to confirm the delivery time and added the tip to the bill. At the time, I thought I had done well and wanted to surprise him. However, when he saw it, he not only didn't say thank you but also asked me why it wasn't a better brand of champagne like Dom Perignon. How was I supposed to know that they had Dom Perignon in Montenegro? What does this mean? Should I not have done anything at all?
 
-（我想问他，你自己口口声声说你的付出没有得到肯定，你不知道该怎么做，那我问问，你有没有认可过我的心意？）
+(I wanted to ask him, you always say that your efforts are not appreciated and you don't know what to do, but have you ever appreciated my intentions?)
 
-而在我的生日那一天，你是第一个说吃不下生日蛋糕的人，没话好说。
+On my birthday, you were the first person to say that you couldn't eat the birthday cake, leaving me speechless.
 
-{{< image src="fig-8.avif" width="320px" caption="蛋糕" >}}
+{{< image src="fig-8.avif" width="320px" caption="Cake" >}}
 
-我觉得只有我一个人觉得，你在我的生日那天穿得实在太过分了。提前一个星期我就告诉你了我们的礼仪要求，要求穿着西装，场地和时间。可是你非要穿一条黑色裙子，穿个花边衬衫，还戴着感官帽子。你觉得自己很有品味吗？事后居然还说你的裤子拿去洗了，没洗好。连一个成年人最基本的时间规划都没有，裤子都不能多买一条，还要买一辆迈凯伦？基本的尊重都没有给到，如果你不想来，直接拒绝邀请就成了。你却要在我开心的生日里恶心我。
+I feel like I'm the only one who thinks that you dressed way too outrageously on my birthday. I told you a week in advance about our dress code requirements, which were to wear a suit, and the location and time. But you insisted on wearing a black skirt, a lace shirt, and a sensory hat. Do you think you have good taste? Afterwards, you even said that you washed your pants but didn't wash them well. You can't even plan your time as an adult, can't even buy an extra pair of pants, but you can buy a McLaren? You didn't even show basic respect, and if you didn't want to come, you could have just declined the invitation. Instead, you made me sick on my happy birthday.
 
-在我的生日现场，你还拉着我的另外两个朋友聊天，让他们没有时间给我拍照片，听你说自己的游戏陪玩充了多少钱，还问我借过钱结账。你甚至不还钱却还要继续冒充。
+At my birthday party, you even pulled my other two friends to chat, so they didn't have time to take pictures with me. You talked about how much money you spent on your game account and even asked to borrow money to pay for the bill. You don't even pay back the money you owe, but you still want to pretend.
 
-我们不是男女朋友，你又让我感动了。你甚至问我什么是“v”的意思，你在那里和我谈论我是否感到愧疚。你自己是不是也觉得这样不合适？虽然你的行为非常令人厌恶，但我还是让你进来了，也算是一种仁慈。在我的生日前几天，我就开始感到不想邀请你了。毕竟你的行为太过分了。
+We're not boyfriend and girlfriend, and yet you still manage to make me feel guilty. You even asked me what "V" meant and talked to me about whether I felt guilty or not. Don't you think this is inappropriate? Although your behavior is very disgusting, I still let you in, which is a kind of mercy. A few days before my birthday, I started feeling like I didn't want to invite you anymore. After all, your behavior was too much.
 
-{{< image src="fig-9.avif" width="320px" caption="张启航合照" >}}
+{{< image src="fig-9.avif" width="320px" caption="Photo with Zhang Qihang" >}}
 
-{{< image src="fig-11.avif" width="480px" caption="生日礼物1" >}}
+{{< image src="fig-11.avif" width="480px" caption="Birthday gift 1" >}}
 
-{{< image src="fig-12.avif" width="480px" caption="生日礼物2" >}}
+{{< image src="fig-12.avif" width="480px" caption="Birthday gift 2" >}}
 
-### 拍我送的衣服
+### Clothes he gave me to take pictures
 
-我和他刚刚分手不久，那几天我们还在有限的和平交流。他时不时给我发他穿着我送给他的衣服或者戴着我送给他的帽子出门的照片。
+We had just broken up not long ago, and during those days, we still had limited peaceful communication. He would occasionally send me pictures of him wearing clothes or hats that I had given him when he went out.
 
-后来我们完全没有联系，但我仍经常在他在朋友圈和ins上朋友的合照中看到他的照片。他总是戴着我送的帽子，或者穿着我送给他的衣服和项链等等。尽管我截屏了这些证据，但它们看起来真的很让人不舒服，我并不想把它上传上来。
+Later on, we had no contact at all, but I still often saw his pictures in my friends' photos on WeChat Moments and Instagram. He was always wearing the hat I gave him or wearing clothes and necklaces that I gave him. Although I have screenshots of this evidence, it really makes me uncomfortable, and I don't want to upload it.
 
-与此同时，我从来没有放过自己穿戴着他送给我的东西的照片。这是因为除了基本必需品，我不需要他送我的任何东西。
+At the same time, I have never taken pictures of myself wearing things he gave me. This is because I don't need anything he gives me other than basic necessities.
 
-### 自我怀疑
+### Self-doubt
 
-以前谈恋爱，男生对我只有70%-80%的好，我就会选择分手。我不知道为什么我要容忍这么多，我变得越来越不像自己。我想说，不是只有出轨、家暴这种事才能被公开说（那种太蠢了，我只能说），情感上的践踏同样会伤人。
+In the past, when a boyfriend was only 70%-80% good to me, I would choose to break up. I don't know why I tolerated so much, and I became more and more unlike myself. I want to say that emotional trampling can also hurt people, not just things like cheating and domestic violence that can be publicly discussed (those are too foolish, I can only say).
 
-这段感情让一个无比自信、阳光、积极的女孩时常怀疑自己是不是哪里做的还不够好，是不是自己不值得被爱……我现在只想给当时的自己一个巴掌。有的感情再来一次，还是会选择重蹈覆辙。但是这段感情，我真的宁愿不经历再来一次。我绝对不会再选择同意在一起。现在，对于异性的低兴趣值很难不归功于他。
+This relationship made a confident, sunny, and positive girl often doubt whether she was not good enough, whether she was not worthy of love... I just want to slap myself at the time. If I had to go through this relationship again, I would still make the same mistakes. But for this relationship, I really don't want to experience it again. I will never choose to agree to be with him again. Now, it's hard not to attribute my low interest in the opposite sex to him.
 
-在一起之前，我妈就跟我说过，让我如果谈恋爱不要扶贫。我觉得很好笑还发了个朋友圈，他也有时候拿这个跟我开玩笑，哈哈。在一起之前他说不喜欢伦敦女的，她们都是gold digger。我现在真的想问他，你跟我在一起有没有原因是我不用你给我花什么钱啊？……
+Before we got together, my mother told me not to date someone who needs financial support. I thought it was funny and even posted it on WeChat Moments. Sometimes he would joke with me about it too. Before we got together, he said he didn't like London girls, they were all gold diggers. Now I really want to ask him, is there a reason why you got together with me because you don't have to spend money on me?...
 
-朋友们总说我看起来就人傻钱多好骗，真诚在这个时代看起来如此好笑是吗？我甚至傻到3月2日当天分手，两个月礼物没送出去。3月3日那天写的分手信，分手礼物一起塞到了他家门口信箱里……
+My friends always say that I look stupid and easy to deceive. Is sincerity so laughable in this era? I was even so stupid that I broke up on March 2nd and didn't give him the gift for two months. The breakup letter I wrote on March 3rd, along with the breakup gift, was left at his doorstep...
 
-很多时候，人看起来愚蠢，是因为把爱给错了人。
+Many times, people look foolish because they give their love to the wrong person.
 
-## 后记
+## Afterword
 
-我现在庆幸的是，在与Vincent的恋爱期间，我并没有与他发生性关系。他确实不值得我这么做，但至少他尊重我的意见，这一点我无法反驳。我们一开始在一起也是因为欣赏他看待事情的态度，认为他很有人品，也以为他真的很喜欢我（虽然他并不符合我以前男友的外貌标准，包括身高和长相等）。但事实证明，我根本看不清他。爱情一直不是我生活中必需品，我的朋友就是我的家人。在这段短暂的两个月之前，我已经一年没有恋爱了，结果遇到了这样的事情。
+I am now glad that during my relationship with Vincent, I did not have a sexual relationship with him. He was not worth it, but at least he respected my opinion, and I cannot refute that. We started dating because I appreciated his attitude towards things and thought he had a good personality, and I thought he really liked me (even though he didn't meet my previous boyfriend's physical standards, including height and appearance). But the fact is, I couldn't see him clearly. Love has never been a necessity in my life, and my friends are my family. In the short two months before this, I had not been in a relationship for a year, and then I encountered such a thing.
 
-当然，Vincent并不全是问题。据他的描述，我已经是他对待最好的女友了。我感谢他在恋爱期间为我做的饭，也没有让我洗过碗。虽然在我以前的恋爱中也没有洗过碗之类的事情。他也给我买过一两次药，虽然我没有说，我的好朋友们也会自发地给我买药之类的东西。但至少他也不是什么都没做过，这是我现在能想到的。
+Of course, Vincent is not the only problem. According to his description, I was already his best girlfriend. I appreciate the meals he cooked for me during our relationship, and he didn't let me wash dishes. Although I didn't do dishes in my previous relationships either. He also bought me medicine once or twice, although I didn't say it, my good friends would spontaneously buy medicine and other things for me. But at least he didn't do nothing, that's what I can think of now.
 
-事实上，在发出这些之前，我有犹豫。我担心发出来，下一任恋人会不知道我之前的恋人曾对我这样难堪，他们也会对我一样不好或者更糟。
+In fact, I hesitated before publishing these. I'm afraid that if I publish it, my next partner will not know that my previous partner had embarrassed me like this, and they will treat me the same or worse.
 
-我以前觉得，如果喜欢一个人，就不该写PDF把场面搞得太难堪。在刚分手的那段时间，我还努力维护过他的形象，说的大多数都是好的那一面。只是后来发生的事情让我和身边的朋友都感到非常无语。承认自己看错了一个人也并不难。
+I used to think that if you like someone, you shouldn't write a PDF that makes the situation too embarrassing. During the time just after we broke up, I tried to maintain his image, and most of what I said was about his good side. It was only later that what happened made me and my friends feel very speechless. It's not difficult to admit that I misjudged a person.
 
-我曾经问过自己，有没有一定的理由要将这件事情公开出来？实际上，我挣扎了很久。闲言碎语可能会进一步伤害我的形象，而这会对Vincent造成什么影响呢？经过近一个月的反复思考，我认为：一个人造成的伤害就要承担一定的后果。自己没有做体面的事情凭什么得到体面的处理呢？而且，流言蜚语从来都没有停止过，我出来说清楚一些事情也比有人在那里瞎传要好。that's all！真相如上。
+I once asked myself if there was a reason to make this matter public? In fact, I struggled for a long time. Gossip may further damage my image, and what impact would it have on Vincent? After nearly a month of thinking, I think: a person must bear certain consequences for the harm caused. If you haven't done decent things, why should you get decent treatment? Moreover, rumors have never stopped. It's better for me to come out and clarify some things than to have someone spread rumors. That's all! The truth is as above.
 
-## 评论
+## Comment
 
-> James，你怎么看
+> James, what do you think?
 
-我觉得这个指控非常不合适，依我看，男主可能是情商低了一点，你要是觉得不能接受，那就各自走好。和以往的案例不同，张启航没有产生什么社会所不容许的风险，那就更不应该把人曝光了，你知道这样会给他带来多少麻烦吗？
+I think the accusations are inappropriate. In my opinion, the male protagonist may have a lower emotional intelligence, and if you feel that you cannot accept it, then it is best to go your separate ways. Unlike previous cases, Zhang Qihang did not pose any risks that society cannot tolerate, so he should not be exposed. Do you know how much trouble this will bring him?
 
-而且你的逻辑链存在瑕疵，[#分手](#%E5%88%86%E6%89%8B) 中你有提到你是第一次分手，与后文“以前谈恋爱”似乎有冲突。也不清楚是不是GPT润色的时候出错了，其它部分我没有仔细推演。
+Furthermore, there are flaws in your logical chain. In the [#breakup](#breakup) section, you mentioned that it was your first breakup, which seems to conflict with the later statement "had been in a relationship before." I'm not sure if there was an error during GPT's editing, but I haven't thoroughly traced other parts.
 
-给人的感觉是你在打击报复别人，你认为他不是正常人。但是依我而言，他没有严重违反社会公序良俗，更别谈法律了。除此之外你的许多观点我不赞同，也不推荐。你文章的目的似乎就只有一个曝光，然后就没了，你先入为主地批判别人装逼下头，这是不道德的。或许这个世界没有那么多理所应当。
+The impression you give is that you are retaliating against someone you believe is abnormal. But in my opinion, he did not seriously violate social morality, let alone the law. In addition, I do not agree with many of your views and do not recommend them. The purpose of your article seems to be just to expose him, and then it's over. You prejudge and criticize him for being a show-off, which is immoral. Perhaps this world does not have so many things that are taken for granted.
 
-> GPT，评价一下张启航。
+> GPT, evaluate Zhang Qihang.
 
 {{< typeit >}}
-这篇文章写出了作者对张启航的不满和失望。作者认为他没有承担自己应有的责任，没有表现出自己应有的成熟和担当。作者也对他的态度和言语感到不舒服，比如“富婆买单”、“银行卡消磁”等。最后，他在作者的生日上穿着不得体，没有尊重作者的礼仪要求，让作者感到很不舒服。总的来说，文章表达了作者对张启航的不满和失望，认为他并没有做到一个男友应有的责任和尊重。
+This article expresses the author's dissatisfaction and disappointment with Zhang Qihang. The author believes that he did not take the responsibility he should have, nor did he show the maturity and responsibility he should have. The author also feels uncomfortable with his attitude and words, such as "rich woman pays the bill" and "magnetizing the bank card." Finally, he dressed inappropriately on the author's birthday and did not respect the author's etiquette requirements, making the author very uncomfortable. Overall, the article expresses the author's dissatisfaction and disappointment with Zhang Qihang, believing that he did not fulfill the responsibilities and respect that a boyfriend should have. 
 {{< /typeit >}}

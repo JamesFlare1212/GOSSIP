@@ -1,7 +1,7 @@
 ---
 slug: uscd-oh-my-gosh
-title: UCSD - 绿帽哥 引发校园内部罗生门
-subtitle: 故意打开女生摄像头，引起轩然大波！
+title: UCSD - Green Hat Guy sparks controversy on campus
+subtitle: Deliberately turning on a girl's camera leads to a huge uproar on campus!
 date: 2023-05-20T20:38:20+08:00
 draft: false
 author:
@@ -9,7 +9,7 @@ author:
   link:
   email:
   avatar:
-description: UCSD Rady商学院的在线硕士项目询问环节中，一位中国女生的摄像头被打开，全程展示自己和一位男生发生性关系。随后，该事件在该校校园内部爆发，一名男子自称“绿帽哥”在一系列八卦群、论坛和小红书上爆料，透露大量学生的性爱照片和视频，引发轩然大波。此事件引起了校内外广泛的关注和谴责，同时也揭开了该校园内部的不同声音和复杂的人际关系。
+description: During the inquiry session of the online master's program at UCSD Rady School of Management, a Chinese girl's camera was turned on, showing her having sex with a boy. Subsequently, a man claiming to be "Green Hat Guy" broke the news on a series of gossip groups, forums, and Xiaohongshu, revealing a large number of students' sexual photos and videos, causing a huge uproar. This event has attracted widespread attention and condemnation both inside and outside the school, while also revealing different voices and complex interpersonal relationships within the campus.
 keywords:
 license:
 comment: true
@@ -23,7 +23,7 @@ categories:
   - GOSSIP
 hiddenFromHomePage: false
 hiddenFromSearch: false
-summary: UCSD Rady商学院的在线硕士项目询问环节中，一位中国女生的摄像头被打开，全程展示自己和一位男生发生性关系。随后，该事件在该校校园内部爆发，一名男子自称“绿帽哥”在一系列八卦群、论坛和小红书上爆料，透露大量学生的性爱照片和视频，引发轩然大波。此事件引起了校内外广泛的关注和谴责，同时也揭开了该校园内部的不同声音和复杂的人际关系。
+summary: During the inquiry session of the online master's program at UCSD Rady School of Management, a Chinese girl's camera was turned on, showing her having sex with a boy. Subsequently, a man claiming to be "Green Hat Guy" broke the news on a series of gossip groups, forums, and Xiaohongshu, revealing a large number of students' sexual photos and videos, causing a huge uproar. This event has attracted widespread attention and condemnation both inside and outside the school, while also revealing different voices and complex interpersonal relationships within the campus.
 resources:
   - name: featured-image
     src: featured-image.jpg
@@ -43,40 +43,41 @@ repost:
 
 <!--more-->
 
-{{< admonition type=info title="来源" open=true >}}
-源文件地址：[UCSD绿帽奴合集.pdf](https://oss.schoolmelon.com/source/uscd-oh-my-gosh.pdf)  
-本文进行了重制以适合移动设备以及赋予通用性。
+{{< admonition type=info title="Source" open=true >}}
+Source file address: [UCSD绿帽奴合集.pdf](https://oss.schoolmelon.com/source/uscd-oh-my-gosh.pdf)
+
+This article has been re-designed to suit mobile devices and to be more universal.
 {{< /admonition >}}
 
-## 剧情简介
+## Plot Summary
 
-这是一个发生在加州大学圣地亚哥分校UCSD Rady商学院的故事。在一个线上的硕士项目介绍问答环节中，一位中国女留学生的摄像头突然打开，展现她和一位男生发生XX行为，全程大约仅15秒，并在主持人惊叹声“oh my gosh”后中断了。
+This is a story that happened at the Rady School of Management at the University of California, San Diego (UCSD). During an online Q&A session for a master's program, a Chinese female international student suddenly turned on her camera, showing her and a male student engaging in sexual activity. The whole process lasted only about 15 seconds and was interrupted by the host's exclamation of "oh my gosh."
 
-这段视频和截图被迅速传播到商学院的某个微信群内以及小红书上。刚开始，这件事没有引起大量关注，但几天后，在UCSD的成人墙上出现了Carrie的帖子。帖子内容大致是这样的：“我是被戴绿帽的人，我把我女朋友和你（指视频中男生）给你，但你俩却一起背叛了我，我不再是男朋友，那就一起毁灭吧！”绿帽子哥哥承认自己是开启女生摄像头的人，并且不怕受到法律追究等SB行为。
+The video and screenshots were quickly circulated in a WeChat group and on Little Red Book. At first, this incident did not attract much attention, but a few days later, a post by Carrie appeared on the adult wall at UCSD. The post roughly said, "I am the person who was cuckolded. I gave my girlfriend to you (referring to the male student in the video), but you two betrayed me together. I am no longer a boyfriend, so let's destroy together!" The cuckold admitted that he was the one who turned on the female student's camera and even dared to engage in illegal activities.
 
-这个事件迅速引起了关注，并且在某个校园内的八卦群中，Jon开始爆料说Rady研究生群中的Carrie绿帽哥开始和一位女生（已经毕业）撕逼，大致内容是，这位女生和视频中男孩有过关系，并且也曾是男女朋友。之后，Carrie绿帽哥还爆料，他们曾经是“互换”关系，还群发了该女生和zoom视频中女生的大量生活照/ooxx视频。
+This incident quickly attracted attention, and Jon in a campus gossip group began to expose the conflict between Carrie and a female student (who had already graduated) in the Rady graduate group. The content was roughly that the female student had a relationship with the male student in the video and had been his girlfriend. Later, the cuckold also exposed that they had a "swapping" relationship and sent a large number of the female student's life photos/ooxx videos with the female student and the female student in the zoom video.
 
-UCSD一年前曾爆出了Geisel图书馆解压门（俩人在图书馆里ooxx）的事件，而这位女主竟然就是视频中的女生。之后，zoom女主也参与了撕逼，开始爆料，Carrie绿帽哥恶劣地对待人，开始曝光该女生的照片。
+A year ago, UCSD had an incident where two people were caught having sex in the Geisel Library, and the female lead turned out to be the female student in the video. Later, the female lead in the zoom video also participated in the conflict and began to expose the cuckold's bad behavior, and the cuckold began to expose the female student's photos.
 
-最后，Carrie担架哥爆料说，他们三个人之前的所有风波都是Carrie担架哥偷他们三个人手机后编造的。
+Finally, the cuckold revealed that all the previous disputes between the three of them were fabricated by him after stealing their three phones.
 
-## 出场人物
+## Characters
 
-主要人物有：
+The main characters are:
 
-1. Carrie：自称为“绿帽奴”，喜欢看他的女友被别人做爱。但后来被曝光是一个偷手机的小偷，连绿帽都不配戴。。
-2. “已毕业不私聊”：女主1，是当年被称为“Geisel图书馆解压门女主”的人物。在Rady商学院的群聊中被Carrie绿帽哥曝光。
-3. “Carrie已死有事烧纸”：女主2，出现在Carrie发的Rady zoom瓜中的女主。身材非常好，据Carrie自称是他背叛前女友。
-4. Vince：解压门和zoom门的男主，没有加入到Rady的群战中，但也有可能被Carrie绿帽哥雇用的杀手解决（这只是猜测）。
-5. Carrie妈妈：Rady群战的战神，攻击绿帽哥的能力MAX。
-6. Jon：全程在Rady群内潜水直播舌战，后被墙投稿，自己没码id被出卖，里外不是人。
+1. Carrie: self-proclaimed "cuckold slave", who enjoys watching his girlfriend having sex with others. However, he was later exposed as a phone thief who isn't even worthy of wearing a cuckold hat.
+2. "Do not chat after graduation": Female lead 1, the person known as the "Geisel Library decompression door girl" at the time. She was exposed by Carrie the cuckold in the Rady Business School group chat.
+3. "Carrie is dead, burn paper if there is anything": Female lead 2, appeared in the Rady zoom scandal posted by Carrie. She has a great figure and was claimed by Carrie to be the girl he cheated on before.
+4. Vince: Male lead in the decompression door and zoom scandals. He did not join the Rady group chat war, but may have been eliminated by a hitman hired by Carrie the cuckold (this is just speculation).
+5. Carrie's mother: The war god in the Rady group chat, with the ability to attack the cuckold at max level.
+6. Jon: Livestreamed the entire Rady group chat battle and was later betrayed by his ID, which was sold to the outside world.
 
-## 图片以及聊天记录
+## Images and Chat Records
 
-这个太恐怖了，NSFW，我就不放出来了。要看去开头下那个PDF看吧，有108页,60多MB，除去前面几页就是我上面的内容。
+This is too terrifying, NSFW, so I won't post it here. If you want to see it, go to the PDF at the beginning, which is 108 pages long, over 60MB, and after the first few pages, it's just the content I described above.
 
-几乎都是裸露暴露色情的照片，慎重查阅，确保不适合的人群远离此材料。
+Almost all of them are nude and sexually explicit photos, please handle with caution and keep this material away from those who are not suitable.
 
-## 评论
+## Comment
 
-Oh my Gosh！James和GPT都无语了，吃瓜就看上面的文字即可，接下来那叫色情。
+Oh my Gosh! James and GPT are speechless. Just read the text above if you want to enjoy the show. What comes next is pornographic.

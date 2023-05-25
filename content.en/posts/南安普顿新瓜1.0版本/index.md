@@ -1,6 +1,6 @@
 ---
 slug: soton-sun-mo-hao
-title: Soton - 孙*浩 英区没有爱情
+title: Soton - Sun* Hao, No Love in the UK
 subtitle:
 date: 2023-05-15T23:02:51+08:00
 draft: false
@@ -9,7 +9,7 @@ author:
   link:
   email:
   avatar:
-description: 本次事件的渣男某孙姓同学成功地诠释了“英国没有感情”这句话。如果不是梦境的提示，我们可能永远无法知道这位纯爱战士已经跌倒多少次。以下是聊天记录，也是男主丑陋嘴脸的证据。
+description: In this incident, a male student with the last name Sun successfully demonstrated the phrase "there is no love in the UK". Without the prompt from a dream, we may never know how many times this pure love warrior has fallen. The following is the chat record, which is also evidence of the male protagonist's ugly face.
 keywords:
 license:
 comment: true
@@ -25,7 +25,7 @@ categories:
   - GOSSIP
 hiddenFromHomePage: false
 hiddenFromSearch: false
-summary: 本次事件的渣男某孙姓同学成功地诠释了“英国没有感情”这句话。如果不是梦境的提示，我们可能永远无法知道这位纯爱战士已经跌倒多少次。以下是聊天记录，也是男主丑陋嘴脸的证据。
+summary: In this incident, a male student with the last name Sun successfully demonstrated the phrase "there is no love in the UK". Without the prompt from a dream, we may never know how many times this pure love warrior has fallen. The following is the chat record, which is also evidence of the male protagonist's ugly face.
 resources:
   - name: featured-image
     src: featured-image.jpg
@@ -45,24 +45,24 @@ repost:
 
 <!--more-->
 
-## 前言
+## Introduction
 
-这篇投稿过分复杂，而且很多批注在PDF文件里，我基本上没办法重制。
+This submission is overly complicated, and many annotations are in the PDF file, which I cannot reproduce.
 
-即便要重制，也需要花费巨大的精力，有机会再弄吧。
+Even if I were to reproduce it, it would require a tremendous amount of effort. Let's do it if there is a chance.
 
-## 源文件
+## Source File
 
-{{< admonition type=quote title="前言" open=true >}}
-首先，声明本次事件的女主和男主已于2023年4月13日分手。在这半年的时间里，女主从未对男主做出过任何伤害，但男主的行为却一次次让女主感到困扰。
+{{< admonition type=quote title="Introduction" open=true >}}
+First of all, it should be noted that the female protagonist and male protagonist of this event broke up on April 13, 2023. During this six months, the female protagonist never caused any harm to the male protagonist, but the male protagonist's behavior repeatedly troubled the female protagonist.
 
-男主叫孙*浩，是一名来自中国大连的学生，在大连24中读高中时常年排名前一，本科就读于天津某985知名高校，并目前在南安普顿大学就读硕士预备班，毕业时间为3个学期后，出生于1998年。
+The male protagonist is named Sun*Hao, a student from Dalian, China. He ranked in the top one during his high school years at Dalian No.24 High School. He studied at a well-known 985 university in Tianjin for his undergraduate degree and is currently studying in the master's preparatory class at the University of Southampton. His graduation time is in three semesters, and he was born in 1998.
 
-女主出生于2004年，就读于南安普顿大学的艺术类本科专业。
+The female protagonist was born in 2004 and is majoring in art at the University of Southampton.
 
-本次事件的渣男某孙姓同学成功地诠释了“英国没有感情”这句话。如果不是梦境的提示，我们可能永远无法知道这位纯爱战士已经跌倒多少次。以下是聊天记录，也是男主丑陋嘴脸的证据。
+This scumbag named Sun successfully interprets the phrase "no emotions in the UK." Without the prompt from the dream, we might never know how many times this pure love warrior has fallen. The following are chat records and evidence of the male protagonist's ugly face.
 {{< /admonition >}}
 
-接下来的图文，各位阅读原文吧。
+For the following text and images, please refer to the original article.
 
-源文件地址：[南安普顿新瓜1.0版本.pdf](https://oss.schoolmelon.com/source/soton-sun-mo-hao.pdf)
+Source file address: [南安普顿新瓜1.0版本.pdf](https://oss.schoolmelon.com/source/soton-sun-mo-hao.pdf)
