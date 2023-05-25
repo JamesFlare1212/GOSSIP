@@ -1,7 +1,7 @@
 ---
 slug: tuos-kan-bowen
-title: TUoS - 阚博文 聊骚、欠钱、分手诋毁
-subtitle: 纠纷不止于金钱，从初恋到分手，阚博文的种种把戏暴露
+title: TUoS - Kan Bowen's Seduction, Debt, and Slander
+subtitle: From first love to break up, Kan Bowen's tricks exposed
 date: 2023-05-15T10:12:29+08:00
 draft: false
 author:
@@ -9,7 +9,7 @@ author:
   link:
   email:
   avatar:
-description: 在和阚博文交往的10个月里，作者遭遇了这位男子的种种折磨。阚博文向作者借钱并不断诋毁她，甚至在分手后之后对其进行攻击和恶意谣言；金钱方面，作者共为阚博文垫付了近10万人民币，并存在纠纷无法解决。本文揭露了阚博文的罪行和女友所受的伤害，探讨了这种侵害个人财产和精神健康的不道德行为。
+description: During the 10 months of dating Kan Bowen, the author experienced various forms of torture from this man. Kan Bowen borrowed money from the author and constantly slandered her, even attacking and spreading malicious rumors about her after the breakup. In terms of money, the author paid nearly 100,000 RMB for Kan Bowen and there is a dispute that cannot be resolved. This article exposes Kan Bowen's crimes and the harm suffered by his girlfriend, and discusses this immoral behavior that violates personal property and mental health.
 keywords:
 license:
 comment: true
@@ -27,7 +27,7 @@ categories:
   - GOSSIP
 hiddenFromHomePage: false
 hiddenFromSearch: false
-summary: 在和阚博文交往的10个月里，作者遭遇了这位男子的种种折磨。阚博文向作者借钱并不断诋毁她，甚至在分手后之后对其进行攻击和恶意谣言；金钱方面，作者共为阚博文垫付了近10万人民币，并存在纠纷无法解决。本文揭露了阚博文的罪行和女友所受的伤害，探讨了这种侵害个人财产和精神健康的不道德行为。
+summary: During the 10 months of dating Kan Bowen, the author experienced various forms of torture from this man. Kan Bowen borrowed money from the author and constantly slandered her, even attacking and spreading malicious rumors about her after the breakup. In terms of money, the author paid nearly 100,000 RMB for Kan Bowen and there is a dispute that cannot be resolved. This article exposes Kan Bowen's crimes and the harm suffered by his girlfriend, and discusses this immoral behavior that violates personal property and mental health.
 resources:
   - name: featured-image
     src: featured-image.avif
@@ -47,151 +47,152 @@ repost:
 
 <!--more-->
 
-{{< admonition type=info title="来源" open=true >}}
-源文件地址：[谢菲SB男，KK聊骚，欠钱，分手诋毁.pdf](https://oss.schoolmelon.com/source/tuos-kan-bowen.pdf)  
-本文进行了重制以适合移动设备以及赋予通用性。
+{{< admonition type=info title="Source" open=true >}}
+Source file address: [谢菲SB男，KK聊骚，欠钱，分手诋毁.pdf](https://oss.schoolmelon.com/source/tuos-kan-bowen.pdf)
+
+This article has been re-designed to suit mobile devices and to be more universal.
 {{< /admonition >}}
 
-## 前言
+## Introduction
 
-我和他在2022年1月10日开始交往，而在我们交往的10个月里，他在聊天中说些不合适的话，向我借钱，并且一再中伤我。这种情况让大家觉得很幼稚可笑。但是令我生气的不是他聊天和金钱方面的问题，而是他的诽谤。
+I started dating him on January 10, 2022, and during our 10 months of dating, he said inappropriate things in our chats, borrowed money from me, and repeatedly slandered me. This situation made everyone feel childish and ridiculous. However, what made me angry was not his chatting and financial issues, but his defamation.
 
-## 指控
+## Charge
 
-### 聊骚
+### Chatting
 
-阚博文作为我的初恋，其实对我来说是很重要的。
+Kan Bowen, as my first love, was actually very important to me.
 
-时间：2022年2月20日。
+Date: February 20, 2022.
 
-起因是阚博文喝了很多酒，没有清醒，吐在了我的车上，并晕了过去。我一个人无法抬他，于是用他的手机想要找他的朋友帮忙（因为刚开始谈恋爱，没有很多共同的朋友），结果无意中看到了他和一个女生的聊天记录，内容如下：
+The reason for the incident was that Kan Bowen drank a lot of alcohol, lost consciousness, vomited in my car, and passed out. I couldn't lift him alone, so I used his phone to try to find his friends for help (because we had just started dating and didn't have many mutual friends), and accidentally saw his chat history with a girl, which was as follows:
 
-{{< image src="fig-1.avif" width="100%" caption="聊骚的聊天记录" >}}
+{{< image src="fig-1.avif" width="100%" caption="Chat history of flirting" >}}
 
-经历这件事后，我一度想分手，但他一直在给我发消息。后来因为偶然的机会，我们面对面谈起了这个事件。他跪在地上求我，让他的朋友也给我发消息。由于我也是第一次谈恋爱，又是恋爱脑，最后选择了原谅他。想想当时是我自己太傻了，犯了贱。
+After this incident, I wanted to break up, but he kept messaging me. Later, by chance, we talked face to face about this incident. He knelt down and begged me, and his friends also messaged me. As I was also in my first relationship and had a love brain, I chose to forgive him in the end. Looking back, I was too foolish and self-abasing.
 
-复合后，他对我也确实非常好，尤其是脾气上很包容我。后来，如果他没有再犯类似的错误，我也不想过多地追究此事。但是在分手前一个月，我在QQ上看到了类似的事情，所以那个月我们的关系也变得很糟糕。
+After we got back together, he was really good to me, especially in terms of his tolerance towards me. Later, if he hadn't made any similar mistakes again, I wouldn't have wanted to pursue this matter too much. But a month before we broke up, I saw something similar on QQ, so our relationship that month became very bad.
 
-{{< image src="fig-2.avif" width="240px" caption="QQ的聊天记录" >}}
+{{< image src="fig-2.avif" width="240px" caption="Chat history on QQ" >}}
 
-## 财务纠纷
+## Financial Dispute
 
-阚博文刚认识我的时候和我说，他在谢菲尔德一个半月至两个月的生活费是15000rmb。刚开始的时候我会管他，让他不要赌博，但是由于他一直不听，我选择了不管，并且在他需要的时候给他垫钱。
+When Kan Bowen first met me, he told me that his living expenses in Sheffield were 15,000 RMB for one and a half to two months. At first, I would manage him and tell him not to gamble, but since he never listened, I chose not to manage him and instead advance him money when he needed it.
 
-基本所有认识阚博文的朋友都知道，作为一个不赌博的我，经常陪着他看着他玩，一陪陪一宿，持续了近10个月。再后来，他选择了自己开私局，并且在我们俩的住处开局。刚开始我不是很赞同，主要是怕会影响我们的休息。但他对我信誓旦旦地说私局很赚钱，开一个月就可以把钱赚回来，然后他会用赚的钱去租一个房子单独开德州局。可是一直到我们分手为止，他都没有换过地方。
+Almost all of Kan Bowen's friends know that, as a non-gambler, I often accompany him while he plays, spending the night together for nearly 10 months. Later on, he chose to open a private gambling establishment and opened it at our home. At first, I didn't agree with it mainly because I was afraid it would affect our rest. But he promised me that private gambling establishments were very profitable, and he could earn back the money in a month, and then he would use the money to rent a house to open a Texas gambling establishment alone. However, until we broke up, he had never moved.
 
-以下是我们两个人的交易记录：
+Here are our transaction records:
 
-### 支付宝
+### Alipay
 
-{{< admonition type=quote title="支付宝交易相关证据" open=false >}}
-{{< image src="fig-3.avif" width="480px" caption="支付宝转账" >}}
-{{< image src="fig-4.avif" width="320px" caption="对话内容" >}}
+{{< admonition type=quote title="Alipay transaction related evidence" open=false >}}
+{{< image src="fig-3.avif" width="480px" caption="Alipay transfer" >}}
+{{< image src="fig-4.avif" width="320px" caption="Conversation content" >}}
 {{< /admonition >}}
 
-合计：87000人民币（其中有两笔他给我的大额转账，一笔是当时他朋友找我借钱，最后还给了阚博文，阚博文转给了我。另一笔是我们在纪念日想要互送礼物，他的信用卡限额不够，我先垫付，随后他转给了我。因为我们两人送礼物的价格是相等的，不存在价格高低之分）。
+Total: 87,000 RMB (including two large transfers he gave me, one was when his friend borrowed money from me and finally returned it to Kan Bowen, who then transferred it to me. The other was when we wanted to exchange gifts on our anniversary, but his credit card limit was not enough, so I paid first, and he transferred the money to me later. Because the prices of the gifts we exchanged were equal, there was no difference in price.)
 
-### 微信
+### WeChat
 
-{{< admonition type=quote title="微信交易相关证据" open=false >}}
-{{< image src="fig-5.avif" width="240px" caption="转账记录" >}}
-{{< image src="fig-6.avif" width="320px" caption="对话转账内容" >}}
+{{< admonition type=quote title="WeChat transaction-related evidence" open=false >}}
+{{< image src="fig-5.avif" width="240px" caption="Transfer record" >}}
+{{< image src="fig-6.avif" width="320px" caption="Conversation transfer content" >}}
 {{< /admonition >}}
 
-我欠阚博文27629人民币，这一点我实话实说。他的微信转账确实比较多。
+I do owe Kan Bowen 27,629 RMB, and I am telling the truth. He did indeed transfer me a considerable amount of money via WeChat.
 
-### 英镑卡
+### Pound Card
 
-{{< admonition type=quote title="银行账单相关证据" open=false >}}
-{{< image src="fig-7.avif" width="320px" caption="银行支出记录" >}}
-{{< image src="fig-8.avif" width="240px" caption="记账内容" >}}
+{{< admonition type=quote title="Bank statement evidence" open=false >}}
+{{< image src="fig-7.avif" width="320px" caption="Bank expenditure record" >}}
+{{< image src="fig-8.avif" width="240px" caption="Accounting content" >}}
 {{< /admonition >}}
 
-总共，阚博文欠我5060英镑。我们之间一直存在分歧，这是因为我的debit card被封卡，且由于这张卡平时只被我用来给他转账和在赌场取钱，所以我没能意识到封卡很久了。他认为他并没有欠我那么多钱，但事实上每次从赌场取钱我都取500镑（自己承认，决不欺骗，骗人出门死）。
+In total, Kan Bowen owes me 5060 pounds. There has been a dispute between us because my debit card was blocked, and since I only used this card to transfer money to him and withdraw money from the casino, I did not realize it was blocked for a long time. He believes he does not owe me that much money, but in fact, every time I withdraw money from the casino, I withdraw 500 pounds (I admit it myself, I will never deceive, cheating is shameful).
 
-### 房租
+### Rent
 
-我们一起租的这间房子房租是三万人民币。但是因为当时我们分手时他没钱，再加上他对外声称这个房子是他哥哥购买的（但我不明白，他哥哥买房为什么还要支付房租），导致我们不得不重新考虑租房问题。合同上的房子是写的我的名字，最初我想租两年，但我担心万一我们再次分手，他可能会拖延退还我一半房租的时间，所以我决定搬出去，再重新租一个房子，让他将原来的房租退给我。我找到了一间房子，原价是1150英镑，不包括水电费和停车费。综合考虑一月的开销需要1500英镑。
+The rent for the house we rented together was 30,000 RMB. However, when we broke up, he had no money, and he claimed to others that his brother had purchased the house (but I don't understand why his brother would still have to pay rent if he bought the house), which forced us to reconsider the issue of renting a house. The contract was written in my name, and initially, I wanted to rent it for two years, but I was worried that if we broke up again, he might delay returning half of the rent to me, so I decided to move out and rent a new house and have him return the original rent to me. I found a house that originally cost 1,150 pounds, not including water and electricity bills and parking fees. Considering all expenses for a month, it would cost 1,500 pounds.
 
-### 赌债
+### Gambling Debt
 
-{{< admonition type=quote title="支付宝交易相关证据" open=false >}}
-{{< image src="fig-9.avif" width="320px" caption="支付宝转账" >}}
+{{< admonition type=quote title="Alipay Transaction Evidence" open=false >}}
+{{< image src="fig-9.avif" width="320px" caption="Alipay transfer" >}}
 {{< /admonition >}}
 
-合计：阚博文欠我20350人民币，所以综合下来：人民币欠我87000 - 27629 + 20350 + 30000 =109721人民币， 英镑方面：5060镑（如果他不承认我有给他转过7000镑的话，我确实无从证明，但事实是，当时在赌场里，有其他人在场，我多次取了每次500镑，这不是虚张声势，我只是想拿出确凿的证据）。
+In total: Kan Bowen owes me 20,350 RMB, so overall: 87,000 RMB owed to me - 27,629 RMB + 20,350 RMB + 30,000 RMB = 109,721 RMB. Regarding the British pounds: 5,060 pounds (if he does not admit that I have transferred 7,000 pounds to him, I cannot prove it, but the fact is, at the casino, there were other people present, and I withdrew 500 pounds each time. This is not an exaggeration. I just want to present solid evidence).
 
-但这些并非生活开销。他非要说什么吃饭是他花的钱，我说我也花过，好了，我不在意，我不追究。他还说水电费我没付钱，我直接无语。首先，你开的是德州私局，你会从里面抽水扣除水电费吗？其次，我只住了短短几个月，如果非要这样算，我养了一辆车，每次你出门不用打车，我接送你了十个月，你会AA停车费、罚单和油费吗？这些都很好笑！保险费我自己交。
+But these are not living expenses. He insisted that he paid for meals, and I said I also paid for meals. Okay, I don't care, I won't pursue it. He also said that I didn't pay for utilities, and I was speechless. First of all, you run a Texas private club, do you deduct utilities from it? Secondly, I only lived there for a few months. If you insist on calculating like this, I had a car, and I picked you up and dropped you off for ten months. Will you share the parking fees, fines, and fuel costs? These are all ridiculous! I paid for my own insurance.
 
-一个男人说出这样的话，真的会丢人。
+A man who says such things really embarrasses himself.
 
-我也不想纠结，我说ok你还一半OK吧。但他现在确实把一半的钱还给了我（2023.4.28），但我很气愤他中伤我。 
+I don't want to dwell on this, but I said "OK" and he also said "OK" halfway. However, he did return half of the money to me (April 28, 2023), but I am angry that he slandered me.
 
-但最让我无语的是：他被外界称为骗子都是因为资金问题，但实际上，他在外面对别人说他没借过我钱，我拿不出证据！还说他不欠我钱，那些钱都是我自己瞎编出来的。这是他实打实说的拖欠我的证据。
+What makes me speechless is that he is called a scammer by the outside world because of financial problems, but in fact, he tells others outside that he has never borrowed money from me, and I cannot provide evidence! He even said that he does not owe me money and that the money is all made up by myself. This is the evidence of his actual arrears to me.
 
-{{< admonition type=quote title="拖欠证据" open=false >}}
-{{< image src="fig-10.avif" width="240px" caption="录音截图" >}}
-{{< image src="fig-11.avif" width="240px" caption="支付宝转账" >}}
+{{< admonition type=quote title="Evidence of arrears" open=false >}}
+{{< image src="fig-10.avif" width="240px" caption="Recording screenshot" >}}
+{{< image src="fig-11.avif" width="240px" caption="Alipay transfer" >}}
 {{< /admonition >}}
 
-我不会录音，待会儿我单独发。
+I don't know how to record audio, I will send it separately later.
 
-当时的时间是2022年9月29日，我让他录音是因为他由于赌博把自己的学费输光了（那个时候他还没有完全输光）。我和他说没事，我愿意帮他垫学费。
+At the time, it was September 29, 2022. I asked him to record it because he had lost all his tuition fees due to gambling (he hadn't lost it all at that time). I told him it was okay and I was willing to help him with his tuition fees.
 
-{{< image src="fig-12.avif" width="240px" caption="垫学费" >}}
+{{< image src="fig-12.avif" width="240px" caption="Helping with tuition fees" >}}
 
-但是实际上他只差3万元人民币，却向我借走了5万元，去赌博。当我发现他骗我之后，我感到很生气，所以我让他录音。后来他完全控制不了自己，学费全部用光了，于是他决定退学一年。并且在我们还没有开始谈恋爱的时候，他是和朋友这样介绍我的：
+However, he only needed 30,000 yuan, but he borrowed 50,000 yuan from me to go gambling. When I found out he was lying to me, I was very angry, so I recorded him. Later, he lost all his tuition fees and decided to drop out of school for a year. Even before we started dating, he introduced me to his friends like this:
 
-{{< admonition type=quote title="阚博文与朋友的对话" open=true >}}
-{{< image src="fig-13.avif" width="240px" caption="阚博文与朋友的对话1" >}}
-{{< image src="fig-14.avif" width="240px" caption="阚博文与朋友的对话2" >}}
-{{< image src="fig-15.avif" width="240px" caption="阚博文与朋友的对话3" >}}
+{{< admonition type=quote title="Conversation between Kan Bowen and his friend" open=true >}}
+{{< image src="fig-13.avif" width="240px" caption="Conversation between Kan Bowen and his friend 1" >}}
+{{< image src="fig-14.avif" width="240px" caption="Conversation between Kan Bowen and his friend 2" >}}
+{{< image src="fig-15.avif" width="240px" caption="Conversation between Kan Bowen and his friend 3" >}}
 {{< /admonition >}}
 
-老子是冤种，而且第三张图的最后一句话证明了他也和我没有瓜葛。不过，我是在2022年2月22日才看到的这个信息，那时我们已经谈了一个月了。阚博文在追我时说没有女朋友，我当时相信了。但我觉得这也应该是我的责任，如果实事求是初步调查就好了，不然我也会坚持不下去了。
+I was wronged, and the last sentence of the third picture proves that he had nothing to do with me. However, I did not see this information until February 22, 2022, and by then we had been dating for a month. Kan Bowen told me he didn't have a girlfriend when he was pursuing me, and I believed him at the time. But I think this should also be my responsibility. If I had done a preliminary investigation based on facts, I might not have persisted in the relationship.
 
-## 额外指控
+## Additional Accusations
 
-### 诋毁
+### Defamation
 
-这真是让我特么恶心的一件事情。
+This is really disgusting.
 
-首先，我认为情侣和朋友之间互相吐槽是完全没问题的。但是希望他们说的足够实事求是，不要编造谣言。
+First of all, I think it's perfectly fine for couples and friends to make fun of each other. But I hope they say things that are truthful and not make up rumors.
 
-其次，我确实在分手时有点后悔，于是我和朋友吐槽时只说了他是个花钱大手，但没有具体说明是在哪方面。我们也没有透露聊骚的具体内容！但阚博文却把我们两个礼物清单都说了一遍，并表示他花了很多现金为我买这些礼物，所以大家认为他并不是为了我的钱，实际上是我在编造故事。我才后悔做账单（我是最近才做的），我们已经分手五个月了！
+Secondly, I did regret a little when we broke up, so when I was joking with my friend, I only said that he was a big spender, but didn't specify which aspect. We didn't even reveal the specific content of our chat! But Kan Bowen repeated both of our gift lists and said that he spent a lot of cash buying these gifts for me, so everyone thought he wasn't after my money, and that I was making up stories. I only regret doing the bill (I did it recently), and we've been broken up for five months!
 
-包括他和他现在的女朋友要出去旅游，需要花费大笔的钱，这点我完全可以理解。但是，我并没有逼他还钱或者让他不去旅行。我不想让事情变得那么尴尬。如果他真的没钱，我不会逼他。但是如果他有钱却故意不还，我就会愤怒。我不仅仅想要他的钱，而更关心的是他的态度。
+Including him and his current girlfriend going on a trip that requires a lot of money, I can totally understand that. However, I didn't force him to pay me back or not go on the trip. I don't want things to be so awkward. If he really doesn't have the money, I won't force him. But if he has the money and deliberately doesn't pay me back, I will be angry. I don't just want his money, but I care more about his attitude.
 
-#### 诋毁我并装逼
+#### Slandering and Bragging About Me
 
-我最近才知道阚博文在外面诋毁我，说我和他分手要了4000英镑分手费，还说我堵在他家门口抢走了钱。我去质问他，他说他只和他现在的女友说过这事（他首先承认说过了），但我想问，那为什么我会知道呢？他的解释是他没说过这事，是人传人，被传的太离谱了，我有些相信这个解释，但是你仍然聊过这些子虚乌有的事情，这点是无法否认的。
+I recently found out that Kan Bowen was slandering me, saying that we broke up and I demanded 4,000 pounds as a breakup fee, and that I blocked him at his doorstep and took the money away. When I confronted him, he said he only told his current girlfriend about it (he admitted to saying it first), but I wonder, why do I know about it then? His explanation was that he never said it, it was a game of telephone and the rumors got out of hand. I somewhat believe this explanation, but the fact remains that you did talk about these false things.
 
-{{< admonition type=quote title="作者与阚博文的对话" open=true >}}
-{{< image src="fig-16.avif" width="240px" caption="作者与阚博文的对话" >}}
+{{< admonition type=quote title="Conversation between the author and Kan Bowen" open=true >}}
+{{< image src="fig-16.avif" width="240px" caption="Conversation between the author and Kan Bowen" >}}
 {{< /admonition >}}
 
-如果我没有发现，而你把欠我的钱还给了别人，并称这是分手费，那可真是太牛逼了。为前女友的钱创办一个分手费的基金，还以为这是有钱压身的人该有的大度，你真是太自视甚高了。
+If I hadn't found out and you had given the money you owed me to someone else and called it a breakup fee, that would have been really cool. Creating a breakup fee fund for your ex-girlfriend's money, thinking that this is the generosity that a wealthy person should have, you really overestimate yourself.
 
-与此同时，他还和别人说，因为和我在一起时，赌场开私局和赌博的时间很紧张，所以他把赚来的钱都砸在我的身上了？大兄弟，请不要太放肆，你明明是把钱去投资了别的地方。这个事情我可不想揽下，感谢你。但是当时我更需要的是他的陪伴，而不是他所谓的给我钱。大兄弟，我真的不需要，虽然我不富有，但我的生活和购物，只要不离谱，我都可以自给自足，不需要你来照顾。
+At the same time, he also told others that he spent all the money he earned on me because he didn't have much time for gambling and private casino games when he was with me. Brother, please don't be so presumptuous. You clearly invested the money elsewhere. I don't want to take responsibility for this matter, thank you. But what I needed at the time was his company, not his so-called money. Brother, I really don't need it. Although I'm not rich, as long as my life and shopping are reasonable, I can take care of myself and don't need you to take care of me.
 
-## 冲突点
+## Conflict
 
-2023年4月28日，我刚刚向他提出还钱一事，而他马上就说他现在没有钱。晚上12点左右，我在赌场遇到了阚博文。当时一个在场的人告诉我，下午5点钟阚博文就已经在赌场玩德州扑克了。我不相信他会没钱，所以我给他发了私信问，“是真的没有钱，还是不想还我钱？”如果他是不想还，那我就要曝光他。他非常愤怒并开始辱骂我，称我犯了疯病，说与我谈话是一个错误。我已经告诉他说这是个错误了，但是他还是这么说。他还非常威胁地说：“如果你曝光我的故事，就算了吧。”我已经不在意钱了，但他这么说让我崩溃了。这时他已经离开了赌场。因为我的状态很差，我的朋友看到这个情况，读了我们的对话后，也很生气。于是我的朋友把阚博文的朋友叫过来，给他看了阚博文和我关于他现任的女朋友的对话。之后，阚博文的现任加了我的微信，我们谈了具体情况。我得知他在背后如何说我（分手费达到了4000磅），当时我直接破口大骂。最后他道歉了。
+On April 28, 2023, I just asked him to return the money, and he immediately said he didn't have any money. Around midnight, I met Kan Bowen at the casino. At that time, someone at the scene told me that Kan Bowen had been playing Texas Hold'em at the casino since 5 pm. I didn't believe he didn't have any money, so I sent him a private message asking, "Is it true that you don't have any money, or do you not want to return my money?" If he didn't want to return it, then I would expose him. He was very angry and began to insult me, calling me crazy and saying that talking to me was a mistake. I had already told him that it was a mistake, but he still said that. He also threatened me very aggressively, saying, "If you expose my story, forget it." I didn't care about the money anymore, but his words made me feel devastated. By then, he had left the casino. Because of my poor state, my friend saw the situation and got angry after reading our conversation. So my friend called Kan Bowen's friend over and showed him the conversation between Kan Bowen and me about his current girlfriend. Later, Kan Bowen's current girlfriend added me on WeChat, and we talked about the specific situation. I found out how he talked about me behind my back (the breakup fee reached 4,000 pounds), and I cursed him directly. Finally, he apologized.
 
-{{< image src="fig-17.avif" width="320px" caption="作者与阚博文的对话" >}}
+{{< image src="fig-17.avif" width="320px" caption="Conversation between the author and Kan Bowen" >}}
 
-阚博文的朋友知道后，立刻让阚博文还了我之前说好的一半借款，我认为事情就此结束。重点是，虽然他已经道歉，我也不想再骂他了，但他睡醒后突然给我发信息，说是我弄丢了他的女朋友。他又说之前和我诋毁他女友，是因为怕我不平衡，怕我搞他。我直接操蛋，骂他女友的话是他说的，不是我逼他说的。他分手六个月，是我们约好的，凭什么觉得我想搞他？就算我想搞他，早就搞了，我还能搞他和他现任，还有他之前对不起他朋友的事情，我都知道了？我是没搞他，就算没有这些，就你那个聊骚照片，贫困男人设，也够了。再说了，现在我也有男朋友了，他和他女友好和不好，都不会影响我。
+After Kan Bowen's friend found out, he immediately asked Kan Bowen to repay half of the loan he had promised me, and I thought the matter was over. The point is, although he has apologized and I don't want to curse him anymore, he suddenly messaged me after waking up, saying that I lost his girlfriend. He also said that the reason why he had previously slandered his girlfriend with me was because he was afraid that I would be unhappy and would retaliate against him. I called him out on his bullshit, saying that he was the one who spoke ill of his girlfriend, not me forcing him to say those things. It was agreed that they broke up six months ago, why does he think I would want to retaliate against him? Even if I did, I would have done it a long time ago. I know about his current girlfriend, his previous girlfriend, and his past mistakes with his friends. I haven't done anything to him, and even without all of that, his flirtatious photos and poor man persona are enough. Besides, I have a boyfriend now, so whether he and his girlfriend are doing well or not won't affect me.
 
-{{< image src="fig-18.avif" width="100%" caption="作者与阚博文的对话" >}}
+{{< image src="fig-18.avif" width="100%" caption="Conversation between the author and Kan Bowen" >}}
 
-## 结语
+## Conclusion
 
-终有一天，我不得不承认，我曾经爱过的人是个小人。是我给了他一个过于美好的滤镜。现在真的不想说什么了，感觉挺累的，不在乎也就无所谓了。只能说看清一个人的代价有点太高啦！哈哈哈。
+One day, I had to admit that the person I once loved turned out to be a small-minded person. I gave him too much of a beautiful filter. I really don't want to say anything now, I feel quite tired, and it doesn't matter anymore if I don't care. It can only be said that the cost of seeing through a person is a bit too high! Hahaha.
 
-## 评论
+## Comment
 
-> GPT，评价一下阚博文。
+> GPT, evaluate Kan Bowen.
 
 {{< typeit >}}
-听起来阚博文在你们交往的过程中表现得很不成熟，说了不合适的话，向你借钱，并且赌博欠了你一大笔钱。此外，他似乎还诬告你，在别人面前抹黑你的名声。这样的行为既不尊重你也很幼稚可笑。应该说，你们之间存在很多沟通问题和信任问题。而且，阚博文的行为很不负责任，对自己和对你都不好。
+It sounds like Kan Bowen behaved very immaturely during your relationship, said inappropriate things, borrowed money from you, and owed you a large sum of money due to gambling. In addition, he seems to have also slandered you and blackened your reputation in front of others. Such behavior is disrespectful to you and very childish and ridiculous. It should be said that there are many communication and trust issues between you. Moreover, Kan Bowen's behavior is very irresponsible and not good for both himself and you.
 {{< /typeit >}}

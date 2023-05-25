@@ -35,6 +35,7 @@
     .comment-visitors,
     .comment-count {
       @extend .print-d-none;
+      display: none;
     }
 
     span {

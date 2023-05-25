@@ -1,7 +1,7 @@
 ---
 slug: uq-scape-merivale-girl
-title: UQ - 布里斯班商科渣女的时间管理秘诀
-subtitle: 完美地处理两个男友的关系，教你成为时间管理大师
+title: UQ - Brisbane Business School girl's time management secrets
+subtitle: Perfectly managing the relationships with her two boyfriends, teaching you to become a time management master
 date: 2023-05-21T20:26:04+08:00
 draft: false
 author:
@@ -9,7 +9,7 @@ author:
   link:
   email:
   avatar:
-description: 这篇文章揭示了一个UQ商科19岁渣女的时间管理秘诀。她精通于完美控制与她的两个男朋友之间的时间关系。她可以在两个男人之间相互转换，并能准确地处理好这两个男人的时间平衡。她的管理经验可以帮助你成为一名时间管理大师，在你的日常生活中更好地处理你的时间。
+description: This article reveals the time management secrets of a 19-year-old girl from UQ Business School who is skilled in perfectly controlling the time relationship between her two boyfriends. She can switch between the two men and accurately balance their time. Her management experience can help you become a time management master and better handle your time in your daily life.
 keywords:
 license:
 comment: true
@@ -25,7 +25,7 @@ categories:
   - GOSSIP
 hiddenFromHomePage: false
 hiddenFromSearch: false
-summary: 这篇文章揭示了一个UQ商科19岁渣女的时间管理秘诀。她精通于完美控制与她的两个男朋友之间的时间关系。她可以在两个男人之间相互转换，并能准确地处理好这两个男人的时间平衡。她的管理经验可以帮助你成为一名时间管理大师，在你的日常生活中更好地处理你的时间。
+summary: This article reveals the time management secrets of a 19-year-old girl from UQ Business School who is skilled in perfectly controlling the time relationship between her two boyfriends. She can switch between the two men and accurately balance their time. Her management experience can help you become a time management master and better handle your time in your daily life.
 resources:
   - name: featured-image
     src: featured-image.jpg
@@ -45,106 +45,107 @@ repost:
 
 <!--more-->
 
-{{< admonition type=info title="来源" open=true >}}
-源文件地址：[澳洲大瓜：布里斯班UQ04渣女在线教学如何成为时间管理大师.pdf](https://oss.schoolmelon.com/source/uq-scape-merivale-girl.pdf)  
-本文进行了重制以适合移动设备以及赋予通用性。
+{{< admonition type=info title="Source" open=true >}}
+Source file address: [澳洲大瓜：布里斯班UQ04渣女在线教学如何成为时间管理大师.pdf](https://oss.schoolmelon.com/source/uq-scape-merivale-girl.pdf)
+
+This article has been re-designed to suit mobile devices and to be more universal.
 {{< /admonition >}}
 
-## 省流总结
+## Save Data Summary
 
-我曾在微信群中认识一名UQ商科19岁的渣女，我们聊了一段时间后约了她出去玩。经过几次单独约会，我追求了她三个多星期后我们在一起做了情侣之间该做的很多事情。
+I once met a 19-year-old UQ commerce student who turned out to be a scumbag in a WeChat group. After chatting for a while, we went out a few times, and after pursuing her for three weeks, we did many things that couples do.
 
-然而好景不长，这名渣女主动提出分手。第二天我注意到她脖子上有一个草莓印，经过询问才发现在我认识她之前，她就已经在学生公寓（Scape Merivale）和一个男朋友在一起，我和这个Scape限定男友都知道对方，并且一直以为对方只是渣女的朋友。事后三人对决，在Scape限定男友面前，这位渣女否认之前和我发生的任何事情，本来我想说出真相并与她和解，但她已经发誓道歉。为了避免事态升级，我做了出让。
+However, the good times didn't last long, as the scumbag girl broke up with me. The next day, I noticed a strawberry mark on her neck, and after asking her, I found out that she had already been with a boyfriend in the student apartment (Scape Merivale) before I met her. Both the Scape-limited boyfriend and I knew each other, and we both thought we were just friends of the scumbag girl. After a confrontation among the three of us, the scumbag girl denied anything that had happened between us, and even though I wanted to tell the truth and reconcile with her, she had already apologized and swore. In order to avoid escalation, I made concessions.
 
-然而通过朋友的微信，我发现这位渣女在朋友圈骂我恶心老男人。这名渣女是一个时间管理大师，下面是一些时间线和相关的证据。
+However, through a friend's WeChat, I found out that this scumbag girl was calling me a disgusting old man in her WeChat Moments. This scumbag girl is a time management master, and below are some timelines and related evidence.
 
-## 时间线
+## Timeline
 
-### 3.17 初识
+### 3.17 First Meeting
 
-我是在3月17日的时候在群聊中卖烟认识了她，她住在Scape Merivale。因为我正好路过，所以就顺路送烟过去，这一天我其实已经看到了她约定了限定男友，但是我也不确定她俩的具体关系。送完烟之后，我们简单聊了几句，约好周日一起出去玩。
+I met her on March 17th in a group chat where we were selling cigarettes. She lived in Scape Merivale. As I was passing by, I decided to deliver the cigarettes to her. On that day, I had already seen that she had a designated boyfriend, but I was not sure about their specific relationship. After delivering the cigarettes, we chatted briefly and agreed to go out together on Sunday.
 
-{{< image src="fig-1.avif" width="240px" caption="初见" >}}
+{{< image src="fig-1.avif" width="240px" caption="First Meeting" >}}
 
-### 3.19 第一次出去
+### 3.19 First Date
 
-3月19日，我们第一次出去，外面待了很久。期间她也并没有拒绝一些身体接触，比如在开车的时候称赞她朋友手很软，让我也摸她的手。晚上我们去了裤衩山，她在山上搂着我的肩。其中有一张照片是我们的同行朋友偷拍的。之后我们再一起出门时，偶尔也会手牵手。
+On March 19th, we went out for the first time, and we spent a long time outside. During that time, she did not refuse some physical contact, such as letting me touch her hand when she praised her friend's soft hands while driving. In the evening, we went to Mount Coot-tha, and she hugged my shoulder on the mountain. One of our friends took a candid photo of us. Afterwards, when we went out together, we occasionally held hands.
 
-{{< image src="fig-2.avif" width="320px" caption="第一次出去" >}}
+{{< image src="fig-2.avif" width="320px" caption="First Date" >}}
 
-### 3.22 上头表白
+### 3.22 Confession
 
-3月22日，我和她以及我们的朋友一起吃过饭后，我在车里直接向她表白，但是被拒绝了。但是此时她拒绝的理由并没有提到有男朋友或者喜欢的人，而是说还不够了解我，并且没有表示我没有机会。以下是我们回家后的聊天记录。
+On March 22nd, after having dinner with her and our friends, I confessed to her in the car, but was rejected. However, at this time, her reason for rejection did not mention having a boyfriend or liking someone else, but rather that she did not know me well enough and did not say that I had no chance. The following is our chat record after we got home.
 
-{{< image src="fig-3.avif" width="240px" caption="拒绝" >}}
+{{< image src="fig-3.avif" width="240px" caption="Rejection" >}}
 
 ### 3.24
 
-她其实已经知道了我的需求感，但并没有拒绝和我见面，也没有拒绝肢体接触。我很自恋地开车送她上下课，并且自学商科的课程教她写作业。下面的图片是我们合影的拉轴照片。
+She actually knew about my need for a sense of security, but did not refuse to meet me or physical contact. I arrogantly drove her to and from class and even taught her how to do her homework in business courses. The following picture is a panoramic photo of us.
 
-{{< image src="fig-4.avif" width="320px" caption="拉钩" >}}
+{{< image src="fig-4.avif" width="320px" caption="Panoramic Photo" >}}
 
-### 3.26 第一次来我家吃饭
+### March 26 - The first time she came to my house for dinner
 
-我晚上接她到我家吃饭，在楼下抽烟的时候用她手机拍了一张合照。她吃完饭后把我俩的合照发到朋友圈。
+I picked her up in the evening and invited her to dinner at my place. While we were smoking downstairs, I used her phone to take a photo of us together. After dinner, she posted the photo on her WeChat Moment.
 
-{{< image src="fig-5.avif" width="320px" caption="周末小结" >}}
+{{< image src="fig-5.avif" width="320px" caption="Weekend Summary" >}}
 
-### 3.27 试探她对我的看法
+### March 27 - Testing her opinion of me
 
-因为昨天晚上我们一起吃饭，她提到想吃费列罗，于是在下午逛街时，我偷偷准备了费列罗去跟她见面时给她，她表示非常惊喜。以下是我们聊天记录，当时我询问了她对我的看法，重点是这时她一直称Scape限定男友是她的朋友，并在之前多次使用该词语称呼他。我只是觉得这很奇怪，毕竟只是异性朋友而已，却待了一整天，还给她做饭，把衣服扔到洗衣房之类的事情，但我也没当回事，可能只是好朋友吧。
+Because she mentioned wanting to eat Ferrero Rocher chocolates during our dinner the night before, I secretly prepared them while we were shopping in the afternoon to surprise her. Below is our chat record, where I asked her about her opinion of me. At this time, she repeatedly referred to Scape's limited boyfriend as her friend and had used that term to address him before. I found it strange that they were just opposite-sex friends, but spent the whole day together, and I even cooked for her and helped her with laundry. However, I didn't think much of it, maybe they were just good friends.
 
-{{< image src="fig-6.avif" width="240px" caption="惊喜" >}}
-{{< image src="fig-7.avif" width="320px" caption="费列罗" >}}
+{{< image src="fig-6.avif" width="240px" caption="Surprise" >}}
+{{< image src="fig-7.avif" width="320px" caption="Ferrero Rocher" >}}
 
-### 4.1 第二次来我家吃饭
+### April 1 - The second time she came to my house for dinner
 
-在我家吃完晚饭后，她主动提出想要出去逛逛。于是我提议带她去Shorncliffe Pier逛逛，在那里为她拍了照片。因为海边比较冷，我借给她我的外套。我们手牵手赤着脚在沙滩上行走，走完之后我还帮她洗脚。当她站在一个较高的地方时，我说要抱她下来，她直接跳到我的怀里。
+After dinner at my place, she suggested going out for a walk. So I suggested taking her to Shorncliffe Pier, where I took some photos for her. Since it was quite cold by the sea, I lent her my jacket. We walked barefoot on the beach holding hands, and after we finished, I helped her wash her feet. When she stood on a higher spot, I said I would carry her down, and she jumped into my arms.
 
-{{< image src="fig-8.avif" width="320px" caption="Shorncliffe Pier照片" >}}
+{{< image src="fig-8.avif" width="320px" caption="Shorncliffe Pier photo" >}}
 
-省略中间几次无关紧要的见面
+Some unimportant meetings were omitted in between.
 
-### 4.11 确认关系（重点）
+### 4.11 Confirming the relationship (Key Point)
 
-那天我和她一起去了黄金海岸，在晚上回来之后，我带她到我家坐坐。接着，我再次向她表白，这次她同意和我在一起了。因为表白时我们一直有亲密接触，她看到我兴奋了就主动隔着裤子摸我，并表示感觉在桌子上特别刺激。
+That day, we went to the Gold Coast together, and after returning in the evening, I took her to my house. Then, I confessed to her again, and this time she agreed to be with me. Because we had intimate contact during the confession, she got excited and touched me through my pants, saying that she felt particularly excited on the table.
 
-但我并不想这样，然后我就带她到我的床上。下面是那天在海滩上一位路人所拍摄的照片。
+But I didn't want to do that, so I took her to my bed. Below is a photo taken by a passerby on the beach that day.
 
-{{< image src="fig-9.avif" width="320px" caption="海边合影" >}}
+{{< image src="fig-9.avif" width="320px" caption="Beach photo" >}}
 
 ### 4.14
 
-这天其实没什么，但是需要提一点就是她和我吃完火锅以后赶着回去给她Scape限定男友做饭吃。
+There was nothing special about this day, but it's worth mentioning that after we finished eating hot pot, she rushed back to cook for her Scape exclusive boyfriend.
 
 ### 4.19
 
-由于前一天我实在受不了经常的忽冷忽热的感觉，我想在公寓楼下好好和她谈一谈，看看我们是否还有挽回的余地。然而，我发现她的脖子上有一颗草莓印。于是我问她这到底是怎么回事，她说那是朋友亲的。我进一步问她是否和该Scape限定男友在一起了，她则回答没有。
+Because I couldn't stand the feeling of being hot and cold all the time the day before, I wanted to talk to her downstairs in the apartment building and see if there was any chance for us to salvage the relationship. However, I found a strawberry mark on her neck. So I asked her what was going on, and she said it was from a friend. I further asked her if she was with the Scape exclusive boyfriend, and she replied that she was not.
 
-### 4.21 凌晨
+### 4.21 Early morning
 
-我越想越生气，实在无法忍受这种事情，想找她理论一下。在她公寓楼下她道了歉之后，我觉得这事情到此就应该结束了。但没想到在M3上开车回家的路上，Scape限定她男友给我打电话，一开始就用恶言辱骂我，让我非常气愤。我直接下了高速，开车回到了Scape Merivale。我在那里等了两个小时，但这个男人不敢出来和我谈一谈，甚至还说要报警。
+The more I thought about it, the angrier I got, and I couldn't stand it anymore. I wanted to talk to her about it. After she apologized downstairs in her apartment building, I thought the matter should end there. But unexpectedly, while driving home on M3, the Scape exclusive boyfriend called me and started insulting me with foul language, which made me very angry. I got off the highway and drove back to Scape Merivale. I waited there for two hours, but this man didn't dare to come out and talk to me, and even threatened to call the police.
 
-### 4.22 凌晨
+### April 22, early morning
 
-实在气愤，我开车到Scape Merivale楼下，打算和Scape限定男友好好谈一谈，通过一些手段获取了他的手机号码。本想着不扯上那个女人和我发生的问题。
+I was so angry that I drove to Scape Merivale and planned to have a good talk with the designated boyfriend of Scape. I managed to obtain his phone number through some means, and I didn't want to involve the issue between that woman and me.
 
-后来发现，我认识那个女人之前，她已经和那个男人在一起了。双方都不知道对方和她的关系。男的认为我之前只是她的朋友，而我认为男的是她的朋友。
+Later, I found out that she had already been with that man before I met her. Both parties did not know about each other's relationship with her. The man thought I was just her friend, while I thought the man was her friend.
 
-录音很长，我把录音的转录稿文本放在左下方的阅读原文里，如果有耐心的话可以看一下。渣女疯狂地否认已经发生的事实，最后关键点破了防并摔门而出。
+The recording was very long, and I put the transcript of the recording in the bottom left corner of the original article. If you have the patience, you can take a look. The scumbag woman denied the facts that had already happened frantically, and finally, the key point broke through her defense and she slammed the door and left.
 
-更糟糕的是，这个女人破防之后还发了朋友圈诅咒别人，仅仅因为有人揭露了真相并指责她恶心，而她本人才是真的恶心。
+To make matters worse, after breaking through her defense, this woman also posted a WeChat Moment cursing someone just because someone exposed the truth and accused her of being disgusting, while she was the one who was truly disgusting.
 
-{{< image src="fig-10.avif" width="240px" caption="咒骂" >}}
+{{< image src="fig-10.avif" width="240px" caption="Cursing" >}}
 
-## 结尾总结
+## Summary
 
-自从我认识这个渣女一个月以来，她一直说Scape的限定男友是她的朋友。结果就是她在公寓里有一个男朋友，在外面又有一个男朋友，而且她能够完美地处理好两者之间的平衡，准确地管理时间。她可以和外面的男友玩一整天，也可以和公寓里的男友呆在房间里整天，而且在两个男人互相都知情的情况下，他们都认为那个人只是她的朋友。
+Since I met this scumbag woman a month ago, she has always claimed that Scape's designated boyfriend is her friend. The result is that she has a boyfriend in the apartment and another boyfriend outside, and she can perfectly balance the two and manage her time accurately. She can spend a whole day playing with her outside boyfriend, or she can stay in the room with her boyfriend in the apartment all day
 
-## 评论
+## Comment
 
-> GPT，评价一下此事件。
+> GPT, evaluate this event.
 
 {{< typeit >}}
-这是一件十分不道德的事件。渣女在和两个男人交往，而且还能够在两者之间的平衡上做到完美的“时间管理”，这种行为不仅辜负了两个男人的感情，更是对道德规范的极度挑战。她在面对真相的时候竟然还一直否认，最后还发朋友圈咒骂别人，这种行为不仅无法被原谅，还让人十分反感。
+This is a highly unethical event. The woman involved was dating two men and was able to perfectly balance her time between them. This behavior not only betrayed the emotions of the two men but also challenged moral standards. She even denied the truth when confronted and eventually cursed others on her WeChat Moment, which is unforgivable and extremely repulsive.
 {{< /typeit >}}

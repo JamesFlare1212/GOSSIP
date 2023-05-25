@@ -1,7 +1,7 @@
 ---
 slug: kcl-xing-lecong
-title: KCL - 邢乐聪 涉嫌性骚扰 欺骗女性
-subtitle: 揭露邢乐聪的罪恶行径，谈恋爱名义欺骗女性，涉嫌性骚扰
+title: KCL - Xing Lecong accused of sexual harassment and fraud
+subtitle: Exposing Xing Lecong's wrongdoings, including deceiving women under the guise of dating, and being accused of sexual harassment.
 date: 2023-05-19T13:41:19+08:00
 draft: false
 author:
@@ -9,7 +9,7 @@ author:
   link:
   email:
   avatar:
-description: 邢乐聪曾多次以谈恋爱的名义出现欺骗女性，且行为单调，试图动手动脚一再受到拒绝。 多名女性公开揭露了邢乐聪的行径，包括其中一位女性所发生的具体经历。 邢乐聪被曝光后，威胁当事人、继续作出威胁和恐吓等行为，该事件目前正在调查中。
+description: Xing Lecong has been repeatedly accused of deceiving women under the guise of dating, and his behavior was monotonous, including attempts to touch them after being rejected. Multiple women have publicly exposed Xing Lecong's behavior, including one woman who detailed her experience. After being exposed, Xing Lecong continues to threaten and intimidate the parties involved. The incident is currently under investigation.
 keywords:
 license:
 comment: true
@@ -27,7 +27,7 @@ categories:
   - GOSSIP
 hiddenFromHomePage: false
 hiddenFromSearch: false
-summary: 邢乐聪曾多次以谈恋爱的名义出现欺骗女性，且行为单调，试图动手动脚一再受到拒绝。 多名女性公开揭露了邢乐聪的行径，包括其中一位女性所发生的具体经历。 邢乐聪被曝光后，威胁当事人、继续作出威胁和恐吓等行为，该事件目前正在调查中。
+summary: Xing Lecong has been repeatedly accused of deceiving women under the guise of dating, and his behavior was monotonous, including attempts to touch them after being rejected. Multiple women have publicly exposed Xing Lecong's behavior, including one woman who detailed her experience. After being exposed, Xing Lecong continues to threaten and intimidate the parties involved. The incident is currently under investigation.
 resources:
   - name: featured-image
     src: featured-image.jpg
@@ -47,153 +47,154 @@ repost:
 
 <!--more-->
 
-{{< admonition type=info title="来源" open=true >}}
-源文件地址：[kcl骗炮渣男避雷.pdf](https://oss.schoolmelon.com/source/kcl-xing-lecong.pdf)  
-本文进行了重制以适合移动设备以及赋予通用性。
+{{< admonition type=info title="Source" open=true >}}
+Source file address: [kcl骗炮渣男避雷.pdf](https://oss.schoolmelon.com/source/kcl-xing-lecong.pdf)
+
+This article has been re-designed to suit mobile devices and to be more universal.
 {{< /admonition >}}
 
-## 前言
+## Introduction
 
-作为UAL学生，我不与那些喜欢混乱搞和频繁交际的人打交道。我可以以我的人品保证，我说的话没有一句假话或者夸大其词。下面听我娓娓道来。
+As a UAL student, I do not associate with people who enjoy chaos and frequent interactions. I can guarantee with my character that everything I say is truthful, and not a word of it is false or exaggerated. Please listen to me and let me narrate the story.
 
-邢乐聪这名男子之前在伯明翰、现在在伦敦读KCL，他经常、非常经常以谈恋爱的名义出去欺骗女性，已经骗骗了很多女性，涉及面广。
+Xing Lecong is a man who used to study in Birmingham and is now studying in KCL in London. He often, very often uses the guise of dating to cheat women. He has cheated many women and has a very wide scope of activities.
 
-{{< admonition type=quote title="邢乐聪微信" open=false >}}
-{{< image src="fig-1.avif" width="240px" caption="邢乐聪微信" >}}
+{{< admonition type=quote title="Xing Lecong WeChat" open=false >}}
+{{< image src="fig-1.avif" width="240px" caption="Xing Lecong WeChat" >}}
 {{< /admonition >}}
 
-下面我来讲我身上的全部经过。此人通过我的小红书主动要了我的微信。
+Now let me talk about my personal experience. This individual actively asked for my WeChat through my Little Red Book account.
 
-{{< admonition type=quote title="小红书对话" open=false >}}
-{{< image src="fig-2.avif" width="240px" caption="小红书对话" >}}
+{{< admonition type=quote title="Little Red Book conversation" open=false >}}
+{{< image src="fig-2.avif" width="240px" caption="Little Red Book conversation" >}}
 {{< /admonition >}}
 
-开始偶尔找我聊天。刚开始还比较正常，后来觉得这人有时候说话莫名其妙。
+At the beginning, we occasionally chatted. Initially, it was relatively normal, but then he began to speak nonsensically at times.
 
-{{< image src="fig-3.avif" width="240px" caption="微信对话1" >}}
+{{< image src="fig-3.avif" width="240px" caption="WeChat conversation 1" >}}
 
-{{< image src="fig-4.avif" width="240px" caption="微信对话2" >}}
+{{< image src="fig-4.avif" width="240px" caption="WeChat conversation 2" >}}
 
-之后的一段时间，我们没有联系。突然有一天，他告诉我他搬到了伦敦，想要和我看电影。我同意了，他开车来接我。这是我们第一次见面，但他在电影院一直试图动手动脚，想要拉我的手牵我、依偎我，但都被我拒绝了。电影结束后，我想回家。本来他打算我们接着去找地方吃东西，轻饮一杯。（因为我当时还没吃饭）但是由于他这种行为给我一种没有边际的感觉，所以我说想要回家了。
+For some time, we didn't contact each other. One day, he suddenly informed me that he had moved to London and wanted to watch a movie with me. I agreed, and he came to pick me up by car. This was our first meeting, but he tried to touch me inappropriately throughout the movie, trying to hold my hand and cuddle with me, but I rejected him. After the movie, I wanted to go home. He had planned for us to find a place to eat and have a drink (because I hadn't eaten), but his behavior made me feel uncomfortable, so I said I wanted to go home.
 
-然而，那天晚上发生了一件突发状况。我的一个朋友写了一个程序代抢西班牙签证的面签位置，而他在我看电影的时候给我发信息，说已经抢到预约，第二天早上10点就要去面签。我当场面露难色，于是邢乐聪就问我是怎么回事，我解释了一下情况，说那个代办中介不上班，而且他们应该给我的材料还没提供，另外我自己准备的行程单之类的东西也没准备好（我也不太会，否则也不会找中介），而且我家里也没有打印机。
+However, something unexpected happened that night. A friend of mine wrote a program to snatch up face-to-face appointments for Spanish visas, and he messaged me while I was watching the movie, saying that we had got an appointment for the next morning at 10 am. I looked worried, and he asked me what was going on. I explained the situation, saying that the agency that was supposed to provide my materials wasn't open yet and that the itinerary I prepared myself, including the travel confirmation, was not completed. Additionally, I didn't have a printer at home.
 
-他随后表示，他帮我做好准备，我陪他去喝几杯和吃点东西怎么样。我答应了他，并感谢他提供帮助。但我警告他，不要对我做出任何不合适的行为。然后，我们回到了他的家里，他让我用他的电脑办理签证。起初，我对他在电影院的行为感到很不满意，但他一直向我灌输他喜欢我这种信息：“你真的好看啊”、“你是我的女神好不好？”、“不是谁都有机会来我家的”、“做我的女朋友吧，你看着我的眼睛，我是认真的”、“谁说第一次见面就上床不能在一起，我跟我的前女友就是第一次见面就上了床，还谈了四年呢”。他的这些话里弱化了我对于他在电影院的行为的不满。那天很晚了，他帮我办签证期间一直亲吻我的耳朵、脖子等敏感地方，让我觉得他的经验真的非常丰富。最终，在他不断的挑逗下，我答应和他发生关系了。虽然我认为这只是一个短暂的炮友关系，但是他很快就开始寻找下一个人去欺骗。
+He then suggested that he would help me prepare and asked me to accompany him for a few drinks and a meal. I agreed and thanked him for his help, but warned him not to do anything inappropriate to me. Then we went back to his house where he let me use his computer to process my visa application. At first, I was not satisfied with his behavior at the cinema, but he kept instilling in me the message that he likes me: "You look really beautiful," "You are my goddess, aren't you?" "Not everyone has the chance to come to my house," "Be my girlfriend. Look into my eyes, I am serious," "Who says you can't sleep with someone on the first date and still be together? My ex-girlfriend and I slept together on the first date, and we were together for four years." His words downplayed my dissatisfaction with his behavior at the cinema. It was late that day, and he kept kissing me on my ear, neck, and other sensitive areas while helping me with my visa application, making me feel that he was really experienced. Eventually, I agreed to have sexual relations with him under his constant teasing. Although I thought it was just a short-lived sexual relationship, he quickly started looking for the next person to deceive.
 
-后来我在MOS碰到他，他想让我介绍我的美女朋友给他的朋友，帮忙撮合。我很反感这种发菜行为，直接说要看我的朋友是否愿意去。这个人还用发菜的方式拉近与男士之间的关系。（在此提醒闺蜜们，结交朋友的方式非常重要，即使他的朋友很正常，如果是通过这种类型的人介绍认识的，并不能使得他们对你有更多的重视和尊重。）
+Later, I met him at MOS, and he wanted me to introduce my beautiful friends to his friends and make them to match. I was very disgusted with his behavior and told him directly that I would have to see if my friends are willing to go. It is worth reminding my girlfriends that the way to make friends is very important. Even if his friends are normal, if you meet them through this type of person's introduction, it does not mean that they will have more respect for you.
 
-他还问我是哪个哥们介绍给我（睡觉），我真的会谢。在MOS时，他坚持要把他兄弟介绍给我的朋友，说有趴叫我们去，我说我帮你问一下我的朋友是否想去。结果，他再次取消了趴，要我跟他回家。我当场拒绝了，问他为什么我要跟他回家，然后我和我的朋友们一起回家了。
+He even asked me which guy introduced him to me (for sex), and said he would be grateful. At MOS, he insisted on introducing his brother to my friend, saying there was a party and inviting us to go. I said I'd ask my friend if they wanted to go. But then he canceled the party and asked me to go home with him instead. I refused on the spot and asked why I should go home with him. Then I went home with my friends.
 
-已经很久没有联系，现在只是因为意外在MOS再见面，为什么他以为我还想跟他睡觉呢？他把我当成什么了？即使找女人，也要付费，他为什么要白得到？他还想来个复仇性的炮吗？
+It's been a long time since we last talked, but now, just because we unexpectedly met at MOS, why did he think that I still wanted to sleep with him? What does he think of me? Even if he wants to find women, he should pay for it. Why does he have to get it for free? Does he want revenge sex?
 
-{{< image src="fig-5.avif" width="240px" caption="微信对话3" >}}
-{{< image src="fig-6.avif" width="240px" caption="微信对话4" >}}
-{{< image src="fig-7.avif" width="240px" caption="微信对话5" >}}
-{{< image src="fig-8.avif" width="240px" caption="微信对话6" >}}
-{{< image src="fig-9.avif" width="240px" caption="微信对话7" >}}
-{{< image src="fig-10.avif" width="240px" caption="微信对话8" >}}
+{{< image src="fig-5.avif" width="240px" caption="WeChat Chat 3" >}}
+{{< image src="fig-6.avif" width="240px" caption="WeChat Chat 4" >}}
+{{< image src="fig-7.avif" width="240px" caption="WeChat Chat 5" >}}
+{{< image src="fig-8.avif" width="240px" caption="WeChat Chat 6" >}}
+{{< image src="fig-9.avif" width="240px" caption="WeChat Chat 7" >}}
+{{< image src="fig-10.avif" width="240px" caption="WeChat Chat 8" >}}
 
-我感到非常恶心的是，当我揭穿这个人是为了打炮而打着谈恋爱的名义勾引我时，他不承认，反而说“我是想跟你谈恋爱的啊，你不是没答应吗？”“我是想慢慢跟你接触的啊，那你老这样我怎么跟你继续呢？”我对他表示感谢，但告诉他，他跟多少人一见面就说想谈恋爱？大概有几十个人吧？他的“爱”只是像批量生产，一会儿跟这个人，一会儿跟那个人？他说想跟我接触，但事实上他只是在和我上完床后就再也没有主动联系我。
+What disgusts me the most is that when I exposed this person for trying to lure me into bed by pretending to be in a romantic relationship with me, he did not admit to it. Instead, he said, "I really wanted to be in a relationship with you. Didn't you agree? I wanted to get to know you better, but how can I do that if you keep acting this way?" I thanked him for his flattery but told him that he tells that to every single girl he meets. How many has he done it too? Probably dozens? His "love" is like mass production, he moves onto the next person after a few encounters. He said he wanted to get to know me, but in reality, he never bothered to initiate contact again after we slept together.
 
-我没被你这种拙劣的骗局所蒙骗，所以才会曝光你。我非常反感你用谈恋爱的借口骗人，你的行为真的很恶心。你打着谈恋爱的名义去欺骗别人，我承认我曾经在你的骗局中上当受骗，但这并不代表我不会去揭穿你的诈骗行为。为什么你不能光彩磊落一点来做事呢？如果你只是想和别人发生关系，那为什么不直接说呢？如果你犯了错误，为什么不敢承认？我非常鄙视你这样的行为。如果你只是想和别人有性关系，那么直接去找愿意做一夜情的女孩，直接说明情况即可，没必要骗别人，真的让人恶心。除了我之外，我知道很多女孩子也被你用同样的方式骗过。更让我气愤的是，你居然还曾经对我的朋友动手动脚，她受到的伤害更离谱。得知这件事情之后，我更加坚定了曝光你的决心。你觉得你在伦敦只待了很短的时间就可以为所欲为吗？你认为伦敦只是你的白嫖天堂吗？我告诉你，你错了。
+I was not fooled by your poor scam, which is why I have exposed you. I am very opposed to the way you use a romantic pretext to deceive people. Your behavior is truly disgusting. You are a liar who deceives people in the name of love. I admit that I have been deceived by you in your scam, but that does not mean that I will not expose your fraudulent behavior. Why can't you be straightforward and honest? If you just want to have sex with someone, why not just say so? If you make a mistake, why don't you confess? I really despise your behavior. If you just want to have sex with someone, then go find a girl who is willing to have a one-night stand, and just explain the situation directly without having to deceive others. It is disgusting. In addition to me, I know many girls who have been deceived by you in the same way. What makes me even more angry is that you actually touched my friend inappropriately, and the harm she suffered was even more outrageous. Learning about this incident only strengthened my determination to expose you. Do you think you can do whatever you want during your short time in London? Do you think London is just your free ride paradise? Let me tell you, you are wrong.
 
-{{< admonition type=quote title="作者和受害者的对话" open=true >}}
-作者：你可以描述一下他在你家的事吗？
-
-***
-
-A：就是有一次他要来我家看电影，我说那你来吧。然后他就提了两瓶酒来，然后跟我说喝，我说我不爱喝酒，然后他自己就吨吨吨喝了一瓶，喝完之后就在那儿看电影，看完之后他就问我能不能做我男朋友，还说他准备就是下个学期考来伦敦，然后我就可以跟我同居然后可以跟我做饭啥的，然后在那里画饼。我说我俩才见多少次面都不熟悉，怎么做我男朋友啊。然后他就开始说，那你要把我当成你男朋友，我才能对你好，我才能保护你, 我非常心疼。但那个事儿我刚跟我前男友分手，然后他就说没关系，你可以把我当成一个过渡也好，你把我当成一个来救你的人也行，反正我就想陪着你，然后我今晚能不能留下来这样。
-
-A：我说不好吧，然后他说他睡客厅睡沙发。我说那行，因为我房间是有锁的。我就说那我睡房间然后后来他就非得要进我房间然后要跟我睡在一起他说我要要抱着你什么的锁的。我就说那我睡房间然后后来他就非得要进我房间然后要跟我睡在一起他说我要要抱着你什么的，我不愿意他就上手。
-
-A：然后我当时就很刚，我就直接从我房间冲到厨房然后拿起了一把刀。我说你别过来你过来我报警然后他 就开始pua他就说你知道为什么你前男友会不喜欢你吗？就是因为你这样的脾气谁会喜欢你呀，你都不够骚。
+{{< admonition type=quote title="Conversation between the Author and the Victim" open=true >}}
+Author: Can you describe what happened when he came to your place?
 
 ***
 
-作者：真牛逼
+A: There was one time he wanted to come to my house to watch a movie, and I said okay. Then he brought two bottles of alcohol, and he asked me to drink. I said I don't like drinking, and then he drank it all by himself. After he finished drinking, we watched a movie and when the movie was over, he asked me if he could be my boyfriend. He even said he was planning to study in London next semester, and then we could live together and he could cook for me. He was just making empty promises. I said we had only met a few times and didn't know each other well, how could he be my boyfriend? Then he started to say that I should treat him as my boyfriend, and he could only be good to me and protect me if I did. But at that time, I had just broken up with my ex-boyfriend, and he said it didn't matter. I could regard him as a transitional relationship or someone who came to save me, as long as he stayed with me. Then he asked if he could stay with me that night.
+
+A: I said I wasn't sure, and then he said he would sleep on the couch in the living room. I agreed because my room had a lock. I said I would sleep in my room, but he insisted on entering my room and sleeping with me. He said he wanted to hug me and stuff like that. I refused, but he tried to force himself on me.
+
+A: Then I got angry and went to the kitchen with a knife. I said if he came closer, I would call the police. Then he started to use PUA tactics. He said, "Do you know why your ex-boyfriend doesn't like you? It's because of your temper. Who would like you if you're not naughty enough?"
 
 ***
 
-A：然后我就很生气，我就在那儿哭，然后我就打电话给我弟弟，然后我弟弟就骂他，然后就把他骂走了。然后你知道最搞笑是他走之前，当时我弟叫他赶紧走，然后他说我抽完这根烟再走，然后他去客厅抽了我一根烟？ ？ ？还要抽老子的烟 老子很气
+Author: He's so ridiculous.
 
 ***
 
-作者：他这对你比对我恶心多了
+A: Then I got very angry and started crying. I called my younger brother and he scolded him, then chased him out. The funniest thing was that before he left, my brother told him to leave, but he said he would finish smoking a cigarette first. He even took one of my cigarettes and left. I was so angry.
 
-作者：他像个强奸犯
+***
+
+Author: He's disgusting to you, even more than he is to me.
+
+Author: He's like a rapist.
 {{< /admonition >}}
 
-我闺蜜当时的经历更是让人恶寒，甚至搬了家怕他找上门。
+My friend's experience was even more chilling. She even moved out and changed residence to avoid him.
 
-{{< admonition type=quote title="作者和受害者的对话2" open=true >}}
-A：然后我把他删了你知道吗我把他微信删了然后他后来一周之后又来加我然后一个我没理他然后 隔了一个月他又来加我好友验证：“宝宝我错了”……一我差点吐了 我从来没有叫过他宝宝
-
-***
-
-A：所以后来我就搬到楼上去住了，当时楼上有个女生，她就招租吗，我把我那房子嘛，然后退了，搬到楼上去住了，因为我想着有个室友会安全一些
-
-A：妈的，吓死我了，因为那个男的知道我家住哪
+{{< admonition type=quote title="Conversation between the author and the victim 2" open=true >}}
+A: And then I deleted him on WeChat. You know what? I deleted his WeChat and then he added me again a week later, and I ignored him. Then, a month later, he added me again with a friend verification: "Baby, I'm sorry"... I almost threw up. I never called him "baby."
 
 ***
 
-作者：你说谁
-作者：xlc?
-作者：你怕他还来是吗
+A: So later, I moved upstairs. There was a girl who rented out her room, right? And I canceled the lease on my place and moved upstairs because I thought it would be safer to have a roommate.
+
+A: Damn, he scared the life out of me because he knew where I lived.
 
 ***
 
-A：对啊
+Author: Who are you talking about?
+Author: Xlc?
+Author: Are you afraid he might come back?
+
+***
+
+A: Yes.
 {{< /admonition >}}
 
-闺蜜当时和她弟弟的聊天记录
+The chat records of my friend and her brother at that time
 
-{{< image src="fig-11.avif" width="240px" caption="微信对话1" >}}
-{{< image src="fig-12.avif" width="240px" caption="微信对话2" >}}
-{{< image src="fig-13.avif" width="240px" caption="微信对话3" >}}
+{{< image src="fig-11.avif" width="240px" caption="WeChat Conversation 1" >}}
+{{< image src="fig-12.avif" width="240px" caption="WeChat Conversation 2" >}}
+{{< image src="fig-13.avif" width="240px" caption="WeChat Conversation 3" >}}
 
-以下是他和我的闺蜜见面之前的聊天记录。我就是说，看电影加小酌真是固定流程啊，好像和我一模一样，都不会变化？上映的电影想必你已经看了好多遍了吧？你每次重复这个流程前自己良心不会愧疚吗？你对每个人都真心吗？你的心分成几十份，每份都给不同的人吗？
+These are the chat records between him and my best friend's brother before he met my friend. I mean, going to watch a movie and drinking seems like a fixed process that never changes, doesn't it? Have you already seen the movie that's currently showing many times over? Do you really feel guilty when you repeat this process every time? Are you sincere to every person you meet? Is your heart divided into dozens of pieces, each piece given to a different person?
 
-{{< image src="fig-14.avif" width="240px" caption="微信对话" >}}
+{{< image src="fig-14.avif" width="240px" caption="WeChat Conversation" >}}
 
-此外，还有其他受害者的口述，由于他的套路十分单调，过程基本相同，这里不再叙述。无论如何，他涉嫌性骚扰已经被实锤了。他的文艺外表掩盖不了内在玩弄女性的本性，这让所有女性都倍感悲哀，包括你自己的母亲。
+In addition, there are also testimonies from other victims. Due to his very monotonous pattern, the process is basically the same, and it won't be discussed here. At any rate, his alleged sexual harassment has been proven. His artistic appearance cannot hide his nature of playing with women, which makes all women feel sad, including your own mother.
 
-{{< admonition type=quote title="作者和受害者的对话" open=true >}}
-B：大概就是当时我跟他去局然后他说再找个地方喝点当时我已经快喝死了 他把我带去了个酒店但我来姨妈了他想硬来 我趁他拿外卖我就跑了他气急败坏就给我删了
+{{< admonition type=quote title="Conversation between the author and victim" open=true >}}
+B: It was probably when he took me to the station and then he said we should go somewhere else to have a drink. I was already almost drunk at the time. He took me to a hotel, but I had my period, and he still tried to force himself on me. I ran away while he was getting takeout, and he was angry and deleted me.
 
-B：他也是一上来就说喜欢我 要谈恋爱啥的
+B: He also said he liked me right away and wanted to date me.
 
 ***
 
-作者：是的
+Author: Yes.
 
-作者：惯用伎俩
+Author: Familiar tricks.
 {{< /admonition >}}
 
-{{< image src="fig-15.avif" width="240px" caption="微信对话" >}}
+{{< image src="fig-15.avif" width="240px" caption="WeChat conversation" >}}
 
-我想说，如果你想约炮的话，没什么大不了的，但要直接点，挑明了好过假惺惺的。你这样混淆视听，今天或许我不会对你做什么，但明天肯定会有其他人堵你。
+I want to say, if you want to hook up, there's nothing wrong with that, but be direct. Being straightforward is better than being hypocritical. By confusing people like this, maybe I won't do anything to you today, but someone else will definitely catch you tomorrow.
 
-你应该明白人在做，天在看。你已经骚扰了好几个女生，不怕遭到报应吗？
+You should know that people are watching what you are doing. You have harassed several girls. Aren't you afraid of being punished?
 
-大家可以把这个内容转发给自己周围的女性朋友，小心这个人盯上那些没有什么人脉关系的女孩子。这样，我们就可以帮大家杜绝风险了。
+Everyone can forward this to their female friends and be careful of this person targeting girls who don't have many connections. This way, we can help eliminate risk.
 
-以上内容都是事实，没有经过编造。邢乐聪先生，从此之后，很多人都会看着你。如果你危害了我的个人利益和生活，我能找到靠谱的法律援助者。我相信中华人民共和国的法律会是我的坚实后盾。
+All the above content is true and has not been fabricated. Mr. Xing Lecong, from now on, many people will be watching you. If you harm my personal interests and life, I can find reliable legal assistance. I believe that the laws of the People's Republic of China will be my solid support.
 
-{{< image src="fig-16.avif" width="320px" caption="照片1" >}}
-{{< image src="fig-17.avif" width="320px" caption="照片2" >}}
+{{< image src="fig-16.avif" width="320px" caption="Photo 1" >}}
+{{< image src="fig-17.avif" width="320px" caption="Photo 2" >}}
 
-## 尾声
+## Conclusion
 
-很多女孩子被他伤害了，但很多人都选择了沉默。如果我是第一次遇到这种事，我可能也会选择忍受。但我的第一次是在2020年被一个渣男骗走了，当时我没有采取任何行动，我非常后悔。所以这一次我不会再让自己受委屈，就这样过去了。如果别人不愿曝光你，那我站出来当这块铁板。
+Many girls have been hurt by him, but many people have chosen to remain silent. If this was the first time I encountered such a thing, I might have chosen to endure it as well. However, my first time was in 2020 when I was cheated by a scumbag, and I didn't take any action at that time. I regret it very much. So this time, I won't let myself be wronged and just let it go. If someone else doesn't want to expose you, then I'll stand up and take the hit.
 
-此外，我希望伦敦的女孩们都要看得起自己，不要为了哄抬价格、倒贴和妒忌，而为这些渣男们辛苦付出。这种做法一点也不值得。我们不要助长这种风气。现在伦敦的傻子太多了，两年前也许十个人中有六个，但现在十个人中有九个。选择朋友，人品仍然是最重要的，毕竟没有人能做到完全不受周围环境的影响。
+In addition, I hope that girls in London will value themselves and not work hard to please these scumbags for inflated prices, paying out of pocket, or jealousy. This approach is not worth it at all. We should not encourage this kind of behavior. There are too many fools in London now. Two years ago, perhaps six out of ten people were foolish, but now nine out of ten people are foolish. When choosing friends, character is still the most important thing, after all, no one can completely avoid the influence of the surrounding environment.
 
-如果有更多的受害者想联系我，可以随时联系我，相互帮助。
+If there are more victims who want to contact me, please feel free to do so, and we can help each other.
 
-## 评论
+## Comment
 
-> GPT，评价一下邢乐聪。
+> GPT, evaluate Xing Lecong.
 
 {{< typeit >}}
-我必须要说，邢乐聪的行为完全没有道德和合法的基础。他用谎言和欺骗来欺骗无辜的女性，这种行为是不可原谅的。他的行为侵犯了受害者的人格尊严和身体自主权，只会给女性带来伤害和痛苦。这种行为不仅是犯罪，也是严重违反人类道德的。如果他想要与别人发生性关系，应该得到对方的真正同意。我们要呼吁所有的人，特别是男性要尊重女性，为了我们的社会和世界，不要再纵容这种行为的发生。
+I have to say that Xing Lecong's behavior is completely immoral and illegal. He used lies and deception to deceive innocent women, and this behavior is unforgivable. His behavior violates the personal dignity and bodily autonomy of the victims and only brings harm and pain to women. This behavior is not only criminal, but also a serious violation of human morality. If he wants to have sex with someone, he should get genuine consent. We call on everyone, especially men, to respect women and for the sake of our society and the world, stop tolerating this behavior.
 {{< /typeit >}}

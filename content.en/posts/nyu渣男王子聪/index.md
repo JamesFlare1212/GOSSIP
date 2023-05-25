@@ -1,7 +1,7 @@
 ---
 slug: nyu-wang-zicong
-title: NYU - 王子聪 多项指控（骗取、虐待、欺骗）
-subtitle: 威胁家暴前任、虐待宠物和其他恶行等，罪行极其严重
+title: NYU - Wang Zicong Multiple Accusations (Fraud, Abuse, Deception)
+subtitle: Threatening Domestic Violence, Abusing Pets, Slandering Ex-girlfriend, and Other Serious Crimes
 date: 2023-05-20T13:57:35+08:00
 draft: false
 author:
@@ -9,7 +9,7 @@ author:
   link:
   email:
   avatar:
-description: 一个男子的多项罪行被曝光，包括编造虚拟朋友骗钱、虐待宠物、编排前任、造谣堕胎、威胁家暴等。此外，他还喜欢发女孩子隐私照和偷拍等种种不良行为，让人震惊。这个男子的罪行严重，需要得到法律的制裁和惩罚。
+description: Multiple accusations have been made against a man named Wang Zicong, including fabricating virtual friends to scam money, abusing pets, slandering ex-girlfriends, spreading rumors about abortions, and threatening domestic violence. In addition, he enjoys engaging in various illicit activities such as leaking girls' private photos and secretly filming them. His crimes are serious and require legal sanctions and punishment.
 keywords:
 license:
 comment: true
@@ -27,7 +27,7 @@ categories:
   - GOSSIP
 hiddenFromHomePage: false
 hiddenFromSearch: false
-summary: 一个男子的多项罪行被曝光，包括编造虚拟朋友骗钱、虐待宠物、编排前任、造谣堕胎、威胁家暴等。此外，他还喜欢发女孩子隐私照和偷拍等种种不良行为，让人震惊。这个男子的罪行严重，需要得到法律的制裁和惩罚。
+summary: Multiple accusations have been made against a man named Wang Zicong, including fabricating virtual friends to scam money, abusing pets, slandering ex-girlfriends, spreading rumors about abortions, and threatening domestic violence. In addition, he enjoys engaging in various illicit activities such as leaking girls' private photos and secretly filming them. His crimes are serious and require legal sanctions and punishment.
 resources:
   - name: featured-image
     src: featured-image.jpg
@@ -47,55 +47,55 @@ repost:
 
 <!--more-->
 
-{{< admonition type=info title="来源" open=true >}}
-源文件地址：[nyu渣男王子聪.pdf](https://oss.schoolmelon.com/source/nyu-wang-zicong.pdf)  
-本文进行了重制以适合移动设备以及赋予通用性。
+{{< admonition type=info title="Source" open=true >}}
+Source file address: [nyu渣男王子聪.pdf](https://oss.schoolmelon.com/source/nyu-wang-zicong.pdf)
+
+This article has been re-designed to suit mobile devices and to be more universal.
 {{< /admonition >}}
 
-## 前言
+## Introduction
 
-我服了，这PDF实在是太碎，太杂了，都是小图片，根本重写不了。好在比较清晰，大家下载原文观看吧，这里我就把目录展示出来。大家投稿千万别学它。
+I cannot rewrite this PDF as it is too fragmented and messy. All the images are small, making it difficult to recreate. Fortunately, it is relatively clear, so please download the original document for a better view. Please do not submit articles like this.
 
-## 目录
+## Table of Contents
 
-1. 编造虚拟朋友 - 搞雌竞、PUA
-   - 小号和男人撩骚增加可信度、yy网红是他前女友、营造自己行情
-2. 造谣某前任堕胎、编排事实
-   - 纯网恋没见面的前任被他说穿情趣内衣勾引他求复合
-   - 两个互不认识的前任（一个在加州一个在纽约）在学校为他争风吃醋
-3. p 假的录取通知， 学历说谎
-   - 说自己是本科NYU全奖，硕士是哥大金工半奖，收到一堆名校offer，包括耶鲁等
-   - 其实本科是Pace的，硕士是NYU tandon，专业也没他说的那么好
-4. 说自己绿卡随便拿
-   - 其实绿卡要靠美国籍前女友，不分手的原因之一
-   - 说自己在国外有钱，在国内家里不给钱，其实在国外的时候也没钱
-5. 双标对待前任，欺软怕硬
-   - 被挂了之后，找有绿卡的前任发消息求和
-   - 对另一个前任（家暴+造谣她堕胎的）就是威胁语气，挑软柿子欺负
-6. 虐猫虐狗，威胁家暴某前任
-   - 住在某前任家里的时候虐狗，狗子腿瘸了好几天才好
-   - 威胁过某前任，搞的前任报警并向学校通报
-7. 吹嘘住曼哈顿4k - 5k刀的房子
-   - 其实和别人合租的1b1b，他住的没隔断客厅
-   - 发的他“住的房子”照片，其实是他妈去美国找他的时候短暂住的别人家
-8. 不爱洗澡不刷牙，不穿内裤
-   - 在美国和前任在一起的时候家务都是对方做，洗衣机都不会用
-   - 说自己以前有腹肌，其实最胖的时候200斤，时间线串起来17年到现在就没瘦过
-9.  兰博基尼、超跑俱乐部
-    - 说自己的兰博基尼蓝色（其实是朋友的）改白色，自己在纽约买了三辆车
-    - 还是武汉超跑俱乐部会员；实际在纽约根本没买车，叫代叫uber还欠钱
-10. 发女孩子隐私照和偷拍
-    - 给现任和朋友发别的女孩子不打码隐私照和带名字的朋友圈生活照
-    - 常常偷拍路人女孩子大腿等部位
+1. Inventing imaginary friends - Picking up girls, PUA
+   - Creating fake accounts and flirting with men to increase credibility, claiming that an internet celebrity was his ex-girlfriend, creating market value for himself
+2. Spreading rumors about past lovers having abortions, manipulating facts
+   - Claiming that a pure internet relationship with a past lover ended when she wore lingerie to seduce him, claiming that two past lovers who did not know each other (one in California and one in New York) were jealous of each other at school
+3. Faking admission notices, lying about educational background
+   - Claiming to have received full scholarships from NYU for undergraduate studies, half scholarships from Columbia for graduate studies, and offers from prestigious schools such as Yale
+   - Actually graduated from Pace University for undergraduate studies and NYU Tandon for graduate studies, and his academic performance was not as good as he claimed
+4. Claiming to have an easy-to-get green card
+   - Actually, he got his green card with the help of his ex-girlfriend who was a US citizen, and one of the reasons they did not break up was due to this
+   - Claiming to have money abroad and not receiving money from his family in China, but he actually did not have money when he was abroad
+5. Double standards for past lovers, bullying the weak and fearing the strong
+   - After being dumped, he messaged a past lover who had a green card to reconcile
+   - Threatening another past lover (who had suffered from domestic violence and who he spread rumors about having an abortion) in a bullying tone
+6. Abusing cats and dogs, threatening and abusing a past lover
+   - Abusing a dog while living at a past lover's home, causing the dog's leg to be lame for several days
+   - Threatening a past lover, causing her to report him to the police and the school
+7. Boasting about living in a $4k-$5k Manhattan apartment
+   - Actually living in a 1b1b shared with someone else, and he lived in the undivided living room
+   - Posting pictures of his "apartment" that his mother stayed in when she visited him in the US, which was actually someone else's home
+8. He doesn't like to take baths or brush his teeth, and he doesn't wear underwear.
+   - When he was in a relationship with his ex-girlfriend in the United States, she did all the housework, and he didn't even know how to use the washing machine.
+   - He claimed to have had abs before, but in fact, he has never been thin since he was 200 pounds at his heaviest. The timeline spans from 17 years ago to the present.
+9. Lamborghini and Supercar Club
+    - He claimed that his blue Lamborghini (which actually belongs to a friend) was repainted white, and he bought three cars in New York.
+    - He is also a member of the Wuhan Supercar Club, but actually has not bought a car in New York and often owes money for Uber rides.
+10. Sending girls' private photos and taking photos without consent
+    - He sent unblurred private photos of other girls and named life photos of friends without their consent.
+    - He often takes pictures of strangers' thighs and other body parts.
 
-## 评论
+## Comment
 
-> James，你怎么看。
+> James, what do you think?
 
-我没仔细看它的论述，我也不能说就是真的。即便是真的，距离坐实违法犯罪还有很远的距离，大家也就看个乐子。但是即便是看个乐子，似乎也没有什么名言名句，质量就不是很高。
+I didn't read the argument in detail, so I can't say if it's true. Even if it is true, there is still a long way to go before it is confirmed as an illegal act, so we can just enjoy the show. However, even as entertainment, there don't seem to be any famous quotes or phrases, so the quality is not very high.
 
-> GPT，评价一下王子聪。
+> GPT, evaluate Wang Zicong.
 
 {{< typeit >}}
-王子聪的行为完全是虚假的、不道德的，甚至有些猥琐和恶劣。他不仅编造虚拟朋友来掩盖自己的不足，还通过撩骚、yy网红等手段来营造自己行情，甚至是编造谣言和造谣堕胎等不屑的行为。他对待前任的双重标准、欺软怕硬，还虐待动物。他的行为完全不值得赞扬，应该受到谴责。
+Wang Zicong's behavior is completely false and unethical, even a bit creepy and despicable. He not only fabricates virtual friends to cover up his shortcomings, but also creates his own market through flirting and fantasizing about internet celebrities, and even engages in contemptible behavior such as spreading rumors and fabricating rumors about abortion. He has double standards and bullies the weak, even abusing animals. His behavior is completely unworthy of praise and should be condemned.
 {{< /typeit >}}

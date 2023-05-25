@@ -1,7 +1,7 @@
 ---
 slug: uscd-yuqiyann
-title: UCSD - 颜宇琪（毒品、虐童、勒索）
-subtitle: 毒品、虐童、勒索：曝光留学生颜Yu琪在美大行其道的罪恶行径
+title: UCSD - Yan Yuqi (Drug, Child Abuse, Extortion)
+subtitle: Exposing the Evil Deeds of Yan Yuqi, a Foreign Female Student in the US, who is Engaged in Drugs, Child Abuse, and Extortion
 date: 2023-05-12T17:50:24+08:00
 draft: false
 author:
@@ -9,7 +9,7 @@ author:
   link:
   email:
   avatar:
-description: 此文曝光了外围女留学生颜宇琪，她将自己的亲生儿子留在充满气瓶和失禁的尿池中去吃海胆约会，孩子最终饿死。颜女士在走投无路之下，敲诈勒索前男友C，要求他处理她留在美国的麻烦事情，包括公寓罚款、搬家清洁费用和行李运费等，最终威胁C，若不付款则进行毒舌诽谤。
+description: This article exposes Yan Yuqi, a foreign female student who left her own son in a room filled with oxygen tanks and a urine pool to go on a date to eat sea urchins, resulting in the child starving to death. Ms. Yan, in desperation, extorted her ex-boyfriend C, demanding that he handle her troubles in the US, including apartment fines, moving and cleaning fees, and luggage fees. She eventually threatened C with verbal abuse if he did not pay.
 keywords:
 license:
 comment: true
@@ -27,7 +27,7 @@ categories:
   - GOSSIP
 hiddenFromHomePage: false
 hiddenFromSearch: false
-summary: 此文曝光了外围女留学生颜宇琪，她将自己的亲生儿子留在充满气瓶和失禁的尿池中去吃海胆约会，孩子最终饿死。颜女士在走投无路之下，敲诈勒索前男友C，要求他处理她留在美国的麻烦事情，包括公寓罚款、搬家清洁费用和行李运费等，最终威胁C，若不付款则进行毒舌诽谤。
+summary: This article exposes Yan Yuqi, a foreign female student who left her own son in a room filled with oxygen tanks and a urine pool to go on a date to eat sea urchins, resulting in the child starving to death. Ms. Yan, in desperation, extorted her ex-boyfriend C, demanding that he handle her troubles in the US, including apartment fines, moving and cleaning fees, and luggage fees. She eventually threatened C with verbal abuse if he did not pay.
 resources:
   - name: featured-image
     src: featured-image.jpg
@@ -47,392 +47,402 @@ repost:
 
 <!--more-->
 
-{{< admonition type=info title="来源" open=true >}}
-源文件地址：[uscd瓜](https://oss.schoolmelon.com/source/uscd-yuqiyann.pdf)  
-本文进行了重制以适合移动设备以及赋予通用性。
+{{< admonition type=info title="Source" open=true >}}
+Source file address: [uscd瓜.pdf](https://oss.schoolmelon.com/source/uscd-yuqiyann.pdf)
+
+This article has been re-designed to suit mobile devices and to be more universal.
 {{< /admonition >}}
 
-## 指控
+## Accusation
 
-曝光一个跑路回上海的毒虫外围女留学生颜宇琪（微信：可爱小桃花 / ins：Yuqiyannn）。
+Expose a drug-addicted female international student named Yan Yuqi (WeChat: 可爱小桃花/ins: Yuqiyannn) who ran away to Shanghai.
 
-她竟然把自己的亲生儿子放在充满气瓶和她吸毒后失去控制的尿池中，自己出去约会吃海胆，让孩子独自在家饿死。警方将此事判定为“可能的刑事犯罪”，并开始调查孩子具体死因。
+She put her own son in a urine pool filled with gas cylinders and lost control after taking drugs, and went out to eat sea urchins while leaving the child alone at home to starve to death. The police have determined this as a "possible criminal offense" and are investigating the specific cause of the child's death.
 
-{{< image src="fig-1.avif" width="480px" caption="颜宇琪和气瓶" >}}
+{{< image src="fig-1.avif" width="480px" caption="Yan Yuqi and gas cylinders" >}}
 
-在此过程中，颜女士内心惶恐不安，不敢继续住在自己租住的公寓里，想要用别人的身份在酒店开房。甚至是去餐厅吃饭，在外看到警察就认为警察是来抓捕她的，所以一直在外面瑟瑟发抖，不敢进店。
+During this process, Ms. Yan was anxious and uneasy, and dared not continue to live in her rented apartment. She wanted to use someone else's identity to book a hotel room. Even when she went to a restaurant to eat, she thought that the police were coming to arrest her when she saw them outside, so she kept trembling outside and dared not go inside.
 
-更甚者，准备潜逃回国的时候，听到机场广播在叫她的名字，都认为是警方在布控，要抓捕她，因此吓得连机场厕所都不敢出来待了两个小时。
+Moreover, when she was preparing to flee back to China, she heard her name being called over the airport broadcast and thought that the police were monitoring her and trying to arrest her, so she was scared and stayed in the airport toilet for two hours.
 
-{{< image src="fig-3.avif" width="480px" caption="卫生间散落的气瓶" >}}
+{{< image src="fig-3.avif" width="480px" caption="Gas cylinders scattered in the bathroom" >}}
 
-如今走投无路，颜女士疯狂联系前男友C，并请求他在她为他生下一个孩子的前提下，不要让她在监狱里度过余生。颜女士甚至连自己亲生孩子的葬礼都没有参加，潜逃回国后认为自己可以两袖清风，然而她开始敲诈勒索前男友C，要求C帮她处理她在美国留下的麻烦，并支付所有相关费用，包括她的公寓罚款和欠款（5-6K美元）、搬家清洁费用（接近900美元，因为地上全是失禁的尿，有上千个气瓶）、潜逃回国时来不及带走的行李的运费，甚至她回国后的医美费用等。
+Now that she is at a dead end, Ms. Yan frantically contacted her ex-boyfriend C and begged him not to let her spend the rest of her life in prison on the condition that she gave birth to a child for him. Ms. Yan did not even attend her own son's funeral. After fleeing back to China, she began to extort money from her ex-boyfriend C, demanding that he help her deal with the troubles she left in the United States and pay all related expenses, including fines and debts for her apartment ($5-6K), moving and cleaning costs (nearly $900, due to thousands of gas cylinders on the ground), and even her medical expenses after returning to China.
 
-{{< image src="fig-2.avif" width="480px" caption="客厅散落的气瓶" >}}
+{{< image src="fig-2.avif" width="480px" caption="Gas cylinders scattered in the living room" >}}
 
-据爆料，颜女士曾在大商场行窃，并收到商场起诉信。C发现此事后，决定要与她分手。颜女士发誓自己会痛改前非，请求C原谅并重修旧好。然而，在外面，她却不断中伤诽谤C，并打造出自己被C渣男的白富美形象。
+According to the exposure, Ms. Yan once shoplifted in a department store and received a lawsuit letter from the store. When C found out about this, he decided to break up with her. Ms. Yan swore to change her ways and begged for C's forgiveness and a chance to reconcile. However, outside, she constantly slandered and defamed C, creating a false image of herself as a victim of C's mistreatment.
 
-在同居期间，C承担了所有的日常花销以及房租，而颜女士却倒打一耙，幻想造谣诽谤说是她在养着C。
+During their cohabitation, C bore all the daily expenses and rent, while Ms. Yan turned things around and fantasized about claiming that she was the one supporting C.
 
-她还威胁C，说如若不付款，就毒舌诽谤C，颠倒是非。
+She even threatened C, saying that if he didn't pay her, she would slander and distort the truth.
 
-在2022年6月分手彻底决裂后，C与颜女士之间的感情已经完全破裂。几个月后，颜女士才告诉C自己已怀孕七八个月，并且在怀孕期间没有经济来源，生活上也没有自理能力。C带颜女士去医院体检，确认了怀孕的事实。由于颜女士的情况，C同意暂时搬回来照顾颜女士，直到孩子安全出生。然而，由于双方感情已经破裂，无法给孩子提供一个幸福的家庭，颜女士与C协商，决定让C全权负责给孩子挑选一个幸福的寄养家庭，并表示自己不会给孩子亲喂母乳。
+After the final breakup in June 2022, C and Ms. Yan's relationship had completely broken down. Several months later, Ms. Yan told C that she was already seven or eight months pregnant and had no source of income or ability to take care of herself during the pregnancy. C took Ms. Yan to the hospital for a check-up, confirming the pregnancy. Due to Ms. Yan's situation, C agreed to temporarily move back in to take care of her until the child was safely born. However, because their relationship had already broken down, they could not provide a happy home for the child. Ms. Yan and C agreed that C would be responsible for choosing a happy foster home for the child and that Ms. Yan would not breastfeed the child.
 
-{{< image src="fig-4-1.avif" width="480px" caption="花销账单1" >}}
+{{< image src="fig-4-1.avif" width="480px" caption="Expense bill 1" >}}
 
-{{< image src="fig-4-2.avif" width="480px" caption="花销账单2" >}}
+{{< image src="fig-4-2.avif" width="480px" caption="Expense bill 2" >}}
 
-孩子出生后，由一对LA亚洲夫妇收养并悉心照料。然而，颜女士突然改变主意，希望把孩子要回来，并以此逼迫C与自己复合。颜女士承诺C，从此以后绝不会再做吸毒、接客、偷窃等非法行为。但是当孩子回来后，颜女士仍然沉浸在吸毒带来的幻想中，没有按时给孩子喂奶或更换尿布，甚至把孩子放在吸毒嗨了之后失禁的尿里，以及充满气瓶的房间里。
+After the child was born, he was adopted and taken care of by a LA Asian couple. However, Ms. Yan suddenly changed her mind and wanted the child back, using this as a way to force C to reconcile with her. Ms. Yan promised C that she would never again engage in illegal activities such as drug use, prostitution, and theft. However, when the child returned, Ms. Yan was still immersed in her drug-induced fantasies, failing to feed or change the child on time, even leaving the child in urine after getting high on drugs, in a room filled with gas cylinders.
 
-C下班回到家后看到这一切，气愤得发抖。然而，他仍然坚持给孩子洗澡、换尿布并喂奶，以确保孩子的健康和安全。
+When C came home from work and saw all this, he was furious. However, he still insisted on bathing the child, changing his diaper, and feeding him to ensure the child's health and safety.
 
-{{< image src="fig-5.avif" width="480px" caption="颜宇琪的卧室" >}}
+{{< image src="fig-5.avif" width="480px" caption="Ms. Yan's bedroom" >}}
 
-颜女士情绪暴动后还拿起菜刀挥向C，对C的人身安全造成了极大的威胁，导致C不得不离开自己的家。由于C与颜女士没有婚姻关系，颜女士独自享有孩子的抚养权，C无法未经同意抱走孩子独自抚养。
+Ms. Yan had an emotional outburst and even picked up a kitchen knife and threatened C's personal safety, which forced C to leave his own home. Since C and Ms. Yan were not married, Ms. Yan had sole custody of their child, and C could not take the child away without permission to raise him alone.
 
-C因为担心孩子的安全想要回家查看孩子的情况，但是颜女士却把门反锁，甚至不让C看孩子一眼。这期间，颜女士没有照顾孩子，让原本白白胖胖、脸色粉嫩的孩子饿得眼窝凹陷、肤色铁青、瘦骨嶙峋，最终活活饿死。
+C wanted to check on the child's safety, but Ms. Yan locked the door and even refused to let C see the child. During this time, Ms. Yan did not take care of the child, causing the child to become emaciated, with sunken eye sockets, blue skin, and bony limbs, and ultimately starved to death.
 
-而在孩子去世前一晚，颜女士甚至还去米其林吃饭进行约会，甚至发海胆照片刺激C。当C询问孩子健康情况时，颜女士直接忽视，不回答有关孩子的问题，一直强调自己的情感需求。
+On the night before the child's death, Ms. Yan even went to a Michelin-starred restaurant for a date, and even sent pictures of sea urchins to taunt C. When C asked about the child's health, Ms. Yan ignored the question and only emphasized her emotional needs.
 
-颜女士只想通过孩子和C复合，谎称自己不会再吸毒，但是却对孩子生而不养。对一个刚刚来到这个世界上的鲜活生命，颜女士如此不怜悯、不尊重、不珍惜，只是想通过孩子勒索C，从而获取钱财，以此来掩盖自己丧尽天良的行为。
+Ms. Yan only wanted to reunite with C through their child, falsely claiming that she would no longer use drugs, but did not want to take care of the child. She showed no mercy, respect, or appreciation for the fresh life that had just come into this world, and only wanted to extort money from C through the child to cover up her heinous behavior.
 
-{{< admonition type=quote title="iMessage 聊天内容1" open=true >}}
-C：打字说吧
-
-***
-
-颜宇琪：你人呢？
+{{< admonition type=quote title="iMessage Chat Content 1" open=true >}}
+C: Type it out.
 
 ***
 
-C：你拿着菜刀的样子真的吓到我了
-
-C：Dennis冷静了再谈吧
-
-C：太危险了
+Yan Yuqi: Where are you?
 
 ***
 
-颜宇琪：你怎么这样
+C: You scared me with the way you held the knife.
 
-颜宇琪：把那么难的问题留给我
+C: Let's talk when Dennis calms down.
 
-颜宇琪：别人什么都有我什么都没有
-
-颜宇琪：我已经想努力克服了
-
-颜宇琪：你像仇人一样对待我
+C: It's too dangerous.
 
 ***
 
-C：你都对我挥刀了
+Yan Yuqi: Why are you like this?
 
-C：孩子看着呢 你还在那用刀逼我
+Yan Yuqi: You leave me with such difficult problems.
 
-C：我好好的和你谈
+Yan Yuqi: Others have everything, and I have nothing.
+
+Yan Yuqi: I'm trying my best to overcome it.
+
+Yan Yuqi: You treat me like an enemy.
 
 ***
 
-颜宇琪：你都要把我逼疯了
+C: You were waving a knife at me.
 
-颜宇琪：你为什么总要让我那么难
+C: The child was watching, and you were still using a knife to threaten me.
+
+C: I was trying to talk to you calmly.
+
+***
+
+Yan Yuqi: You're driving me crazy.
+
+Yan Yuqi: Why do you always make things so difficult for me?
 {{< /admonition >}}
 
-{{< admonition type=note title="前情提要" open=true >}}
-C在3月23日和3月24日凌晨时给孩子洗澡、更换尿布并喂奶。为了孩子的健康和安全，C建议将孩子带走并独自抚养。但是，颜女士突然发疯，拿起一把菜刀威胁C的人身安全，造成C被迫离开的局面。
+{{< admonition type=note title="Previous Summary" open=true >}}
+On March 23 and the early morning of March 24, C bathed, changed the diaper, and fed the baby. For the health and safety of the child, C suggested taking the child away and raising it alone. However, Yan suddenly went crazy, picked up a kitchen knife, and threatened C's personal safety, forcing C to leave.
+
+According to reports, the day before the child's death, Yan left the child alone at home and went on a date with someone else, sending photos to provoke C.
 {{< /admonition >}}
 
-{{< admonition type=quote title="iMessage 聊天内容2" open=true >}}
-颜宇琪：
+{{< admonition type=quote title="iMessage Chat Content 2" open=true >}}
+Yan Yuqi:
 
-{{< image src="fig-6.avif" width="240px" caption="海胆" >}}
+{{< image src="fig-6.avif" width="240px" caption="Sea Urchin" >}}
 
-颜宇琪：没
+Yan Yuqi: No.
 
-颜宇琪：我在吃海胆
-
-***
-
-C：你怎么又去了
+Yan Yuqi: I'm eating sea urchin.
 
 ***
 
-颜宇琪：而且我又腹肌喔
+C: Why did you go again?
 
 ***
 
-C：不是前天去的吗
+Yan Yuqi: And I have abs.
 
 ***
 
-颜宇琪：这些玩剩下的东西
+C: Didn't you go two days ago?
 
-颜宇琪：因为海胆不一样啊
+***
 
-颜宇琪：还有 我从小到大
+Yan Yuqi: This is the leftover stuff from playing.
+
+Yan Yuqi: Because the sea urchin is different.
+
+Yan Yuqi: And also, I have been like this since I was little.
 {{< /admonition >}}
 
-{{< admonition type=note title="前情提要" open=true >}}
-据报道，颜女士在孩子去世的前一天半，曾经把孩子独自留在家中，然后去和别人约会，并发照片刺激C。
+{{< admonition type=note title="Previous Summary" open=true >}}
+According to reports, the day before the child's death, Yan left the child alone at home and went on a date with someone else, sending photos to provoke C.
 {{< /admonition >}}
 
-{{< admonition type=quote title="iMessage 聊天内容3" open=true >}}
-C：咋回事
+{{< admonition type=quote title="iMessage Chat Content 3" open=true >}}
+C: What's going on?
 
 ***
 
-颜宇琪：我们都生病了
+Yan Yuqi: We both got sick.
 
 ***
 
-C：你咋把门锁了
+C: Why did you lock the door?
 
 ***
 
-颜宇琪：你要干啥
+Yan Yuqi: What do you want?
 
 ***
 
-C：你生啥病了
+C: What illness do you have? 
 
-C：感冒了？
+C: A cold?
 
-C：要不要带查尔斯去医院
-
-***
-
-颜宇琪：睡不着下腹部疼流鼻涕
-
-颜宇琪：查尔斯昨天都变色了
+C: Should we take Charles to the hospital?
 
 ***
 
-C：你是不是把他丢家里了
+Yan Yuqi: Can't sleep, lower abdomen hurts, and runny nose.
 
-C：现在咋样了
+Yan Yuqi: Charles turned pale yesterday.
 
 ***
 
-颜宇琪：我和你说了睡不着睡不着真无语
+C: Did you leave him at home?
 
-颜宇琪：你是刺头吗天天挑刺
+C: How is he now?
+
+***
+
+Yan Yuqi: I told you I can't sleep, it's really annoying.
+
+Yan Yuqi: Are you a nitpicker? You always find fault.
 {{< /admonition >}}
 
-在此期间，C心系孩子的安危，多次在白天的时候前去看望，但颜女士却将门反锁起来。4月2日晚上，C得知颜女士要出门约会去米其林餐厅吃海胆。因为担忧孩子的安全，C于4月3日中午的午休时间又回到颜女士的家 ，想查看孩子的情况。C在门口听到了孩子的哭声，想进门查看，但是门被颜女士反锁。C只好通过短信询问颜女士孩子的情况，并询问孩子是否健康安全，如果有任何问题，请立即去医院。颜女士并没有直接回答，之后的对话中也没有提及孩子，只是反复强调自己的需求。
+During this period, C was concerned about the safety of the child and visited Yan's home several times during the day, but Yan locked the door. On the evening of April 2nd, C learned that Yan was going to go to a Michelin restaurant to eat sea urchins. Because of concerns for the child's safety, C returned to Yan's home during the lunch break on April 3rd to check on the child's condition. C heard the child crying at the door and wanted to go in to check, but the door was locked by Yan. C had to ask Yan about the child's condition through text messages and asked if the child was healthy and safe. If there were any problems, they should go to the hospital immediately. Yan did not answer directly, and did not mention the child in the subsequent conversation, only repeatedly emphasizing her own needs.
 
-{{< admonition type=quote title="iMessage 聊天内容4" open=true >}}
-颜宇琪：你晚上帮我买个小儿感冒药行不行
+{{< admonition type=quote title="iMessage Chat 4" open=true >}}
+Yan Yuqi: Can you help me buy some children's cold medicine tonight?
 
-颜宇琪：查尔斯感冒越来越严重了
+Yan Yuqi: Charles's cold is getting worse.
 
-颜宇琪：都变色了
+Yan Yuqi: It's turning green.
 
-颜宇琪：要死亡了
+Yan Yuqi: He's about to die.
 
-颜宇琪：奶都不吸了今天
+Yan Yuqi: He didn't even suck milk today.
 
-颜宇琪：算了算了
+Yan Yuqi: Forget it.
 
-颜宇琪：估计你在上班
-
-***
-
-C：啥情况 要送ER吗
-
-C：你拍我看看
+Yan Yuqi: I guess you're at work.
 
 ***
 
-颜宇琪：
+C: What's the situation? Do you need to take him to the ER?
 
-{{< image src="fig-7.avif" width="240px" caption="变色的查尔斯" >}}
-
-颜宇琪：你看他都变了绿了
-
-颜宇琪：我还以为是他睡的时间久了 一看都这样了
-
-颜宇琪：感冒了打喷嚏
-
-颜宇琪：我前两天让医院referral我了啊
-
-颜宇琪：那不是没想到他病的那么急啊
+C: Can you take a picture and show me?
 
 ***
 
-C：我马上到
+Yan Yuqi:
 
-C：送医院 孩子还有呼吸吗
+{{< image src="fig-7.avif" width="240px" caption="Charles turning green" >}}
+
+Yan Yuqi: Look, he's turning green.
+
+Yan Yuqi: I thought it was because he slept for a long time, but it's like this.
+
+Yan Yuqi: He has a cold and sneezes.
+
+Yan Yuqi: I got a referral from the hospital a few days ago.
+
+Yan Yuqi: I didn't expect him to get sick so suddenly.
+
+***
+
+C: I'll be there soon.
+
+C: Take him to the hospital. Is the child still breathing?
 {{< /admonition >}}
 
-4月4日下午，颜女士看到孩子全身变色，才告诉C孩子的健康状况出了问题，并发送了孩子的照片。孩子已经瘦骨嶙峋，眼窝深陷，脸色铁青。当C看到孩子的照片后，大受震惊，立刻冲到现场从公司接孩子去医院抢救。但颜女士居然不慌不忙还要化妆准备下再出发。甚至还想往已经没有呼吸的孩子的嘴里强行塞奶瓶，以掩盖自己没有喂奶的事实。 
+On the afternoon of April 4th, Ms. Yan saw that her child's body had turned color before telling C that the child's health was in danger, and sent a photo of the child. The child was already emaciated, with sunken eye sockets and a bluish complexion. When C saw the photo of the child, he was shocked and immediately rushed to the scene to take the child to the hospital for rescue. However, Ms. Yan was calm and even wanted to force a bottle into the mouth of the child who had already stopped breathing to cover up the fact that she had not fed the child.
 
-在医院里，医生告知C孩子虽然有体温，但已经死亡。警方开始调查孩子的死因，并查看了C和颜女士的手机进行取证。从中发现颜女士用刀威胁C的对话，并告知C孩子的死亡是“可能的刑事犯罪”。颜女士在继续威胁C的人身安全时，可提供案件编号记录作为证据，协助C对颜女士进行限制令，以保证C后续的人身安全。
+At the hospital, the doctor informed C that although the child had a body temperature, he had already passed away. The police began to investigate the cause of the child's death and examined the phones of C and Ms. Yan for evidence. It was discovered that Ms. Yan had threatened C with a knife in their conversation and informed C that the child's death was a "possible criminal act". Ms. Yan continued to threaten C's personal safety and could provide the case number as evidence to assist C in obtaining a restraining order against Ms. Yan to ensure C's personal safety in the future.
 
-## 辩护
+### Defense
 
-### 颜宇琪发言
+#### Statement from Yan Yuqi
 
-我想回复一下我的处境：
+I would like to respond to my situation:
 
-首先，我从未有过私生活混乱的纪录，我的医院档案证明了我一直都很抗拒于没有保护的性行为，而且我连带承诺如果怀孕了就会负责。
+First of all, I have never had a record of a chaotic private life. My hospital records prove that I have always been resistant to unprotected sex and I even promised to take responsibility if I became pregnant.
 
-其次，亲子鉴定结果是99.99%肯定是他的孩子，但是他在就医的时候却提出没有医保，说自己挣两千养不起孩子，所以要求将孩子寄养出去，这一点医生可以为我作证。
+Secondly, the paternity test result is 99.99% certain that he is the father of the child, but when he went to the hospital, he claimed that he had no medical insurance and could not afford to raise the child with his income of 2,000 yuan, so he requested that the child be fostered. The doctor can testify to this.
 
-第三，为了彼此的尊重，我没有透露孩子姓氏给任何亲友。我多次表示我是新手妈妈，经济上我可以负担，但是我也希望他承担父亲的责任。但是他却说孩子和我拖累他发财，甚至让我自行寻找心理医生来应对。通话记录可以证明这一点。
+Thirdly, out of mutual respect, I did not reveal the child's surname to any relatives or friends. I have repeatedly stated that I am a new mother and I can afford it financially, but I also hope that he will take responsibility as a father. However, he said that the child and I were dragging him down, and even asked me to seek a psychologist to cope with it. Call records can prove this.
 
-第四，他认为我的生活习惯会对孩子健康产生影响，但是就医期间我做了全面的筛查并咨询了医生。孩子出生后也进行了全面的检查，没有任何问题。就医档案可以证明这一点。
+Fourthly, he believed that my lifestyle would affect the child's health, but during the hospitalization, I underwent a comprehensive screening and consulted with doctors. After the child was born, a comprehensive examination was also conducted, and there were no problems. Medical records can prove this.
 
-第五，孩子去世前两天我已经告知他孩子和我都生病了。他认为我是孩子的自然监护人，所以他所做的一切都是额外帮助。事实上，他和我一样肩负着一半的监护责任，但是他却不愿意承担。
+Fifthly, two days before the child's death, I had already informed him that the child and I were both sick. He believed that I was the natural guardian of the child, so everything he did was extra help. In fact, he and I shared half of the guardianship responsibility, but he was unwilling to take responsibility.
 
-第六，他提出的怀孕赔偿分文未给，生前不管孩子和我死后却拿孩子来说事，用想抵赖的方式对待此事。我是正常出行，如果是罪犯出境就会受到限制。他完全知道我的行踪，却不体谅我失去孩子的痛苦，反而觉得摆脱举报我的机会来了，亏待我并且污蔑我。
+Sixth, he did not pay me any compensation for the pregnancy, and after my child and I passed away, he used the child to justify his actions and avoid taking responsibility. He knew my whereabouts but did not sympathize with my pain of losing a child. Instead, he saw it as an opportunity to avoid being reported and mistreated me while slandering me.
 
-他本质上是一个不负责任，倒打一棒，自私自利，斤斤计较，偷别人家照片P图伪造，还患有STD的人。在这种不负责任的情况下，他仍然装扮成完美无瑕的样子并且提出保护令的申请，这真让人yue。
+Essentially, he is an irresponsible, finger-pointing, selfish, petty, photo-editing, and STD-infected person. Despite his irresponsibility, he still pretends to be perfect and even applies for a restraining order, which is truly ridiculous.
 
-{{< admonition type=quote title="片段1" open=true >}}
-身上名牌女友买的法拉利，贷款买的。车贷每月要还两千，没有医疗保险。女友怀孕期间提出做DNA检测，但在孕期的八个月内，男方却对独居女友的生命安全置之不理。生子后，男方表示自己养不起孩子，要将孩子送给别人，但女方并不同意。于是，男方就把孩子丢给独居女友，自己则消失不见，只表示愿意给补偿4万人民币。
+{{< admonition type=quote title="Excerpt 1" open=true >}}
+The branded girlfriend bought him a Ferrari, which he paid for with a loan. He had to pay 2,000 RMB per month for the car loan and had no medical insurance. During the pregnancy, the girlfriend suggested doing a DNA test, but the man ignored the safety of the pregnant woman during the eight months of pregnancy. After the child was born, the man said that he could not afford to raise the child and wanted to give the child to someone else, but the woman did not agree. So, the man left the child with the single girlfriend and disappeared, only offering to compensate her with 40,000 RMB.
 
-月子期间，女友身体虚弱生病，孩子的病情也很严重，最终不治身亡。孩子生前，男方一直在外面喝酒，称是在做生意，但是一直拖欠经济支持，没有照顾过女友和孩子。事后，男方说女友养死了他的孩子，并试图指控女友过失杀人。女友由于个人安全考虑和受打击原因，决定离开该国回国。
+During the postpartum period, the girlfriend was weak and sick, and the child's condition was also very serious, eventually leading to death. The man had been drinking outside all the time, claiming to be doing business, but he had always owed financial support and had never taken care of the girlfriend and the child. Afterwards, the man said that the girlfriend had killed his child by neglecting to take care of it. The girlfriend, for personal safety and emotional reasons, decided to leave the country and return home.
 
-而男方为了继续装B，继续找倒贴女，在外颠倒黑白、落井下石，还宣称女友正在潜逃。他承诺帮女友处理好事后，但实际上他只处理了共同名下的事情，而女方的个人行李甚至都没有寄回。男方还撒谎称女友已经潜逃回国，甚至在Covid报告中将阳性结果瞒掉，还谎称女友患有STD。
+In order to continue pretending to be rich and to find more girls to pay for him, the man distorted the truth and even accused the girlfriend of being on the run. He promised to help the girlfriend handle things, but in reality, he only dealt with the things that were jointly owned, and he did not even send back the girlfriend's personal belongings. The man also lied that the girlfriend had already fled back to her country, and even concealed her positive Covid test result, claiming that she had an STD.
 {{< /admonition >}}
 
-{{< admonition type=quote title="聊天记录1" open=true >}}
-颜宇琪：还在这血口喷人
+{{< admonition type=quote title="Chat Record 1" open=true >}}
+Yan Yuqi: Still talking nonsense here.
 
 ***
 
-Other：你这牛，提前回国
+Other: You're amazing, you came back early.
 
 ***
 
-颜宇琪：我们送医的时候
-
-颜宇琪：警方就来我家调查过了
-
-颜宇琪：如果我有问题
-
-颜宇琪：是不会让我出入境的
-
-颜宇琪：护照上会有记录的
-
-颜宇琪：就没有问题
-
-颜宇琪：有点常识 别血口喷人了ok？
+Yan Yuqi: When we sent the person to the hospital, the police came to my house to investigate. If I had any problems, I wouldn't be able to leave the country, and there would be a record on my passport. So, there's no problem. Use some common sense and stop talking nonsense, okay?
 {{< /admonition >}}
 
-{{< admonition type=quote title="聊天记录2" open=true >}}
-颜宇琪：因为他的漠视啊
+{{< admonition type=quote title="Chat Record 2" open=true >}}
+Yan Yuqi: Because he ignored it.
 
-颜宇琪：我早就告诉他孩子和我生病了
+Yan Yuqi: I told him a long time ago that the child and I were sick.
 
-颜宇琪：我都昏迷了 他把我放家里不管
+Yan Yuqi: I was unconscious, and he left me at home.
 
-颜宇琪：我还刚生完孩子
+Yan Yuqi: I had just given birth and my body was weak.
 
-颜宇琪：身体虚弱啊
+Yan Yuqi: I needed a car seat to take a taxi.
 
-颜宇琪：打车也需要car seat
+Yan Yuqi: I said I needed to go to the emergency room.
 
-颜宇琪：我说我要去急诊
+Yan Yuqi: He told me to go by myself.
 
-颜宇琪：他让我自己去
+Yan Yuqi: Other drivers wouldn't carry a baby without a car seat, it's illegal.
 
-颜宇琪：别人司机也不会载婴儿啊 没carseat属于违法啊
-
-颜宇琪：像是不是他的孩子 不是他射的一样 当时爽的时候说有了就生
-
-颜宇琪：怀了就找各种理由倒打一耙
+Yan Yuqi: It's like the child isn't his, he only said he would have a child when he was happy, and then he found various excuses when I got pregnant.
 {{< /admonition >}}
 
-{{< admonition type=quote title="聊天记录3" open=true >}}
-C：己一跑了之还说我不负责任？你房子也还没退要处理医院也没联系孩子要安葬警察到时候又要因为你的事来问我
+{{{< admonition type=quote title="Chat Record 2" open=true >}}
+Yan Yuqi: Because he ignored it
+
+Yan Yuqi: I have told him that the child and I were sick a long time ago
+
+Yan Yuqi: I was already unconscious, and he left me at home
+
+Yan Yuqi: I just gave birth to a child
+
+Yan Yuqi: I was physically weak
+
+Yan Yuqi: I needed a car seat to take a taxi
+
+Yan Yuqi: I said I wanted to go to the emergency room
+
+Yan Yuqi: He told me to go by myself
+
+Yan Yuqi: Other drivers won't carry a baby without a car seat, it's illegal
+
+Yan Yuqi: It's like it's not his child, he just said he would have a baby when he was happy
+
+Yan Yuqi: When I got pregnant, he found all kinds of excuses to shift the blame
+
+{{< /admonition >}}
+
+{{< admonition type=quote title="Chat Record 3" open=true >}}
+C: You ran away and still say I'm not responsible? You haven't returned the house yet, you haven't contacted the hospital about the child's burial, and the police will come and ask me about your matter.
 
 ***
 
-颜宇琪：我一跑了之？
+Yan Yuqi: I ran away?
 
-颜宇琪：你别抹黑我行不
+Yan Yuqi: Don't slander me, okay?
 
-颜宇琪：我和你说了呀
+Yan Yuqi: I told you I would handle it
 
-颜宇琪：我来处理啊
+Yan Yuqi: Then you transfer money and pay compensation
 
-颜宇琪：那你转账啊给钱啊
+Yan Yuqi: You should compensate for what needs to be compensated
 
-颜宇琪：你就把该赔偿的赔偿了
+Yan Yuqi: I couldn't find you before
 
-颜宇琪：之前找你也找不到
+Yan Yuqi: You said you couldn't meet because the police were investigating
 
-颜宇琪：你又说不能见面警方调查
+Yan Yuqi: You're so confused. How can you be like this?
 
-颜宇琪：颠三倒四的你这男的怎么这个样子
-
-颜宇琪：孩子不要好好家不要把钱看得比命都重要
+Yan Yuqi: The child is more important than money
 
 ***
 
-C：……现在是你在要钱吧 说我看钱重
+C: ... Now you're asking for money, saying I'm money-oriented
 
-C：等房子退完了 医院联系好就可以给你 转了你要是心急就赶紧联系完小区和医院房子处理好了再帮你把箱子寄回来不好吗？
+C: When the house is returned and the hospital is contacted, I can give it to you. If you're in a hurry, you can contact the community and hospital first and then I can help you send the box back, okay?
 {{< /admonition >}}
 
-{{< admonition type=quote title="聊天记录4" open=true >}}
-颜宇琪：md生前没管过孩子 死了还要拿孩子说事
+{{< admonition type=quote title="Chat Record 4" open=true >}}
+Yan Yuqi: The mother of the deceased child did not take care of him when he was alive, and now she uses him to gain sympathy.
 
 ***
 
-Other：是啊
+Other: Yes.
 
 ***
 
-颜宇琪：我不是没有给孩子求医啊
+Yan Yuqi: I did not neglect to seek medical attention for my child.
 
-颜宇琪：他让我自己去急诊
+Yan Yuqi: He told me to go to the emergency room by myself.
 
-颜宇琪：我早就告诉他了万一我身体状况不行了call不了急救怎么办
+Yan Yuqi: I already told him that if my condition worsens and I can't call for emergency help, what should I do?
 
-颜宇琪：我都昏迷在家了
+Yan Yuqi: I was already unconscious at home.
 
-颜宇琪：给孩子超度了啊
+Yan Yuqi: I even had my child undergo a religious ritual for the dead.
 {{< /admonition >}}
 
-## 指控2
+## Charge 2
 
-首先，C从未找过公众号或购买水军炒作，颜女士回国后立即对C进行敲诈勒索，而C并未同意。之后，颜女士就通过各种渠道骚扰C的朋友，发布了一篇关于C的诽谤文章。实际上，“曝光文”是颜女士率先发布的，但文章里的内容全都是虚构的、毫无证据的。之后，C不得不对这篇所谓的“曝光文”进行反驳和澄清，向大家揭露真相。网络上这篇文章之所以广泛传播，是因为颜女士做的事情太过火了，已经让人的三观都受到了重创。
+Firstly, C never sought public accounts or purchased water army hype, and Ms. Yan immediately extorted C after returning to China, which C did not agree to. After that, Ms. Yan harassed C's friends through various channels and published a defamatory article about C. In fact, "exposure article" was first published by Ms. Yan, but all the content in the article was fabricated and had no evidence. Later, C had to refute and clarify this so-called "exposure article" to reveal the truth to everyone. The reason why this article was widely spread on the Internet was that Ms. Yan's actions were too extreme, which had seriously challenged people's values.
 
-其次，颜女士声称C擅自把孩子寄养，并诽谤C说“孩子和颜女士拖累C发财”。实际上这完全是颜女士无中生有的事情。孩子出生后，颜女士明确表示自己不会给孩子喂母乳，并且在孩子出生之前，双方已经商议，为了孩子有一个更好的未来，选择一位负责任的领养家庭，这是双方共识，而不是C一个人的想法。关于选择领养家庭，颜女士从未参与，C找到了一对住在洛杉矶的亚洲夫妇，他们非常照顾孩子并对孩子非常上心。当他们第一次见到孩子时，就哭了出来，还在自己的后院里修建了游乐场。孩子被领养之后，由于只有颜女士拥有抚养权，先前未经与C商议，颜女士私自要回了孩子（这是根据美国当地的法律，孩子的母亲在规定时间内有权收回孩子）。在此期间，颜女士多次向C保证并发誓她会戒毒，好好照顾孩子，并将理由上升到“不要剥夺她作为孩子母亲的权利”。
+Secondly, Ms. Yan claimed that C had put the child in foster care without permission and slandered C by saying "the child and Ms. Yan dragged C to get rich". In fact, this was completely made up by Ms. Yan. After the child was born, Ms. Yan clearly stated that she would not breastfeed the child. Before the child was born, the two parties had already agreed to find a responsible adoptive family for the child to have a better future, which was a consensus between the two parties, not just C's idea. Regarding the choice of adoptive family, Ms. Yan never participated. C found an Asian couple living in Los Angeles who took great care of the child and were very concerned about the child. When they saw the child for the first time, they cried and even built a playground in their backyard. After the child was adopted, Ms. Yan, who had sole custody, took the child back without consulting with C (according to local laws in the United States, the child's mother has the right to take back the child within a specified period of time). During this period, Ms. Yan repeatedly promised and swore to C that she would quit drugs, take good care of the child, and even raised the reason to "not deprive her of her rights as a mother".
 
-{{< admonition type=quote title="聊天记录" open=true >}}
-颜宇琪：我睡不着
+{{< admonition type=quote title="Chat Record" open=true >}}
+Yan Yuqi: I can't sleep.
 
-颜宇琪：有了儿子后我也承诺你
+Yan Yuqi: After having a son, I promise you that I won't do drugs.
 
-颜宇琪：不打气了
+Yan Yuqi: I won't encourage you anymore.
 
-颜宇琪：ta
+Yan Yuqi: Ta.
 
 ***
 
-颜宇琪：劳工
+Yan Yuqi: Laborer.
 
-颜宇琪：老公
+Yan Yuqi: Husband.
 
-颜宇琪：我改正
+Yan Yuqi: I'll change.
 
-颜宇琪：这样你的两年也不会浪费
+Yan Yuqi: This way, your two years won't be wasted.
 {{< /admonition >}}
 
-{{< admonition type=note title="保证" open=true >}}
-保证有了孩子后不会吸毒。
+{{< admonition type=note title="Guarantee" open=true >}}
+Guaranteed not to use drugs after having a child.
 {{< /admonition >}}
 
-但孩子被要回来后，颜女士依旧没有遵守所谓的保证，依旧每天打气，直至大小便失禁。
+But after the child was taken back, Ms. Yan still did not keep her so-called promise and continued to harass C every day, until he had urinary and fecal incontinence.
 
-{{< image src="fig-8.avif" width="480px" caption="大小便失禁" >}}
+{{< image src="fig-8.avif" width="480px" caption="Urinary and fecal incontinence" >}}
 
-由于C和颜女士不是夫妻关系，并且没有建立任何婚姻关系，因此孩子的抚养权只属于孩子的母亲。C在被颜女士用刀威胁后，便试图向律师、社会工作者等寻求帮助来争取孩子的抚养权，但却被告知这些法律行动需要时间来完成。
+Since C and Ms. Yan are not in a marital relationship and have not established any marriage relationship, the custody of the child belongs only to the child's mother. After being threatened with a knife by Ms. Yan, C attempted to seek help from lawyers and social workers to fight for custody of the child, but was told that these legal actions would take time to complete.
 
-{{< admonition type=quote title="社工和C的对话" open=true >}}
+{{< admonition type=quote title="Conversation between social worker and C" open=true >}}
 Social Worker:
 
 Have you made any progress for Charles? Here are some numbers if you feel there is no other choice. You can be anonymous if you so choose.
@@ -448,160 +458,160 @@ I know this is hard and I too am struggling with what has happened and continues
 C: Thanks David, that helps a lot. I don't have time to meet her yesterday, she didn't take my phone call. So I still need to talk with her first to see what happen now
 {{< /admonition >}}
 
-有一天，C下班回到颜女士的住处，看到让人震惊的场景。颜女士服用了毒品导致大量尿失禁，把孩子直接放在尿里，旁边还有已使用过的气瓶（如下图所示）。但是在所谓的“惊天反转”文中，颜女士撒谎说在孩子出生后她从未使用过毒品。
+One day, when C returned to Yan's residence after work, he saw a shocking scene. Yan had taken drugs and lost control of her bladder, leaving the child lying in urine, next to used gas cylinders (as shown in the figure below). However, in the so-called "shocking reversal" article, Yan lied and claimed that she had never used drugs after the child was born.
 
-{{< image src="fig-9.avif" width="480px" caption="查尔斯身上的尿液" >}}
+{{< image src="fig-9.avif" width="480px" caption="Charles covered in urine" >}}
 
-C看到这个情景后，气得发抖。然而他仍然坚持着，给这个孩子洗了澡，换了尿布，喂了奶。我在这里想问颜女士一个问题：您摸着自己的良心，敢发誓您具备像一个正常合格的母亲一样的基本能力，去照顾、喂哺自己的孩子吗？
+C was furious and trembling when he saw this scene. However, he still insisted on bathing the child, changing the diaper, and feeding the baby. Here, I want to ask Yan a question: Can you honestly swear that you have the basic ability to take care of and feed your own child like a normal and qualified mother?
 
-C最后悔的是当时没有果断报警。因为他认为颜女士还残存一点人性，不会对自己的亲生骨肉彻底放任不管。他更没想到，颜女士在吃完米其林（海胆）的第二天，就将自己亲生的孩子活活饿死了。
+C's biggest regret was not reporting to the police at that time. Because he believed that Yan still had some humanity and would not completely abandon her own flesh and blood. He did not expect that Yan would starve her own child to death the day after eating Michelin (sea urchin).
 
-{{< admonition type=quote title="iMessage 聊天内容" open=false >}}
-颜宇琪：
+{{< admonition type=quote title="iMessage Chat Content" open=false >}}
+Yan Yuqi:
 
-{{< image src="fig-6.avif" width="240px" caption="海胆" >}}
+{{< image src="fig-6.avif" width="240px" caption="Sea urchin" >}}
 
-颜宇琪：没
+Yan Yuqi: No.
 
-颜宇琪：我在吃海胆
-
-***
-
-C：你怎么又去了
+Yan Yuqi: I'm eating sea urchin.
 
 ***
 
-颜宇琪：而且我又腹肌喔
+C: Why did you go again?
 
 ***
 
-C：不是前天去的吗
+Yan Yuqi: And I have abs.
 
 ***
 
-颜宇琪：这些玩剩下的东西
+C: Didn't you go the day before yesterday?
 
-颜宇琪：因为海胆不一样啊
+***
 
-颜宇琪：还有 我从小到大
+Yan Yuqi: These are leftover from playing.
+
+Yan Yuqi: Because sea urchin is different.
+
+Yan Yuqi: And also, I have been like this since I was little.
 {{< /admonition >}}
 
-C看到这一幕后，气得发抖。尽管如此，他依然坚持着，给孩子洗澡，换尿布，喂奶。在此，我想问颜女士一个问题：请你自问，你有没有具备像一个普通合格的母亲一样的基本才能，去照顾、喂养自己的孩子呢？
+After seeing this scene, C was so angry that he was shaking. Nevertheless, he persisted in washing the child, changing diapers, and feeding him. Here, I would like to ask Ms. Yan a question: do you have the basic ability of a normal and qualified mother to take care of and feed your own child?
 
-C最后悔的是当时没有果断报警。因为他认为颜女士还有一点人性，不会让自己的亲骨肉自生自灭。他更没想到的是，颜女士在吃完米其林（海胆）的第二天，就将自己亲生的孩子活活饿死了。
+C's biggest regret is that he did not report to the police at that time. He thought that Ms. Yan still had some humanity and would not let her own flesh and blood perish. What he didn't expect was that Ms. Yan would starve her own child to death the day after eating at Michelin (sea urchin).
 
-{{< image src="fig-10.avif" width="320px" caption="账单" >}}
+{{< image src="fig-10.avif" width="320px" caption="Bill" >}}
 
-C从来没有向颜女士索要过钱，只是要求颜女士支付她在公寓中的罚款，共计5211.20美元。其中包括公寓更换地毯和地板的费用，因为颜女士大小便失禁导致。
+C never asked Ms. Yan for money, only asked her to pay the fine she incurred in the apartment, totaling $5,211.20. This includes the cost of replacing the carpet and floor in the apartment, due to Ms. Yan's incontinence.
 
-颜女士声称自己在养着C的说法纯属自己的幻想，欢迎她提供证据证明这一点。颜女士自从吸食毒品后就一直出现幻觉，甚至在陷入幻觉状态时向C的朋友发送“我爸是市长”的言论。下图是颜女士对C的一位朋友进行骚扰的证据。
+Ms. Yan claimed that C's statement that she was supporting him was purely her own fantasy and welcomed her to provide evidence to prove otherwise. Ms. Yan has been having hallucinations since she started using drugs, and even sent messages to C's friends claiming "my father is the mayor" when she was in a delusional state. The following image is evidence of Ms. Yan harassing one of C's friends.
 
-{{< image src="fig-11.avif" width="480px" caption="骚扰C的朋友" >}}
+{{< image src="fig-11.avif" width="480px" caption="Harassment of C's friend" >}}
 
-第四， 关于颜女士说自己从未私生活混乱，请看下面这些证据
+Fourth, regarding Ms. Yan's claim that she has never had a chaotic private life, please look at the following evidence:
 
-{{< image src="fig-12.avif" width="480px" caption="自慰吸毒" >}}
+{{< image src="fig-12.avif" width="480px" caption="Masturbation and drug use" >}}
 
-颜女士自慰的炮机，一边打气一边吸毒，还在下面垫了纸防止自己漏尿。
+Ms. Yan masturbates with a sex toy while inhaling drugs, and even puts paper underneath to avoid leaking urine.
 
-{{< image src="fig-13.avif" width="480px" caption="真实人品" >}}
+{{< image src="fig-13.avif" width="480px" caption="True character" >}}
 
-颜女士的高中和大学同学曝光她的真实人品。
+Ms. Yan's high school and university classmates exposed her true character.
 
-{{< image src="fig-14.avif" width="240px" caption="骗钱指证" >}}
+{{< image src="fig-14.avif" width="240px" caption="Evidence of fraud" >}}
 
-网友指证她多次骗钱。
+Netizens accused her of fraud multiple times.
 
-{{< image src="fig-15.avif" width="320px" caption="聊骚记录" >}}
+{{< image src="fig-15.avif" width="320px" caption="Chat records" >}}
 
-与C交往期间，颜女士和各种男人的聊骚记录。
+During her relationship with C, Ms. Yan had flirtatious conversations with various men.
 
-关于颜女士未处理孩子葬礼的问题，C曾多次前往医院查询关于孩子尸检以及葬礼方面的事宜，但是被告知C没有权利。医院向C表示，尸检所需的样本已经采集，但是整个县只有两名法医，等待尸检的案例数量很多，需要等待。由于颜女士有孩子的抚养权，所以孩子的葬礼需要得到颜女士的签字同意，但是颜女士已经潜逃回国。
+Regarding the issue of Ms. Yan not handling her child's funeral, C had visited the hospital multiple times to inquire about the child's autopsy and funeral arrangements, but was told that he did not have the authority. The hospital informed C that the necessary samples for the autopsy had been collected, but there were only two forensic doctors in the entire county, and there were many cases waiting for autopsy, so they had to wait. Since Ms. Yan had custody of the child, her signature was required for the child's funeral, but Ms. Yan had fled back to China.
 
-为了让孩子早日安葬，C正在与医院商量是否可以绕过颜女士进行安葬。这是当地的政策和法律规定，法律或医院专业人士可以对此进行验证。
+In order to bury the child as soon as possible, C is in discussions with the hospital about whether they can bypass Ms. Yan for the funeral. This is a local policy and legal requirement, which can be verified by legal or hospital professionals.
 
-在这里，我们请求颜女士承担她应有的责任，至少要让孩子早日安葬。如果颜女士真的如她自己所说，问心无愧，请她回到美国，参加孩子的葬礼，并等待警方的调查结果。这样可以让事实更加清晰明了，也可以给她自己一个“清白”。
+Here, we request that Ms. Yan take responsibility for her actions and at least allow the child to be buried as soon as possible. If Ms. Yan is really innocent as she claims, we urge her to return to the United States to attend the child's funeral and wait for the results of the police investigation. This will make the truth clearer and also give her a "clean slate."
 
-{{< image src="fig-16.avif" width="480px" caption="丢盔弃甲" >}}
+{{< image src="fig-16.avif" width="480px" caption="Abandoned armor and weapons" >}}
 
-第六点就是关于所谓“怀孕赔偿”问题。颜女士没有尽到做母亲的责任，竟然让自己的亲生骨肉活活饿死。而在孩子死亡前一晚，她居然还在吃米其林海胆。C已经对颜女士恨之入骨，颜女士还敢要所谓的“怀孕赔偿”？那么请问，去世的孩子应该由谁来赔偿？
+The sixth point is about the so-called "pregnancy compensation" issue. Ms. Yan did not fulfill her responsibilities as a mother and let her own flesh and blood starve to death. And on the night before the child's death, she was still eating Michelin-starred sea urchins. C already hates Ms. Yan to the bone, and Ms. Yan still dares to demand "pregnancy compensation"? Then who should compensate for the deceased child?
 
-在正式调查结果出来之前，不能轻易地限制颜女士的出入境，这是所有国家的法律都遵循的原则。如果颜女士确实没有做错什么，那么她为什么在公共场所看到警察后会如此惶恐不安呢？既然失去孩子是如此痛苦，为什么不及时安葬孩子，参加葬礼，连行李也来不及拿就跑路回国呢？
+Until the formal investigation results are released, Ms. Yan's entry and exit cannot be easily restricted, which is a principle followed by all countries' laws. If Ms. Yan has done nothing wrong, why was she so nervous when she saw the police in public? If losing a child is so painful, why didn't she bury the child in a timely manner, attend the funeral, and take even her luggage before fleeing back to China?
 
-{{< admonition type=quote title="iMessage 聊天内容" open=ture >}}
-颜宇琪：老公为什么这个plaza有那么多警察啊
+{{< admonition type=quote title="iMessage Chat Content" open=true >}}
+Yan Yuqi: Husband, why are there so many police officers in this plaza?
 
-颜宇琪：太害怕了
-
-***
-
-C：？
+Yan Yuqi: I'm so scared.
 
 ***
 
-颜宇琪：老公我不知道能不能相信你啊
-
-颜宇琪：万一他们逮捕我咋办
-
-颜宇琪：老公你发誓你不会骗我吗
-{{< /admonition >}}
-
-{{< admonition type=quote title="iMessage 聊天内容2" open=ture >}}
-颜宇琪：你问我为什么一定要住1
-
-颜宇琪：因为我一直记得那个刚住进去眼睛亮亮的你 我好过分啊是我做的不对
-
-颜宇琪：老公 让你受委屈了
-
-颜宇琪：你早点睡吧
-
-颜宇琪：老公我和父母聊过天了我爸说我要是[气球]就断绝关系 我妈说是个人都害怕的说我在欺负你 我真的很过分给你带去太多伤害了
-
-颜宇琪：我知道错了你先睡吧
-
-颜宇琪：老公你都是把好的给我自己吃面汉堡我真的不好意思
-
-颜宇琪：我和你在一起时候就也没给你带来什么益处 分手了还半夜总是给你精神压力 你也没有怪我 你真的好温柔 老公你能不能不要抛弃我我没有你真的不知道怎么活下去了
-{{< /admonition >}}
-
-{{< admonition type=note title="一厢情愿" open=true >}}
-颜女士在分手后依旧叫“老公”，纯属自己一厢情愿。
-{{< /admonition >}}
-
-第七点，颜女士称打车需要携带儿童座椅。请问，在出现生命危险的情况下，为什么不立即拨打911呼叫救护车，而是打车前往急诊？C从未让颜女士自己打车去急诊，在看到孩子的状况后，C立刻开车带孩子去了医院。那么请问，你认为什么样的情况需要紧急呼叫救护车呢？
-
-{{< admonition type=quote title="iMessage 聊天内容" open=ture >}}
-C：你现在说这些没用 我也不是警察 等结果出了再谈
+C: ?
 
 ***
 
-颜宇琪：我也不知道怎么想的 我就是看他的程度好像没有需要救护车 压根没想到救护车
+Yan Yuqi: Husband, I don't know if I can trust you.
+
+Yan Yuqi: What if they arrest me?
+
+Yan Yuqi: Can you swear you won't deceive me?
+
+***
+
+Yan Yuqi: You ask me why I have to live in Building 1.
+
+Yan Yuqi: Because I always remember you when you just moved in and your eyes were shining. I'm so excessive, it's my fault.
+
+Yan Yuqi: Husband, I'm sorry for making you suffer.
+
+Yan Yuqi: You should sleep early.
+
+Yan Yuqi: I talked to my parents. My dad said if I [balloon], he would sever ties with me. My mom said everyone is afraid and that I'm bullying you. I'm really excessive and have caused you too much harm.
+
+Yan Yuqi: I know I was wrong. You should sleep first.
+
+Yan Yuqi: Husband, you always give me the good food like noodles and hamburgers. I'm really sorry.
+
+Yan Yuqi: When I was with you, I didn't bring you any benefits. Even after breaking up, I still give you mental pressure at night, but you never blamed me. You're really gentle. Husband, can you not abandon me? I really don't know how to live without you.
 {{< /admonition >}}
 
-第八点，关于STB、WEEE等虚假指控，要求颜女士停止散布不实言论，同时提供实质性证据。颜女士竟然还在无耻地声称C的照片证据是P图合成的。在此欢迎专业网友对此进行鉴定，以查明照片是否经过P图处理。如果颜女士身边有相关专业人士，也欢迎他们将C的照片P进那些充满气瓶的房间里。
+{{< admonition type=note title="Wishful Thinking" open=true >}}
+Ms. Yan calling her ex-boyfriend "husband" after the breakup is purely her own wishful thinking.
+{{< /admonition >}}
 
-如果对聊天记录有所怀疑，可提供聊天记录的录屏，以证实该记录是颜女士本人撰写的。
+Point 7: Ms. Yan claimed that a child seat was needed when taking a taxi. Why didn't she immediately call 911 for an ambulance in a life-threatening situation instead of taking a taxi to the emergency room? C never let Ms. Yan take a taxi to the emergency room herself. After seeing the child's condition, C immediately drove the child to the hospital. So, in what situation do you think it is necessary to urgently call an ambulance?
 
-最后，如果颜女士真的像她自己所说的那样清白无辜并关心自己的孩子，请回到美国为自己的孩子送行，并等待警方对案件的调查结果，为自己的孩子找到真相。
+{{< admonition type=quote title="iMessage chat content" open=ture >}}
+C: It's useless to say these things now. I'm not a police officer. Let's talk after the results come out.
 
-## 评论
+***
 
-> GPT，评价一下事件双方。
+Yan Yuqi: I don't know what I was thinking. I just thought his condition seemed not serious enough to need an ambulance. I never thought of calling an ambulance.
+{{< /admonition >}}
+
+Point 8: Regarding false accusations such as STB and WEEE, Ms. Yan is requested to stop spreading false statements and provide substantive evidence. Ms. Yan shamelessly claimed that C's photo evidence was photoshopped. Professional netizens are welcome to authenticate the photos to determine whether they have been photoshopped. If there are relevant professionals around Ms. Yan, they are also welcome to photoshop C's photos into those rooms full of oxygen cylinders.
+
+If there is any doubt about the chat records, please provide a screen recording of the chat records to prove that the records were written by Ms. Yan herself.
+
+Finally, if Ms. Yan is truly as innocent and concerned about her child as she claims, she should return to the United States to bid farewell to her child and wait for the police to investigate the case and find the truth for her child.
+
+## Comment
+
+> GPT, evaluate the two sides of the event.
 
 {{< typeit group=paragraph-1 >}}
-根据这段指控和辩护的内容，我个人认为：
+Based on the content of the accusation and defense, in my opinion:
 {{< /typeit >}}
 
 {{< typeit group=paragraph-1 >}}
 {{< /typeit >}}
 
 {{< typeit group=paragraph-1 >}}
-指控方面，如果颜女士所做的行为属实，那么她的行为实在是太过残忍和道德败坏。无论是把孩子放在充满气瓶和自己失控尿池中的行为还是私生活上泛滥无度的举动，都是极其罕见并且不应该发生的。她的行为不仅对孩子造成了极大的危害，也对C和他的家人、朋友造成了不小的困扰和伤害。在这种情况下，对颜女士展开调查和追责，以维护社会公正和伦理道德是应该的。
+On the accusation side, if Ms. Yan's behavior is true, then her behavior is extremely cruel and morally corrupt. Both her behavior of leaving the child in a room full of oxygen bottles and her uncontrollable urine pool and her promiscuous behavior are extremely rare and should not happen. Her behavior not only caused great harm to the child but also caused considerable trouble and harm to C and his family and friends. In this situation, it is necessary to investigate and hold Ms. Yan accountable to maintain social justice and ethical standards.
 {{< /typeit >}}
 
 {{< typeit group=paragraph-1 >}}
 {{< /typeit >}}
 
 {{< typeit group=paragraph-1 >}}
-辩护方面，颜女士声称并未做出指控方面所述的行为，并且指控方面所列举的一些事件都存在较大的争议。但是即便如此，试图抵赖全部指控事实的言论并不能完全负责，也需要进一步的调查和证明。同时，个人认为颜女士长期以来的不良言行和行为，在某种程度上降低了她在公众和评价体系中的信任度和价值。
+On the defense side, Ms. Yan claimed that she did not make the aforementioned accusations, and there are significant disputes over some of the events listed in the accusation. However, even so, attempting to deny all the accused facts cannot be fully responsible, and further investigation and proof are needed. At the same time, in my opinion, Ms. Yan's long-standing bad words and deeds have to some extent reduced her trustworthiness and value in the public and evaluation system.
 {{< /typeit >}}

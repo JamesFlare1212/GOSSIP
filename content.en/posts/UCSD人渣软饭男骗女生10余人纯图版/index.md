@@ -1,7 +1,7 @@
 ---
 slug: uscd-david
-title: UCSD - 罗骏哲 多次违法行为曝光
-subtitle: 偷盗、虐猫、嫖娼、打游戏开挂，罗骏哲涉及多项违法、恶劣行为被曝光
+title: UCSD - Luo Junzhe's multiple illegal behaviors exposed
+subtitle: Luo Junzhe, involved in multiple illegal and unethical behaviors such as theft, animal abuse, hiring prostitutes, cheating in games, etc., has been exposed.
 date: 2023-05-12T20:11:06+08:00
 draft: false
 author:
@@ -9,7 +9,7 @@ author:
   link:
   email:
   avatar:
-description: 罗骏哲多次违法、恶劣行为被曝光，包括偷盗室友现金和信用卡、虐待猫咪、嫖娼、吃软饭、多收大家的钱等。他还设置朋友的网上银行账户定期向他转钱，违法并对朋友欺诈。在玩游戏时还会悄悄使用外挂进行欺骗。
+description: Luo Junzhe's multiple illegal and unethical behaviors have been exposed, including stealing roommates' cash and credit cards, abusing cats, hiring prostitutes, freeloading, overcharging everyone, etc. He also set up his friend's online banking account to regularly transfer money to him, which is illegal and fraudulent to his friend. He also secretly used game cheats to deceive in games.
 keywords:
 license:
 comment: true
@@ -29,7 +29,7 @@ categories:
   - GOSSIP
 hiddenFromHomePage: false
 hiddenFromSearch: false
-summary: 罗骏哲多次违法、恶劣行为被曝光，包括偷盗室友现金和信用卡、虐待猫咪、嫖娼、吃软饭、多收大家的钱等。他还设置朋友的网上银行账户定期向他转钱，违法并对朋友欺诈。在玩游戏时还会悄悄使用外挂进行欺骗。
+summary: Luo Junzhe's multiple illegal and unethical behaviors have been exposed, including stealing roommates' cash and credit cards, abusing cats, hiring prostitutes, freeloading, overcharging everyone, etc. He also set up his friend's online banking account to regularly transfer money to him, which is illegal and fraudulent to his friend. He also secretly used game cheats to deceive in games.
 resources:
   - name: featured-image
     src: featured-image.jpg
@@ -55,593 +55,579 @@ UCSD人渣软饭男，骗女生10余人，纯图版](https://oss.schoolmelon.com
 本文进行了重制以适合移动设备以及赋予通用性。
 {{< /admonition >}}
 
-## 前言
+{{< admonition type=info title="Source" open=true >}}
+Source file address: [UCSD人渣软饭男，骗女生10余人，纯图版](https://oss.schoolmelon.com/source/uscd-david.pdf)
 
-这件事情是这样的：我要代表广大群众来揪出一个渣男。我已经好长时间没有遇到这么让人气愤的人了，实在是忍不下去了。
-
-这个渣男叫做David 罗骏哲，是UCSD大四的计算机科学学生。
-
-## 指控
-
-先给你讲一个我的故事。他在ins上私信了我要我的微信号，然后开始各种约我出去以及搞暧昧，然后我们出去吃了三顿饭。第一次是他请客，第二次是我请客，第三次是他要我AA（去海底捞）。因为我是跳舞的，所以我经常有排练。
-
-11月14号的时候，他一直询问我晚上的计划，我说我要进行排练。他就说他要给我们带奶茶，然后我们在排练的时候他也在场。排练结束后，他找到了我的好姐妹（代号cc）的ins并向她要了微信号，开始跟她聊天。他的话术跟当初约我时完全一模一样。
-
-11月14日晚上，我们偶遇在一个聚会上。他帮我和cc一起开车门，还想给我们两个同事打伞。在聚会上，他一直想和cc玩，然后一碟纸巾分给了cc一半，然后跑了半个包厢分给了我一半。我的事情就到这里结束了，我无法忍受一个男的同时勾引两个好朋友。
-
-本以为这件事到此结束，结果受害者却陆续找到我并给我爆料：
-
-{{< admonition type=quote title="作者对此的抨击" open=true >}}
-有些男的 能不能别一边吊着我一边又想泡我好姐们了 大哥你爱跟谁搞跟谁搞 你一边跟我天天j8的聊7聊8 从我这儿听说我要排练你来送了个奶茶 然后选上妃了是吧 咋的你以为你是个什么东西 他妈老子就没见过下个车同时给我和我好姐们儿开车门 中国文化真是让你学明白了 雨露均沾？纸巾还分两半给我跟我姐们儿 你他妈爱搞谁搞谁我都不在乎 你要是想一边吊着我一边又想搞我姐们儿 我劝你乘早别这么想 昨天喝酒人多我不想坏了氛围 快一年没遇到这种想搞姐妹花的男人了 快忘了下血头是啥感觉了 我他妈骂得就是你 @david luo1115
-
-***
-
-总结一下事情经过：
-
-1. 先跟我搞暧昧
-2. 听我说排列给我们送喝的
-3. 看我们排列
-4. 关注我好姐妹ins加我好姐妹然后开聊
-5. 晚上喝酒遇到了 给我和我好姐妹轮流 一起开车门 真的不用 纸巾就那么点 还分两半你不累？
-
-别想着选妃谢谢 我真的脾气不好
+This article has been re-designed to suit mobile devices and to be more universal.
 {{< /admonition >}}
 
-### 一号女生
+## Introduction
 
-据受害者透露，这名女孩跟一个男生相遇在图书馆，之后加了他的微信。加微信的日期与跟加我微信的日期相同，甚至聊天开场白也一模一样的视频两次。需要注意的是，时间为2022年11月17号。
+Here's the story: I want to expose a scumbag on behalf of the masses. I haven't encountered such a maddening person in a long time and I just can't take it anymore.
 
-### 二号女生
+This scumbag is named David Luo Junzhe, a senior computer science student at UCSD.
 
-据受害者透露，这名女孩也是通过ins私信要了他的微信。具体时间和细节需要受害者提供更多信息才能确定。
+## Charge
 
-{{< admonition type=quote title="二号女生与作者的对话1" open=true >}}
-二号女生：woc，这个男的之前也找过我
+Let me tell you my story first. He messaged me on Instagram asking for my WeChat account, and then he started asking me out and flirting with me. We went out for three meals: he paid for the first one, I paid for the second, and for the third one he asked me to go Dutch (at Hai Di Lao). Because I'm a dancer, I often have rehearsals.
 
-***
+On November 14th, he kept asking me about my plans for the evening, and I told him I had rehearsals. He said he wanted to bring us boba, and he was there during the rehearsal. After the rehearsal, he found my good friend (code name cc) on Instagram and asked for her WeChat account, and started chatting with her. His words were exactly the same as when he first asked me out.
 
-作者：我操6
+On the evening of November 14th, we ran into each other at a party. He helped me and cc open the car door, and even wanted to give umbrellas to us and two other colleagues. At the party, he kept trying to play with cc, and then gave her half of the napkin plate and gave me the other half. My story ended there, but then more victims came forward and told me:
 
-作者：他妈
-
-作者：真的傻逼姐妹
+{{< admonition type=quote title="Author's criticism of this event" open=true >}}
+Can some guys stop flirting with me while trying to hit on my best friend at the same time? Dude, you can do whoever you want, but don't talk to me every day and then bring me a milk tea when you heard I had a rehearsal, and then go and choose my best friend. Who do you think you are? I've never seen anyone get off a car and open the door for both me and my best friend at the same time. Is it the Chinese culture you've learned? Everyone gets a share? You even split the tissue in half for me and my best friend. I don't care who you want to mess with, but if you want to flirt with me and my best friend at the same time, I suggest you stop thinking like that. I don't want to spoil the atmosphere when many people were drinking yesterday, but I haven't met a guy who wants to mess with sisters for almost a year. I almost forgot how it feels to be angry. @david luo1115
 
 ***
 
-二号女生：但是应该在你之前
+Summary of the incident:
+
+1. Flirt with me first.
+2. Bring us drinks when you heard we were rehearsing.
+3. Watch us rehearse.
+4. Follow my best friend's Instagram and start chatting with her.
+5. Meet us at night and open the car door for both me and my best friend. You don't have to do that. The tissue is so small, why did you even split it in half?
+
+Don't even think about choosing a queen. I really have a bad temper.
 {{< /admonition >}}
 
-{{< admonition type=quote title="二号女生与作者的对话2" open=true >}}
-二号女生：这个男的我感觉我和他都没发生啥，然后他就装作很深情的样子
+### Victim 1
+
+According to the victim, this girl met a boy in the library and added him on WeChat. The date of adding WeChat is the same as the date when she added me, and even the opening line of the chat was the same video twice. It is important to note that the date was November 17, 2022.
+
+### Victim 2
+
+According to the victim, this girl also got his WeChat through Instagram direct messages. More information is needed from the victim to confirm the specific time and details.
+
+{{< admonition type=quote title="Conversation between Victim 2 and the author 1" open=true >}}
+Victim 2: Wow, this guy also contacted me before.
 
 ***
 
-作者：对对！！！
+Author: Fuck.
+
+Author: He's really a stupid bastard.
 
 ***
 
-二号女生：好像马上就要谈恋爱的样子
-
-***
-
-作者：就是这样
-
-***
-
-二号女生：给我吓死了
-
-***
-
-作者：没错！！！！
-
-作者：md
-
-***
-
-二号女生：然后之前没见过，就很莫名其妙的在我ig发的story评论很让人误会的话
-
-二号女生：感觉没太有分寸感
+Victim 2: But it should be before you.
 {{< /admonition >}}
 
-{{< admonition type=quote title="二号女生与罗骏哲的对话" open=true >}}
-罗骏哲：hello ！
-
-罗骏哲：David 罗骏哲
-
-罗骏哲：刚刚在打球
-
-罗骏哲：这学期课多吗
+{{< admonition type=quote title="Conversation 2 between the second girl and the author" open=true >}}
+Second girl: I don't think anything happened between me and him, but he acted like he was very affectionate.
 
 ***
 
-二号女生：在申研哈哈哈
+Author: Yes!!!
 
 ***
 
-罗骏哲：same
-
-罗骏哲：[Yes]
-
-罗骏哲：加油
-
-罗骏哲：有空约球
+Second girl: It seemed like we were about to start a relationship right away.
 
 ***
 
-二号女生：你也你也哈哈哈
+Author: Exactly.
 
-二号女生：[可]
+***
+
+Second girl: It scared me.
+
+***
+
+Author: Exactly!!!
+
+Author: damn it.
+
+***
+
+Second girl: And then, I had never met him before, but he left a comment on my IG story that was very misleading.
+
+Second girl: I feel like he doesn't have a sense of boundaries.
 {{< /admonition >}}
 
-### 三号女生
+{{< admonition type=quote title="Conversation between the second girl and Luo Junzhe" open=true >}}
+Luo Junzhe: hello!
 
-根据受害者爆料，这个女孩有男朋友，但依然在人家家里找她搭话，还在搬东西的时候献殷勤。甚至还让女孩给他从国内带药，说要来观战女孩在家里打麻将。更关键的是，这个人和女孩的男朋友还是朋友。
+Luo Junzhe: David Luo Junzhe
 
-### 四号女生
+Luo Junzhe: Just finished playing ball
 
-据受害者透露，这名女孩跟第二号和第三号女孩是好朋友。他们的聊天内容没有什么实质性的交流，甚至有时这名女孩还会不时地跟男生装逼，说她的前女友们有多么漂亮、多么好看。
-
-而且她还会跟男孩子说自己很会追女生，甚至手把手地教另外一个男生如何去追女生。甚至还经常炫耀自己跟学校KPOP社团的女生都很熟，但实际上这些女生跟她只见过一面，甚至根本没见过。不知道她为什么要说出这种会与学生社团里的女生很熟的话，可能是她认为自己认识很多女孩子，而自己曾经拥有过漂亮的女朋友是她可以炫耀的资本吧。
-
-但我在这里告诉你，你不要低估Girls Power的力量。女孩子之间的感情是你无法理解的。
-
-### 小结 
-
-综上所述，这个人有以下几方面的倾向：
-
-1. 喜欢加女生微信，并对和一群好朋友的女生聊天很感兴趣。
-2. 不介意女生是否有男朋友，依然直接跟她们聊天。
-3. 炫耀自己认识很多漂亮女生，甚至是前女友。
-
-### 五号女生
-
-根据受害者透露，这位女孩也有男朋友。她在发完自拍后突然找人聊天，之后加了她的闺蜜一起出去玩。在聚会上，她搂着另一个女孩回家。
-
-{{< admonition type=quote title="五号女生与作者的对话" open=true >}}
-五号女生：这哥们出了名了，我有男朋友都会在我发自拍后突然找上我来找我玩又加了我尔湾闺蜜的微信，去找她玩。然后在她的酒局搂着别的女生回家。顶中之顶
+Luo Junzhe: Are you busy with classes this semester?
 
 ***
 
-作者：我操
+Second girl: Applying for graduate school, haha
 
 ***
 
-五号女生：我还有一个有男朋友的女生朋友也他也想钓
+Luo Junzhe: Same
 
-五号女生：我们管他叫成都小白脸
+Luo Junzhe: [Yes]
+
+Luo Junzhe: Good luck
+
+Luo Junzhe: Let's play ball when you're free
 
 ***
 
-作者：我操真夸张
+Second girl: Sure, let's do it, haha
+
+Second girl: [OK]
 {{< /admonition >}}
 
-{{< admonition type=quote title="五号女生与罗骏哲的对话" open=true >}}
-罗骏哲：中秋节快乐
-罗骏哲：迟到了
-罗骏哲：dbq
+### The Third Girl
+
+According to the victim's disclosure, this girl had a boyfriend, but she still talked to him when he went to her house and even helped her move things. He even asked the girl to bring him medicine from China and said he wanted to watch the girl play mahjong at home. What's more, this person is also friends with the girl's boyfriend.
+
+### The Fourth Girl
+
+According to the victim, this girl is a good friend of the second and third girls. Their chat content has no substantive communication, and sometimes this girl even shows off to boys, saying how beautiful and good-looking her ex-girlfriends were.
+
+Moreover, she also tells boys that she is good at pursuing girls, and even teaches another boy how to pursue girls. She even often brags that she is very familiar with the girls in the school's KPOP club, but in fact, she has only met them once or even never met them. I don't know why she would say such things that she is very familiar with the girls in the student club. Maybe she thinks that knowing many girls and having had beautiful girlfriends is something she can brag about.
+
+But I'm telling you here, don't underestimate the power of Girls Power. The feelings between girls are something you can't understand.
+
+### Conclusion
+
+In summary, this person has the following tendencies:
+
+1. Likes to add girls on WeChat and is very interested in chatting with a group of good female friends.
+2. Does not mind whether the girl has a boyfriend, and still talks to them directly.
+3. Boasts that he knows many beautiful girls, even ex-girlfriends.
+
+### Girl #5
+
+According to the victim, this girl also had a boyfriend. After posting a selfie, she suddenly started chatting with someone and then went out to play with her girlfriends. At the gathering, she hugged another girl and went home with her.
+
+{{< admonition type=quote title="Conversation between Girl #5 and the author" open=true >}}
+Girl #5: This guy is notorious. Even though I have a boyfriend, he would suddenly contact me after I post a selfie and ask me to hang out. He even added my Irvine girlfriend on WeChat and went to hang out with her. Then he hugged another girl at her party and went home with her. He's the worst of the worst.
 
 ***
 
-五号女生：哈哈哈哈哈你也是
+Author: Oh my god.
 
 ***
 
-罗骏哲：你回sf还是在sd
+Girl #5: I have another female friend who has a boyfriend, and he also wanted to seduce her.
+
+Girl #5: We call him Chengdu little white face.
+
+***
+
+Author: That's really outrageous.
+{{< /admonition >}}
+
+{{< admonition type=quote title="Conversation between Girl 5 and Luo Junzhe" open=true >}}
+Luo Junzhe: Happy Mid-Autumn Festival.
+Luo Junzhe: Sorry for being late.
+Luo Junzhe: dbq.
+
+***
+
+Girl 5: Hahaha, you too.
+
+***
+
+Luo Junzhe: Are you back in SF or still in SD?
 
 ***
 
 {{< typeit tag=u loop=true >}}
-“六院 David 罗骏哲学长 EE” 拍了拍我的钱包掉了一地灰
+"Sixth Hospital David Luo Junzhe Senior EE" patted my wallet and it was covered in dust.
 {{< /typeit >}}
 
 ***
 
-五号女生：我在sd啊
+Girl 5: I'm in SD.
 
 ***
 
-罗骏哲：有空约饭！
+Luo Junzhe: Let's grab a meal when you're free!
 
 ***
 
-五号女生：行哈哈
+Girl 5: Sure, haha.
 
 ***
 
-罗骏哲：这两天有空不哈哈哈哈
+Luo Junzhe: Are you free these days, haha?
 
 {{< /admonition >}}
 
-### 六号女生
+### The Sixth Victim
 
-据受害者透露，这名女孩也被逼着跟对方出来吃饭。
+According to the victim, this girl was also forced to go out to dinner with the perpetrator.
 
-{{< admonition type=quote title="六号女生与作者的对话" open=true >}}
-六号女生：哈哈哈哈哈哈哈他也在ins加过我！
+{{< admonition type=quote title="Conversation between the sixth victim and the author" open=true >}}
+The Sixth Victim: Hahahaha, he also added me on Instagram!
 
-六号女生：然后wx约我吃饭就很pushy我就美国
-
-***
-
-作者：我操!
+The Sixth Victim: Then he asked me out to dinner on WeChat, and he was very pushy, so I declined.
 
 ***
 
-六号女生：然后后来他单方面取关我的ins我直接给他微信删了
+Author: What the f*ck!
 
-六号女生：我觉得他有病真的
+***
+
+The Sixth Victim: Then he unilaterally unfollowed me on Instagram, so I just deleted him on WeChat.
+
+The Sixth Victim: I think he's really sick.
 {{< /admonition >}}
 
-### 七号女生
+### Girl No. 7
 
-这位女生也是我的好朋友。这是我收到的所有消息，而且他非常喜欢约女生吃饭、打球。这里有聊天记录证明，这是分别来自五个不同女生的聊天记录，每次他总是约女生们去打球或者吃饭。可以看到，他的行为十分不专一。
+This girl is also my good friend. These are all the messages I received, and he really likes to ask girls out for meals or sports. Here are chat records from five different girls, and every time he would ask them out for sports or meals. It can be seen that his behavior is very unfaithful.
 
-{{< admonition type=quote title="七号女生与作者的对话" open=true >}}
-七号女生：笑死我了他上周还问我要不要出去吃饭
-
-***
-
-作者：我操他妈
-
-作者：果然
+{{< admonition type=quote title="Conversation between Girl No. 7 and the author" open=true >}}
+Girl No. 7: He asked me out for dinner last week, it's so funny.
 
 ***
 
-七号女生：yes
+Author: Damn it.
+
+Author: Just as I thought.
 
 ***
 
-作者：[语音消息]
+Girl No. 7: Yes.
 
 ***
 
-七号女生：就他
+Author: [Voice message]
 
-七号女生：笑死我了
+***
 
-七号女生：他就傻逼啊
+Girl No. 7: It's just him.
 
-七号女生：我说我不在sd
+Girl No. 7: It's so funny.
 
-七号女生：他说
+Girl No. 7: He's just an idiot.
 
-七号女生：那你回来告诉我
+Girl No. 7: I told him I'm not in SD.
+
+Girl No. 7: He said,
+
+Girl No. 7: "Tell me when you come back."
 {{< /admonition >}}
 
-{{< admonition type=quote title="七号女生与罗骏哲的对话" open=true >}}
-罗骏哲：周末打球或者约饭吗
+{{< admonition type=quote title="Conversation between the 7th girl and Luo Junzhe" open=true >}}
+Luo Junzhe: Do you want to play basketball or have a meal this weekend?
 
 ***
 
-罗骏哲：有空约球
+Luo Junzhe: Want to play basketball when you're free?
 
 ***
 
-罗骏哲：有空约饭！
+Luo Junzhe: Want to have a meal when you're free!
 
 ***
 
-罗骏哲：或者哪天有空我们可以约饭
+Luo Junzhe: Or we can have a meal when you're free.
 
 ***
 
-罗骏哲：考完约饭哈哈哈哈
+Luo Junzhe: Let's have a meal after the exam hahaha.
 
 ***
 
-罗骏哲：有空约饭！
+Luo Junzhe: Want to have a meal when you're free!
 {{< /admonition >}}
 
-### 八号女生
+### Girl No. 8
 
-{{< admonition type=quote title="八号女生与作者的对话1" open=true >}}
-八号女生：宝贝你真的好刚！！这个人也找我聊过天我们因为搬家 认识的见过一次约我吃了一 次饭然后约我出去我说大姨妈肚子疼没法出去因为我在la他就说他要来照顾我（认识几天就不停的说要来我家）然后我很明确的拒绝了而且我住在la根本不在sd晚上他就直接开了一两个小时到我家楼下给我打了几十个电话（我也没有给过他我的手机号不知道他从哪要的）后面我也没去见他就没再回过了当时只是觉得这人好creepy没想到这么下头😢 btw我也是北京的哈哈哈哈
+{{< admonition type=quote title="Conversation between Girl No. 8 and the author 1" open=true >}}
+Girl No. 8: Babe, you're really tough!! This person also talked to me before. We met once because I was moving and he asked me out for a meal. Then he asked me out again, but I said I couldn't go out because I had cramps due to my period. Since I live in LA and not SD, he said he wanted to come and take care of me (even though we had only known each other for a few days) and kept insisting on coming to my house. I firmly refused, and he later drove for one or two hours to my apartment building and called me dozens of times (even though I never gave him my phone number and I don't know how he got it). I didn't meet him and never replied to him again. At that time, I just thought he was creepy and didn't expect him to be so shameless. By the way, I'm also from Beijing, hahaha.
 {{< /admonition >}}
 
-{{< admonition type=note title="八号女生与作者的对话 总结" open=true >}}
-这段话描述了一个女性与某人的聊天经历。这个人之前和女性认识，并在搬家时帮过忙，之后经常约女性出去，女性表示因为生理原因不能出去，但是这个人坚持要去女性家照顾她。女性明确拒绝了，并且告诉对方她住在la，而不是sd。然后这个人给女性打了很多电话，而女性并没有给对方自己的手机号码。女性觉得这个人很可怕，她没再回复对方的信息。最后，女性作者提到她也是北京人。
+{{< admonition type=note title="Summary of Conversation Between the Eighth Female Student and the Author" open=true >}}
+This paragraph describes a female student's chat experience with someone. This person had previously met the female student and helped her move, and then frequently asked her out. The female student explained that she couldn't go out due to physical reasons, but this person insisted on going to her house to take care of her. The female student clearly refused and told him that she lived in LA, not SD. Then this person called her many times, even though the female student did not give him her phone number. The female student found this person scary and did not reply to his messages anymore. Finally, the female student author mentioned that she is also from Beijing.
 {{< /admonition >}}
 
-{{< admonition type=quote title="八号女生与作者的对话2" open=true >}}
-八号女生：因为他朋友买了我的家具然后他一起来搬的
+{{< admonition type=quote title="Conversation between the 8th girl and the author 2" open=true >}}
+Girl 8: He and his friend came to move my furniture together because his friend bought my furniture.
 
-八号女生：不过我从有他微信到再也没聊过天也就一周
+Girl 8: But I haven't talked to him since I added him on WeChat, which was about a week ago.
 
-八号女生：因为我感觉这个人实在太奇怪了
+Girl 8: Because I feel that this person is really weird.
 
-八号女生：而且我们就吃过那一次饭聊天就很像相亲的模式一样一直在强调自己谈恋爱很认真啥的
+Girl 8: And we only had that one meal together, and the conversation was very much like a blind date, he kept emphasizing how serious he was in his relationships.
 
 ***
 
-作者：我操
+Author: Damn it.
 
-作者：没错没错
-
-***
-
-八号女生：而且后面在我家楼下疯狂打我电话真的吓到我了
-{{< /admonition >}}
-
-### 九号女生
-
-{{< admonition type=quote title="九号女生与作者的对话2" open=true >}}
-九号女生：天呐，之前我姐妹跟他谈恋爱的时候他也这么搞过我跟我另一个好朋友，好离谱他套路3年多都不变的吗哈哈哈哈哈哈
+Author: Yes, that's right.
 
 ***
 
-作者：我操
+Girl 8: And he kept calling me frantically downstairs from my apartment, which really scared me.
+{{< /admonition >}}
 
-作者：三年前就这样了嘛
+### Girl Number 9
+
+{{< admonition type=quote title="Conversation between Girl Number 9 and the Author 2" open=true >}}
+Girl Number 9: Oh my god, my friend had the same experience with him when she was dating him. He did the same thing to me and another good friend of mine. It's ridiculous that he's been using the same tricks for over three years. Hahaha.
 
 ***
 
-九号女生：对，而且直到现在都时不时发些有的没的，我们开始只感觉他就是热心肠，没想到是这样的人！
-{{< /admonition >}}
+Author: Damn.
 
-### 十号女生
-
-有男朋友，这里聊天记录太多了放了有代表性的。
-
-{{< admonition type=quote title="十号女生与作者的对话1" open=true >}}
-十号女生：羽毛球场第一次见到我和我朋友还觉得他贼有礼貌
-
-十号女生：然后我们那会还觉得可以发展一下以后约球
-
-十号女生：他那会和我们说他小时候是省队还是啥
-
-十号女生：反正就是练过
-
-十号女生：那种意思
-
-十号女生：然后后来我们就约他打球
-
-十号女生：但他打的就是很摆烂
-
-十号女生：完全没有认真在和我们打球
-
-十号女生：加上我们知道关于那个女生的一部分谣言 我们那会猜他们估计是py关系 但这个就也没啥证据存粹是猜测
-
-十号女生：但也和他自己说的和女生相处会保持距离 很有分寸感什么的很矛盾
-
-十号女生：他说他们是纯纯学术上的好兄弟
-
-十号女生：我们寻思着学习至于天天呆人家家里吗
-
-十号女生：因为真的经常发现他的车在女生小区里
-{{< /admonition >}}
-
-{{< admonition type=quote title="十号女生与作者的对话2" open=true >}}
-十号女生：对 我闺蜜来了之后也是 反正天天夸我闺蜜可爱啥的
-
-十号女生：然后后来那天晚上我们觉得不对劲 我们分析下来觉得他应该想到泡我之后 第二天我和我闺蜜说了之后我闺蜜就直接把他删了
-{{< /admonition >}}
-
-{{< admonition type=quote title="十号女生与作者的对话3" open=true >}}
-十号女生：来了句一起努力
-
-十号女生：我那会就觉得有点奇怪 因为他明明知道我有男朋友
-
-十号女生：然后我和他是11月12那天加的微信吗
-
-十号女生：我闺蜜从悉尼来找我玩
-
-十号女生：是12月初
-
-十号女生：然后就又是熟悉的套路了
-
-十号女生：因为打羽毛球我是带上了我闺蜜的
-
-十号女生：他就加了微信
-
-十号女生：他第一次来我们家烧烤我们还请他了
-
-十号女生：现在想想好亏
-
-十号女生：他来我们家就是说着好饿 然后打开冰箱翻东西吃
-
-十号女生：他还表现的很有钱的样子
-
-十号女生：我和我闺蜜那次吃完串串他送我们回去路上
-
-十号女生：还在说他的方向盘
-
-十号女生：是换过什么东西
-
-十号女生：花了1000刀
-{{< /admonition >}}
-
-### 十一号女生
-
-他前女友，你的前任都这样评价你，这不让人反思吗？
-
-{{< admonition type=quote title="十一号女生与作者的对话" open=true >}}
-十一号女生：就是我想和你说下姐妹，这个人挺极端的，你要注意点他，他之前跟我在一起的时候就挖我掐我
-
-十一号女生：有暴力倾向
+Author: So he's been doing this for three years?
 
 ***
 
-作者：这么离谱woc
+Girl Number 9: Yes, and even now he still occasionally sends us messages about random things. At first, we just thought he was a kind-hearted person, but we never expected him to be like this!
+{{< /admonition >}}
+
+### Girl No. 10
+
+She has a boyfriend, so here are some representative chat records.
+
+{{< admonition type=quote title="Conversation 1 between Girl No. 10 and the author" open=true >}}
+Girl No. 10: The first time he saw me and my friend on the badminton court, he seemed very polite.
+
+Girl No. 10: At that time, we thought we could develop a friendship and play badminton together in the future.
+
+Girl No. 10: He told us that he used to be on the provincial badminton team when he was young.
+
+Girl No. 10: Anyway, he had trained before.
+
+Girl No. 10: Later, we invited him to play badminton with us.
+
+Girl No. 10: But he played very poorly and didn't take it seriously.
+
+Girl No. 10: Plus, we knew some rumors about that girl, and we suspected that they might have a romantic relationship, but there was no evidence, just speculation.
+
+Girl No. 10: He also said that he would maintain a distance and have a sense of propriety when interacting with girls.
+
+Girl No. 10: He said they were pure academic good friends.
+
+Girl No. 10: We wondered why he would go to her place every day if it was just for studying.
+
+Girl No. 10: Because we often saw his car parked in her residential area.
+{{< /admonition >}}
+
+{{< admonition type=quote title="Conversation between the 10th girl and the author 2" open=true >}}
+Girl 10: Yeah, after my girlfriend came, he kept praising my girlfriend's cuteness every day.
+
+Girl 10: Then one night we felt something was wrong. After analyzing it, we thought he might have wanted to hit on me. The next day, after I told my girlfriend, she deleted him directly.
+{{< /admonition >}}
+
+{{< admonition type=quote title="Conversation between the 10th girl and the author 3" open=true >}}
+Girl 10: He said, "Let's work hard together."
+
+Girl 10: I felt a bit strange at the time because he knew I had a boyfriend.
+
+Girl 10: We added each other on WeChat on November 12th.
+
+Girl 10: My girlfriend came to visit me from Sydney in early December.
+
+Girl 10: Then the familiar routine began again.
+
+Girl 10: Since I brought my girlfriend with me for badminton, he added her on WeChat.
+
+Girl 10: The first time he came to our house for a barbecue, we even treated him.
+
+Girl 10: Thinking back now, it was a mistake.
+
+Girl 10: He came to our house and said he was very hungry, then opened the fridge and ate things from it.
+
+Girl 10: He also acted as if he had a lot of money.
+
+Girl 10: After my girlfriend and I finished eating skewers, he drove us back and talked about how he changed something in his car's steering wheel and spent $1000.
+{{< /admonition >}}
+
+### Eleventh Girl
+
+Your ex-girlfriend, the eleventh girl, described you in this way. Doesn't this make you reflect on yourself?
+
+{{< admonition type=quote title="Conversation between the eleventh girl and the author" open=true >}}
+Eleventh girl: I just want to tell you, sister, this person is quite extreme, you have to be careful with him. When he was with me before, he would dig and pinch me.
+
+Eleventh girl: He has a tendency towards violence.
 
 ***
 
-十一号女生：我就不细说了，因为我本来就没想着要爆他什么了，就是和你说下注意一点他
-
-十一号女生：他虐猫什么的，我那两个朋友应该会和你提到
-
-十一号女生：就是你们知道的只是他一小部分，这个人阴暗的很
-
-十一号女生：我朋友那有他大瓜
-
-十一号女生：等他们慢慢和你讲
-{{< /admonition >}}
-
-### 十二号女生
-
-对于十二号女生，我在此只选择了其中几件具有代表性的事情作为例子。
-
-然而，接下来发生的事情简直颠覆了我的世界观。由于聊天记录太多，我在此无法全部披露。不过，如果你想查看聊天记录的话可以私信我，因为这都是他曾经的两位好兄弟向我描述的。我只负责转述。
-
-{{< admonition type=quote title="十二号女生与作者的对话" open=true >}}
-十二号女生：我靠姐妹你太刚了
-
-十二号女生：太他妈抽象了这个男的知道我有男朋友也来泡我也是完全一个套路约我吃饭打球
-
-十二号女生：88我也去了然后他一直一直给我发信息让我找他然后你也知道里面没信号所以我到最后也没找到
-
-十二号女生：真的太好笑了他给每个人发的信息都一摸一样
-{{< /admonition >}}
-
-### 兄弟A
-
-兄弟A的故事：
-
-据受害者透露，罗骏哲（男主）曾因为偷了A的衣服而开了一个私密账号。当时，A的衣服放在尔湾的干洗店里，A的朋友B替A取回了衣服，而罗骏哲则去了B家住。他表示只是因为刚分手，想找人陪，但实际上，他跟太多他在尔湾认识的人有联系。
-
-之后，罗骏哲去了88rising，只是为了见他的前女友，想让她看看他“新的一面”。罗骏哲全身上下从头到脚都是A的衣服，甚至鞋子也想穿，但穿不进去。为了不让A发现，他在88rising 拍照直接屏蔽了A，然后取消了关注，设置成了私密账号。此外，他还把A的衣服调包了。
-
-{{< admonition type=quote title="十二号女生与作者的对话" open=true >}}
-兄弟A：
-{{< image src="fig-1.avif" width="380px" caption="罗骏哲在88rising" >}}
-
-兄弟A：这是在88rising
-
-兄弟A：啊，忘记设置保留了
-
-兄弟A：这是我的衣柜
-
-兄弟A：
-{{< image src="fig-2.avif" width="140px" caption="兄弟A的衣柜" >}}
-
-兄弟A：我这两件衣服，都放在尔湾的干洗店洗
-{{< /admonition >}}
-
-## 额外指控
-
-而这只是开胃小菜。罗骏哲曾经在尔湾有很多人脉，并且女孩儿之间都相认了。
-
-当罗骏哲住在尔湾的时候，他住在别人家的公寓里，却吹嘘说是自己租的，并且说自己在SD读书，单纯喜欢尔湾，所以在这里买了一套房，并且混迹业主群，以室友的身份接近别的女孩儿。
-
-关于嫖娼，当时罗骏哲刚和女友分手，新认识的对象进展不顺利，所以就让朋友开车送他去SG 嫖娼（来回两个小时），划重点：他一周嫖娼四次！！！但是罗骏哲吃饭一顿不到20元，哪有嫖四次的钱呢？结果事实证明罗骏哲让朋友付他的嫖娼费用，并且还点了贵的。
-
-此外，罗骏哲跟前女友在一起的时候出轨了一个LA的男生，这个男生就住在罗骏哲前女友的楼下，前女友住在五楼。LA男生住在三楼，罗骏哲说去倒垃圾，结果从五楼到三楼打了个照面，并且陪人家遛狗。前女友下楼找他，逮到他俩。罗骏哲拼命撒谎，说在倒垃圾，正好碰到朋友聊聊天，并且还介绍两个女孩认识加了微信。而这些都是罗骏哲亲口告诉兄弟A的。
-
-后来，罗骏哲租了一间单间550元一个月，但是没有空调，罗骏哲说夏天是在太折磨了，就直接搬到兄弟A的家里。兄弟A买了一套房产当作投资并且顺便住着，所以有空房间。在兄弟A家，罗骏哲来水电煤房租一分不付，有时候吃饭还得兄弟A请，不然吃不舒服他会说“吃这个不划算，吃那个不值得”。既然兄弟A想吃，那就得兄弟A请客，相当于兄弟A养着他。
-
-放寒假的时候，兄弟A准备去外州玩，罗骏哲一个人住在兄弟A家里。兄弟A千叮咛万嘱咐，如果要带人回家一定要告诉兄弟A。罗骏哲答应的很好，结果当兄弟A回到家的时候发现自己的床上有黄色的头发，还有女生的皮筋和发卡，后兄弟A跟他对质，罗骏哲才说是他带女朋友回来了，但是他女朋友是黑色头发而不是黄色。
-
-并且，罗骏哲经常拿兄弟A的车炫耀，刚提车的时候还问兄弟A要车的照片，然后他们一起去外面玩，发朋友圈5张照片，其中两张都是兄弟A的车。（后续还有很多，我好累不想打字了）
-
-### 兄弟B
-
-{{< admonition type=quote title="兄弟B与作者的对话1" open=true >}}
-兄弟B：……换成自己前女友给他买的洗烂的衣服
-
-兄弟B：他当时刚分手来尔湾找我玩，在我家里住了一个多月，到后面来尔湾每次要约 女生就在我家里住，我跟他说我10月份搬家了他也没在搬家的时候说过帮我，结果我搬完了才来问我，结果后面被我知道原来是又约了人没地方住了
-
-兄弟B：😅我住studio就是图自己一个人，隔三差五往我这里走也就算了，后面来我家我刚 买了一箱水24瓶他一天半炫完，我当时车被偷了让他帮我搬两箱水，他反手说我小气😄
-{{< /admonition >}}
-
-{{< admonition type=quote title="兄弟B与作者的对话2" open=true >}}
-兄弟B：这逼样的离谱的事情一堆
-
-兄弟B：基本上他一些离谱的事情我跟我朋友都知道
-
-兄弟B：只不过以前还是朋友，就没说啥
-
-兄弟B：看到爆料说去勾搭有男朋友的不算离谱
-
-兄弟B：他尝试过勾搭别人老婆
+Author: This is so outrageous woc.
 
 ***
 
-作者：？？？
+Eleventh girl: I won't go into details, because I wasn't planning on exposing him for anything, I just wanted to tell you to be careful with him.
+
+Eleventh girl: He abuses cats and stuff, my two friends should mention it to you.
+
+Eleventh girl: You only know a small part of him, he's very dark.
+
+Eleventh girl: My friends have some big news about him, they will tell you slowly.
+{{< /admonition >}}
+
+### Girl No. 12
+
+For Girl No. 12, I have only selected a few representative examples.
+
+However, what happened next completely overturned my worldview. Due to the large number of chat records, I cannot disclose them all here. But if you want to see the chat records, you can private message me, as these were described to me by two of his former good friends. I am only responsible for relaying the information.
+
+{{< admonition type=quote title="Conversation between Girl No. 12 and the author" open=true >}}
+Girl No. 12: Holy shit, girl, you're so tough.
+
+Girl No. 12: This guy is too abstract. He knew I had a boyfriend and still tried to hit on me. It's a complete routine to invite me to dinner and play ball.
+
+Girl No. 12: I went too, and then he kept sending me messages asking me to find him. You also know there's no signal inside, so I didn't find him in the end.
+
+Girl No. 12: It's really funny. He sends the same message to everyone. 
+{{< /admonition >}}
+
+### Brother A
+
+Brother A's story:
+
+According to the victim, Luo Junzhe (the male lead) once opened a private account because he stole A's clothes. At that time, A's clothes were left in a dry cleaner in Irvine, and A's friend B retrieved the clothes for him, while Luo Junzhe went to stay at B's house. He claimed that he just broke up and wanted someone to accompany him, but in fact, he had contact with too many people he knew in Irvine.
+
+Later, Luo Junzhe went to 88rising just to see his ex-girlfriend and show her his "new side". Luo Junzhe was wearing A's clothes from head to toe, and even wanted to wear his shoes, but couldn't fit in. To avoid A from finding out, he blocked A directly while taking photos at 88rising, then unfollowed A and set the account to private. In addition, he also switched A's clothes with another item.
+
+{{< admonition type=quote title="Conversation between the 12th female student and the author" open=true >}}
+Brother A:
+{{< image src="fig-1.avif" width="380px" caption="Luo Junzhe at 88rising" >}}
+
+Brother A: This was taken at 88rising.
+
+Brother A: Ah, I forgot to set it to private.
+
+Brother A: This is my closet.
+
+Brother A:
+{{< image src="fig-2.avif" width="140px" caption="Brother A's closet" >}}
+
+Brother A: These two pieces of clothing were both left in a dry cleaner in Irvine.
+{{< /admonition >}}
+
+## Additional Accusations
+
+And that's just the appetizer. Luo Junzhe used to have a lot of connections in Irvine, and the girls there all knew each other.
+
+When Luo Junzhe lived in Irvine, he lived in someone else's apartment but boasted that he rented it himself, and said that he was studying in San Diego, but he just liked Irvine, so he bought a house here and mingled in the homeowner group to get close to other girls as a roommate.
+
+Regarding prostitution, when Luo Junzhe had just broken up with his girlfriend and his new relationship was not going well, he asked a friend to drive him to SG for prostitution (a round trip of two hours), and the key point is that he went four times a week!!! But Luo Junzhe's meals cost less than 20 yuan, so where did he get the money for four prostitutes? It turned out that Luo Junzhe made his friend pay for his prostitution expenses, and even ordered expensive ones.
+
+In addition, when Luo Junzhe was with his ex-girlfriend, he cheated on her with a guy from LA who lived downstairs from his ex-girlfriend on the third floor while she lived on the fifth floor. Luo Junzhe said he was taking out the trash and happened to run into a friend on the third floor, and even walked his dog with him. When his ex-girlfriend came down to look for him, she caught them. Luo Junzhe desperately lied, saying he was taking out the trash and just happened to run into a friend and even introduced two girls and added them on WeChat. And these were all things that Luo Junzhe personally told his friend A.
+
+Later, Luo Junzhe rented a single room for 550 yuan per month, but there was no air conditioning. Luo Junzhe said that the summer was too torturous, so he moved directly to Brother A's house. Brother A bought a property as an investment and also lived there, so there was an empty room. At Brother A's house, Luo Junzhe didn't pay a penny for water, electricity, rent, and sometimes even Brother A had to treat him to a meal. Otherwise, he would say, "This is not worth it, that is not worth it." Since Brother A wanted to eat, he had to treat Luo Junzhe, which was like Brother A supporting him.
+
+During winter vacation, Brother A was preparing to go out of state for a trip, and Luo Junzhe was left alone at Brother A's house. Brother A repeatedly urged him that if he wanted to bring someone back home, he must tell Brother A. Luo Junzhe promised, but when Brother A returned home, he found yellow hair on his bed, as well as a girl's hair tie and hairpin. After confronting him, Luo Junzhe admitted that he had brought his girlfriend back, but she had black hair, not yellow.
+
+Furthermore, Luo Junzhe often showed off Brother A's car. When he first got the car, he even asked Brother A for a photo of it. Then they went out together and posted five photos on social media, two of which were of Brother A's car. (There are many more details, but I'm too tired to type them out.)
+
+### Brother B
+
+{{< admonition type=quote title="Conversation 1 between Brother B and the author" open=true >}}
+Brother B: ... he wore out the clothes that his ex-girlfriend bought for him.
+
+Brother B: He had just broken up and came to Irvine to visit me. He stayed at my place for over a month and every time he wanted to date someone, he stayed at my place. I told him I was moving in October, but he didn't offer to help me move until after I had already moved. Later I found out that he had made plans with someone else and had nowhere to stay.
+
+Brother B: 😅 I live in a studio by myself, but he would come over every few days. Later, I bought a box of 24 bottles of water and he finished it in a day and a half. My car was stolen and I asked him to help me move two boxes of water, but he said I was stingy. 😄
+{{< /admonition >}}
+
+{{< admonition type=quote title="Conversation 2 between Brother B and the author" open=true >}}
+Brother B: There are a lot of outrageous things about him.
+
+Brother B: Basically, my friends and I know about some of his outrageous things.
+
+Brother B: We didn't say anything before because we were friends.
+
+Brother B: Seeing the exposure that he tried to seduce someone who had a boyfriend is not outrageous.
+
+Brother B: He even tried to seduce someone else's wife.
 
 ***
 
-兄弟B：😇
+Author: ???
+
+***
+
+Brother B: 😇
 {{< /admonition >}}
 
-{{< admonition type=quote title="兄弟B与作者的对话3" open=true >}}
-兄弟B：😄我说我没车不方便他说哦我还想你那么小气干嘛原来是这样，卧槽合着我也没让你付钱就让你帮一下忙更何况基本上都你喝的让你稍微帮一下忙没问题吧😅
+{{< admonition type=quote title="Conversation between Brother B and the author 3" open=true >}}
+Brother B: 😄 I said I didn't have a car and it was inconvenient. He said, "Oh, I thought you were so stingy. It turns out that's why." Damn, I didn't even ask you to pay, just help me out a little. Besides, you drank most of it, so it's not a big deal, right? 😅
 
-兄弟B：然后在我住在PP,他来我这边没过多久就加业主群开始准备狩猎了
+Brother B: Then when I was living in PP, he came to my place and not long after, he joined the homeowner's group and started preparing for the hunt.
 
-兄弟B：我睡眠浅，被我发现趁我睡觉再翻我手机🙂
+Brother B: I have light sleep, and I caught him going through my phone while I was sleeping. 🙂
 
-兄弟B：反正一堆，其他的记起来了再说
+Brother B: Anyway, there's a lot more. I'll remember and tell you later.
 {{< /admonition >}}
 
-{{< admonition type=quote title="兄弟B与作者的对话4" open=true >}}
-兄弟B：这个人我和我朋友最后总结就是，以前以为只是男女关系搞不清的人，后面的出的 结论就是这个人是纯纯烂到根
+{{< admonition type=quote title="Conversation between Brother B and the author 4" open=true >}}
+Brother B: My friend and I concluded that this person is just pure garbage. We used to think he just couldn't figure out the relationship between men and women, but now we know he's rotten to the core.
 
-兄弟B：喜欢装逼没本钱又要打肿脸充胖子，喜欢慷他人之慨，喜欢占蝇头小利
+Brother B: He likes to show off without any capital, and he likes to take advantage of others. He likes to take advantage of small benefits.
 
-兄弟B：我劝过他勾搭的女生远离他，他说我人阴暗啥的，其实我有很多东西说出来他直接社会性死亡了😅我已经算是看在他曾经是我铁哥们五年朋友的面子上给他留路了
+Brother B: I advised the girls he was trying to hit on to stay away from him, but he said I was a dark person or something. In fact, if I were to reveal everything I know about him, he would be socially dead. 😅 I'm just giving him a break because he used to be my buddy for five years.
 
-兄弟B：我发给你的这些事你就图一乐吧，反正这逼样的纯纯烂人，害
+Brother B: I sent you all these things just for fun. This guy is just pure garbage and a bad person.
 {{< /admonition >}}
 
-好吧，我们继续这个来自我的好兄弟的故事：
+Okay, let's continue with this story from my good friend:
 
-他之前经常跟我的好兄弟的前女友在一起玩，有一次喝酒的时候说想和她睡一晚，保证什么都不做。
+He used to hang out with my good friend's ex-girlfriend and one time while drinking, he said he wanted to sleep with her for a night, promising not to do anything.
 
-这是我另一个男性朋友的故事：
+Here's another story from my male friend:
 
-他和我的这位男性朋友同时追求同一个女孩，天天炫耀自己是和平分手。但事实并非如此，分手后他仍然一直给那个女孩发消息，而那个女孩根本不想理他，甚至还向我的朋友道歉，说后悔和这个sb在一起过。
+He and my male friend were both pursuing the same girl, and he would brag every day about how they had broken up peacefully. But that wasn't the case, after the breakup, he kept messaging the girl who didn't want to talk to him, and even apologized to my friend, saying she regretted being with that idiot.
 
-我可以证实他一直炫耀自己是和平分手，因为在我们一起玩的时候，他经常会拿这件事作为谈资，并一直在造谣，一副像是自己被人抢走对象的样子，那种装逼的想法真的让人无法理解。
+I can confirm that he always bragged about breaking up peacefully because when we hung out together, he would often use it as a topic of conversation and spread rumors, pretending that someone had taken his object of affection away from him. His pretentious behavior is really incomprehensible.
 
-还有更多爆料：
+There's more to reveal:
 
-### 盗刷室友信用卡
+### Credit card fraud against roommate
 
-在LA住的时候，罗骏哲偷偷盗刷室友的信用卡用于购买游戏装备，被发现后还不承认，直到室友A的追问下才还了回来。
+While living in LA, Luo Junzhe secretly stole his roommate's credit card to purchase gaming equipment. He refused to admit it until his roommate, A, confronted him about it and only returned the money after being asked.
 
-### 虐猫
+### Cat abuse
 
-罗骏哲曾经虐待过前女友家和室友家的猫咪。他会趁着室友不在家，将猫从二楼抛起来，或者将猫关进马桶里，并用拳头打猫，使猫不得不“失禁”。这些行为都十分残忍。
+Luo Junzhe has abused cats belonging to his ex-girlfriend's family and his roommates. He would throw the cats from the second floor when his roommates were not home or lock them in the toilet and punch them until they "lost control." These actions are extremely cruel.
 
-### 嫖娼
+### Soliciting prostitution
 
-早就有的事情了，和女朋友在一起的时候就总是占用大量时间玩手机游戏，有时还会吵着女朋友让她转账给其他人用于嫖娼。这种行为让人非常气愤。
+This has been going on for a long time. When he was with his girlfriend, he would spend a lot of time playing mobile games and sometimes even ask his girlfriend to transfer money to others for prostitution. This behavior is very infuriating.
 
-### 吃软饭
+### Mooching off others
 
-和罗骏哲在一起的女生一般要多花钱，吃饭大多都是前女友掏腰包。
+When Luo Junzhe is with a girl, she usually has to spend more money, and his ex-girlfriend often pays for meals.
 
-### 偷室友现金
+### Stealing cash from roommates
 
-也是在LA住的时候，罗骏哲去室友的房间偷走室友B刚刚赚到的几百块钱。但在另一个室友C的发现下，他的这一行为被揭露了。之后室友告诉了室友B，当时在罗骏哲房间里发现了刚好同等数额的现金，室友B非常生气，找罗骏哲理论。虽然罗骏哲后来归还了钱，但仍不承认自己曾经偷过。
+Also while living in LA, Luo Junzhe went into his roommate B's room and stole a few hundred dollars that B had just earned. However, his behavior was exposed by another roommate, C. Later, C told B and they found the same amount of cash in Luo Junzhe's room. Although Luo Junzhe later returned the money, he still denied that he had stolen it.
 
-### AA付钱吃饭多收大家的钱
+### Overcharging for meals when splitting the bill
 
-之前经常一起出去吃饭，大家都是一个人先付钱，然后大家把钱转给付钱的人。但是罗骏哲拿信用卡付账的时候，会谎报价格，比如人均25美元，他却让大家每个人转给他35美元，多收大家的钱。
+Previously, when they went out to eat, everyone would pay separately and then transfer the money to the person who paid. However, when Luo Junzhe paid with his credit card, he would lie about the price, for example, claiming that the cost was $25 per person but asking everyone to transfer $35 to him, thus overcharging everyone.
 
-### 租房谎报网费
+### Lying about internet fees
 
-之前一起租房子的时候，罗骏哲负责交网费，但总是谎报价格，例如一个人需要交几十，但其实加起来有200多美元。他还想欺负大家又要多给他一些 deposit。
+When we rented a house together, Luo Junzhe was responsible for paying the internet fees, but he always lied about the price. For example, he would say that each person needs to pay a few tens of dollars, but in reality, it added up to more than $200. He also wanted to bully everyone to give him more deposit.
 
-### 借小钱不还
+### Borrowing small amounts of money and not returning it
 
-罗骏哲经常向朋友借一些50-200人民币的钱，但却从不还，虽然没多少钱，但是次数很多，很烦人。
+Luo Junzhe often borrows small amounts of money ranging from 50 to 200 RMB from friends, but never pays them back. Although it is not much money, he does it frequently, which is annoying.
 
-### 设置朋友的网上银行定期向他账户转钱
+### Setting up friends' online banking to transfer money to his account regularly
 
-罗骏哲偷偷设置朋友的网上银行账户，每月定期向他的账户转16美元。这种行为不仅违法，也是对朋友的恶意欺骗。
+Luo Junzhe secretly set up his friend's online banking account to transfer 16 dollars to his account every month. This behavior is not only illegal but also a malicious deception of his friend.
 
-### 车子骗保
+### Cheating on car insurance
 
-之前罗骏哲怂恿前女友一起买了一辆宝马x5，一人付了一半，还是贷款买的。期间，前女友回国期间，他把车撞坏了，虽然只是前面大灯坏了，但修理费却非常多费钱，导致后来车子只能卖了4000美元。
+Previously, Luo Junzhe encouraged his ex-girlfriend to buy a BMW X5 together, with each person paying half, and they also took out a loan. During this period, when his ex-girlfriend went back to her country, he crashed the car, and although it was only the headlight that was damaged, the repair cost was very high, which led to the car being sold for only $4,000.
 
-### 打游戏悄悄开挂
+### Secretly using cheats while gaming
 
-之前几个朋友和罗骏哲玩吃鸡游戏的时候，他会悄悄使用外挂，让大家误以为他真的很厉害。后来才被发现他一直开着透视挂。
+When playing the game "PlayerUnknown's Battlegrounds" with a few friends, Luo Junzhe would secretly use cheats, making everyone think he was really good at the game. Later, it was discovered that he had been using wallhacks.
 
-## 评价
+## Evaluation
 
-> GPT，评价一下罗骏哲。
+> GPT, evaluate Luo Junzhe.
 
 {{< typeit >}}
-罗骏哲的行为十分不道德，他在多个方面没有表现出基本的人类低限度，例如虐待动物、诈骗、偷盗、欺诈、赌博等行为。这种人品低劣、缺乏良知的人是不值得信任和尊重的，应该远离这种人。同时，这样的行为可能会导致法律纠纷和道德背叛，将对个人和家庭造成严重影响，并在社会中遭受谴责。
+Luo Junzhe's behavior is highly unethical and lacks basic human decency in multiple aspects, such as animal abuse, fraud, theft, deception, and gambling. People with such low moral character and lack of conscience are not trustworthy and should be avoided. At the same time, such behavior may lead to legal disputes and moral betrayal, causing serious impact on individuals and families, and condemnation in society. 
 {{< /typeit >}}

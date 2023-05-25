@@ -1,7 +1,7 @@
 ---
 slug: ucsd-lib-sex
-title: UCSD - 解压门 出轨事件惊动校园
-subtitle: 期末周卫生间出轨、多名女性卷入UCSD大规模出轨事件
+title: UCSD - Infidelity scandal shocks campus
+subtitle: Multiple women involved in a large-scale infidelity scandal at UCSD, with a male student caught having sex in the library bathroom during finals week.
 date: 2023-05-24T11:56:23+08:00
 draft: false
 author:
@@ -9,7 +9,7 @@ author:
   link:
   email:
   avatar:
-description: 在UCSD加州大学圣地亚哥分校，一名男生在图书馆卫生间与女同学进行解压运动被其女友发现。女友在男友手机中发现了出轨多名女性的聊天、约炮证据，当中包括了不同年龄、职位和身份的女性。该女生将证据发到多个课群，引发了学校内部的轰动。事件涉及到了一名已婚已孕的在校生物PHD、一位在职初中教师（现在UCSD读研）、各种学姐学妹和外国同学等，其中多位女生在视频中坦言自己已经有了男友。
+description: At UCSD, a male student was caught having sex with a female classmate in the library bathroom by his girlfriend. His girlfriend found evidence of him cheating on multiple women, including women of different ages, positions, and identities, in his phone. She sent the evidence to multiple class groups, causing a stir on campus. The scandal involved a married and pregnant biology PhD student, a middle school teacher who is now studying at UCSD, various senior and junior sisters, foreign students, and many women who confessed in videos that they already had boyfriends.
 keywords:
 license:
 comment: true
@@ -26,7 +26,7 @@ categories:
   - GOSSIP
 hiddenFromHomePage: false
 hiddenFromSearch: false
-summary: 在UCSD加州大学圣地亚哥分校，一名男生在图书馆卫生间与女同学进行解压运动被其女友发现。女友在男友手机中发现了出轨多名女性的聊天、约炮证据，当中包括了不同年龄、职位和身份的女性。该女生将证据发到多个课群，引发了学校内部的轰动。事件涉及到了一名已婚已孕的在校生物PHD、一位在职初中教师（现在UCSD读研）、各种学姐学妹和外国同学等，其中多位女生在视频中坦言自己已经有了男友。
+summary: At UCSD, a male student was caught having sex with a female classmate in the library bathroom by his girlfriend. His girlfriend found evidence of him cheating on multiple women, including women of different ages, positions, and identities, in his phone. She sent the evidence to multiple class groups, causing a stir on campus. The scandal involved a married and pregnant biology PhD student, a middle school teacher who is now studying at UCSD, various senior and junior sisters, foreign students, and many women who confessed in videos that they already had boyfriends.
 resources:
   - name: featured-image
     src: featured-image.jpg
@@ -46,18 +46,18 @@ repost:
 
 <!--more-->
 
-## 前情提要
+## Recap
 
-UCSD加州大学圣地亚哥分校还曝出一名渣男在期末周在图书馆卫生间背着女友与女同学进行解压运动，一名女生在男友手机中发现了其出轨多名女性的聊天、约炮证据，当中包括了不同年龄、职位和身份的女性，其中很多女性还拥有男朋友。该女生一气之下将证据发到多个课群，这一事件引起了学校内部的轰动，其中涉及到了一名已婚已孕的在校生物PHD、一位在职初中教师（现在UCSD读研）、各种学姐学妹和外国同学等，其中多位女生在视频中坦言自己已经有了男友。
+UCSD (University of California, San Diego) has also exposed a scumbag who relieved himself with a female classmate in the library bathroom during finals week while his girlfriend was unaware. A female student found evidence of his infidelity with multiple women, including women of different ages, positions, and identities, many of whom had boyfriends. She sent the evidence to multiple class groups in anger, causing a stir within the school. The incident involved a married and pregnant biology PhD student, a working middle school teacher (now studying at UCSD), various senior and junior sisters, and foreign students, many of whom admitted to having boyfriends in the video. 
 
-{{< admonition type=quote title="微博原文" open=false >}}
-{{< image src="weibo1.avif" width="240px" caption="微博原文1" >}}
-{{< image src="weibo2.avif" width="240px" caption="微博原文2" >}}
+{{< admonition type=quote title="Weibo post" open=false >}}
+{{< image src="weibo1.avif" width="240px" caption="Weibo post 1" >}}
+{{< image src="weibo2.avif" width="240px" caption="Weibo post 2" >}}
 {{< /admonition >}}
 
-## 事情发展
+## Development of the Story
 
-### 男主和女主的对话
+### Conversation between the Male and Female Protagonists
 
 {{< image src="1.avif" width="240px" caption="iMessage 1" >}}
 {{< image src="2.avif" width="240px" caption="iMessage 2" >}}
@@ -69,33 +69,34 @@ UCSD加州大学圣地亚哥分校还曝出一名渣男在期末周在图书馆�
 {{< image src="8.avif" width="240px" caption="iMessage 8" >}}
 {{< image src="9.avif" width="240px" caption="iMessage 9" >}}
 
-### 在Geisel图书馆性交
+### Sexual Activity in the Geisel Library
 
-以下内容不适合18岁以下人群观看，请确保此人群远离。
+The following content is not suitable for viewers under 18 years old. Please ensure that this age group stays away.
 
-{{< admonition type=warning title="少儿不宜NSFW" open=false >}}
+{{< admonition type=warning title="NSFW" open=false >}}
 {{< image src="xvideo.avif" width="480px" caption="XVIDEOS" >}}
-{{< image src="10.avif" width="320px" caption="Geisel图书馆 1" >}}
-{{< image src="11.avif" width="320px" caption="Geisel图书馆 2" >}}
-{{< image src="12.avif" width="320px" caption="Geisel图书馆 3" >}}
-{{< image src="13.avif" width="320px" caption="Geisel图书馆 4" >}}
-{{< image src="14.avif" width="320px" caption="Geisel图书馆 5" >}}
+{{< image src="10.avif" width="320px" caption="Geisel Library 1" >}}
+{{< image src="11.avif" width="320px" caption="Geisel Library 2" >}}
+{{< image src="12.avif" width="320px" caption="Geisel Library 3" >}}
+{{< image src="13.avif" width="320px" caption="Geisel Library 4" >}}
+{{< image src="14.avif" width="320px" caption="Geisel Library 5" >}}
 {{< /admonition >}}
 
-## 泄露文件
+## Leaked Files
 
-{{< admonition type=warning title="少儿不宜" open=true >}}
-以下内容不适合18岁以下人群观看，请确保此人群远离。
+{{< admonition type=warning title="NSFW" open=true >}}
+The following content is not suitable for viewers under 18 years old. Please ensure that this age group stays away.
 
-而且如果你只是要了解一下故事，到这就结束了，没必要污染眼睛。
+If you only want to know about the story, it ends here. There is no need to pollute your eyes.
+
 {{< /admonition >}}
 
 {{< link href="https://oss.schoolmelon.com/source/ucsd-lib-sex.zip" content="ucsd-lib-sex.zip" title="Download ucsd-lib-sex.zip" download="ucsd-lib-sex.zip" card=true >}}
 
-## 评论
+## Comment
 
-> GPT，评价一下此事件。
+> GPT, evaluate this event.
 
 {{< typeit >}}
-这个事件非常严重和令人震惊。渣男在期末周在图书馆卫生间与女同学进行不道德行为，而且还出轨多名女性，其中很多还有男友。这种行为不仅背叛了自己的女友，而且对其他女性造成了伤害。该女生公开了这个渣男的行为并分享了证据，使得这个事件在校内引起了轰动。这个事件提醒我们要珍惜自己和别人的感情，要尊重自己和别人的尊严。
+This event is very serious and shocking. The scumbag engaged in unethical behavior with a female classmate in the library restroom during the final exam week, and also cheated on multiple women, many of whom had boyfriends. This behavior not only betrayed his own girlfriend but also caused harm to other women. The female student exposed the scumbag's behavior and shared evidence, causing a sensation on campus. This event reminds us to cherish our own and others' emotions, and to respect our own and others' dignity. 
 {{< /typeit >}}

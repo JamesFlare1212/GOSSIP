@@ -1,6 +1,6 @@
 ---
 slug: readme
-title: README 读前必看
+title: README - Must-Read Before You Start
 subtitle:
 date: 2023-05-13T13:01:14+08:00
 draft: false
@@ -9,7 +9,7 @@ author:
   link:
   email:
   avatar:
-description: 本页面介绍了项目由来，如何投稿，合作联系方式，当前项目进度。
+description: This page introduces the origin of the project, how to contribute, contact for collaborations, and the current project progress.
 keywords:
 license:
 comment: true
@@ -20,7 +20,7 @@ categories:
   - Notice
 hiddenFromHomePage: false
 hiddenFromSearch: false
-summary: 本集收其它网站启发，同时做出了一些改进和重写。完全开源，欢迎各位提交改进。
+summary: This project is inspired by other websites, with some improvements and rewrites. It is fully open source, and contributions are welcome.
 resources:
   - name: featured-image
     src: featured-image.jpg
@@ -40,141 +40,141 @@ repost:
 
 <!--more-->
 
-## 前言
+## Introduction
 
-<u>瓜田Neo</u> 和 <u>瓜田 Turbo</u> 有何不同？原来的 <u>​留学生瓜田</u>  呢？
+What is the difference between "Gua Tian Neo" and "Gua Tian Turbo"? What happened to the original "Overseas Student Gua Tian" website?
 
-​留学生瓜田 的站主决定退出了，这是他的声明：
+The owner of "Overseas Student Gua Tian" decided to quit and released the following statement:
 
-> ### 没走错，我烦了，不做了。
+> ### Yes, I'm done. I'm tired.
 > 
-> 在我做这个站的时候我一篇pdf都还没看过，纯粹只是看好多人在要想图个乐子给身边的朋友做个站玩一下。
+> When I started this website, I didn't even look at a single PDF. I just thought it would be fun to make a website for my friends to play around with.
 > 
-> 一周不到超过一百万的访问量让整件事情变了味。
+> The fact that it has received over one million visits in less than a week has changed everything.
 > 
-> 过去的几天简单的概括其实是各种事情推着我走，想一起开发网站的朋友，找我做推广的，帮助我想办法运营的，想要投稿的，想投资的，也碰到了很热心想要帮我出主意的人，以至于没有时间停下来真正去思考一下这个站到底做了些啥。
+> Over the past few days, a variety of things have pushed me to the breaking point. Friends who wanted to develop the website together, people who wanted me to help them promote their own things, people who wanted to help me find ways to operate the website, people who wanted to submit articles, people who wanted to invest in the website, and people who wanted to offer advice. I haven't had time to stop and think about what this website is really doing.
 > 
-> 这个站点从一开始的性质意味着在野蛮生长的过程当中，所谓“瓜”们的真实性得不到任何的保障，巨大的流量对于被爆料者，爆料者也不可避免的会带来完全没有必要的伤害。截至现在，已经有超过十人因为站点带来的困扰而想要将pdf下架。
+> The nature of this website means that during the wild growth process, the authenticity of the so-called "melons" cannot be guaranteed. The huge traffic inevitably causes completely unnecessary harm to both the people who are exposed and the people who are exposing them. As of now, more than ten people want to take down their PDFs because they have been troubled by the website.
 > 
-> 即便真的这个站能够在未来成长成为一个流量不错的稳定的论坛，这个运用窥私欲，爆料大尺度八卦事件的增长切入点也实在没法让我很好的接受。整个站点在流量的加持下逐渐开始大幅度地偏离我自己的价值观。
+> Even if this website could grow into a stable forum with good traffic in the future, the use of privacy invasion and the growth of events involving large-scale gossip is something I cannot fully accept. Under the influence of traffic, the entire website has gradually deviated from my own values.
 > 
-> 所以在站点二次重构基本完成，评论点赞功能添置完成可以上线的情况下，我依然决定将留学生瓜田这个站点永久关闭，建立的超过两千人的社群也会在今晚解散，网站唯一打的广告的收益也已经悉数退还，我向所有可能伤害到的人说抱歉。
+> Therefore, after the second reconstruction of the website is completed and the comment and like functions are added, I still decided to permanently close the "Overseas Student Gua Tian" website. The community of more than two thousand people established will also be disbanded tonight, and the revenue from the website's only advertisement has already been returned. I apologize to everyone who may have been harmed. 
 
-重构网站是我在操作，于是我上线了当初的分支。
+The speaker is currently working on revamping the website, and in the meantime, they have launched the original branch.
 
-### 瓜田 Neo
+### Melon Field Neo
 
-[**瓜田 Neo**](https://neo.schoolmelon.com/) 是 ​留学生瓜田 的分支版本。更轻量简洁，同时开放所有源代码和工程文件。我们重写了，或正在重写投稿内容，以此达到更好的阅读效果。
+[**Melon Field Neo**](https://neo.schoolmelon.com/) is a branch version of Melon Field for international students. It is lightweight and concise, and all source code and project files are open. We have rewritten or are rewriting the posted content to achieve a better reading experience.
 
 {{< admonition type=success title="Alpha" open=true >}}
-目前，[**瓜田 Neo**](https://neo.schoolmelon.com/) 正在进行灰度测试，收集反馈。
+Currently, **Melon Field Neo** is undergoing a gray test and collecting feedback.
 {{< /admonition >}}
 
+### Melon Field Turbo
 
-### 瓜田 Turbo
-
-[**瓜田 Turbo**](https://turbo.schoolmelon.net/) 是我们的主营业务，是一个论坛应用。任何用户都可以发布自己的内容，充分体现内容多样性。同时，瓜友之间也可以交流吃瓜感想，这一点是Neo欠缺的。
+[**Melon Field Turbo**](https://turbo.schoolmelon.net/) is our main business, a forum application. Any user can publish their own content, fully reflecting content diversity. At the same time, melon friends can also communicate their thoughts on eating melons, which is lacking in Neo.
 
 {{< admonition type=success title="Alpha" open=true >}}
-目前，[**瓜田 Turbo**](https://turbo.schoolmelon.net/) 正在进行灰度测试，收集反馈。
+Currently, **Melon Field Turbo** is undergoing a gray test and collecting feedback.
 {{< /admonition >}}
 
-### 瓜田 Legacy
+### Melon Field Legacy
 
-[**瓜田 Legacy**](https://legacy.schoolmelon.com/)是最初 ​留学生瓜田 的快照。已经停止维护，仅仅作为纪念。
+[**Melon Field Legacy**](https://legacy.schoolmelon.com/) is a snapshot of the original Melon Field for international students. It has been discontinued and is only for commemoration.
 
 {{< admonition type=failure title="Planned" open=true >}}
-目前，[**瓜田 Legacy**](https://legacy.schoolmelon.net/)还在等待。
+Currently, **Melon Field Legacy** is still waiting.
 {{< /admonition >}}
 
-## 关系图
+## Relationship Diagram
 
 ```mermaid
 flowchart TB
-    A("留学生瓜田（弃用）") ==>|社区论坛| C(("瓜田 Turbo (我是老大)"))
-    A -.->|快照存档| D("瓜田 Legacy")
-    C -->|选取素材| B("瓜田 Neo")
-    D -->|选取素材| B
+    A("留学生瓜田（弃用）") ==>|Community Forum| C(("瓜田 Turbo (I'm the Boss)"))
+    A -.->|Snapshot Archive| D("瓜田 Legacy")
+    C -->|Select Materials| B("瓜田 Neo")
+    D -->|Select Materials| B
 ```
 
-## 愿景
+## Vision
 
-我们的愿景不是促进社会对立或者矛盾。对于普通人，希望大家在未来有“此时此刻，恰如彼时彼刻”的感受，锻炼我们看透社会现象，探寻本质的能力，或者叫批判性思维。
+Our vision is not to promote social opposition or conflicts. For ordinary people, we hope that everyone can have the feeling of "at this moment, just like that moment" in the future, exercise our ability to see through social phenomena and explore the essence, or call it critical thinking.
 
-对于专家或者学者，我们希望提供社会学的案例，在学术研究中或许可以将抽象的概念和现
-实匹配。难能可贵的是，这些案例很有时效性，及时性，或许提供了和书本上不同的内容。
+For experts or scholars, we hope to provide sociological cases that can match abstract concepts with reality in academic research. What is valuable is that these cases are very timely and may provide different content from books.
 
-对于留学生，你们是本集的受众和参与者，里面的人或许就是你们的同事，希望能锻炼自己探寻本质以及批判性的思维。
+For international students, you are the audience and participants of this collection. The people in it may be your colleagues. We hope to cultivate your ability to explore the essence and critical thinking.
 
-## 改进
+## Improvements
 
-我们重写了 <u>[瓜田 Turbo](https://www.schoolmelon.net/)的精选内容</u> 和 <u>[瓜田 Legacy](https://legacy.schoolmelon.com/) 中的大部分内容</u>，做出了改进，优化了观感。同时把截屏内的内容以字符的形式重新展现，这样使得有了通用性。
+We have rewritten most of the content in <u>[瓜田 Turbo](https://www.schoolmelon.net/)</u> and <u>[瓜田 Legacy](https://legacy.schoolmelon.com/)</u>, made improvements, and optimized the visual experience. At the same time, we have re-presented the content in the screenshots in the form of characters, making it more universal.
 
-对于部分图像，我们使用了AI来提升观感。
+For some images, we use AI to enhance the visual experience.
 
-对于文本，我们使用AI润色，重写，分段了原有的内容，包括由于复制导致的格式错误。
+For text, we use AI to proofread, rewrite, and split the original content, including format errors caused by copying.
 
-对于内容，我们开源了全部代码和文档，如有兴趣，你甚至可以在本地部署一个自己的克隆，详情见文尾。
+For content, we have open-sourced all the code and documentation. If you are interested, you can even deploy your own clone locally. See the end of the article for details.
 
-对于性能，我们使用了轻量化，静态的[FixIt](https://github.com/hugo-fixit/FixIt)主题配[Hugo](https://gohugo.io/)架构，拥有极强的性能。
+For performance, we use a lightweight, static [FixIt](https://github.com/hugo-fixit/FixIt) theme with [Hugo](https://gohugo.io/) architecture, which has extremely strong performance.
 
-## 局限性
+## Limitations
 
-本集对真实性的验证极其有限，只能寄托于快速的版本控制，及时修正问题。因此存在被恶意利用的风险，比如打击报复。
+The verification of authenticity in this article is extremely limited, and can only rely on fast version control to promptly correct issues. Therefore, there is a risk of malicious exploitation, such as retaliation.
 
-从道德层面，公开进行道德审判是否是社会所能接受的，这依旧是具有争议性的，同时有潜在的法律风险。
+From a moral perspective, whether public moral judgments are acceptable to society is still controversial, and there are potential legal risks.
 
-样本数量有限，而且定位也不是数据库，所以所谓的避坑什么的功能完全不现实。
+The sample size is limited, and the positioning is not a database, so the so-called function of avoiding pitfalls is completely unrealistic.
 
-## 加入我们
+## Join Us
 
-你有几种贡献的方式，修正错误，以及完善内容。
+There are several ways for you to contribute, such as correcting errors and improving content.
 
-### 提交改进
+### Submit Improvements
 
-我们的代码托管在GitHub，
+Our code is hosted on GitHub,
 
 <a href="https://github.com/JamesFlare1212/GOSSIP/">
   <img src="https://github-readme-stats.jamesflare.com/api/pin/?username=JamesFlare1212&repo=GOSSIP&theme=github_dark_dimmed&show_owner=true" alt="GOSSIP Git Card">
 </a>
 
-如果你希望提交改动，请以[Pull Request](https://github.com/JamesFlare1212/GOSSIP/pulls)的形式提出分支合并请求，而不是试图直接在主分支提交[Commit](https://github.com/JamesFlare1212/GOSSIP/commits/dev)。
+If you wish to submit changes, please submit a branch merge request in the form of a [Pull Request](https://github.com/JamesFlare1212/GOSSIP/pulls), rather than trying to submit a [Commit](https://github.com/JamesFlare1212/GOSSIP/commits/dev) directly to the main branch.
 
-### 修正错误
+Translation:
 
-如需修正错误，你需要在本项目的仓库提出[Issue](https://github.com/JamesFlare1212/GOSSIP/issues)。
+### Correcting errors
 
-在提交 **PR**（[**P**ull **R**equest](https://github.com/JamesFlare1212/GOSSIP/pulls)）之前，我希望你充分在[Issue](https://github.com/JamesFlare1212/GOSSIP/issues)中讨论。
+If you need to correct any errors, you need to raise an [Issue](https://github.com/JamesFlare1212/GOSSIP/issues) in the repository of this project.
 
-假设你受到了别入的造谣诋毁，不用担心。我们不会容忍此行为，而且我们也有义务和责任移除平台上的虚假信息。
+Before submitting a **PR** ([**P**ull **R**equest](https://github.com/JamesFlare1212/GOSSIP/pulls)), I hope you can fully discuss it in the [Issue](https://github.com/JamesFlare1212/GOSSIP/issues).
 
-### 完善内容
+If you are the victim of rumors and defamation, don't worry. We will not tolerate this behavior, and we also have an obligation and responsibility to remove false information from the platform.
 
-如果你想提出新的想法，我推荐你在[Discussions](https://github.com/JamesFlare1212/GOSSIP/discussions)提出，然后进行讨论，而不是提出[Issue](https://github.com/JamesFlare1212/GOSSIP/issues)，因为这不是错误，而是改进。
+### Improving content
 
-如果你有不错的内容，或者知道优质的来源，欢迎投稿。
+If you want to propose new ideas, I recommend that you post them in [Discussions](https://github.com/JamesFlare1212/GOSSIP/discussions) for discussion rather than raising an [Issue](https://github.com/JamesFlare1212/GOSSIP/issues) because it is not an error but an improvement.
 
-### 投稿
+If you have excellent content or know of high-quality sources, you are welcome to submit them.
 
-如果你没有能力或者没有时间像这样直接重写一篇瓜，只有类似的PDF文件，或者相关链接。不过你仍旧希望分析和投稿，那么也是可以的，前往 [瓜田 Turbo](https://www.schoolmelon.net/)对应的分区发一个帖子即可，可以的话@James，效果更好。
+### Submitting contributions
 
-你还可以可以加入[Telegram群组](https://t.me/schoolmelon)投稿。
+If you don't have the ability or time to rewrite a gossip like this directly, but only have similar PDF files or relevant links, but you still want to analyze and submit them, it is also possible. Go to the corresponding section of [Melon Field Turbo](https://www.schoolmelon.net/) and post a thread, and if possible, tag @James for better results.
+
+You can also join the [Telegram group](https://t.me/schoolmelon) to submit your contributions.
 
 ### Form
 
-如果你只是有一些想法，而不希望深入讨论，可以直接通过此表反馈，
+If you have some ideas but do not want to discuss them in depth, you can use this form to provide feedback.
 
 <iframe width="100%" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__jtRrTNUQURPOUpVMUFNRjhTUVRGRTVPNFBEVElBWi4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
-## 合作
+## Collaboration
 
-你可以通过 jamesflare@schoolmelon.com 和我们联系。说明合作内容，最好简要地介绍一下项目。
+You can contact us through jamesflare@schoolmelon.com to discuss collaboration opportunities. Please provide a brief introduction to the project and specify the details of the collaboration.
 
-亦可以通过Telegram（[@JamesFlareV2](https://t.me/JamesFlareV2)）和我们联系。
+You can also contact us via Telegram ([@JamesFlareV2](https://t.me/JamesFlareV2)).
 
 ## Roadmap
 
-### 已确认
+### Processed
 
 - [x] [UCSD - 颜宇琪（毒品、虐童、勒索）](/posts/uscd-yuqiyann/)
   - [x] ~~ucsd瓜.pdf~~
@@ -212,7 +212,7 @@ flowchart TB
 - [x] [UoB - 王田歌 网络欺凌、诽谤、肆意侵权](/posts/uob-wang-tiange/)
   - [ ] ~~伯明翰造谣王田歌.pdf~~
 
-### 待确认
+### Pending
 
 - [x] ~~ucsd瓜.pdf~~
 - [x] ~~UCSD人渣软饭男，骗女生10余人，出轨pc偷钱偷包偷衣服虐猫蹭吃蹭住勾搭友妻刷室友信用卡借钱不还_纯图版.pdf~~
