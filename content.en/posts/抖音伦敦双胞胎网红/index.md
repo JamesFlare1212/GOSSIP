@@ -1,6 +1,6 @@
 ---
 slug: uol-qin-ziyue
-title: UoL - Qin Ziyue and His Brother: Sound Equipment, Clothes, Accommodation, and Friendship
+title: "UoL - Qin Ziyue and His Brother: Sound Equipment, Clothes, Accommodation, and Friendship"
 subtitle: Unauthorized Posting on Social Media, Wearing and Damaging Others' Valuable Items, Failure to Return Them
 date: 2023-05-26T15:34:50+08:00
 draft: false
