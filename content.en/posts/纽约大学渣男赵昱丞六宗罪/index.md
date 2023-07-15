@@ -185,3 +185,62 @@ I think this matter is relatively minor compared to other cases. At most, it is 
 {{< typeit >}}
 Based on the behavior and events presented, Zhao Yucheng's behavior is clearly extremely unethical and unacceptable, including acts of theft, malicious rumors, and physical violence. These behaviors involve violations and harm to others, especially objectification and violence against women, which are serious violations of social ethics and laws. Zhao Yucheng's actions have caused irreversible harm to others and should be punished and warned accordingly.
 {{< /typeit >}}
+
+## The Man's Clarification
+
+Here is an official response to all the false accusations and charges made against me by XXX:
+
+Regarding XXX's defamation and slander against me, I hereby solemnly declare: 
+
+I used to be in a romantic relationship with the other party. During this relationship, I devoted a lot of time and money taking care of her daily life. However, she repeatedly took advantage of my feelings for her to blackmail me, depriving me of my personal freedom, social rights, and privacy. This caused me tremendous physical and mental harm. Knowing that she was in the wrong, the other party fabricated false accusations against me in an attempt to shift all responsibility onto me and cover up the truth about what she did in the relationship. It is the villain who accuses first, and I have always been extremely tolerant and forgiving towards her. Now I will explain the unreasonable accusations made against me by the other party in two parts, and reveal the truth about her repeatedly overstepping boundaries in the relationship. Justice lies in people's hearts, and facts speak louder than eloquence. I hope that friends can think independently and not be misled by rumors. I reserve the right to hold the other party legally accountable for any harm caused by her defamation.  
+
+I admit that I was wrong regarding the first item in the PDF, which caused great distress to the victim. Previously, my ex-girlfriend controlled my WeChat and personal freedom, preventing me from participating in offline activities or communicating online with friends independently, and my WeChat records were also monitored and restricted. Therefore, I was unable to contact the victim in time to explain. Now I am in touch with the victim to sincerely apologize, and I also hereby publicly apologize to the victim and anyone who has seen this matter. I did not respect women or consider the distress and emotional impact this would have on the victim. Please forgive me.
+
+Regarding the rest of the content in the PDF, the other party has distorted the truth and fabricated facts without providing legitimate evidence to prove the involvement of both parties. Most of the content is personal fabrication without sufficient supporting details or justification. The parts that slander me are completely fictional. All the statements are piling up lies on a minor issue to attack me, the victim.  
+
+The other party has long been taking psychiatric medications (such as escitalopram) and has a history of severe depression and schizophrenia. She often self-suggests due to dissatisfaction with life or things she dislikes, exacerbating her mood swings and having violent outbursts, often yelling at me, threatening suicide, and damaging my belongings and physically attacking me.  
+
+She would often check my phone without permission while I was asleep, confiscate my phone, secretly block her disliked friends using my phone, and impersonate me to send messages forbidding them from contacting me without my knowledge. She forced me to cut off and block my friends. She would also often smash things without warning, throwing everything around her on the ground or at me, causing me tremendous mental trauma. Two of my computers, a game console and a monitor were damaged to varying degrees.
+
+{{< image src="fig-19.avif" width="240px" caption="This was the first computer, the alien one was also smashed later" >}}
+
+Regarding the domestic violence accusation, the truth is that during our fights, she had repeatedly hit my temple and head violently with her phone, not knowing her own strength, causing severe bruising on my temple, eye socket and forehead. My friends at the time can confirm the injuries on my face, but she later secretly deleted the photo evidence from my phone.  
+
+{{< image src="fig-20.avif" width="240px" caption="Only permanent scars remain now, the rest are all dents" >}}
+{{< image src="fig-21.avif" width="240px" caption="Only permanent scars remain now, the rest are all dents" >}}
+
+The hand bruising she mentioned happened when she threatened me with a kitchen knife and smashed my personal belongings. Considering her mental illness, I only wanted to appease her as much as possible, not agitate her further. When she got angry and wanted to hurt me, I never fought back, only endured silently, and did not allow myself to seek help from anyone. When I was forced to hide in the bathroom and try to lock the door, I did not notice that she had put her hand in to stop me from closing it. We did not report it to the police afterwards. I immediately applied ice packs to treat her wounds, even though I myself had also suffered tremendous mental trauma and physical harm at that time. Afterwards I took time off to accompany her to the clinic to confirm there was no soft tissue contusion or fracture, and I apologized to her parents.
+
+During our relationship, she repeatedly exhausted my trust, aggravated my mental state, and tested my bottom line. She called herself with a dummy account, had ambiguous contacts with other men, and deceived me that she had found a "next target" etc, in order to provoke me. When I tried to get to the truth, she would yell, become emotionally out of control, smash things, and splash water at me. My only physical contact was to grab her wrists to try to stop her from further harming me. I guarantee with my personality that I have never abused her, only silently endured her abuse.  
+
+The so-called beating of her alone is pure fabrication. In fact, I made concessions again and again to appease her emotions, but she imposed the domestic violence onto me instead. I could not resist because I deeply respected her and never thought of harming her.
+
+I was deeply tormented by her controlling behavior. She closely monitored all my chats with my male friends, forbidding me from contacting friends in order to cover up her own actions. She deleted many of my familiar male and female friends. Once in the early morning I took her home drunk, and she scratched my friend's face with her nails, nearly injuring his eyes, using the excuse that he was talking behind her back. Afterwards, when she saw me asking some friends for advice, she immediately blocked and deleted them.
+
+The so-called claim that I gave her fake brand products is pure slander. In fact, I had spent thousands of dollars to buy luxury goods and gifts to make her happy. The gifts I bought all have official receipts and insurance certificates proving their authenticity. 
+
+My friends all know that I am not vain, and devote most of my money and life focus on her, running around for her under academic pressure, being required to spend my time and life revolving around her. I was deprived of personal space for free activities and studying alone. I was required to pick her up and drop her off for class every day, and go grocery shopping and cook for her after class. I thought that taking good care of her could slightly improve her condition, but this has become a matter of course requirement from her and her family. They also threatened me with her mental state that I could not leave her.
+
+{{< image src="fig-22.avif" width="240px" caption="Chat record 1" >}}  
+
+The claim in item 4 that I gave the other party fake branded products is very laughable. In fact, during our relationship, I had purchased thousands of dollars worth of luxury goods and various gifts to make her happy. These slanders that I gave fake products are purely intended to ruin my reputation. All the gifts I purchased and gave to her are supported by official receipts, insurance certificates and other evidence proving their authenticity. The other party's slander against me is completely unfounded.
+
+{{< image src="fig-23.avif" width="240px" caption="Bill 1" >}}
+{{< image src="fig-24.avif" width="240px" caption="Bill 2" >}}  
+{{< image src="fig-25.avif" width="240px" caption="Bill 3" >}}
+{{< image src="fig-26.avif" width="240px" caption="Luxury goods" >}}
+
+My friends all know that I am not vain. I devote most of my money and life focus on her, working hard for her. Under academic pressure, I am required and coerced to prioritize my time and life around her. My after school recreational life is completely controlled, and I have also lost any personal space for free activities and studying alone. I am required to pick her up and drop her off for class every day, and go grocery shopping and cook for her after class. I thought that taking care of her to the best of my ability could slightly improve her bipolar disorder and mental illness, but this has become a matter of course requirement from her and her family. They also threatened me with her mental state, saying I could not leave her and had to take full responsibility.  
+
+{{< image src="fig-27.avif" width="480px" caption="Chat record 1" >}}
+{{< image src="fig-28.avif" width="480px" caption="Chat record 2" >}}
+
+A few days after we broke up, she came to apologize to me. Everyone can see why the abuser would say this if I was the one abusing her.
+
+{{< image src="fig-29.avif" width="240px" caption="Wall sticker" >}}
+{{< image src="fig-30.avif" width="240px" caption="Chat record 1" >}}
+{{< image src="fig-31.avif" width="240px" caption="Chat record 2" >}}
+{{< image src="fig-32.avif" width="240px" caption="Chat record 3" >}}
+{{< image src="fig-33.avif" width="240px" caption="Chat record 4" >}}
+
+In summary, the accusations made against me are groundless and fabricated. I was the true victim in this relationship, having suffered controlling behavior, threats, physical assaults and trauma from the other party. I have evidence to prove my innocence and the other party's lies. I hope everyone can make fair judgments based on facts. Justice will prevail.
