@@ -42,7 +42,7 @@ repost:
 
 ## 前言
 
-<u>瓜田Neo</u> 和 <u>瓜田 Turbo</u> 有何不同？原来的 <u>​留学生瓜田</u>  呢？
+<u>瓜田Neo</u> 是什么？原来的 <u>​留学生瓜田</u> 呢？
 
 ​留学生瓜田 的站主决定退出了，这是他的声明：
 
@@ -70,53 +70,31 @@ repost:
 目前，[**瓜田 Neo**](https://neo.schoolmelon.com/) 正在进行灰度测试，收集反馈。
 {{< /admonition >}}
 
-
-### 瓜田 Turbo
-
-[**瓜田 Turbo**](https://turbo.schoolmelon.net/) 是我们的主营业务，是一个论坛应用。任何用户都可以发布自己的内容，充分体现内容多样性。同时，瓜友之间也可以交流吃瓜感想，这一点是Neo欠缺的。
-
-{{< admonition type=success title="Alpha" open=true >}}
-目前，[**瓜田 Turbo**](https://turbo.schoolmelon.net/) 正在进行灰度测试，收集反馈。
-{{< /admonition >}}
-
-### 瓜田 Legacy
-
-[**瓜田 Legacy**](https://legacy.schoolmelon.com/)是最初 ​留学生瓜田 的快照。已经停止维护，仅仅作为纪念。
-
-{{< admonition type=failure title="Planned" open=true >}}
-目前，[**瓜田 Legacy**](https://legacy.schoolmelon.net/)还在等待。
-{{< /admonition >}}
-
-## 关系图
-
-```mermaid
-flowchart TB
-    A("留学生瓜田（弃用）") ==>|社区论坛| C(("瓜田 Turbo (我是老大)"))
-    A -.->|快照存档| D("瓜田 Legacy")
-    C -->|选取素材| B("瓜田 Neo")
-    D -->|选取素材| B
-```
-
 ## 愿景
 
-我们的愿景不是促进社会对立或者矛盾。对于普通人，希望大家在未来有“此时此刻，恰如彼时彼刻”的感受，锻炼我们看透社会现象，探寻本质的能力，或者叫批判性思维。
+本网站旨在通过收集和分析具有时效性的社会学案例，来培养公众的批判性思维能力，推动不同阶层的认知发展。
 
-对于专家或者学者，我们希望提供社会学的案例，在学术研究中或许可以将抽象的概念和现
-实匹配。难能可贵的是，这些案例很有时效性，及时性，或许提供了和书本上不同的内容。
+对普通公众，我们专门挑选反映当下社会现实的案例，通过提供多角度解读，训练读者透过现象探求本质，并对社会议题形成独立思考。
 
-对于留学生，你们是本集的受众和参与者，里面的人或许就是你们的同事，希望能锻炼自己探寻本质以及批判性的思维。
+对学术界研究者，我们汇聚大量尚未被学界广泛关注的前沿案例。这些具有高度时效性的一手资料，可丰富学者的实证研究，拓展学术视野。
+
+对留学生群体，考虑到他们的双重文化背景，我们的案例涵盖东西方社会的讨论，旨在加强留学生的跨文化辨析能力和批判性思维。这将提升他们的学术竞争力和就业优势。
+
+对互联网，我们致力搭建理性、包容的讨论平台，将这些尚未进入主流视野的观点提供出来，以丰富网络内容，平衡当前舆论生态，推动互联网的健康发展。
+
+我们秉持理性、进步的价值观，不偏向任何意识形态，欢迎各界人士基于案例，展开理性探讨与交流。
 
 ## 改进
 
-我们重写了 <u>[瓜田 Turbo](https://www.schoolmelon.net/)的精选内容</u> 和 <u>[瓜田 Legacy](https://legacy.schoolmelon.com/) 中的大部分内容</u>，做出了改进，优化了观感。同时把截屏内的内容以字符的形式重新展现，这样使得有了通用性。
+我们重写了 <u>[​留学生瓜田](https://www.lxsguatian.com/)</u> 中的大部分内容，做出了改进，优化了观感。同时把截屏内的内容以字符的形式重新展现，这样使得有了通用性。
 
-对于部分图像，我们使用了AI来提升观感。
+对于部分图像，我们使用了生成式AI来修复画质，提升观感。
 
-对于文本，我们使用AI润色，重写，分段了原有的内容，包括由于复制导致的格式错误。
+对于文本，我们使用生成式AI润色，重写，分段了原有的内容，包括由于复制导致的格式错误。
 
 对于内容，我们开源了全部代码和文档，如有兴趣，你甚至可以在本地部署一个自己的克隆，详情见文尾。
 
-对于性能，我们使用了轻量化，静态的[FixIt](https://github.com/hugo-fixit/FixIt)主题配[Hugo](https://gohugo.io/)架构，拥有极强的性能。
+对于性能，我们使用了轻量化，静态的 [FixIt](https://github.com/hugo-fixit/FixIt) 主题配 [Hugo](https://gohugo.io/) 架构，拥有极强的性能。
 
 ## 局限性
 
@@ -138,19 +116,19 @@ flowchart TB
   <img src="https://github-readme-stats.jamesflare.com/api/pin/?username=JamesFlare1212&repo=GOSSIP&theme=github_dark_dimmed&show_owner=true" alt="GOSSIP Git Card">
 </a>
 
-如果你希望提交改动，请以[Pull Request](https://github.com/JamesFlare1212/GOSSIP/pulls)的形式提出分支合并请求，而不是试图直接在主分支提交[Commit](https://github.com/JamesFlare1212/GOSSIP/commits/dev)。
+如果你希望提交改动，请以 [Pull Request](https://github.com/JamesFlare1212/GOSSIP/pulls) 的形式提出分支合并请求，而不是试图直接在主分支提交 [Commit](https://github.com/JamesFlare1212/GOSSIP/commits/dev)。
 
 ### 修正错误
 
-如需修正错误，你需要在本项目的仓库提出[Issue](https://github.com/JamesFlare1212/GOSSIP/issues)。
+如需修正错误，你需要在本项目的仓库提出 [Issue](https://github.com/JamesFlare1212/GOSSIP/issues)。
 
-在提交 **PR**（[**P**ull **R**equest](https://github.com/JamesFlare1212/GOSSIP/pulls)）之前，我希望你充分在[Issue](https://github.com/JamesFlare1212/GOSSIP/issues)中讨论。
+在提交 **PR**（[**P**ull **R**equest](https://github.com/JamesFlare1212/GOSSIP/pulls)）之前，我希望你充分在 [Issue](https://github.com/JamesFlare1212/GOSSIP/issues) 中讨论。
 
 假设你受到了别入的造谣诋毁，不用担心。我们不会容忍此行为，而且我们也有义务和责任移除平台上的虚假信息。
 
 ### 完善内容
 
-如果你想提出新的想法，我推荐你在[Discussions](https://github.com/JamesFlare1212/GOSSIP/discussions)提出，然后进行讨论，而不是提出[Issue](https://github.com/JamesFlare1212/GOSSIP/issues)，因为这不是错误，而是改进。
+如果你想提出新的想法，我推荐你在 [Discussions](https://github.com/JamesFlare1212/GOSSIP/discussions) 提出，然后进行讨论，而不是提出 [Issue](https://github.com/JamesFlare1212/GOSSIP/issues)，因为这不是错误，而是改进。
 
 如果你有不错的内容，或者知道优质的来源，欢迎投稿。
 
@@ -158,7 +136,7 @@ flowchart TB
 
 如果你没有能力或者没有时间像这样直接重写一篇瓜，只有类似的PDF文件，或者相关链接。不过你仍旧希望分析和投稿，那么也是可以的，前往 [瓜田 Turbo](https://www.schoolmelon.net/)对应的分区发一个帖子即可，可以的话@James，效果更好。
 
-你还可以可以加入[Telegram群组](https://t.me/schoolmelon)投稿。
+你还可以可以加入 [Telegram群组](https://t.me/schoolmelon) 投稿。
 
 ### Form
 
@@ -170,7 +148,7 @@ flowchart TB
 
 你可以通过 jamesflare@schoolmelon.com 和我们联系。说明合作内容，最好简要地介绍一下项目。
 
-亦可以通过Telegram（[@JamesFlareV2](https://t.me/JamesFlareV2)）和我们联系。
+亦可以通过 Telegram（[@JamesFlareV2](https://t.me/JamesFlareV2)）和我们联系。
 
 ## Roadmap
 
@@ -202,7 +180,7 @@ flowchart TB
 - [x] [KCL - 邢乐聪 涉嫌性骚扰 欺骗女性](/posts/kcl-xing-lecong/)
   - [x] ~~kcl骗炮渣男避雷.pdf~~
 - [x] [NYU - 王子聪 多项指控（骗取、虐待、欺骗）](/posts/nyu-wang-zicong/)
-  - [x] ~~nyu渣男王子聪.pdf~~
+  - [x] nyu渣男王子聪.pdf
 - [x] [UCSD - 绿帽哥 引发校园内部罗生门](/posts/uscd-oh-my-gosh/)
   - [x] ~~UCSD绿帽奴合集.pdf~~
 - [x] [UoE - 张启航 不为人知的真相](/posts/uoe-vincent/)
@@ -210,7 +188,11 @@ flowchart TB
 - [x] [UQ - 布里斯班商科渣女的时间管理秘诀](/posts/uq-scape-merivale-girl/)
   - [x] ~~澳洲大瓜：布里斯班UQ04渣女在线教学如何成为时间管理大师.pdf~~
 - [x] [UoB - 王田歌 网络欺凌、诽谤、肆意侵权](/posts/uob-wang-tiange/)
-  - [ ] ~~伯明翰造谣王田歌.pdf~~
+  - [x] ~~伯明翰造谣王田歌.pdf~~
+- [x] [UoL - 秦梓越和他哥哥 音响、衣服、住宿与友情](\/posts/uol-qin-ziyue/)
+  - [x] ~~抖音伦敦双胞胎网红.pdf~~
+- [x] [Sydney - 高中生 A 的不当行为曝光](/sydney-somebody-a/)
+  - [x] ~~副本给大家安利悉尼北区某高中生书杯.pdf~~
 
 ### 待确认
 
@@ -235,9 +217,9 @@ flowchart TB
 - [x] ~~贝法王子录（七夕专供）.pdf~~
 - [x] ~~伯明翰造谣王田歌.pdf~~
 - [x] ~~布里斯班大瓜：uq泰迪自称纯情男高，风骚半生归来仍是处男.pdf~~
-- [ ] 澄清书.docx
-- [ ] 抖音伦敦双胞胎网红.pdf
-- [ ] 副本给大家安利悉尼北区某高中生书杯.pdf
+- [x] ~~澄清书.docx~~
+- [x] ~~抖音伦敦双胞胎网红.pdf~~
+- [x] ~~副本给大家安利悉尼北区某高中生书杯.pdf~~
 - [ ] 高知千金 戏精附体 后续.pdf
 - [ ] 格拉斯哥张进（恶臭公交男）1.pdf
 - [ ] 回应下爱丁堡公主的“下头男pdf”xddd.pdf
