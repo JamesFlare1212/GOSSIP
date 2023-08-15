@@ -60,9 +60,9 @@
   # FixIt 0.2.15 | CHANGED FixIt theme version
   version = "0.2.X" # e.g. "0.2.X", "0.2.15", "v0.2.15" etc.
   # site description
-  description = "GOSSIP For International Student"
+  description = "留学生瓜田 GOSSIP For International Student"
   # site keywords
-  keywords = ["Board", "GOSSIP", "International Student"]
+  keywords = ["GOSSIP", "International Student", "留学生瓜田"]
   # site default theme ["light", "dark", "auto"]
   defaultTheme = "auto"
   # public git repo url only then enableGitInfo is true

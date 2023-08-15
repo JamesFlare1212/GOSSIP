@@ -267,6 +267,14 @@ The principal and teachers of the school also tried to protect Zhou to maintain 
 {{< image src="fig-34.avif" width="320px" caption="Chat record 2" >}}
 {{< image src="fig-35.avif" width="320px" caption="Chat record 3" >}}
 
+## Attachment
+
+{{< video width="240px" src="fig-1.mp4">}}
+
+{{< admonition type=Note title="Content Analysis" open=true >}}
+Based on the audio content, it seems that a female is discussing with someone else about a sexual harassment or assault incident she experienced. She mentioned the male student involved, as well as having approached the student's class teacher and mother before. She expressed dissatisfaction with the male student's behavior and felt he should be punished. However, the details in the conversation are vague, lacking sufficient context to fully analyze and understand. I suggest communicating directly with relevant personnel may be better, to avoid misunderstandings or making unfair judgments about others.
+{{< /admonition >}}
+
 ## Summary Statement
 
 In summary, Zhou Yilin himself is morally bankrupt and of extremely poor character. He deceived girls into going to bars, entered their hotel rooms to touch their chests and private parts to commit sexual harassment and indecent acts, does not respect women and treats them as objects, has repeatedly published and expressed misogynistic remarks, does not cherish relationships with women, plays with others' feelings and tortures pitiful girls for fun and showing off, shamelessly boasting about it.

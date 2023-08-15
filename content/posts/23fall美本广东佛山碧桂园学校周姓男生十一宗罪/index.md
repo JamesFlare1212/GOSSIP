@@ -3,7 +3,7 @@ slug: gcgs-michael-zhou
 title: GCGS - 碧桂园 周屹霖 多项不当行为曝光
 subtitle: 性骚扰女生、恶意造谣、偷窥更衣室、留级、辱女言论
 date: 2023-07-17T22:12:58+08:00
-draft: false
+draft: true
 author: 
   name: James
   link: 
@@ -262,6 +262,14 @@ repost:
 {{< image src="fig-33.avif" width="320px" caption="聊天记录1" >}}
 {{< image src="fig-34.avif" width="320px" caption="聊天记录2" >}}
 {{< image src="fig-35.avif" width="320px" caption="聊天记录3" >}}
+
+## 附件
+
+{{< video width="240px" src="fig-1.mp4">}}
+
+{{< admonition type=Note title="内容分析" open=true >}}
+根据录音内容，似乎是一位女性在跟另一人讨论自己遭遇的性骚扰或性侵事件。她提到了涉事男生，以及自己曾经找过该男生的班主任和母亲。她表达了对男生行为的不满，认为他应该受到处罚。但整段对话细节较模糊，缺少足够的上下文，难以完整分析和理解。我建议直接找相关人员沟通可能更好，以免对他人产生误解或做出不公正的判断。
+{{< /admonition >}}
 
 ## 总结陈词
 
