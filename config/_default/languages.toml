@@ -1,0 +1,8 @@
+[zh-CN]
+  weight = 20
+  disabled = false
+  contentDir = "content/"
+  languageCode = "zh-CN"
+  languageName = "简体中文"
+  hasCJKLanguage = true
+  copyright = "本站内容采用 CC BY-NC-SA 4.0 国际许可协议。"
