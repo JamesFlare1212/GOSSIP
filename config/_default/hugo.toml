@@ -17,6 +17,7 @@ baseURL = "https://neo.schoolmelon.com/"
 # theme list
 theme = ["FixIt", "hugo-video"]
 defaultContentLanguage = "zh-CN"
+disableLanguages = ["en"]
 # language code ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "zh-CN"
 # language name ["English", "简体中文", "Français", "Polski", ...]
