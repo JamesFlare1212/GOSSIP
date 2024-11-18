@@ -1,4 +1,0 @@
-/* To patch pace theme flat-top z-index error */
-.pace {
-  z-index: 2000;
-}
