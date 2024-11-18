@@ -3,7 +3,7 @@ slug: nyu-andrew-zhao
 title: NYU - Andrew Zhao exposed for six bad behaviors
 subtitle: Maliciously spreading rumors, secretly filming and disseminating photos of female students, spreading malicious rumors and committing violence against his girlfriend, morally corrupt and poor character
 date: 2023-05-12T20:10:45+08:00
-draft: false
+draft: true
 author:
   name: James
   link:

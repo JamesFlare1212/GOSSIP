@@ -1,3 +1,7 @@
 *.pdf
 *.docx
 *.zip
+public/
+resources/_gen/
+isableFastRander/
+.hugo_build.lock
