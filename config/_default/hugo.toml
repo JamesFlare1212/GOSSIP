@@ -285,6 +285,8 @@ enableEmoji = true
   enablePWA = false
   # FixIt 0.2.14 | NEW whether to add external Icon for external links automatically
   externalIcon = false
+  # FixIt 0.3.13 | NEW whether to capitalize titles
+  capitalizeTitles = true
   # FixIt 0.3.0 | NEW whether to add site title to the title of every page
   # remember to set up your site title in `hugo.toml` (e.g. title = "title")
   withSiteTitle = true
@@ -293,6 +295,8 @@ enableEmoji = true
   # FixIt 0.3.0 | NEW whether to add site subtitle to the title of index page
   # remember to set up your site subtitle by `params.header.subtitle.name`
   indexWithSubtitle = false
+  # FixIt 0.3.13 | NEW whether to show summary in plain text
+  summaryPlainify = false
   # FixIt 0.2.14 | NEW FixIt will, by default, inject a theme meta tag in the HTML head on the home page only.
   # You can turn it off, but we would really appreciate if you don’t, as this is a good way to watch FixIt's popularity on the rise.
   disableThemeInject = false
@@ -395,6 +399,9 @@ enableEmoji = true
     enable = false
     sticky = false
     showHome = false
+    # FixIt 0.3.13 | NEW
+    separator = "/"
+    capitalize = true
 
   # FixIt 0.3.10 | NEW Post navigation config
   [params.navigation]
@@ -477,6 +484,14 @@ enableEmoji = true
       limit = -1
       # whether to show the full text content in feed.
       fullText = false
+
+  # FixIt 0.3.13 | NEW recently updated pages config for archives, section and term list
+  [params.recentlyUpdated]
+    archives = true
+    section = true
+    list = true
+    days = 30
+    maxCount = 10
 
   # FixIt 0.2.17 | NEW TagCloud config for tags page
   [params.tagcloud]
@@ -969,6 +984,25 @@ enableEmoji = true
   [params.mermaid]
     # For values, see https://mermaid.js.org/config/theming.html#available-themes
     themes = ["default", "dark"]
+  
+  # FixIt 0.3.13 | NEW Admonitions custom config
+  # See https://fixit.lruihao.cn/documentation/content-management/shortcodes/extended/admonition/#custom-admonitions
+  # syntax: <type> = <icon>
+  [params.admonition]
+    # ban = "fa-solid fa-ban"
+  
+  # FixIt 0.3.14 | NEW Task lists custom config
+  # See https://fixit.lruihao.cn/documentation/content-management/advanced/#custom-task-lists
+  # syntax: <sign> = <icon>
+  [params.taskList]
+    # tip = "fa-regular fa-lightbulb"
+
+  # FixIt 0.3.15 | NEW version shortcode config
+  [params.repoVersion]
+    # url prefix for the release tag
+    url = "https://github.com/hugo-fixit/FixIt/releases/tag/v"
+    # project name
+    name = "FixIt"
 
   # FixIt 0.2.12 | NEW PanguJS config
   [params.pangu]
@@ -1040,6 +1074,31 @@ enableEmoji = true
       id = ""
       # server url for your tracker if you're self hosting
       server = ""
+    # FixIt 0.3.16 | NEW Baidu Analytics
+    [params.analytics.baidu]
+      id = ""
+    # FixIt 0.3.16 | NEW Umami Analytics
+    [params.analytics.umami]
+      data_website_id = "e41d77dc-84a4-49c9-82b0-85bf06a6ca97"
+      src = "https://track.jamesflare.com/script.js"
+      data_host_url = "https://track.jamesflare.com"
+      data_domains = ""
+    # FixIt 0.3.16 | NEW Plausible Analytics
+    [params.analytics.plausible]
+      data_domain = ""
+      src = ""
+    # FixIt 0.3.16 | NEW Cloudflare Analytics
+    [params.analytics.cloudflare]
+      token = ""
+    # FixIt 0.3.16 | NEW Splitbee Analytics
+    [params.analytics.splitbee]
+      enable = false
+      # no cookie mode
+      no_cookie = true
+      # respect the do not track setting of the browser
+      do_not_track = true
+      # token(optional), more info on https://splitbee.io/docs/embed-the-script
+      data_token = ""
 
   # Cookie consent config
   [params.cookieconsent]
@@ -1115,6 +1174,19 @@ enableEmoji = true
     limit = 10
     # whether to show the full text content in feed.
     fullText = true
+  # FixIt 0.3.12 | NEW Custom partials config
+  # Custom partials must be stored in the /layouts/partials/ directory.
+  # Depends on open custom blocks https://fixit.lruihao.cn/references/blocks/
+  [params.customPartials]
+    head = []
+    profile = []
+    aside = []
+    comment = []
+    footer = []
+    widgets = []
+    assets = []
+    postFooterBefore = []
+    postFooterAfter = []
 
   # FixIt 0.2.15 | NEW Developer options
   # Select the scope named `public_repo` to generate personal access token,
