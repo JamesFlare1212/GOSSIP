@@ -306,7 +306,7 @@ enableEmoji = true
     name = "James"
     email = ""
     link = "https://neo.schoolmelon.com"
-    avatar = "/site-logo.avif"
+    avatar = ""
 
   # FixIt 0.3.0 | NEW public Git repository information only then enableGitInfo is true
   [params.gitInfo]
